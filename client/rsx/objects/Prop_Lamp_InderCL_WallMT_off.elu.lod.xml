@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<XML>
+    <METRICLIST>
+        <METRIC index="0">
+            <DISTANCE>4500.000</DISTANCE>
+        </METRIC>
+        <HYSTERESIS>
+            <DISTANCE>0.000</DISTANCE>
+        </HYSTERESIS>
+    </METRICLIST>
+    <PROJECTIONLIST>
+        <PROJECTION index="0">
+            <RATIO>0.030</RATIO>
+        </PROJECTION>
+        <HYSTERESIS>
+            <RATIO>0.030</RATIO>
+        </HYSTERESIS>
+    </PROJECTIONLIST>
+</XML>

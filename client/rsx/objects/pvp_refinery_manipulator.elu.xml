@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<XML>
+    <MATERIALLIST>
+        <MATERIAL name="08 - Default_steel2">
+            <DIFFUSE>150 150 150</DIFFUSE>
+            <AMBIENT>150 150 150</AMBIENT>
+            <SPECULAR>229 229 229</SPECULAR>
+            <SPECULAR_LEVEL>150.000</SPECULAR_LEVEL>
+            <GLOSSINESS>20.000</GLOSSINESS>
+            <SELFILLUSIONSCALE>1.000</SELFILLUSIONSCALE>
+            <TEXTURELIST count="4">
+                <TEXTURELAYER index="0">
+                    <DIFFUSEMAP>pvp_refinery_heavymachine_02_df.tga.dds</DIFFUSEMAP>
+                </TEXTURELAYER>
+                <TEXTURELAYER index="1">
+                    <SPECULARMAP>pvp_refinery_heavymachine_02_nm.tga.dds</SPECULARMAP>
+                </TEXTURELAYER>
+                <TEXTURELAYER index="2">
+                    <SELFILLUMINATIONMAP>pvp_refinery_heavymachine_02_si.tga.dds</SELFILLUMINATIONMAP>
+                </TEXTURELAYER>
+                <TEXTURELAYER index="3">
+                    <NORMALMAP>pvp_refinery_heavymachine_02_nm.tga.dds</NORMALMAP>
+                </TEXTURELAYER>
+            </TEXTURELIST>
+        </MATERIAL>
+    </MATERIALLIST>
+    <COLLISION />
+    <USERPROPERTYLIST />
+</XML>

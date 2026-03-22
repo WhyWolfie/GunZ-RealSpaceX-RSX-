@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<XML>
+    <MATERIALLIST>
+        <MATERIAL name="pr11op_oil_tank_03_steel2">
+            <DIFFUSE>255 255 255</DIFFUSE>
+            <AMBIENT>255 255 255</AMBIENT>
+            <SPECULAR>229 229 229</SPECULAR>
+            <SPECULAR_LEVEL>100.000</SPECULAR_LEVEL>
+            <GLOSSINESS>10.000</GLOSSINESS>
+            <SELFILLUSIONSCALE>1.000</SELFILLUSIONSCALE>
+            <TEXTURELIST count="4">
+                <TEXTURELAYER index="0">
+                    <DIFFUSEMAP>prop_oil_tank_03_df.tga</DIFFUSEMAP>
+                </TEXTURELAYER>
+                <TEXTURELAYER index="1">
+                    <SPECULARMAP>prop_oil_tank_03_nm.tga</SPECULARMAP>
+                </TEXTURELAYER>
+                <TEXTURELAYER index="2">
+                    <SELFILLUMINATIONMAP>prop_oil_tank_03_SI.tga.dds</SELFILLUMINATIONMAP>
+                    <TEX_ANIMATION>
+                        <TEX_ANI_OFFSET_LOOP>false</TEX_ANI_OFFSET_LOOP>
+                        <TEX_ANI_SCALE_LOOP>false</TEX_ANI_SCALE_LOOP>
+                        <TEX_VISIBILITY time="0">1.000</TEX_VISIBILITY>
+                        <TEX_VISIBILITY time="5760">0.320</TEX_VISIBILITY>
+                        <TEX_VISIBILITY time="6400">0.300</TEX_VISIBILITY>
+                        <TEX_VISIBILITY time="12160">0.980</TEX_VISIBILITY>
+                        <TEX_VISIBILITY time="12800">1.000</TEX_VISIBILITY>
+                    </TEX_ANIMATION>
+                </TEXTURELAYER>
+                <TEXTURELAYER index="3">
+                    <NORMALMAP>prop_oil_tank_03_nm.tga</NORMALMAP>
+                </TEXTURELAYER>
+            </TEXTURELIST>
+        </MATERIAL>
+    </MATERIALLIST>
+    <COLLISION />
+    <USERPROPERTYLIST />
+    <AUTOANIMATION />
+</XML>

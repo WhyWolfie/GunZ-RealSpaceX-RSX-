@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<XML>
+    <MATERIALLIST>
+        <MATERIAL name="08 - Default">
+            <DIFFUSE>150 150 150</DIFFUSE>
+            <AMBIENT>150 150 150</AMBIENT>
+            <SPECULAR>229 229 229</SPECULAR>
+            <SPECULAR_LEVEL>0.000</SPECULAR_LEVEL>
+            <GLOSSINESS>10.000</GLOSSINESS>
+            <SELFILLUSIONSCALE>0.000</SELFILLUSIONSCALE>
+            <TEXTURELIST count="2">
+                <TEXTURELAYER index="0">
+                    <DIFFUSEMAP>Prop_rocks_Concwall_df.DDS</DIFFUSEMAP>
+                    <TEX_SCALE>2.000000 2.000000</TEX_SCALE>
+                </TEXTURELAYER>
+                <TEXTURELAYER index="0">
+                    <DIFFUSEMAP>Prop_Concwall_Leaking_df.dds</DIFFUSEMAP>
+                </TEXTURELAYER>
+                <TEXTURELAYER index="1">
+                    <NORMALMAP>Prop_rocks_Concwall_nm.DDS</NORMALMAP>
+                    <TEX_SCALE>2.000000 2.000000</TEX_SCALE>
+                </TEXTURELAYER>
+            </TEXTURELIST>
+            <COMPOSITELAYERLIST>
+                <COMPOSITELAYER index="1" count="2">
+                    <LAYER index="0">
+                        <LAYERMAP>Prop_rocks_Concwall_df.DDS</LAYERMAP>
+                        <OPACITY>1.000</OPACITY>
+                        <BLENDMODE>0</BLENDMODE>
+                    </LAYER>
+                    <LAYER index="1">
+                        <LAYERMAP>Prop_Concwall_Leaking_df.dds</LAYERMAP>
+                        <OPACITY>1.000</OPACITY>
+                        <BLENDMODE>5</BLENDMODE>
+                    </LAYER>
+                </COMPOSITELAYER>
+            </COMPOSITELAYERLIST>
+        </MATERIAL>
+        <MATERIAL name="02 - Default">
+            <DIFFUSE>150 150 150</DIFFUSE>
+            <AMBIENT>150 150 150</AMBIENT>
+            <SPECULAR>229 229 229</SPECULAR>
+            <SPECULAR_LEVEL>0.000</SPECULAR_LEVEL>
+            <GLOSSINESS>10.000</GLOSSINESS>
+            <SELFILLUSIONSCALE>0.000</SELFILLUSIONSCALE>
+            <TEXTURELIST count="2">
+                <TEXTURELAYER index="0">
+                    <DIFFUSEMAP>Prop_Concwall_Broken_df.dds</DIFFUSEMAP>
+                </TEXTURELAYER>
+                <TEXTURELAYER index="1">
+                    <NORMALMAP>Prop_Concwall_Broken_nm.dds</NORMALMAP>
+                </TEXTURELAYER>
+            </TEXTURELIST>
+        </MATERIAL>
+    </MATERIALLIST>
+    <COLLISION />
+    <USERPROPERTYLIST />
+</XML>

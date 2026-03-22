@@ -1,0 +1,115 @@
+float4x4 g_WorldViewProj : WORLDVIEWPROJECTION;
+float4x4 g_WorldView;
+float4x4 g_World;
+
+
+float3 cDiffuse;
+float3 cAmbient;
+float3 cSpec;
+float SpecLevel;
+float Glossines;
+float g_Opacity;
+
+
+sampler2D diffuseTexture : register(s0);
+sampler2D normalTexture : register(s1);
+sampler2D specularTexture : register(s2);
+sampler2D opacityTexture : register(s3);
+sampler2D selfIllumTexture : register(s4);
+
+
+//---------------------------------------
+//	Vertex
+//---------------------------------------
+
+struct VS_OUTPUT
+{
+	float4 Position   : POSITION;
+	float3 Normal	  : TEXCOORD1;
+	float2 Texture    : TEXCOORD2;
+	float3 Tangent    : TEXCOORD3;
+	float3 Binormal   : TEXCOORD4;
+	float4 viewpos   : TEXCOORD5;
+};
+
+float g_Near;
+float g_Far;
+
+
+VS_OUTPUT vs_main( float4 Position	: POSITION,
+		    float3 Normal	: NORMAL,
+		    float2 Texture	: TEXCOORD0,
+		    float4 Tangent 	: TANGENT
+ )
+{
+	VS_OUTPUT Out;
+	Out.Position = mul(Position, g_WorldViewProj);
+    Out.viewpos = mul(Position, g_WorldView);
+
+	Out.Normal = normalize(mul(Normal, (float3x3) g_WorldView));
+	Out.Texture  = Texture;
+
+	
+	Out.Tangent = normalize(mul(Tangent.xyz, (float3x3) g_WorldView));
+	Out.Binormal = normalize(cross(Out.Tangent, Out.Normal) * Tangent.w);
+
+	return Out;
+}
+
+
+//---------------------------------------
+//	Pixel
+//---------------------------------------
+
+struct PS_OUTPUT
+{
+	float4 Diffuse   : COLOR0;
+	float4 Normal   : COLOR1;
+	float4 Depth   : COLOR2;
+	float4 Ambient  : COLOR3;
+};
+
+
+
+PS_OUTPUT ps_main( in VS_OUTPUT In )
+{
+	PS_OUTPUT Out;
+	
+	float opacity = tex2D(opacityTexture, In.Texture).w;
+	opacity = max(g_Opacity, opacity);
+	clip(opacity -0.4);
+
+	float3 normal = normalize(2*tex2D(normalTexture, In.Texture).xyz - 1);
+	
+	In.Normal = normal.z * In.Normal + normal.x * In.Tangent + normal.y * In.Binormal;
+	normal = normalize(In.Normal);
+
+	float3 color = tex2D(diffuseTexture, In.Texture).xyz;
+	float specular = tex2D(specularTexture, In.Texture).w;
+	
+	
+
+
+
+	Out.Diffuse.xyz = tex2D(diffuseTexture, In.Texture).xyz;
+	Out.Diffuse.w = specular;
+	Out.Normal.xyz = normal*0.5 + 0.5;
+	Out.Normal.w = 1.0;
+    
+    float d = (In.viewpos.z - g_Near) / (g_Far - g_Near);
+	Out.Depth = float4(d, d, d, 1.0);
+	Out.Ambient = float4(tex2D(selfIllumTexture, In.Texture).xyz + Out.Diffuse.xyz*0.3, 1.0);
+	
+	return Out;
+}
+
+
+
+technique DeferredFill
+{
+    pass P0
+    {          
+        VertexShader = compile vs_2_0 vs_main();
+        PixelShader  = compile ps_3_0 ps_main(); 
+    }
+}

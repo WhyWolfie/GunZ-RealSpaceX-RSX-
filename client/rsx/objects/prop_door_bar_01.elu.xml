@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<XML>
+    <MATERIALLIST>
+        <MATERIAL name="Comm_Structure_HbeamPack002_Metal">
+            <DIFFUSE>150 150 150</DIFFUSE>
+            <AMBIENT>150 150 150</AMBIENT>
+            <SPECULAR>229 229 229</SPECULAR>
+            <SPECULAR_LEVEL>100.000</SPECULAR_LEVEL>
+            <GLOSSINESS>25.000</GLOSSINESS>
+            <SELFILLUSIONSCALE>0.000</SELFILLUSIONSCALE>
+            <TEXTURELIST count="3">
+                <TEXTURELAYER index="0">
+                    <DIFFUSEMAP>Comm_Structure_HbeamPack002_df.DDS</DIFFUSEMAP>
+                </TEXTURELAYER>
+                <TEXTURELAYER index="1">
+                    <SPECULARMAP>Comm_Structure_HbeamPack002_df.DDS</SPECULARMAP>
+                </TEXTURELAYER>
+                <TEXTURELAYER index="2">
+                    <NORMALMAP>Comm_Structure_HbeamPack002_nm.dds</NORMALMAP>
+                </TEXTURELAYER>
+                <TEXTURELAYER index="2">
+                    <NORMALMAP>Com_DetailNormal_Metal001_nm.DDS</NORMALMAP>
+                    <TEX_SCALE>12.000000 12.000000</TEX_SCALE>
+                </TEXTURELAYER>
+            </TEXTURELIST>
+            <COMPOSITELAYERLIST>
+                <COMPOSITELAYER type="NORMALMAP" count="2">
+                    <LAYER index="0">
+                        <LAYERMAP>Comm_Structure_HbeamPack002_nm.dds</LAYERMAP>
+                        <OPACITY>1.000</OPACITY>
+                        <BLENDMODE>0</BLENDMODE>
+                    </LAYER>
+                    <LAYER index="1">
+                        <LAYERMAP>Com_DetailNormal_Metal001_nm.DDS</LAYERMAP>
+                        <OPACITY>1.000</OPACITY>
+                        <BLENDMODE>14</BLENDMODE>
+                    </LAYER>
+                </COMPOSITELAYER>
+            </COMPOSITELAYERLIST>
+        </MATERIAL>
+    </MATERIALLIST>
+    <COLLISION />
+    <USERPROPERTYLIST>
+        <USERPROPERTY node="cryExporterSettingsNode" property="bReparentTwistBones = true" />
+    </USERPROPERTYLIST>
+</XML>

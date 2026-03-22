@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<XML>
+    <MATERIALLIST>
+        <MATERIAL name="pve_gustav_a_trim_b_steel2">
+            <DIFFUSE>150 150 150</DIFFUSE>
+            <AMBIENT>150 150 150</AMBIENT>
+            <SPECULAR>229 229 229</SPECULAR>
+            <SPECULAR_LEVEL>100.000</SPECULAR_LEVEL>
+            <GLOSSINESS>10.000</GLOSSINESS>
+            <SELFILLUSIONSCALE>0.000</SELFILLUSIONSCALE>
+            <TEXTURELIST count="3">
+                <TEXTURELAYER index="0">
+                    <DIFFUSEMAP>pve_gustav_a_trim_b_df.tga</DIFFUSEMAP>
+                </TEXTURELAYER>
+                <TEXTURELAYER index="1">
+                    <SPECULARMAP>pve_gustav_a_trim_b_NM.tga</SPECULARMAP>
+                </TEXTURELAYER>
+                <TEXTURELAYER index="2">
+                    <NORMALMAP>pve_gustav_a_trim_b_NM.tga</NORMALMAP>
+                </TEXTURELAYER>
+            </TEXTURELIST>
+        </MATERIAL>
+        <MATERIAL name="pve_gustav_a_wall_steel2">
+            <DIFFUSE>150 150 150</DIFFUSE>
+            <AMBIENT>150 150 150</AMBIENT>
+            <SPECULAR>229 229 229</SPECULAR>
+            <SPECULAR_LEVEL>100.000</SPECULAR_LEVEL>
+            <GLOSSINESS>10.000</GLOSSINESS>
+            <SELFILLUSIONSCALE>0.000</SELFILLUSIONSCALE>
+            <TEXTURELIST count="3">
+                <TEXTURELAYER index="0">
+                    <DIFFUSEMAP>pvE_gustav_a_steelwall_a_df.tga</DIFFUSEMAP>
+                </TEXTURELAYER>
+                <TEXTURELAYER index="1">
+                    <SPECULARMAP>pvE_gustav_a_steelwall_a_nm.tga</SPECULARMAP>
+                </TEXTURELAYER>
+                <TEXTURELAYER index="2">
+                    <NORMALMAP>pvE_gustav_a_steelwall_a_nm.tga</NORMALMAP>
+                </TEXTURELAYER>
+            </TEXTURELIST>
+        </MATERIAL>
+    </MATERIALLIST>
+    <COLLISION />
+    <USERPROPERTYLIST>
+        <USERPROPERTY node="Object001" property="set_lodenable = true" />
+    </USERPROPERTYLIST>
+</XML>

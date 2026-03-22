@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT>
+    <SCENE>
+        <ACTOR>
+            <COMMON name="Prop_Struct_Pipe96R_Ijoin">
+                <POSITION>0.000000 0.000000 0.000000</POSITION>
+                <DIRECTION>0.000000 1.000000 0.000000</DIRECTION>
+                <UP>0.000000 0.000000 1.000000</UP>
+                <SCALE>3.000000 3.000000 3.000000</SCALE>
+            </COMMON>
+            <PROPERTY>
+                <FILENAME>Prop_Struct_Pipe16to32R_Ijoin.elu</FILENAME>
+                <SHADOWRECEIVER />
+            </PROPERTY>
+            <SCENE />
+        </ACTOR>
+    </SCENE>
+</ROOT>

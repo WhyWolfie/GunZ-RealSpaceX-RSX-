@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<XML>
+    <MATERIALLIST>
+        <MATERIAL name="mansion_a_candle_stick_01_steel2">
+            <DIFFUSE>150 150 150</DIFFUSE>
+            <AMBIENT>150 150 150</AMBIENT>
+            <SPECULAR>229 229 229</SPECULAR>
+            <SPECULAR_LEVEL>100.000</SPECULAR_LEVEL>
+            <GLOSSINESS>10.000</GLOSSINESS>
+            <SELFILLUSIONSCALE>0.000</SELFILLUSIONSCALE>
+            <TEXTURELIST count="5">
+                <TEXTURELAYER index="0">
+                    <DIFFUSEMAP>mansion_a_candle_stick_01_df.tga</DIFFUSEMAP>
+                </TEXTURELAYER>
+                <TEXTURELAYER index="1">
+                    <SPECULARMAP>mansion_a_candle_stick_01_df.tga</SPECULARMAP>
+                </TEXTURELAYER>
+                <TEXTURELAYER index="2">
+                    <GLOSSINESS>mansion_a_candle_stick_01_df.tga</GLOSSINESS>
+                </TEXTURELAYER>
+                <TEXTURELAYER index="3">
+                    <NORMALMAP>mansion_a_candle_stick_01_nm.tga</NORMALMAP>
+                </TEXTURELAYER>
+                <TEXTURELAYER index="4">
+                    <REFLECTMAP>mansion_a_candle_stick_01_nm.tga</REFLECTMAP>
+                </TEXTURELAYER>
+            </TEXTURELIST>
+        </MATERIAL>
+    </MATERIALLIST>
+    <COLLISION />
+    <USERPROPERTYLIST>
+        <USERPROPERTY node="mansion_a_candle_stick_01" property="PhysicsType = 3" />
+        <USERPROPERTY node="mansion_a_candle_stick_01" property="Density = 1.0" />
+        <USERPROPERTY node="mansion_a_candle_stick_01" property="GeometryType = 1" />
+        <USERPROPERTY node="mansion_a_candle_stick_01" property="MaterialType = 2" />
+        <USERPROPERTY node="mansion_a_candle_stick_01" property="Friction = 0.3" />
+        <USERPROPERTY node="mansion_a_candle_stick_01" property="StaticFriction = 0.3" />
+        <USERPROPERTY node="mansion_a_candle_stick_01" property="Restitution = 0.0" />
+        <USERPROPERTY node="mansion_a_candle_stick_01" property="InitialVelocityX = 0.0" />
+        <USERPROPERTY node="mansion_a_candle_stick_01" property="InitialVelocityY = 0.0" />
+        <USERPROPERTY node="mansion_a_candle_stick_01" property="InitialVelocityZ = 0.0" />
+        <USERPROPERTY node="mansion_a_candle_stick_01" property="InitialSpinX = 0.0" />
+        <USERPROPERTY node="mansion_a_candle_stick_01" property="InitialSpinY = 0.0" />
+        <USERPROPERTY node="mansion_a_candle_stick_01" property="InitialSpinZ = 0.0" />
+        <USERPROPERTY node="mansion_a_candle_stick_01" property="PutToSleep = false" />
+        <USERPROPERTY node="mansion_a_candle_stick_01" property="EnableCCD = false" />
+    </USERPROPERTYLIST>
+</XML>

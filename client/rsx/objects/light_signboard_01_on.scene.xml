@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT>
+    <SCENE>
+        <ACTOR>
+            <COMMON name="light_signboard_01_on">
+                <POSITION>0.000000 0.000000 0.000000</POSITION>
+                <DIRECTION>0.000000 1.000000 0.000000</DIRECTION>
+                <UP>0.000000 0.000000 1.000000</UP>
+                <SCALE>1.000000 1.000000 1.000000</SCALE>
+            </COMMON>
+            <PROPERTY>
+                <FILENAME>light_signboard_01_on.elu</FILENAME>
+                <SHADOWRECEIVER />
+            </PROPERTY>
+            <SCENE />
+        </ACTOR>
+        <LIGHT>
+            <COMMON name="PointLight">
+                <POSITION>3.000000 3.000000 -83.000000</POSITION>
+                <DIRECTION>0.000000 1.000000 0.000000</DIRECTION>
+                <UP>0.000000 0.000000 1.000000</UP>
+                <SCALE>1.000000 1.000000 1.000000</SCALE>
+            </COMMON>
+            <PROPERTY>
+                <COLOR>1.000 1.000 1.000</COLOR>
+                <INTENSITY>4.000</INTENSITY>
+                <ATTENUATIONEND>55.000</ATTENUATIONEND>
+                <ATTENUATIONSTART>44.000</ATTENUATIONSTART>
+            </PROPERTY>
+        </LIGHT>
+    </SCENE>
+</ROOT>

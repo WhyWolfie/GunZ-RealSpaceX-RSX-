@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Umbra Synchronization="false" Version="3.1.13" />
+<ROOT>
+    <SCENE>
+        <ACTOR>
+            <COMMON name="light_emergency_01_blue_b">
+                <POSITION>0.000000 0.000000 0.000000</POSITION>
+                <DIRECTION>0.000000 1.000000 0.000000</DIRECTION>
+                <UP>0.000000 0.000000 1.000000</UP>
+                <SCALE>1.000000 1.000000 1.000000</SCALE>
+            </COMMON>
+            <PROPERTY>
+                <FILENAME>light_emergency_01_blue_b.elu</FILENAME>
+                <ANI />
+            </PROPERTY>
+            <SCENE>
+                <LIGHT>
+                    <COMMON name="Omni001">
+                        <POSITION>0.000000 0.000000 0.000000</POSITION>
+                        <DIRECTION>0.000000 1.000000 0.000000</DIRECTION>
+                        <UP>0.000000 0.000000 1.000000</UP>
+                        <SCALE>1.000000 1.000000 1.000000</SCALE>
+                    </COMMON>
+                    <CONTROLLERS>
+                        <ACTORNODECONSTRAINTCONTROLLER>
+                            <TARGET>Dummy001</TARGET>
+                        </ACTORNODECONSTRAINTCONTROLLER>
+                    </CONTROLLERS>
+                    <PROPERTY>
+                        <COLOR>0.141 0.086 0.859</COLOR>
+                        <INTENSITY>1.100</INTENSITY>
+                        <ATTENUATIONEND>200.000</ATTENUATIONEND>
+                        <ATTENUATIONSTART>89.505</ATTENUATIONSTART>
+                        <POINTLIGHTTYPE>2</POINTLIGHTTYPE>
+                        <AREARANGE>550.000 150.000 550.000</AREARANGE>
+                    </PROPERTY>
+                </LIGHT>
+                <LIGHT>
+                    <COMMON name="Omni002">
+                        <POSITION>0.000000 0.000000 0.000000</POSITION>
+                        <DIRECTION>0.000000 1.000000 0.000000</DIRECTION>
+                        <UP>0.000000 0.000000 1.000000</UP>
+                        <SCALE>1.000000 1.000000 1.000000</SCALE>
+                    </COMMON>
+                    <CONTROLLERS>
+                        <ACTORNODECONSTRAINTCONTROLLER>
+                            <TARGET>Dummy002</TARGET>
+                        </ACTORNODECONSTRAINTCONTROLLER>
+                    </CONTROLLERS>
+                    <PROPERTY>
+                        <COLOR>0.141 0.086 0.859</COLOR>
+                        <INTENSITY>0.700</INTENSITY>
+                        <ATTENUATIONEND>200.000</ATTENUATIONEND>
+                        <ATTENUATIONSTART>89.505</ATTENUATIONSTART>
+                        <POINTLIGHTTYPE>2</POINTLIGHTTYPE>
+                        <AREARANGE>450.000 150.000 450.000</AREARANGE>
+                    </PROPERTY>
+                </LIGHT>
+            </SCENE>
+        </ACTOR>
+    </SCENE>
+</ROOT>

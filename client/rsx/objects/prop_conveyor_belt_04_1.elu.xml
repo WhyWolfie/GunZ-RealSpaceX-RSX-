@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<XML>
+    <MATERIALLIST>
+        <MATERIAL name="at_Prop_Wall_Mfactory002_wall">
+            <DIFFUSE>150 150 150</DIFFUSE>
+            <AMBIENT>150 150 150</AMBIENT>
+            <SPECULAR>229 229 229</SPECULAR>
+            <SPECULAR_LEVEL>100.000</SPECULAR_LEVEL>
+            <GLOSSINESS>10.000</GLOSSINESS>
+            <SELFILLUSIONSCALE>0.000</SELFILLUSIONSCALE>
+            <TEXTURELIST count="4">
+                <TEXTURELAYER index="0">
+                    <DIFFUSEMAP>Prop_Wall_Mfactory002_wall_df.DDS</DIFFUSEMAP>
+                </TEXTURELAYER>
+                <TEXTURELAYER index="1">
+                    <SPECULARMAP>Prop_Wall_Mfactory002_wall_nm.DDS</SPECULARMAP>
+                </TEXTURELAYER>
+                <TEXTURELAYER index="2">
+                    <OPACITYMAP>Prop_Wall_Mfactory002_wall_df.DDS</OPACITYMAP>
+                </TEXTURELAYER>
+                <TEXTURELAYER index="3">
+                    <NORMALMAP>Prop_Wall_Mfactory002_wall_nm.DDS</NORMALMAP>
+                </TEXTURELAYER>
+            </TEXTURELIST>
+            <TWOSIDED />
+            <USEALPHATEST>
+                <ALPHATESTVALUE>128</ALPHATESTVALUE>
+            </USEALPHATEST>
+        </MATERIAL>
+    </MATERIALLIST>
+    <COLLISION />
+    <USERPROPERTYLIST />
+</XML>

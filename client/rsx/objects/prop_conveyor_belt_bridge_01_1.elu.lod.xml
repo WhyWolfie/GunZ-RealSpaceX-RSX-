@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<XML>
+    <PROJECTIONLIST>
+        <PROJECTION index="0">
+            <RATIO>0.03</RATIO>
+        </PROJECTION>
+        <HYSTERESIS>
+            <RATIO>0.03</RATIO>
+        </HYSTERESIS>
+    </PROJECTIONLIST>
+</XML>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<XML>
+    <MATERIALLIST>
+        <MATERIAL name="prop_access_enter_box_steel1">
+            <DIFFUSE>150 150 150</DIFFUSE>
+            <AMBIENT>150 150 150</AMBIENT>
+            <SPECULAR>229 229 229</SPECULAR>
+            <SPECULAR_LEVEL>100.000</SPECULAR_LEVEL>
+            <GLOSSINESS>10.000</GLOSSINESS>
+            <SELFILLUSIONSCALE>1.000</SELFILLUSIONSCALE>
+            <TEXTURELIST count="4">
+                <TEXTURELAYER index="0">
+                    <DIFFUSEMAP>prop_access_enter_box_df.tga.dds</DIFFUSEMAP>
+                </TEXTURELAYER>
+                <TEXTURELAYER index="1">
+                    <SPECULARMAP>prop_access_enter_box_nm.tga.dds</SPECULARMAP>
+                </TEXTURELAYER>
+                <TEXTURELAYER index="2">
+                    <SELFILLUMINATIONMAP>prop_access_enter_box_si.tga.dds</SELFILLUMINATIONMAP>
+                </TEXTURELAYER>
+                <TEXTURELAYER index="3">
+                    <NORMALMAP>prop_access_enter_box_nm.tga.dds</NORMALMAP>
+                </TEXTURELAYER>
+            </TEXTURELIST>
+        </MATERIAL>
+        <MATERIAL name="prop_access_enter_box_ani_steel1">
+            <DIFFUSE>150 150 150</DIFFUSE>
+            <AMBIENT>150 150 150</AMBIENT>
+            <SPECULAR>229 229 229</SPECULAR>
+            <SPECULAR_LEVEL>100.000</SPECULAR_LEVEL>
+            <GLOSSINESS>10.000</GLOSSINESS>
+            <SELFILLUSIONSCALE>1.000</SELFILLUSIONSCALE>
+            <TEXTURELIST count="4">
+                <TEXTURELAYER index="0">
+                    <DIFFUSEMAP>prop_access_enter_box_si.tga.dds</DIFFUSEMAP>
+                </TEXTURELAYER>
+                <TEXTURELAYER index="0">
+                    <DIFFUSEMAP>prop_access_enter_box_ani.tga.dds</DIFFUSEMAP>
+                    <TEX_ANIMATION>
+                        <TEX_ANI_OFFSET_LOOP>false</TEX_ANI_OFFSET_LOOP>
+                        <TEX_ANI_SCALE_LOOP>false</TEX_ANI_SCALE_LOOP>
+                        <TEX_OFFSET time="0">0.000 0.000</TEX_OFFSET>
+                        <TEX_OFFSET time="8000">0.000 1.000</TEX_OFFSET>
+                        <TEX_SCALE time="0">1.000 8.000</TEX_SCALE>
+                        <TEX_ROTATE time="0">0.000 0.000 0.000</TEX_ROTATE>
+                    </TEX_ANIMATION>
+                </TEXTURELAYER>
+                <TEXTURELAYER index="1">
+                    <SPECULARMAP>prop_access_enter_box_nm.tga.dds</SPECULARMAP>
+                </TEXTURELAYER>
+                <TEXTURELAYER index="2">
+                    <SELFILLUMINATIONMAP>prop_access_enter_box_si.tga.dds</SELFILLUMINATIONMAP>
+                </TEXTURELAYER>
+                <TEXTURELAYER index="3">
+                    <NORMALMAP>prop_access_enter_box_nm.tga.dds</NORMALMAP>
+                </TEXTURELAYER>
+            </TEXTURELIST>
+            <COMPOSITELAYERLIST>
+                <COMPOSITELAYER index="1" count="2">
+                    <LAYER index="0">
+                        <LAYERMAP>prop_access_enter_box_si.tga.dds</LAYERMAP>
+                        <OPACITY>1.000</OPACITY>
+                        <BLENDMODE>0</BLENDMODE>
+                    </LAYER>
+                    <LAYER index="1">
+                        <LAYERMAP>prop_access_enter_box_ani.tga.dds</LAYERMAP>
+                        <OPACITY>1.000</OPACITY>
+                        <BLENDMODE>0</BLENDMODE>
+                    </LAYER>
+                </COMPOSITELAYER>
+            </COMPOSITELAYERLIST>
+        </MATERIAL>
+    </MATERIALLIST>
+    <COLLISION />
+    <USERPROPERTYLIST />
+    <AUTOANIMATION />
+</XML>

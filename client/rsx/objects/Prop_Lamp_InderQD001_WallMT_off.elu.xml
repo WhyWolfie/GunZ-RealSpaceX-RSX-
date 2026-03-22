@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<XML>
+    <MATERIALLIST>
+        <MATERIAL name="Material #1">
+            <DIFFUSE>150 150 150</DIFFUSE>
+            <AMBIENT>150 150 150</AMBIENT>
+            <SPECULAR>229 229 229</SPECULAR>
+            <SPECULAR_LEVEL>100.000</SPECULAR_LEVEL>
+            <GLOSSINESS>20.000</GLOSSINESS>
+            <SELFILLUSIONSCALE>1.553</SELFILLUSIONSCALE>
+            <TEXTURELIST count="4">
+                <TEXTURELAYER index="0">
+                    <DIFFUSEMAP>Door_Metal_Black001_Df.DDS</DIFFUSEMAP>
+                </TEXTURELAYER>
+                <TEXTURELAYER index="1">
+                    <SPECULARMAP>Door_Metal_Black001_nm.DDS</SPECULARMAP>
+                </TEXTURELAYER>
+                <TEXTURELAYER index="2">
+                    <SELFILLUMINATIONMAP>Comm_EM_CL001.dds</SELFILLUMINATIONMAP>
+                    <MAPCHANNEL>1</MAPCHANNEL>
+                </TEXTURELAYER>
+                <TEXTURELAYER index="3">
+                    <NORMALMAP>Door_Metal_Black001_nm.DDS</NORMALMAP>
+                </TEXTURELAYER>
+            </TEXTURELIST>
+        </MATERIAL>
+    </MATERIALLIST>
+    <COLLISION />
+    <USERPROPERTYLIST />
+</XML>

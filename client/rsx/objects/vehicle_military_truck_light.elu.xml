@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<XML>
+    <MATERIALLIST>
+        <MATERIAL name="vehicle_k511_01_steel1">
+            <DIFFUSE>149 149 149</DIFFUSE>
+            <AMBIENT>149 149 149</AMBIENT>
+            <SPECULAR>229 229 229</SPECULAR>
+            <SPECULAR_LEVEL>100.000</SPECULAR_LEVEL>
+            <GLOSSINESS>10.000</GLOSSINESS>
+            <SELFILLUSIONSCALE>1.000</SELFILLUSIONSCALE>
+            <TEXTURELIST count="4">
+                <TEXTURELAYER unreducible="true" index="0">
+                    <DIFFUSEMAP>vehicle_military_truck_01_df.tga</DIFFUSEMAP>
+                </TEXTURELAYER>
+                <TEXTURELAYER unreducible="true" index="1">
+                    <SPECULARMAP>vehicle_military_truck_01_nm.tga</SPECULARMAP>
+                </TEXTURELAYER>
+                <TEXTURELAYER unreducible="true" index="2">
+                    <SELFILLUMINATIONMAP>vehicle_military_truck_01_si.dds</SELFILLUMINATIONMAP>
+                </TEXTURELAYER>
+                <TEXTURELAYER unreducible="true" index="3">
+                    <NORMALMAP>vehicle_military_truck_01_nm.tga</NORMALMAP>
+                </TEXTURELAYER>
+            </TEXTURELIST>
+        </MATERIAL>
+        <MATERIAL name="Material #1">
+            <DIFFUSE>149 149 149</DIFFUSE>
+            <AMBIENT>149 149 149</AMBIENT>
+            <SPECULAR>229 229 229</SPECULAR>
+            <SPECULAR_LEVEL>100.000</SPECULAR_LEVEL>
+            <GLOSSINESS>10.000</GLOSSINESS>
+            <SELFILLUSIONSCALE>0.000</SELFILLUSIONSCALE>
+            <TEXTURELIST count="3">
+                <TEXTURELAYER unreducible="true" index="0">
+                    <DIFFUSEMAP>vehicle_military_truck_02_df.tga</DIFFUSEMAP>
+                </TEXTURELAYER>
+                <TEXTURELAYER unreducible="true" index="1">
+                    <SPECULARMAP>vehicle_military_truck_02_nm.tga</SPECULARMAP>
+                </TEXTURELAYER>
+                <TEXTURELAYER unreducible="true" index="2">
+                    <NORMALMAP>vehicle_military_truck_02_nm.tga</NORMALMAP>
+                </TEXTURELAYER>
+            </TEXTURELIST>
+        </MATERIAL>
+    </MATERIALLIST>
+    <COLLISION />
+    <USERPROPERTYLIST />
+    <AUTOANIMATION />
+</XML>

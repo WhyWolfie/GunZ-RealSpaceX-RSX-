@@ -1,0 +1,760 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<XML>
+    <MATERIALLIST>
+        <MATERIAL name="mansion_a_floor_y01_stone">
+            <DIFFUSE>149 149 149</DIFFUSE>
+            <AMBIENT>149 149 149</AMBIENT>
+            <SPECULAR>229 229 229</SPECULAR>
+            <SPECULAR_LEVEL>100.000</SPECULAR_LEVEL>
+            <GLOSSINESS>10.000</GLOSSINESS>
+            <SELFILLUSIONSCALE>0.000</SELFILLUSIONSCALE>
+            <TEXTURELIST count="3">
+                <TEXTURELAYER index="0">
+                    <DIFFUSEMAP>mansion_a_floor_y01.tga</DIFFUSEMAP>
+                </TEXTURELAYER>
+                <TEXTURELAYER index="1">
+                    <SPECULARMAP>mansion_a_floor_y01_nm.tga</SPECULARMAP>
+                </TEXTURELAYER>
+                <TEXTURELAYER index="2">
+                    <NORMALMAP>mansion_a_floor_y01_nm.tga</NORMALMAP>
+                </TEXTURELAYER>
+            </TEXTURELIST>
+        </MATERIAL>
+        <MATERIAL name="post_stone">
+            <DIFFUSE>149 149 149</DIFFUSE>
+            <AMBIENT>149 149 149</AMBIENT>
+            <SPECULAR>229 229 229</SPECULAR>
+            <SPECULAR_LEVEL>0.000</SPECULAR_LEVEL>
+            <GLOSSINESS>10.000</GLOSSINESS>
+            <SELFILLUSIONSCALE>0.000</SELFILLUSIONSCALE>
+            <TEXTURELIST count="2">
+                <TEXTURELAYER index="0">
+                    <DIFFUSEMAP>mansion_a_post_g05.tga</DIFFUSEMAP>
+                </TEXTURELAYER>
+                <TEXTURELAYER index="1">
+                    <NORMALMAP>mansion_a_post_g05_nm.tga</NORMALMAP>
+                </TEXTURELAYER>
+            </TEXTURELIST>
+        </MATERIAL>
+        <MATERIAL name="mansion_a_window_SI_glass2">
+            <DIFFUSE>149 149 149</DIFFUSE>
+            <AMBIENT>149 149 149</AMBIENT>
+            <SPECULAR>229 229 229</SPECULAR>
+            <SPECULAR_LEVEL>0.000</SPECULAR_LEVEL>
+            <GLOSSINESS>10.000</GLOSSINESS>
+            <SELFILLUSIONSCALE>3.176</SELFILLUSIONSCALE>
+            <TEXTURELIST count="2">
+                <TEXTURELAYER index="0">
+                    <DIFFUSEMAP>mansion_a_window_library_01_df.tga</DIFFUSEMAP>
+                </TEXTURELAYER>
+                <TEXTURELAYER index="1">
+                    <SELFILLUMINATIONMAP>mansion_a_window_library_01_si.tga.dds</SELFILLUMINATIONMAP>
+                </TEXTURELAYER>
+            </TEXTURELIST>
+        </MATERIAL>
+        <MATERIAL name="AT_pot_garden_flower_normal">
+            <DIFFUSE>149 149 149</DIFFUSE>
+            <AMBIENT>149 149 149</AMBIENT>
+            <SPECULAR>229 229 229</SPECULAR>
+            <SPECULAR_LEVEL>0.000</SPECULAR_LEVEL>
+            <GLOSSINESS>10.000</GLOSSINESS>
+            <SELFILLUSIONSCALE>0.000</SELFILLUSIONSCALE>
+            <TEXTURELIST count="2">
+                <TEXTURELAYER index="0">
+                    <DIFFUSEMAP>pot_garden_flower.tga</DIFFUSEMAP>
+                </TEXTURELAYER>
+                <TEXTURELAYER index="1">
+                    <OPACITYMAP>pot_garden_flower.tga</OPACITYMAP>
+                </TEXTURELAYER>
+            </TEXTURELIST>
+            <TWOSIDED />
+            <USEALPHATEST>
+                <ALPHATESTVALUE>128</ALPHATESTVALUE>
+            </USEALPHATEST>
+        </MATERIAL>
+        <MATERIAL name="mansion_stone">
+            <DIFFUSE>150 150 150</DIFFUSE>
+            <AMBIENT>150 150 150</AMBIENT>
+            <SPECULAR>229 229 229</SPECULAR>
+            <SPECULAR_LEVEL>0.000</SPECULAR_LEVEL>
+            <GLOSSINESS>10.000</GLOSSINESS>
+            <SELFILLUSIONSCALE>1.000</SELFILLUSIONSCALE>
+            <TEXTURELIST count="3">
+                <TEXTURELAYER index="0">
+                    <DIFFUSEMAP>mansion_a_bar_etc_df.TGA.dds</DIFFUSEMAP>
+                </TEXTURELAYER>
+                <TEXTURELAYER index="1">
+                    <SELFILLUMINATIONMAP>mansion_a_bar_etc_si.tga.dds</SELFILLUMINATIONMAP>
+                </TEXTURELAYER>
+                <TEXTURELAYER index="2">
+                    <NORMALMAP>mansion_a_bar_etc_nm.tga.dds</NORMALMAP>
+                </TEXTURELAYER>
+            </TEXTURELIST>
+        </MATERIAL>
+        <MATERIAL name="mansion_normal">
+            <DIFFUSE>150 150 150</DIFFUSE>
+            <AMBIENT>150 150 150</AMBIENT>
+            <SPECULAR>229 229 229</SPECULAR>
+            <SPECULAR_LEVEL>0.000</SPECULAR_LEVEL>
+            <GLOSSINESS>10.000</GLOSSINESS>
+            <SELFILLUSIONSCALE>0.000</SELFILLUSIONSCALE>
+            <TEXTURELIST count="2">
+                <TEXTURELAYER index="0">
+                    <DIFFUSEMAP>Mansion_sidewall_etc_DF.tga.dds</DIFFUSEMAP>
+                </TEXTURELAYER>
+                <TEXTURELAYER index="1">
+                    <NORMALMAP>mansion_sidewall_etc_nm.tga.dds</NORMALMAP>
+                </TEXTURELAYER>
+            </TEXTURELIST>
+        </MATERIAL>
+        <MATERIAL name="mansion_a_post_g01_stone">
+            <DIFFUSE>149 149 149</DIFFUSE>
+            <AMBIENT>149 149 149</AMBIENT>
+            <SPECULAR>229 229 229</SPECULAR>
+            <SPECULAR_LEVEL>0.000</SPECULAR_LEVEL>
+            <GLOSSINESS>10.000</GLOSSINESS>
+            <SELFILLUSIONSCALE>0.000</SELFILLUSIONSCALE>
+            <TEXTURELIST count="2">
+                <TEXTURELAYER index="0">
+                    <DIFFUSEMAP>mansion_a_post_g01.tga</DIFFUSEMAP>
+                </TEXTURELAYER>
+                <TEXTURELAYER index="1">
+                    <NORMALMAP>mansion_a_post_g01_nm.tga</NORMALMAP>
+                </TEXTURELAYER>
+            </TEXTURELIST>
+        </MATERIAL>
+        <MATERIAL name="mansionaa_stone">
+            <DIFFUSE>149 149 149</DIFFUSE>
+            <AMBIENT>149 149 149</AMBIENT>
+            <SPECULAR>229 229 229</SPECULAR>
+            <SPECULAR_LEVEL>100.000</SPECULAR_LEVEL>
+            <GLOSSINESS>10.000</GLOSSINESS>
+            <SELFILLUSIONSCALE>0.000</SELFILLUSIONSCALE>
+            <TEXTURELIST count="5">
+                <TEXTURELAYER index="0">
+                    <DIFFUSEMAP>mansion_a_post_k01.tga</DIFFUSEMAP>
+                </TEXTURELAYER>
+                <TEXTURELAYER index="1">
+                    <SPECULARMAP>mansion_a_post_k01.tga</SPECULARMAP>
+                </TEXTURELAYER>
+                <TEXTURELAYER index="2">
+                    <GLOSSINESS>mansion_a_post_k01_nm.tga</GLOSSINESS>
+                </TEXTURELAYER>
+                <TEXTURELAYER index="3">
+                    <NORMALMAP>mansion_a_post_k01_nm.tga</NORMALMAP>
+                </TEXTURELAYER>
+                <TEXTURELAYER index="4">
+                    <REFLECTMAP>mansion_a_post_k01_nm.tga</REFLECTMAP>
+                </TEXTURELAYER>
+            </TEXTURELIST>
+        </MATERIAL>
+        <MATERIAL name="mansion_a_post_g02_stone">
+            <DIFFUSE>149 149 149</DIFFUSE>
+            <AMBIENT>149 149 149</AMBIENT>
+            <SPECULAR>229 229 229</SPECULAR>
+            <SPECULAR_LEVEL>0.000</SPECULAR_LEVEL>
+            <GLOSSINESS>10.000</GLOSSINESS>
+            <SELFILLUSIONSCALE>0.000</SELFILLUSIONSCALE>
+            <TEXTURELIST count="2">
+                <TEXTURELAYER index="0">
+                    <DIFFUSEMAP>mansion_a_post_g02.tga</DIFFUSEMAP>
+                </TEXTURELAYER>
+                <TEXTURELAYER index="1">
+                    <NORMALMAP>mansion_a_post_g02_nm.tga</NORMALMAP>
+                </TEXTURELAYER>
+            </TEXTURELIST>
+        </MATERIAL>
+        <MATERIAL name="03 - Default">
+            <DIFFUSE>150 150 150</DIFFUSE>
+            <AMBIENT>150 150 150</AMBIENT>
+            <SPECULAR>229 229 229</SPECULAR>
+            <SPECULAR_LEVEL>100.000</SPECULAR_LEVEL>
+            <GLOSSINESS>10.000</GLOSSINESS>
+            <SELFILLUSIONSCALE>0.000</SELFILLUSIONSCALE>
+            <TEXTURELIST count="3">
+                <TEXTURELAYER index="0">
+                    <DIFFUSEMAP>mansion_a_etc_under_df.tga.dds</DIFFUSEMAP>
+                </TEXTURELAYER>
+                <TEXTURELAYER index="1">
+                    <SPECULARMAP>mansion_a_etc_under_nm.tga.dds</SPECULARMAP>
+                </TEXTURELAYER>
+                <TEXTURELAYER index="2">
+                    <NORMALMAP>mansion_a_etc_under_nm.tga.dds</NORMALMAP>
+                </TEXTURELAYER>
+            </TEXTURELIST>
+        </MATERIAL>
+        <MATERIAL name="mansion_a_floor_tile_mt_stone">
+            <DIFFUSE>149 149 149</DIFFUSE>
+            <AMBIENT>149 149 149</AMBIENT>
+            <SPECULAR>229 229 229</SPECULAR>
+            <SPECULAR_LEVEL>100.000</SPECULAR_LEVEL>
+            <GLOSSINESS>10.000</GLOSSINESS>
+            <SELFILLUSIONSCALE>0.000</SELFILLUSIONSCALE>
+            <TEXTURELIST count="3">
+                <TEXTURELAYER index="0">
+                    <DIFFUSEMAP>mansion_a_floor_tile_b.tga</DIFFUSEMAP>
+                </TEXTURELAYER>
+                <TEXTURELAYER index="1">
+                    <SPECULARMAP>mansion_a_floor_tile_b_nm.tga</SPECULARMAP>
+                </TEXTURELAYER>
+                <TEXTURELAYER index="2">
+                    <NORMALMAP>mansion_a_floor_tile_b_nm.tga</NORMALMAP>
+                </TEXTURELAYER>
+            </TEXTURELIST>
+        </MATERIAL>
+        <MATERIAL name="mansion_a_floor_Tile_mt_stone">
+            <DIFFUSE>149 149 149</DIFFUSE>
+            <AMBIENT>149 149 149</AMBIENT>
+            <SPECULAR>229 229 229</SPECULAR>
+            <SPECULAR_LEVEL>100.000</SPECULAR_LEVEL>
+            <GLOSSINESS>10.000</GLOSSINESS>
+            <SELFILLUSIONSCALE>0.000</SELFILLUSIONSCALE>
+            <TEXTURELIST count="5">
+                <TEXTURELAYER index="0">
+                    <DIFFUSEMAP>mansion_a_floor_tile.tga</DIFFUSEMAP>
+                </TEXTURELAYER>
+                <TEXTURELAYER index="1">
+                    <SPECULARMAP>mansion_a_floor_tile.tga</SPECULARMAP>
+                </TEXTURELAYER>
+                <TEXTURELAYER index="2">
+                    <GLOSSINESS>mansion_a_floor_tile_nm.tga</GLOSSINESS>
+                </TEXTURELAYER>
+                <TEXTURELAYER index="3">
+                    <NORMALMAP>mansion_a_floor_tile_nm.tga</NORMALMAP>
+                </TEXTURELAYER>
+                <TEXTURELAYER index="4">
+                    <REFLECTMAP>mansion_a_floor_tile_nm.tga</REFLECTMAP>
+                </TEXTURELAYER>
+            </TEXTURELIST>
+        </MATERIAL>
+        <MATERIAL name="mansion_a_carpet01_normal">
+            <DIFFUSE>149 149 149</DIFFUSE>
+            <AMBIENT>149 149 149</AMBIENT>
+            <SPECULAR>229 229 229</SPECULAR>
+            <SPECULAR_LEVEL>100.000</SPECULAR_LEVEL>
+            <GLOSSINESS>10.000</GLOSSINESS>
+            <SELFILLUSIONSCALE>0.000</SELFILLUSIONSCALE>
+            <TEXTURELIST count="3">
+                <TEXTURELAYER index="0">
+                    <DIFFUSEMAP>mansion_a_carpet01.tga</DIFFUSEMAP>
+                </TEXTURELAYER>
+                <TEXTURELAYER index="1">
+                    <SPECULARMAP>mansion_a_carpet01_nm.tga</SPECULARMAP>
+                </TEXTURELAYER>
+                <TEXTURELAYER index="2">
+                    <NORMALMAP>mansion_a_carpet01_nm.tga</NORMALMAP>
+                </TEXTURELAYER>
+            </TEXTURELIST>
+        </MATERIAL>
+        <MATERIAL name="a_floor_stone">
+            <DIFFUSE>150 150 150</DIFFUSE>
+            <AMBIENT>150 150 150</AMBIENT>
+            <SPECULAR>229 229 229</SPECULAR>
+            <SPECULAR_LEVEL>100.000</SPECULAR_LEVEL>
+            <GLOSSINESS>10.000</GLOSSINESS>
+            <SELFILLUSIONSCALE>0.000</SELFILLUSIONSCALE>
+            <TEXTURELIST count="5">
+                <TEXTURELAYER index="0">
+                    <DIFFUSEMAP>mansion_a_floor_w02_df.tga</DIFFUSEMAP>
+                </TEXTURELAYER>
+                <TEXTURELAYER index="1">
+                    <SPECULARMAP>mansion_a_floor_w02_df.tga</SPECULARMAP>
+                </TEXTURELAYER>
+                <TEXTURELAYER index="2">
+                    <GLOSSINESS>mansion_a_floor_w02_nm.tga</GLOSSINESS>
+                </TEXTURELAYER>
+                <TEXTURELAYER index="3">
+                    <NORMALMAP>mansion_a_floor_w02_nm.tga</NORMALMAP>
+                </TEXTURELAYER>
+                <TEXTURELAYER index="4">
+                    <REFLECTMAP>mansion_a_floor_w02_nm.tga</REFLECTMAP>
+                </TEXTURELAYER>
+            </TEXTURELIST>
+        </MATERIAL>
+        <MATERIAL name="mansion_a_wall_w01_wood2">
+            <DIFFUSE>149 149 149</DIFFUSE>
+            <AMBIENT>149 149 149</AMBIENT>
+            <SPECULAR>229 229 229</SPECULAR>
+            <SPECULAR_LEVEL>100.000</SPECULAR_LEVEL>
+            <GLOSSINESS>10.000</GLOSSINESS>
+            <SELFILLUSIONSCALE>0.000</SELFILLUSIONSCALE>
+            <TEXTURELIST count="3">
+                <TEXTURELAYER index="0">
+                    <DIFFUSEMAP>mansion_a_wall_w01_df.tga</DIFFUSEMAP>
+                </TEXTURELAYER>
+                <TEXTURELAYER index="1">
+                    <SPECULARMAP>mansion_a_wall_w01_nm.tga</SPECULARMAP>
+                </TEXTURELAYER>
+                <TEXTURELAYER index="2">
+                    <NORMALMAP>mansion_a_wall_w01_nm.tga</NORMALMAP>
+                </TEXTURELAYER>
+            </TEXTURELIST>
+        </MATERIAL>
+        <MATERIAL name="mansion_wall_library_trim_01_wood2">
+            <DIFFUSE>149 149 149</DIFFUSE>
+            <AMBIENT>149 149 149</AMBIENT>
+            <SPECULAR>229 229 229</SPECULAR>
+            <SPECULAR_LEVEL>100.000</SPECULAR_LEVEL>
+            <GLOSSINESS>10.000</GLOSSINESS>
+            <SELFILLUSIONSCALE>0.000</SELFILLUSIONSCALE>
+            <TEXTURELIST count="3">
+                <TEXTURELAYER index="0">
+                    <DIFFUSEMAP>mansion_a_wall_library_trim_01_df.tga</DIFFUSEMAP>
+                </TEXTURELAYER>
+                <TEXTURELAYER index="1">
+                    <SPECULARMAP>mansion_a_wall_library_trim_01_nm.tga</SPECULARMAP>
+                </TEXTURELAYER>
+                <TEXTURELAYER index="2">
+                    <NORMALMAP>mansion_a_wall_library_trim_01_nm.tga</NORMALMAP>
+                </TEXTURELAYER>
+            </TEXTURELIST>
+        </MATERIAL>
+        <MATERIAL name="mansion_a_ceiling_w01_wood2">
+            <DIFFUSE>149 149 149</DIFFUSE>
+            <AMBIENT>149 149 149</AMBIENT>
+            <SPECULAR>229 229 229</SPECULAR>
+            <SPECULAR_LEVEL>100.000</SPECULAR_LEVEL>
+            <GLOSSINESS>10.000</GLOSSINESS>
+            <SELFILLUSIONSCALE>0.000</SELFILLUSIONSCALE>
+            <TEXTURELIST count="3">
+                <TEXTURELAYER index="0">
+                    <DIFFUSEMAP>mansion_a_ceiling_w01_df.tga</DIFFUSEMAP>
+                </TEXTURELAYER>
+                <TEXTURELAYER index="1">
+                    <SPECULARMAP>mansion_a_ceiling_w01_nm.tga</SPECULARMAP>
+                </TEXTURELAYER>
+                <TEXTURELAYER index="2">
+                    <NORMALMAP>mansion_a_ceiling_w01_nm.tga</NORMALMAP>
+                </TEXTURELAYER>
+            </TEXTURELIST>
+        </MATERIAL>
+        <MATERIAL name="mansion_a_dining_wall_01_wood2">
+            <DIFFUSE>149 149 149</DIFFUSE>
+            <AMBIENT>149 149 149</AMBIENT>
+            <SPECULAR>229 229 229</SPECULAR>
+            <SPECULAR_LEVEL>100.000</SPECULAR_LEVEL>
+            <GLOSSINESS>10.000</GLOSSINESS>
+            <SELFILLUSIONSCALE>0.000</SELFILLUSIONSCALE>
+            <TEXTURELIST count="3">
+                <TEXTURELAYER index="0">
+                    <DIFFUSEMAP>mansion_a_dining_wall_01_df.tga</DIFFUSEMAP>
+                </TEXTURELAYER>
+                <TEXTURELAYER index="1">
+                    <SPECULARMAP>mansion_a_dining_wall_01_nm.tga</SPECULARMAP>
+                </TEXTURELAYER>
+                <TEXTURELAYER index="2">
+                    <NORMALMAP>mansion_a_dining_wall_01_nm.tga</NORMALMAP>
+                </TEXTURELAYER>
+            </TEXTURELIST>
+        </MATERIAL>
+        <MATERIAL name="mansion_a_dining_carpet_01_wood2">
+            <DIFFUSE>149 149 149</DIFFUSE>
+            <AMBIENT>149 149 149</AMBIENT>
+            <SPECULAR>229 229 229</SPECULAR>
+            <SPECULAR_LEVEL>100.000</SPECULAR_LEVEL>
+            <GLOSSINESS>10.000</GLOSSINESS>
+            <SELFILLUSIONSCALE>0.000</SELFILLUSIONSCALE>
+            <TEXTURELIST count="3">
+                <TEXTURELAYER index="0">
+                    <DIFFUSEMAP>mansion_a_dining_carpet_01.tga</DIFFUSEMAP>
+                </TEXTURELAYER>
+                <TEXTURELAYER index="1">
+                    <SPECULARMAP>mansion_a_dining_carpet_01_nm.tga</SPECULARMAP>
+                </TEXTURELAYER>
+                <TEXTURELAYER index="2">
+                    <NORMALMAP>mansion_a_dining_carpet_01_nm.tga</NORMALMAP>
+                </TEXTURELAYER>
+            </TEXTURELIST>
+        </MATERIAL>
+        <MATERIAL name="CELling_stone">
+            <DIFFUSE>149 149 149</DIFFUSE>
+            <AMBIENT>149 149 149</AMBIENT>
+            <SPECULAR>229 229 229</SPECULAR>
+            <SPECULAR_LEVEL>100.000</SPECULAR_LEVEL>
+            <GLOSSINESS>10.000</GLOSSINESS>
+            <SELFILLUSIONSCALE>0.000</SELFILLUSIONSCALE>
+            <TEXTURELIST count="3">
+                <TEXTURELAYER index="0">
+                    <DIFFUSEMAP>mansion_a_dining_ceiling_01_df.tga</DIFFUSEMAP>
+                </TEXTURELAYER>
+                <TEXTURELAYER index="1">
+                    <SPECULARMAP>mansion_a_dining_ceiling_01_nm.tga</SPECULARMAP>
+                </TEXTURELAYER>
+                <TEXTURELAYER index="2">
+                    <NORMALMAP>mansion_a_dining_ceiling_01_nm.tga</NORMALMAP>
+                </TEXTURELAYER>
+            </TEXTURELIST>
+        </MATERIAL>
+        <MATERIAL name="mansion_a_dining_floor_01_wood2">
+            <DIFFUSE>149 149 149</DIFFUSE>
+            <AMBIENT>149 149 149</AMBIENT>
+            <SPECULAR>229 229 229</SPECULAR>
+            <SPECULAR_LEVEL>100.000</SPECULAR_LEVEL>
+            <GLOSSINESS>10.000</GLOSSINESS>
+            <SELFILLUSIONSCALE>0.000</SELFILLUSIONSCALE>
+            <TEXTURELIST count="3">
+                <TEXTURELAYER index="0">
+                    <DIFFUSEMAP>mansion_a_dining_floor_01_df.tga</DIFFUSEMAP>
+                </TEXTURELAYER>
+                <TEXTURELAYER index="1">
+                    <SPECULARMAP>mansion_a_dining_floor_01_nm.tga</SPECULARMAP>
+                </TEXTURELAYER>
+                <TEXTURELAYER index="2">
+                    <NORMALMAP>mansion_a_dining_floor_01_nm.tga</NORMALMAP>
+                </TEXTURELAYER>
+            </TEXTURELIST>
+        </MATERIAL>
+        <MATERIAL name="mansion_a_window_glass2">
+            <DIFFUSE>149 149 149</DIFFUSE>
+            <AMBIENT>149 149 149</AMBIENT>
+            <SPECULAR>229 229 229</SPECULAR>
+            <SPECULAR_LEVEL>100.000</SPECULAR_LEVEL>
+            <GLOSSINESS>10.000</GLOSSINESS>
+            <SELFILLUSIONSCALE>0.000</SELFILLUSIONSCALE>
+            <TEXTURELIST count="5">
+                <TEXTURELAYER index="0">
+                    <DIFFUSEMAP>mansion_a_window_library_01_df.tga</DIFFUSEMAP>
+                </TEXTURELAYER>
+                <TEXTURELAYER index="1">
+                    <SPECULARMAP>mansion_a_window_library_01_df.tga</SPECULARMAP>
+                </TEXTURELAYER>
+                <TEXTURELAYER index="2">
+                    <GLOSSINESS>mansion_a_window_library_01_df.tga</GLOSSINESS>
+                </TEXTURELAYER>
+                <TEXTURELAYER index="3">
+                    <NORMALMAP>mansion_a_window_library_01_nm.tga</NORMALMAP>
+                </TEXTURELAYER>
+                <TEXTURELAYER index="4">
+                    <REFLECTMAP>mansion_a_window_library_01_nm.tga</REFLECTMAP>
+                </TEXTURELAYER>
+            </TEXTURELIST>
+        </MATERIAL>
+        <MATERIAL name="mansion_a_stair_under_w01_stone">
+            <DIFFUSE>149 149 149</DIFFUSE>
+            <AMBIENT>149 149 149</AMBIENT>
+            <SPECULAR>229 229 229</SPECULAR>
+            <SPECULAR_LEVEL>100.000</SPECULAR_LEVEL>
+            <GLOSSINESS>10.000</GLOSSINESS>
+            <SELFILLUSIONSCALE>0.000</SELFILLUSIONSCALE>
+            <TEXTURELIST count="3">
+                <TEXTURELAYER index="0">
+                    <DIFFUSEMAP>mansion_a_stair_under_w01_df.tga</DIFFUSEMAP>
+                </TEXTURELAYER>
+                <TEXTURELAYER index="1">
+                    <SPECULARMAP>mansion_a_stair_under_w01_df_nm.tga</SPECULARMAP>
+                </TEXTURELAYER>
+                <TEXTURELAYER index="2">
+                    <NORMALMAP>mansion_a_stair_under_w01_df_nm.tga</NORMALMAP>
+                </TEXTURELAYER>
+            </TEXTURELIST>
+        </MATERIAL>
+        <MATERIAL name="mansion_a_stair_under_w02_stone">
+            <DIFFUSE>149 149 149</DIFFUSE>
+            <AMBIENT>149 149 149</AMBIENT>
+            <SPECULAR>229 229 229</SPECULAR>
+            <SPECULAR_LEVEL>100.000</SPECULAR_LEVEL>
+            <GLOSSINESS>10.000</GLOSSINESS>
+            <SELFILLUSIONSCALE>0.000</SELFILLUSIONSCALE>
+            <TEXTURELIST count="3">
+                <TEXTURELAYER index="0">
+                    <DIFFUSEMAP>mansion_a_stair_under_w02_df.tga</DIFFUSEMAP>
+                </TEXTURELAYER>
+                <TEXTURELAYER index="1">
+                    <SPECULARMAP>mansion_a_stair_under_w02_df_nm.tga</SPECULARMAP>
+                </TEXTURELAYER>
+                <TEXTURELAYER index="2">
+                    <NORMALMAP>mansion_a_stair_under_w02_df_nm.tga</NORMALMAP>
+                </TEXTURELAYER>
+            </TEXTURELIST>
+        </MATERIAL>
+        <MATERIAL name="mansion_a_stair_under_w03_stone">
+            <DIFFUSE>149 149 149</DIFFUSE>
+            <AMBIENT>149 149 149</AMBIENT>
+            <SPECULAR>229 229 229</SPECULAR>
+            <SPECULAR_LEVEL>100.000</SPECULAR_LEVEL>
+            <GLOSSINESS>10.000</GLOSSINESS>
+            <SELFILLUSIONSCALE>0.000</SELFILLUSIONSCALE>
+            <TEXTURELIST count="3">
+                <TEXTURELAYER index="0">
+                    <DIFFUSEMAP>mansion_a_stair_under_w03_df.tga</DIFFUSEMAP>
+                </TEXTURELAYER>
+                <TEXTURELAYER index="1">
+                    <SPECULARMAP>mansion_a_stair_under_w03_df_nm.tga</SPECULARMAP>
+                </TEXTURELAYER>
+                <TEXTURELAYER index="2">
+                    <NORMALMAP>mansion_a_stair_under_w03_df_nm.tga</NORMALMAP>
+                </TEXTURELAYER>
+            </TEXTURELIST>
+        </MATERIAL>
+        <MATERIAL name="mansion_a_lamp_under_w01_steel1">
+            <DIFFUSE>149 149 149</DIFFUSE>
+            <AMBIENT>149 149 149</AMBIENT>
+            <SPECULAR>229 229 229</SPECULAR>
+            <SPECULAR_LEVEL>100.000</SPECULAR_LEVEL>
+            <GLOSSINESS>10.000</GLOSSINESS>
+            <SELFILLUSIONSCALE>0.000</SELFILLUSIONSCALE>
+            <TEXTURELIST count="3">
+                <TEXTURELAYER index="0">
+                    <DIFFUSEMAP>mansion_a_lamp_under_w01_df.tga</DIFFUSEMAP>
+                </TEXTURELAYER>
+                <TEXTURELAYER index="1">
+                    <SPECULARMAP>mansion_a_lamp_under_w01_df_nm.tga</SPECULARMAP>
+                </TEXTURELAYER>
+                <TEXTURELAYER index="2">
+                    <NORMALMAP>mansion_a_lamp_under_w01_df_nm.tga</NORMALMAP>
+                </TEXTURELAYER>
+            </TEXTURELIST>
+        </MATERIAL>
+        <MATERIAL name="mansion_a_wall_k011_stone">
+            <DIFFUSE>149 149 149</DIFFUSE>
+            <AMBIENT>149 149 149</AMBIENT>
+            <SPECULAR>229 229 229</SPECULAR>
+            <SPECULAR_LEVEL>100.000</SPECULAR_LEVEL>
+            <GLOSSINESS>10.000</GLOSSINESS>
+            <SELFILLUSIONSCALE>0.000</SELFILLUSIONSCALE>
+            <TEXTURELIST count="3">
+                <TEXTURELAYER index="0">
+                    <DIFFUSEMAP>mansion_a_wall_k01.tga</DIFFUSEMAP>
+                </TEXTURELAYER>
+                <TEXTURELAYER index="1">
+                    <SPECULARMAP>mansion_a_wall_k01_nm.tga</SPECULARMAP>
+                </TEXTURELAYER>
+                <TEXTURELAYER index="2">
+                    <NORMALMAP>mansion_a_wall_k01_nm.tga</NORMALMAP>
+                </TEXTURELAYER>
+            </TEXTURELIST>
+        </MATERIAL>
+        <MATERIAL name="PAINTING_normal">
+            <DIFFUSE>149 149 149</DIFFUSE>
+            <AMBIENT>149 149 149</AMBIENT>
+            <SPECULAR>229 229 229</SPECULAR>
+            <SPECULAR_LEVEL>100.000</SPECULAR_LEVEL>
+            <GLOSSINESS>10.000</GLOSSINESS>
+            <SELFILLUSIONSCALE>0.000</SELFILLUSIONSCALE>
+            <TEXTURELIST count="3">
+                <TEXTURELAYER index="0">
+                    <DIFFUSEMAP>mansion_a_painting01.tga</DIFFUSEMAP>
+                </TEXTURELAYER>
+                <TEXTURELAYER index="1">
+                    <SPECULARMAP>mansion_a_painting01_nm.tga</SPECULARMAP>
+                </TEXTURELAYER>
+                <TEXTURELAYER index="2">
+                    <NORMALMAP>mansion_a_painting01_nm.tga</NORMALMAP>
+                </TEXTURELAYER>
+            </TEXTURELIST>
+        </MATERIAL>
+        <MATERIAL name="mansion_a_floor_g02_stone">
+            <DIFFUSE>149 149 149</DIFFUSE>
+            <AMBIENT>149 149 149</AMBIENT>
+            <SPECULAR>229 229 229</SPECULAR>
+            <SPECULAR_LEVEL>100.000</SPECULAR_LEVEL>
+            <GLOSSINESS>10.000</GLOSSINESS>
+            <SELFILLUSIONSCALE>0.000</SELFILLUSIONSCALE>
+            <TEXTURELIST count="3">
+                <TEXTURELAYER index="0">
+                    <DIFFUSEMAP>mansion_a_floor_g02.tga</DIFFUSEMAP>
+                </TEXTURELAYER>
+                <TEXTURELAYER index="1">
+                    <SPECULARMAP>mansion_a_floor_g02_nm.tga</SPECULARMAP>
+                </TEXTURELAYER>
+                <TEXTURELAYER index="2">
+                    <NORMALMAP>mansion_a_floor_g02_nm.tga</NORMALMAP>
+                </TEXTURELAYER>
+            </TEXTURELIST>
+        </MATERIAL>
+        <MATERIAL name="mansion_a_stair_k01_01_stone">
+            <DIFFUSE>149 149 149</DIFFUSE>
+            <AMBIENT>149 149 149</AMBIENT>
+            <SPECULAR>229 229 229</SPECULAR>
+            <SPECULAR_LEVEL>100.000</SPECULAR_LEVEL>
+            <GLOSSINESS>10.000</GLOSSINESS>
+            <SELFILLUSIONSCALE>0.000</SELFILLUSIONSCALE>
+            <TEXTURELIST count="5">
+                <TEXTURELAYER index="0">
+                    <DIFFUSEMAP>mansion_a_stair_k01_01.tga</DIFFUSEMAP>
+                </TEXTURELAYER>
+                <TEXTURELAYER index="1">
+                    <SPECULARMAP>mansion_a_stair_k01_01.tga</SPECULARMAP>
+                </TEXTURELAYER>
+                <TEXTURELAYER index="2">
+                    <GLOSSINESS>mansion_a_stair_k01_01_nm.tga</GLOSSINESS>
+                </TEXTURELAYER>
+                <TEXTURELAYER index="3">
+                    <NORMALMAP>mansion_a_stair_k01_01_nm.tga</NORMALMAP>
+                </TEXTURELAYER>
+                <TEXTURELAYER index="4">
+                    <REFLECTMAP>mansion_a_stair_k01_01_nm.tga</REFLECTMAP>
+                </TEXTURELAYER>
+            </TEXTURELIST>
+        </MATERIAL>
+        <MATERIAL name="mansion_a_stair_k01_02_stone">
+            <DIFFUSE>149 149 149</DIFFUSE>
+            <AMBIENT>149 149 149</AMBIENT>
+            <SPECULAR>229 229 229</SPECULAR>
+            <SPECULAR_LEVEL>100.000</SPECULAR_LEVEL>
+            <GLOSSINESS>10.000</GLOSSINESS>
+            <SELFILLUSIONSCALE>0.000</SELFILLUSIONSCALE>
+            <TEXTURELIST count="5">
+                <TEXTURELAYER index="0">
+                    <DIFFUSEMAP>mansion_a_stair_k01_02.tga</DIFFUSEMAP>
+                </TEXTURELAYER>
+                <TEXTURELAYER index="1">
+                    <SPECULARMAP>mansion_a_stair_k01_02.tga</SPECULARMAP>
+                </TEXTURELAYER>
+                <TEXTURELAYER index="2">
+                    <GLOSSINESS>mansion_a_stair_k01_02_nm.tga</GLOSSINESS>
+                </TEXTURELAYER>
+                <TEXTURELAYER index="3">
+                    <NORMALMAP>mansion_a_stair_k01_02_nm.tga</NORMALMAP>
+                </TEXTURELAYER>
+                <TEXTURELAYER index="4">
+                    <REFLECTMAP>mansion_a_stair_k01_02_nm.tga</REFLECTMAP>
+                </TEXTURELAYER>
+            </TEXTURELIST>
+        </MATERIAL>
+        <MATERIAL name="mansion_a_handrail_y02_stone">
+            <DIFFUSE>150 150 150</DIFFUSE>
+            <AMBIENT>150 150 150</AMBIENT>
+            <SPECULAR>229 229 229</SPECULAR>
+            <SPECULAR_LEVEL>100.000</SPECULAR_LEVEL>
+            <GLOSSINESS>10.000</GLOSSINESS>
+            <SELFILLUSIONSCALE>0.000</SELFILLUSIONSCALE>
+            <TEXTURELIST count="3">
+                <TEXTURELAYER index="0">
+                    <DIFFUSEMAP>mansion_a_handrail_y02_df.tga</DIFFUSEMAP>
+                </TEXTURELAYER>
+                <TEXTURELAYER index="1">
+                    <SPECULARMAP>mansion_a_handrail_y02_nm.tga</SPECULARMAP>
+                </TEXTURELAYER>
+                <TEXTURELAYER index="2">
+                    <NORMALMAP>mansion_a_handrail_y02_nm.tga</NORMALMAP>
+                </TEXTURELAYER>
+            </TEXTURELIST>
+        </MATERIAL>
+        <MATERIAL name="mansion11_stone">
+            <DIFFUSE>150 150 150</DIFFUSE>
+            <AMBIENT>150 150 150</AMBIENT>
+            <SPECULAR>229 229 229</SPECULAR>
+            <SPECULAR_LEVEL>100.000</SPECULAR_LEVEL>
+            <GLOSSINESS>10.000</GLOSSINESS>
+            <SELFILLUSIONSCALE>0.000</SELFILLUSIONSCALE>
+            <TEXTURELIST count="3">
+                <TEXTURELAYER index="0">
+                    <DIFFUSEMAP>mansion_arch_Etc_df.tga.dds</DIFFUSEMAP>
+                </TEXTURELAYER>
+                <TEXTURELAYER index="1">
+                    <SPECULARMAP>mansion_arch_Etc_nm.TGA.dds</SPECULARMAP>
+                </TEXTURELAYER>
+                <TEXTURELAYER index="2">
+                    <NORMALMAP>mansion_arch_Etc_nm.TGA.dds</NORMALMAP>
+                </TEXTURELAYER>
+            </TEXTURELIST>
+        </MATERIAL>
+        <MATERIAL name="mansion_a_post_g011_stone">
+            <DIFFUSE>149 149 149</DIFFUSE>
+            <AMBIENT>149 149 149</AMBIENT>
+            <SPECULAR>229 229 229</SPECULAR>
+            <SPECULAR_LEVEL>0.000</SPECULAR_LEVEL>
+            <GLOSSINESS>10.000</GLOSSINESS>
+            <SELFILLUSIONSCALE>0.000</SELFILLUSIONSCALE>
+            <TEXTURELIST count="2">
+                <TEXTURELAYER index="0">
+                    <DIFFUSEMAP>mansion_a_post_g01.tga</DIFFUSEMAP>
+                </TEXTURELAYER>
+                <TEXTURELAYER index="1">
+                    <NORMALMAP>mansion_a_post_g01_nm.tga</NORMALMAP>
+                </TEXTURELAYER>
+            </TEXTURELIST>
+        </MATERIAL>
+    </MATERIALLIST>
+    <COLLISION />
+    <USERPROPERTYLIST>
+        <USERPROPERTY node="mansion_a_post_g005" property="Density = 1.0" />
+        <USERPROPERTY node="mansion_a_post_g005" property="GeometryType = 1" />
+        <USERPROPERTY node="mansion_a_post_g005" property="MaterialType = 2" />
+        <USERPROPERTY node="mansion_a_post_g005" property="StaticFriction = 0.3" />
+        <USERPROPERTY node="mansion_a_post_g005" property="Restitution = 0.0" />
+        <USERPROPERTY node="mansion_a_post_g005" property="InitialVelocityX = 0.0" />
+        <USERPROPERTY node="mansion_a_post_g005" property="InitialVelocityY = 0.0" />
+        <USERPROPERTY node="mansion_a_post_g005" property="InitialVelocityZ = 0.0" />
+        <USERPROPERTY node="mansion_a_post_g005" property="InitialSpinX = 0.0" />
+        <USERPROPERTY node="mansion_a_post_g005" property="InitialSpinY = 0.0" />
+        <USERPROPERTY node="mansion_a_post_g005" property="InitialSpinZ = 0.0" />
+        <USERPROPERTY node="mansion_a_post_g005" property="PutToSleep = false" />
+        <USERPROPERTY node="mansion_a_post_g005" property="EnableCCD = false" />
+        <USERPROPERTY node="mansion_a_post_g005" property="PhysicsType = 5" />
+        <USERPROPERTY node="mansion_a_arch" property="PhysicsType = 5" />
+        <USERPROPERTY node="main_floor" property="Density = 1.0" />
+        <USERPROPERTY node="main_floor" property="GeometryType = 1" />
+        <USERPROPERTY node="main_floor" property="MaterialType = 2" />
+        <USERPROPERTY node="main_floor" property="StaticFriction = 0.3" />
+        <USERPROPERTY node="main_floor" property="Restitution = 0.0" />
+        <USERPROPERTY node="main_floor" property="InitialVelocityX = 0.0" />
+        <USERPROPERTY node="main_floor" property="InitialVelocityY = 0.0" />
+        <USERPROPERTY node="main_floor" property="InitialVelocityZ = 0.0" />
+        <USERPROPERTY node="main_floor" property="InitialSpinX = 0.0" />
+        <USERPROPERTY node="main_floor" property="InitialSpinY = 0.0" />
+        <USERPROPERTY node="main_floor" property="InitialSpinZ = 0.0" />
+        <USERPROPERTY node="main_floor" property="PutToSleep = false" />
+        <USERPROPERTY node="main_floor" property="EnableCCD = false" />
+        <USERPROPERTY node="main_floor" property="PhysicsType = 5" />
+        <USERPROPERTY node="mansion_a_stair_undeR" property="Density = 1.0" />
+        <USERPROPERTY node="mansion_a_stair_undeR" property="GeometryType = 1" />
+        <USERPROPERTY node="mansion_a_stair_undeR" property="MaterialType = 2" />
+        <USERPROPERTY node="mansion_a_stair_undeR" property="StaticFriction = 0.3" />
+        <USERPROPERTY node="mansion_a_stair_undeR" property="Restitution = 0.0" />
+        <USERPROPERTY node="mansion_a_stair_undeR" property="InitialVelocityX = 0.0" />
+        <USERPROPERTY node="mansion_a_stair_undeR" property="InitialVelocityY = 0.0" />
+        <USERPROPERTY node="mansion_a_stair_undeR" property="InitialVelocityZ = 0.0" />
+        <USERPROPERTY node="mansion_a_stair_undeR" property="InitialSpinX = 0.0" />
+        <USERPROPERTY node="mansion_a_stair_undeR" property="InitialSpinY = 0.0" />
+        <USERPROPERTY node="mansion_a_stair_undeR" property="InitialSpinZ = 0.0" />
+        <USERPROPERTY node="mansion_a_stair_undeR" property="PutToSleep = false" />
+        <USERPROPERTY node="mansion_a_stair_undeR" property="EnableCCD = false" />
+        <USERPROPERTY node="mansion_a_stair_undeR" property="PhysicsType = 5" />
+        <USERPROPERTY node="Mansin_wall" property="Density = 1.0" />
+        <USERPROPERTY node="Mansin_wall" property="GeometryType = 1" />
+        <USERPROPERTY node="Mansin_wall" property="MaterialType = 2" />
+        <USERPROPERTY node="Mansin_wall" property="StaticFriction = 0.3" />
+        <USERPROPERTY node="Mansin_wall" property="Restitution = 0.0" />
+        <USERPROPERTY node="Mansin_wall" property="InitialVelocityX = 0.0" />
+        <USERPROPERTY node="Mansin_wall" property="InitialVelocityY = 0.0" />
+        <USERPROPERTY node="Mansin_wall" property="InitialVelocityZ = 0.0" />
+        <USERPROPERTY node="Mansin_wall" property="InitialSpinX = 0.0" />
+        <USERPROPERTY node="Mansin_wall" property="InitialSpinY = 0.0" />
+        <USERPROPERTY node="Mansin_wall" property="InitialSpinZ = 0.0" />
+        <USERPROPERTY node="Mansin_wall" property="PutToSleep = false" />
+        <USERPROPERTY node="Mansin_wall" property="EnableCCD = false" />
+        <USERPROPERTY node="Mansin_wall" property="PhysicsType = 5" />
+        <USERPROPERTY node="window" property="Density = 1.0" />
+        <USERPROPERTY node="window" property="GeometryType = 1" />
+        <USERPROPERTY node="window" property="MaterialType = 2" />
+        <USERPROPERTY node="window" property="StaticFriction = 0.3" />
+        <USERPROPERTY node="window" property="Restitution = 0.0" />
+        <USERPROPERTY node="window" property="InitialVelocityX = 0.0" />
+        <USERPROPERTY node="window" property="InitialVelocityY = 0.0" />
+        <USERPROPERTY node="window" property="InitialVelocityZ = 0.0" />
+        <USERPROPERTY node="window" property="InitialSpinX = 0.0" />
+        <USERPROPERTY node="window" property="InitialSpinY = 0.0" />
+        <USERPROPERTY node="window" property="InitialSpinZ = 0.0" />
+        <USERPROPERTY node="window" property="PutToSleep = false" />
+        <USERPROPERTY node="window" property="EnableCCD = false" />
+        <USERPROPERTY node="window" property="PhysicsType = 5" />
+        <USERPROPERTY node="FLOWER" property="PhysicsType = 5" />
+        <USERPROPERTY node="Main stair" property="Density = 1.0" />
+        <USERPROPERTY node="Main stair" property="GeometryType = 1" />
+        <USERPROPERTY node="Main stair" property="MaterialType = 2" />
+        <USERPROPERTY node="Main stair" property="StaticFriction = 0.3" />
+        <USERPROPERTY node="Main stair" property="Restitution = 0.0" />
+        <USERPROPERTY node="Main stair" property="InitialVelocityX = 0.0" />
+        <USERPROPERTY node="Main stair" property="InitialVelocityY = 0.0" />
+        <USERPROPERTY node="Main stair" property="InitialVelocityZ = 0.0" />
+        <USERPROPERTY node="Main stair" property="InitialSpinX = 0.0" />
+        <USERPROPERTY node="Main stair" property="InitialSpinY = 0.0" />
+        <USERPROPERTY node="Main stair" property="InitialSpinZ = 0.0" />
+        <USERPROPERTY node="Main stair" property="PutToSleep = false" />
+        <USERPROPERTY node="Main stair" property="EnableCCD = false" />
+        <USERPROPERTY node="Main stair" property="PhysicsType = 5" />
+        <USERPROPERTY node="UPUP" property="PhysicsType = 5" />
+    </USERPROPERTYLIST>
+</XML>

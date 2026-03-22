@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Umbra Synchronization="false" />
+<ROOT>
+    <SCENE>
+        <ACTOR>
+            <COMMON name="light_fluorescent_06_off_ani">
+                <POSITION>0.000000 0.000000 0.000000</POSITION>
+                <DIRECTION>0.000000 1.000000 0.000000</DIRECTION>
+                <UP>0.000000 0.000000 1.000000</UP>
+                <SCALE>1.000000 1.000000 1.000000</SCALE>
+            </COMMON>
+            <PROPERTY>
+                <FILENAME>light_fluorescent_06_off_ani.elu</FILENAME>
+                <ANI />
+            </PROPERTY>
+            <SCENE>
+                <LIGHT>
+                    <COMMON name="Omni001">
+                        <POSITION>185.341614 -24.370514 -259.287811</POSITION>
+                        <DIRECTION>0.000000 1.000000 0.000000</DIRECTION>
+                        <UP>0.000000 0.000000 1.000000</UP>
+                        <SCALE>1.000000 1.000000 1.000000</SCALE>
+                    </COMMON>
+                    <CONTROLLERS>
+                        <ACTORNODECONSTRAINTCONTROLLER>
+                            <TARGET>Dummy001</TARGET>
+                        </ACTORNODECONSTRAINTCONTROLLER>
+                    </CONTROLLERS>
+                    <PROPERTY>
+                        <COLOR>0.863 0.780 0.545</COLOR>
+                        <INTENSITY>0.600</INTENSITY>
+                        <ATTENUATIONEND>302.000</ATTENUATIONEND>
+                        <ATTENUATIONSTART>50.000</ATTENUATIONSTART>
+                        <POINTLIGHTTYPE>2</POINTLIGHTTYPE>
+                        <AREARANGE>600.000 600.000 700.000</AREARANGE>
+                    </PROPERTY>
+                </LIGHT>
+            </SCENE>
+        </ACTOR>
+    </SCENE>
+</ROOT>

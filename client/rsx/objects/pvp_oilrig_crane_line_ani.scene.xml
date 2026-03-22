@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT>
+    <SCENE>
+        <ACTOR>
+            <COMMON name="pvp_oilrig_crane_line_ani">
+                <POSITION>0.000000 0.000000 0.000000</POSITION>
+                <DIRECTION>0.000000 1.000000 0.000000</DIRECTION>
+                <UP>0.000000 0.000000 1.000000</UP>
+                <SCALE>1.000000 1.000000 1.000000</SCALE>
+            </COMMON>
+            <PROPERTY>
+                <FILENAME>pvp_oilrig_crane_line_ani.elu</FILENAME>
+                <ANI />
+                <SHADOWRECEIVER />
+            </PROPERTY>
+            <SCENE>
+                <LIGHT>
+                    <COMMON name="Omni009">
+                        <POSITION>0.000000 0.000000 0.000000</POSITION>
+                        <DIRECTION>0.000000 1.000000 0.000000</DIRECTION>
+                        <UP>0.000000 0.000000 1.000000</UP>
+                        <SCALE>1.000000 1.000000 1.000000</SCALE>
+                    </COMMON>
+                    <CONTROLLERS>
+                        <ACTORNODECONSTRAINTCONTROLLER>
+                            <TARGET>Dummy004</TARGET>
+                        </ACTORNODECONSTRAINTCONTROLLER>
+                    </CONTROLLERS>
+                    <PROPERTY>
+                        <COLOR>0.667 0.204 0.078</COLOR>
+                        <INTENSITY>1.300</INTENSITY>
+                        <ATTENUATIONEND>510.000</ATTENUATIONEND>
+                        <ATTENUATIONSTART>100.000</ATTENUATIONSTART>
+                    </PROPERTY>
+                </LIGHT>
+            </SCENE>
+        </ACTOR>
+    </SCENE>
+</ROOT>

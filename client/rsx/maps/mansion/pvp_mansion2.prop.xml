@@ -1,0 +1,4100 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Umbra Synchronization="true" Version="3.1.24.2" />
+<XML version="1">
+    <SCENEOBJECT>
+        <COMMON>
+            <POSITION x="-1620.000000" y="-3230.000000" z="790.000000" />
+            <DIRECTION x="0.000000" y="1.000000" z="0.000000" />
+            <UP x="0.000000" y="0.000000" z="1.000000" />
+        </COMMON>
+        <PROPERTY>
+            <NAME>SCENEOBJECT42</NAME>
+            <SceneFileName>mansion_a_statue_01.scene.xml</SceneFileName>
+            <Show>true</Show>
+            <PartsColor>ffffff</PartsColor>
+            <UMBRAID>100001</UMBRAID>
+        </PROPERTY>
+        <TOOL>
+            <LAYER>Prop</LAYER>
+            <VISIBLE>true</VISIBLE>
+            <EDITABLE>true</EDITABLE>
+        </TOOL>
+    </SCENEOBJECT>
+    <SCENEOBJECT>
+        <COMMON>
+            <POSITION x="-2425.000000" y="-3230.000000" z="790.000000" />
+            <DIRECTION x="0.000000" y="1.000000" z="0.000000" />
+            <UP x="0.000000" y="0.000000" z="1.000000" />
+        </COMMON>
+        <PROPERTY>
+            <NAME>SCENEOBJECT43</NAME>
+            <SceneFileName>mansion_a_statue_01.scene.xml</SceneFileName>
+            <Show>true</Show>
+            <PartsColor>ffffff</PartsColor>
+            <UMBRAID>100002</UMBRAID>
+        </PROPERTY>
+        <TOOL>
+            <LAYER>Prop</LAYER>
+            <VISIBLE>true</VISIBLE>
+            <EDITABLE>true</EDITABLE>
+        </TOOL>
+    </SCENEOBJECT>
+    <SCENEOBJECT>
+        <COMMON>
+            <POSITION x="-3225.000000" y="-3230.000000" z="790.000000" />
+            <DIRECTION x="0.000000" y="1.000000" z="0.000000" />
+            <UP x="0.000000" y="0.000000" z="1.000000" />
+        </COMMON>
+        <PROPERTY>
+            <NAME>SCENEOBJECT44</NAME>
+            <SceneFileName>mansion_a_statue_01.scene.xml</SceneFileName>
+            <Show>true</Show>
+            <PartsColor>ffffff</PartsColor>
+            <UMBRAID>100003</UMBRAID>
+        </PROPERTY>
+        <TOOL>
+            <LAYER>Prop</LAYER>
+            <VISIBLE>true</VISIBLE>
+            <EDITABLE>true</EDITABLE>
+        </TOOL>
+    </SCENEOBJECT>
+    <SCENEOBJECT>
+        <COMMON>
+            <POSITION x="-2825.000000" y="-2770.000000" z="790.000000" />
+            <DIRECTION x="0.000000" y="-1.000000" z="0.000000" />
+            <UP x="0.000000" y="0.000000" z="1.000000" />
+        </COMMON>
+        <PROPERTY>
+            <NAME>SCENEOBJECT45</NAME>
+            <SceneFileName>mansion_a_statue_01.scene.xml</SceneFileName>
+            <Show>true</Show>
+            <PartsColor>ffffff</PartsColor>
+            <UMBRAID>100004</UMBRAID>
+        </PROPERTY>
+        <TOOL>
+            <LAYER>Prop</LAYER>
+            <VISIBLE>true</VISIBLE>
+            <EDITABLE>true</EDITABLE>
+        </TOOL>
+    </SCENEOBJECT>
+    <SCENEOBJECT>
+        <COMMON>
+            <POSITION x="-2020.000000" y="-2770.000000" z="790.000000" />
+            <DIRECTION x="0.000000" y="-1.000000" z="0.000000" />
+            <UP x="0.000000" y="0.000000" z="1.000000" />
+        </COMMON>
+        <PROPERTY>
+            <NAME>SCENEOBJECT46</NAME>
+            <SceneFileName>mansion_a_statue_01.scene.xml</SceneFileName>
+            <Show>true</Show>
+            <PartsColor>ffffff</PartsColor>
+            <UMBRAID>100005</UMBRAID>
+        </PROPERTY>
+        <TOOL>
+            <LAYER>Prop</LAYER>
+            <VISIBLE>true</VISIBLE>
+            <EDITABLE>true</EDITABLE>
+        </TOOL>
+    </SCENEOBJECT>
+    <SCENEOBJECT>
+        <COMMON>
+            <POSITION x="-1195.000000" y="-2795.000000" z="790.000000" />
+            <DIRECTION x="-1.000000" y="-0.000000" z="0.000000" />
+            <UP x="0.000000" y="0.000000" z="1.000000" />
+        </COMMON>
+        <PROPERTY>
+            <NAME>SCENEOBJECT47</NAME>
+            <SceneFileName>mansion_a_statue_01.scene.xml</SceneFileName>
+            <Show>true</Show>
+            <PartsColor>ffffff</PartsColor>
+            <UMBRAID>100006</UMBRAID>
+        </PROPERTY>
+        <TOOL>
+            <LAYER>Prop</LAYER>
+            <VISIBLE>true</VISIBLE>
+            <EDITABLE>true</EDITABLE>
+        </TOOL>
+    </SCENEOBJECT>
+    <SCENEOBJECT>
+        <COMMON>
+            <POSITION x="-4310.000000" y="-1615.000000" z="600.000000" />
+            <DIRECTION x="1.000000" y="-0.000000" z="0.000000" />
+            <UP x="0.000000" y="0.000000" z="1.000000" />
+        </COMMON>
+        <PROPERTY>
+            <NAME>SCENEOBJECT48</NAME>
+            <SceneFileName>mansion_a_ladder_01.scene.xml</SceneFileName>
+            <Show>true</Show>
+            <PartsColor>ffffff</PartsColor>
+            <UMBRAID>100007</UMBRAID>
+        </PROPERTY>
+        <TOOL>
+            <LAYER>Prop</LAYER>
+            <VISIBLE>true</VISIBLE>
+            <EDITABLE>true</EDITABLE>
+        </TOOL>
+    </SCENEOBJECT>
+    <SCENEOBJECT>
+        <COMMON>
+            <POSITION x="-6140.000000" y="-800.000000" z="600.000000" />
+            <DIRECTION x="-1.000000" y="-0.000000" z="0.000000" />
+            <UP x="0.000000" y="0.000000" z="1.000000" />
+        </COMMON>
+        <PROPERTY>
+            <NAME>SCENEOBJECT49</NAME>
+            <SceneFileName>mansion_a_ladder_01.scene.xml</SceneFileName>
+            <Show>true</Show>
+            <PartsColor>ffffff</PartsColor>
+            <UMBRAID>100008</UMBRAID>
+        </PROPERTY>
+        <TOOL>
+            <LAYER>Prop</LAYER>
+            <VISIBLE>true</VISIBLE>
+            <EDITABLE>true</EDITABLE>
+        </TOOL>
+    </SCENEOBJECT>
+    <OBJECT>
+        <COMMON>
+            <POSITION x="-5570.000000" y="-680.000000" z="700.000000" />
+            <DIRECTION x="0.000000" y="1.000000" z="0.000000" />
+            <UP x="0.000000" y="0.000000" z="1.000000" />
+        </COMMON>
+        <PROPERTY>
+            <NAME>mansion_a_candle_stick_4</NAME>
+            <DEFINITION>mansion_a_candle_stick_01</DEFINITION>
+            <PartsColor>ffffff</PartsColor>
+            <Show>true</Show>
+            <MoveByScript>false</MoveByScript>
+            <Activate>false</Activate>
+            <UseLocal>false</UseLocal>
+            <MoveTime>0.000</MoveTime>
+            <MoveX>0.000</MoveX>
+            <MoveY>0.000</MoveY>
+            <MoveZ>0.000</MoveZ>
+            <MoveDelay>-1.000</MoveDelay>
+            <RotateAngleX>0.000</RotateAngleX>
+            <RotateAngleY>0.000</RotateAngleY>
+            <RotateAngleZ>0.000</RotateAngleZ>
+            <Loop>false</Loop>
+            <CanReverse>false</CanReverse>
+            <LoopDelay>0.000</LoopDelay>
+            <LoopCount>-1</LoopCount>
+            <UseInteraction>false</UseInteraction>
+            <InteractionDelay>0.000</InteractionDelay>
+        </PROPERTY>
+        <TOOL>
+            <LAYER>Dyn_object</LAYER>
+            <VISIBLE>true</VISIBLE>
+            <EDITABLE>false</EDITABLE>
+        </TOOL>
+    </OBJECT>
+    <OBJECT>
+        <COMMON>
+            <POSITION x="-5570.000000" y="-980.000000" z="700.000000" />
+            <DIRECTION x="0.000000" y="1.000000" z="0.000000" />
+            <UP x="0.000000" y="0.000000" z="1.000000" />
+        </COMMON>
+        <PROPERTY>
+            <NAME>mansion_a_candle_stick_5</NAME>
+            <DEFINITION>mansion_a_candle_stick_01</DEFINITION>
+            <PartsColor>ffffff</PartsColor>
+            <Show>true</Show>
+            <MoveByScript>false</MoveByScript>
+            <Activate>false</Activate>
+            <UseLocal>false</UseLocal>
+            <MoveTime>0.000</MoveTime>
+            <MoveX>0.000</MoveX>
+            <MoveY>0.000</MoveY>
+            <MoveZ>0.000</MoveZ>
+            <MoveDelay>-1.000</MoveDelay>
+            <RotateAngleX>0.000</RotateAngleX>
+            <RotateAngleY>0.000</RotateAngleY>
+            <RotateAngleZ>0.000</RotateAngleZ>
+            <Loop>false</Loop>
+            <CanReverse>false</CanReverse>
+            <LoopDelay>0.000</LoopDelay>
+            <LoopCount>-1</LoopCount>
+            <UseInteraction>false</UseInteraction>
+            <InteractionDelay>0.000</InteractionDelay>
+        </PROPERTY>
+        <TOOL>
+            <LAYER>Dyn_object</LAYER>
+            <VISIBLE>true</VISIBLE>
+            <EDITABLE>false</EDITABLE>
+        </TOOL>
+    </OBJECT>
+    <OBJECT>
+        <COMMON>
+            <POSITION x="-5570.000000" y="-1270.000000" z="700.000000" />
+            <DIRECTION x="0.000000" y="1.000000" z="0.000000" />
+            <UP x="0.000000" y="0.000000" z="1.000000" />
+        </COMMON>
+        <PROPERTY>
+            <NAME>mansion_a_candle_stick_6</NAME>
+            <DEFINITION>mansion_a_candle_stick_01</DEFINITION>
+            <PartsColor>ffffff</PartsColor>
+            <Show>true</Show>
+            <MoveByScript>false</MoveByScript>
+            <Activate>false</Activate>
+            <UseLocal>false</UseLocal>
+            <MoveTime>0.000</MoveTime>
+            <MoveX>0.000</MoveX>
+            <MoveY>0.000</MoveY>
+            <MoveZ>0.000</MoveZ>
+            <MoveDelay>-1.000</MoveDelay>
+            <RotateAngleX>0.000</RotateAngleX>
+            <RotateAngleY>0.000</RotateAngleY>
+            <RotateAngleZ>0.000</RotateAngleZ>
+            <Loop>false</Loop>
+            <CanReverse>false</CanReverse>
+            <LoopDelay>0.000</LoopDelay>
+            <LoopCount>-1</LoopCount>
+            <UseInteraction>false</UseInteraction>
+            <InteractionDelay>0.000</InteractionDelay>
+        </PROPERTY>
+        <TOOL>
+            <LAYER>Dyn_object</LAYER>
+            <VISIBLE>true</VISIBLE>
+            <EDITABLE>false</EDITABLE>
+        </TOOL>
+    </OBJECT>
+    <OBJECT>
+        <COMMON>
+            <POSITION x="-4870.000000" y="-680.000000" z="700.000000" />
+            <DIRECTION x="0.000000" y="1.000000" z="0.000000" />
+            <UP x="0.000000" y="0.000000" z="1.000000" />
+        </COMMON>
+        <PROPERTY>
+            <NAME>mansion_a_candle_stick_7</NAME>
+            <DEFINITION>mansion_a_candle_stick_01</DEFINITION>
+            <PartsColor>ffffff</PartsColor>
+            <Show>true</Show>
+            <MoveByScript>false</MoveByScript>
+            <Activate>false</Activate>
+            <UseLocal>false</UseLocal>
+            <MoveTime>0.000</MoveTime>
+            <MoveX>0.000</MoveX>
+            <MoveY>0.000</MoveY>
+            <MoveZ>0.000</MoveZ>
+            <MoveDelay>-1.000</MoveDelay>
+            <RotateAngleX>0.000</RotateAngleX>
+            <RotateAngleY>0.000</RotateAngleY>
+            <RotateAngleZ>0.000</RotateAngleZ>
+            <Loop>false</Loop>
+            <CanReverse>false</CanReverse>
+            <LoopDelay>0.000</LoopDelay>
+            <LoopCount>-1</LoopCount>
+            <UseInteraction>false</UseInteraction>
+            <InteractionDelay>0.000</InteractionDelay>
+        </PROPERTY>
+        <TOOL>
+            <LAYER>Dyn_object</LAYER>
+            <VISIBLE>true</VISIBLE>
+            <EDITABLE>false</EDITABLE>
+        </TOOL>
+    </OBJECT>
+    <OBJECT>
+        <COMMON>
+            <POSITION x="-4870.000000" y="-980.000000" z="700.000000" />
+            <DIRECTION x="0.000000" y="1.000000" z="0.000000" />
+            <UP x="0.000000" y="0.000000" z="1.000000" />
+        </COMMON>
+        <PROPERTY>
+            <NAME>mansion_a_candle_stick_8</NAME>
+            <DEFINITION>mansion_a_candle_stick_01</DEFINITION>
+            <PartsColor>ffffff</PartsColor>
+            <Show>true</Show>
+            <MoveByScript>false</MoveByScript>
+            <Activate>false</Activate>
+            <UseLocal>false</UseLocal>
+            <MoveTime>0.000</MoveTime>
+            <MoveX>0.000</MoveX>
+            <MoveY>0.000</MoveY>
+            <MoveZ>0.000</MoveZ>
+            <MoveDelay>-1.000</MoveDelay>
+            <RotateAngleX>0.000</RotateAngleX>
+            <RotateAngleY>0.000</RotateAngleY>
+            <RotateAngleZ>0.000</RotateAngleZ>
+            <Loop>false</Loop>
+            <CanReverse>false</CanReverse>
+            <LoopDelay>0.000</LoopDelay>
+            <LoopCount>-1</LoopCount>
+            <UseInteraction>false</UseInteraction>
+            <InteractionDelay>0.000</InteractionDelay>
+        </PROPERTY>
+        <TOOL>
+            <LAYER>Dyn_object</LAYER>
+            <VISIBLE>true</VISIBLE>
+            <EDITABLE>false</EDITABLE>
+        </TOOL>
+    </OBJECT>
+    <OBJECT>
+        <COMMON>
+            <POSITION x="-4870.000000" y="-1270.000000" z="700.000000" />
+            <DIRECTION x="0.000000" y="1.000000" z="0.000000" />
+            <UP x="0.000000" y="0.000000" z="1.000000" />
+        </COMMON>
+        <PROPERTY>
+            <NAME>mansion_a_candle_stick_9</NAME>
+            <DEFINITION>mansion_a_candle_stick_01</DEFINITION>
+            <PartsColor>ffffff</PartsColor>
+            <Show>true</Show>
+            <MoveByScript>false</MoveByScript>
+            <Activate>false</Activate>
+            <UseLocal>false</UseLocal>
+            <MoveTime>0.000</MoveTime>
+            <MoveX>0.000</MoveX>
+            <MoveY>0.000</MoveY>
+            <MoveZ>0.000</MoveZ>
+            <MoveDelay>-1.000</MoveDelay>
+            <RotateAngleX>0.000</RotateAngleX>
+            <RotateAngleY>0.000</RotateAngleY>
+            <RotateAngleZ>0.000</RotateAngleZ>
+            <Loop>false</Loop>
+            <CanReverse>false</CanReverse>
+            <LoopDelay>0.000</LoopDelay>
+            <LoopCount>-1</LoopCount>
+            <UseInteraction>false</UseInteraction>
+            <InteractionDelay>0.000</InteractionDelay>
+        </PROPERTY>
+        <TOOL>
+            <LAYER>Dyn_object</LAYER>
+            <VISIBLE>true</VISIBLE>
+            <EDITABLE>false</EDITABLE>
+        </TOOL>
+    </OBJECT>
+    <OBJECT>
+        <COMMON>
+            <POSITION x="-990.000000" y="772.000000" z="735.245300" />
+            <DIRECTION x="-1.000000" y="-0.000000" z="0.000000" />
+            <UP x="0.000000" y="0.000000" z="1.000000" />
+        </COMMON>
+        <PROPERTY>
+            <NAME>OBJECT15</NAME>
+            <DEFINITION>prop_pottery_stand_k02_phy</DEFINITION>
+            <PartsColor>ffffff</PartsColor>
+            <Show>true</Show>
+            <MoveByScript>false</MoveByScript>
+            <Activate>false</Activate>
+            <UseLocal>false</UseLocal>
+            <MoveTime>0.000</MoveTime>
+            <MoveX>0.000</MoveX>
+            <MoveY>0.000</MoveY>
+            <MoveZ>0.000</MoveZ>
+            <MoveDelay>-1.000</MoveDelay>
+            <RotateAngleX>0.000</RotateAngleX>
+            <RotateAngleY>0.000</RotateAngleY>
+            <RotateAngleZ>0.000</RotateAngleZ>
+            <Loop>false</Loop>
+            <CanReverse>false</CanReverse>
+            <LoopDelay>0.000</LoopDelay>
+            <LoopCount>-1</LoopCount>
+            <UseInteraction>false</UseInteraction>
+            <InteractionDelay>0.000</InteractionDelay>
+        </PROPERTY>
+        <TOOL>
+            <LAYER>Dyn_object</LAYER>
+            <VISIBLE>true</VISIBLE>
+            <EDITABLE>false</EDITABLE>
+        </TOOL>
+    </OBJECT>
+    <OBJECT>
+        <COMMON>
+            <POSITION x="-990.000000" y="-8.000000" z="735.245300" />
+            <DIRECTION x="-1.000000" y="-0.000000" z="0.000000" />
+            <UP x="0.000000" y="0.000000" z="1.000000" />
+        </COMMON>
+        <PROPERTY>
+            <NAME>OBJECT16</NAME>
+            <DEFINITION>prop_pottery_stand_k02_phy</DEFINITION>
+            <PartsColor>ffffff</PartsColor>
+            <Show>true</Show>
+            <MoveByScript>false</MoveByScript>
+            <Activate>false</Activate>
+            <UseLocal>false</UseLocal>
+            <MoveTime>0.000</MoveTime>
+            <MoveX>0.000</MoveX>
+            <MoveY>0.000</MoveY>
+            <MoveZ>0.000</MoveZ>
+            <MoveDelay>-1.000</MoveDelay>
+            <RotateAngleX>0.000</RotateAngleX>
+            <RotateAngleY>0.000</RotateAngleY>
+            <RotateAngleZ>0.000</RotateAngleZ>
+            <Loop>false</Loop>
+            <CanReverse>false</CanReverse>
+            <LoopDelay>0.000</LoopDelay>
+            <LoopCount>-1</LoopCount>
+            <UseInteraction>false</UseInteraction>
+            <InteractionDelay>0.000</InteractionDelay>
+        </PROPERTY>
+        <TOOL>
+            <LAYER>Dyn_object</LAYER>
+            <VISIBLE>true</VISIBLE>
+            <EDITABLE>false</EDITABLE>
+        </TOOL>
+    </OBJECT>
+    <OBJECT>
+        <COMMON>
+            <POSITION x="990.000000" y="-8.000000" z="735.245300" />
+            <DIRECTION x="-1.000000" y="-0.000000" z="0.000000" />
+            <UP x="0.000000" y="0.000000" z="1.000000" />
+        </COMMON>
+        <PROPERTY>
+            <NAME>OBJECT17</NAME>
+            <DEFINITION>prop_pottery_stand_k02_phy</DEFINITION>
+            <PartsColor>ffffff</PartsColor>
+            <Show>true</Show>
+            <MoveByScript>false</MoveByScript>
+            <Activate>false</Activate>
+            <UseLocal>false</UseLocal>
+            <MoveTime>0.000</MoveTime>
+            <MoveX>0.000</MoveX>
+            <MoveY>0.000</MoveY>
+            <MoveZ>0.000</MoveZ>
+            <MoveDelay>-1.000</MoveDelay>
+            <RotateAngleX>0.000</RotateAngleX>
+            <RotateAngleY>0.000</RotateAngleY>
+            <RotateAngleZ>0.000</RotateAngleZ>
+            <Loop>false</Loop>
+            <CanReverse>false</CanReverse>
+            <LoopDelay>0.000</LoopDelay>
+            <LoopCount>-1</LoopCount>
+            <UseInteraction>false</UseInteraction>
+            <InteractionDelay>0.000</InteractionDelay>
+        </PROPERTY>
+        <TOOL>
+            <LAYER>Dyn_object</LAYER>
+            <VISIBLE>true</VISIBLE>
+            <EDITABLE>false</EDITABLE>
+        </TOOL>
+    </OBJECT>
+    <OBJECT>
+        <COMMON>
+            <POSITION x="990.000000" y="772.000000" z="735.245300" />
+            <DIRECTION x="-1.000000" y="-0.000000" z="0.000000" />
+            <UP x="0.000000" y="0.000000" z="1.000000" />
+        </COMMON>
+        <PROPERTY>
+            <NAME>OBJECT18</NAME>
+            <DEFINITION>prop_pottery_stand_k02_phy</DEFINITION>
+            <PartsColor>ffffff</PartsColor>
+            <Show>true</Show>
+            <MoveByScript>false</MoveByScript>
+            <Activate>false</Activate>
+            <UseLocal>false</UseLocal>
+            <MoveTime>0.000</MoveTime>
+            <MoveX>0.000</MoveX>
+            <MoveY>0.000</MoveY>
+            <MoveZ>0.000</MoveZ>
+            <MoveDelay>-1.000</MoveDelay>
+            <RotateAngleX>0.000</RotateAngleX>
+            <RotateAngleY>0.000</RotateAngleY>
+            <RotateAngleZ>0.000</RotateAngleZ>
+            <Loop>false</Loop>
+            <CanReverse>false</CanReverse>
+            <LoopDelay>0.000</LoopDelay>
+            <LoopCount>-1</LoopCount>
+            <UseInteraction>false</UseInteraction>
+            <InteractionDelay>0.000</InteractionDelay>
+        </PROPERTY>
+        <TOOL>
+            <LAYER>Dyn_object</LAYER>
+            <VISIBLE>true</VISIBLE>
+            <EDITABLE>false</EDITABLE>
+        </TOOL>
+    </OBJECT>
+    <OBJECT>
+        <COMMON>
+            <POSITION x="5510.000000" y="-1330.000000" z="700.000000" />
+            <DIRECTION x="0.000000" y="1.000000" z="0.000000" />
+            <UP x="0.000000" y="0.000000" z="1.000000" />
+        </COMMON>
+        <PROPERTY>
+            <NAME>mansion_a_candle_stick_01</NAME>
+            <DEFINITION>mansion_a_candle_stick_01</DEFINITION>
+            <PartsColor>ffffff</PartsColor>
+            <Show>true</Show>
+            <MoveByScript>false</MoveByScript>
+            <Activate>false</Activate>
+            <UseLocal>false</UseLocal>
+            <MoveTime>0.000</MoveTime>
+            <MoveX>0.000</MoveX>
+            <MoveY>0.000</MoveY>
+            <MoveZ>0.000</MoveZ>
+            <MoveDelay>-1.000</MoveDelay>
+            <RotateAngleX>0.000</RotateAngleX>
+            <RotateAngleY>0.000</RotateAngleY>
+            <RotateAngleZ>0.000</RotateAngleZ>
+            <Loop>false</Loop>
+            <CanReverse>false</CanReverse>
+            <LoopDelay>0.000</LoopDelay>
+            <LoopCount>-1</LoopCount>
+            <UseInteraction>false</UseInteraction>
+            <InteractionDelay>0.000</InteractionDelay>
+        </PROPERTY>
+        <TOOL>
+            <LAYER>Dyn_object</LAYER>
+            <VISIBLE>true</VISIBLE>
+            <EDITABLE>false</EDITABLE>
+        </TOOL>
+    </OBJECT>
+    <OBJECT>
+        <COMMON>
+            <POSITION x="5250.000000" y="-1330.000000" z="700.000000" />
+            <DIRECTION x="0.000000" y="1.000000" z="0.000000" />
+            <UP x="0.000000" y="0.000000" z="1.000000" />
+        </COMMON>
+        <PROPERTY>
+            <NAME>mansion_a_candle_stick_2</NAME>
+            <DEFINITION>mansion_a_candle_stick_01</DEFINITION>
+            <PartsColor>ffffff</PartsColor>
+            <Show>true</Show>
+            <MoveByScript>false</MoveByScript>
+            <Activate>false</Activate>
+            <UseLocal>false</UseLocal>
+            <MoveTime>0.000</MoveTime>
+            <MoveX>0.000</MoveX>
+            <MoveY>0.000</MoveY>
+            <MoveZ>0.000</MoveZ>
+            <MoveDelay>-1.000</MoveDelay>
+            <RotateAngleX>0.000</RotateAngleX>
+            <RotateAngleY>0.000</RotateAngleY>
+            <RotateAngleZ>0.000</RotateAngleZ>
+            <Loop>false</Loop>
+            <CanReverse>false</CanReverse>
+            <LoopDelay>0.000</LoopDelay>
+            <LoopCount>-1</LoopCount>
+            <UseInteraction>false</UseInteraction>
+            <InteractionDelay>0.000</InteractionDelay>
+        </PROPERTY>
+        <TOOL>
+            <LAYER>Dyn_object</LAYER>
+            <VISIBLE>true</VISIBLE>
+            <EDITABLE>false</EDITABLE>
+        </TOOL>
+    </OBJECT>
+    <OBJECT>
+        <COMMON>
+            <POSITION x="4970.000000" y="-1330.000000" z="700.000000" />
+            <DIRECTION x="0.000000" y="1.000000" z="0.000000" />
+            <UP x="0.000000" y="0.000000" z="1.000000" />
+        </COMMON>
+        <PROPERTY>
+            <NAME>mansion_a_candle_stick_3</NAME>
+            <DEFINITION>mansion_a_candle_stick_01</DEFINITION>
+            <PartsColor>ffffff</PartsColor>
+            <Show>true</Show>
+            <MoveByScript>false</MoveByScript>
+            <Activate>false</Activate>
+            <UseLocal>false</UseLocal>
+            <MoveTime>0.000</MoveTime>
+            <MoveX>0.000</MoveX>
+            <MoveY>0.000</MoveY>
+            <MoveZ>0.000</MoveZ>
+            <MoveDelay>-1.000</MoveDelay>
+            <RotateAngleX>0.000</RotateAngleX>
+            <RotateAngleY>0.000</RotateAngleY>
+            <RotateAngleZ>0.000</RotateAngleZ>
+            <Loop>false</Loop>
+            <CanReverse>false</CanReverse>
+            <LoopDelay>0.000</LoopDelay>
+            <LoopCount>-1</LoopCount>
+            <UseInteraction>false</UseInteraction>
+            <InteractionDelay>0.000</InteractionDelay>
+        </PROPERTY>
+        <TOOL>
+            <LAYER>Dyn_object</LAYER>
+            <VISIBLE>true</VISIBLE>
+            <EDITABLE>false</EDITABLE>
+        </TOOL>
+    </OBJECT>
+    <OBJECT>
+        <COMMON>
+            <POSITION x="-1.000000" y="-1435.000000" z="-75.000000" />
+            <DIRECTION x="0.000000" y="1.000000" z="0.000000" />
+            <UP x="0.000000" y="0.000000" z="1.000000" />
+        </COMMON>
+        <PROPERTY>
+            <NAME>OBJECT</NAME>
+            <DEFINITION>mansion_a_lamp_under_01_on</DEFINITION>
+            <PartsColor>ffffff</PartsColor>
+            <Show>true</Show>
+            <MoveByScript>false</MoveByScript>
+            <Activate>false</Activate>
+            <UseLocal>false</UseLocal>
+            <MoveTime>0.000</MoveTime>
+            <MoveX>0.000</MoveX>
+            <MoveY>0.000</MoveY>
+            <MoveZ>0.000</MoveZ>
+            <MoveDelay>-1.000</MoveDelay>
+            <RotateAngleX>0.000</RotateAngleX>
+            <RotateAngleY>0.000</RotateAngleY>
+            <RotateAngleZ>0.000</RotateAngleZ>
+            <Loop>false</Loop>
+            <CanReverse>false</CanReverse>
+            <LoopDelay>0.000</LoopDelay>
+            <LoopCount>-1</LoopCount>
+            <UseInteraction>false</UseInteraction>
+            <InteractionDelay>0.000</InteractionDelay>
+        </PROPERTY>
+        <TOOL>
+            <LAYER>Dyn_object</LAYER>
+            <VISIBLE>true</VISIBLE>
+            <EDITABLE>false</EDITABLE>
+        </TOOL>
+    </OBJECT>
+    <OBJECT>
+        <COMMON>
+            <POSITION x="800.000000" y="-1435.000000" z="-75.000000" />
+            <DIRECTION x="0.000000" y="1.000000" z="0.000000" />
+            <UP x="0.000000" y="0.000000" z="1.000000" />
+        </COMMON>
+        <PROPERTY>
+            <NAME>OBJECT19</NAME>
+            <DEFINITION>mansion_a_lamp_under_01_on</DEFINITION>
+            <PartsColor>ffffff</PartsColor>
+            <Show>true</Show>
+            <MoveByScript>false</MoveByScript>
+            <Activate>false</Activate>
+            <UseLocal>false</UseLocal>
+            <MoveTime>0.000</MoveTime>
+            <MoveX>0.000</MoveX>
+            <MoveY>0.000</MoveY>
+            <MoveZ>0.000</MoveZ>
+            <MoveDelay>-1.000</MoveDelay>
+            <RotateAngleX>0.000</RotateAngleX>
+            <RotateAngleY>0.000</RotateAngleY>
+            <RotateAngleZ>0.000</RotateAngleZ>
+            <Loop>false</Loop>
+            <CanReverse>false</CanReverse>
+            <LoopDelay>0.000</LoopDelay>
+            <LoopCount>-1</LoopCount>
+            <UseInteraction>false</UseInteraction>
+            <InteractionDelay>0.000</InteractionDelay>
+        </PROPERTY>
+        <TOOL>
+            <LAYER>Dyn_object</LAYER>
+            <VISIBLE>true</VISIBLE>
+            <EDITABLE>false</EDITABLE>
+        </TOOL>
+    </OBJECT>
+    <OBJECT>
+        <COMMON>
+            <POSITION x="-795.000000" y="-1435.000000" z="-75.000000" />
+            <DIRECTION x="0.000000" y="1.000000" z="0.000000" />
+            <UP x="0.000000" y="0.000000" z="1.000000" />
+        </COMMON>
+        <PROPERTY>
+            <NAME>OBJECT20</NAME>
+            <DEFINITION>mansion_a_lamp_under_01_on</DEFINITION>
+            <PartsColor>ffffff</PartsColor>
+            <Show>true</Show>
+            <MoveByScript>false</MoveByScript>
+            <Activate>false</Activate>
+            <UseLocal>false</UseLocal>
+            <MoveTime>0.000</MoveTime>
+            <MoveX>0.000</MoveX>
+            <MoveY>0.000</MoveY>
+            <MoveZ>0.000</MoveZ>
+            <MoveDelay>-1.000</MoveDelay>
+            <RotateAngleX>0.000</RotateAngleX>
+            <RotateAngleY>0.000</RotateAngleY>
+            <RotateAngleZ>0.000</RotateAngleZ>
+            <Loop>false</Loop>
+            <CanReverse>false</CanReverse>
+            <LoopDelay>0.000</LoopDelay>
+            <LoopCount>-1</LoopCount>
+            <UseInteraction>false</UseInteraction>
+            <InteractionDelay>0.000</InteractionDelay>
+        </PROPERTY>
+        <TOOL>
+            <LAYER>Dyn_object</LAYER>
+            <VISIBLE>true</VISIBLE>
+            <EDITABLE>false</EDITABLE>
+        </TOOL>
+    </OBJECT>
+    <OBJECT>
+        <COMMON>
+            <POSITION x="-795.000000" y="-2070.000000" z="-75.000000" />
+            <DIRECTION x="0.000000" y="1.000000" z="0.000000" />
+            <UP x="0.000000" y="0.000000" z="1.000000" />
+        </COMMON>
+        <PROPERTY>
+            <NAME>OBJECT21</NAME>
+            <DEFINITION>mansion_a_lamp_under_01_on</DEFINITION>
+            <PartsColor>ffffff</PartsColor>
+            <Show>true</Show>
+            <MoveByScript>false</MoveByScript>
+            <Activate>false</Activate>
+            <UseLocal>false</UseLocal>
+            <MoveTime>0.000</MoveTime>
+            <MoveX>0.000</MoveX>
+            <MoveY>0.000</MoveY>
+            <MoveZ>0.000</MoveZ>
+            <MoveDelay>-1.000</MoveDelay>
+            <RotateAngleX>0.000</RotateAngleX>
+            <RotateAngleY>0.000</RotateAngleY>
+            <RotateAngleZ>0.000</RotateAngleZ>
+            <Loop>false</Loop>
+            <CanReverse>false</CanReverse>
+            <LoopDelay>0.000</LoopDelay>
+            <LoopCount>-1</LoopCount>
+            <UseInteraction>false</UseInteraction>
+            <InteractionDelay>0.000</InteractionDelay>
+        </PROPERTY>
+        <TOOL>
+            <LAYER>Dyn_object</LAYER>
+            <VISIBLE>true</VISIBLE>
+            <EDITABLE>false</EDITABLE>
+        </TOOL>
+    </OBJECT>
+    <OBJECT>
+        <COMMON>
+            <POSITION x="0.000000" y="-2070.000000" z="-75.000000" />
+            <DIRECTION x="0.000000" y="1.000000" z="0.000000" />
+            <UP x="0.000000" y="0.000000" z="1.000000" />
+        </COMMON>
+        <PROPERTY>
+            <NAME>OBJECT22</NAME>
+            <DEFINITION>mansion_a_lamp_under_01_on</DEFINITION>
+            <PartsColor>ffffff</PartsColor>
+            <Show>true</Show>
+            <MoveByScript>false</MoveByScript>
+            <Activate>false</Activate>
+            <UseLocal>false</UseLocal>
+            <MoveTime>0.000</MoveTime>
+            <MoveX>0.000</MoveX>
+            <MoveY>0.000</MoveY>
+            <MoveZ>0.000</MoveZ>
+            <MoveDelay>-1.000</MoveDelay>
+            <RotateAngleX>0.000</RotateAngleX>
+            <RotateAngleY>0.000</RotateAngleY>
+            <RotateAngleZ>0.000</RotateAngleZ>
+            <Loop>false</Loop>
+            <CanReverse>false</CanReverse>
+            <LoopDelay>0.000</LoopDelay>
+            <LoopCount>-1</LoopCount>
+            <UseInteraction>false</UseInteraction>
+            <InteractionDelay>0.000</InteractionDelay>
+        </PROPERTY>
+        <TOOL>
+            <LAYER>Dyn_object</LAYER>
+            <VISIBLE>true</VISIBLE>
+            <EDITABLE>false</EDITABLE>
+        </TOOL>
+    </OBJECT>
+    <OBJECT>
+        <COMMON>
+            <POSITION x="800.000000" y="-2070.000000" z="-75.000000" />
+            <DIRECTION x="0.000000" y="1.000000" z="0.000000" />
+            <UP x="0.000000" y="0.000000" z="1.000000" />
+        </COMMON>
+        <PROPERTY>
+            <NAME>OBJECT23</NAME>
+            <DEFINITION>mansion_a_lamp_under_01_on</DEFINITION>
+            <PartsColor>ffffff</PartsColor>
+            <Show>true</Show>
+            <MoveByScript>false</MoveByScript>
+            <Activate>false</Activate>
+            <UseLocal>false</UseLocal>
+            <MoveTime>0.000</MoveTime>
+            <MoveX>0.000</MoveX>
+            <MoveY>0.000</MoveY>
+            <MoveZ>0.000</MoveZ>
+            <MoveDelay>-1.000</MoveDelay>
+            <RotateAngleX>0.000</RotateAngleX>
+            <RotateAngleY>0.000</RotateAngleY>
+            <RotateAngleZ>0.000</RotateAngleZ>
+            <Loop>false</Loop>
+            <CanReverse>false</CanReverse>
+            <LoopDelay>0.000</LoopDelay>
+            <LoopCount>-1</LoopCount>
+            <UseInteraction>false</UseInteraction>
+            <InteractionDelay>0.000</InteractionDelay>
+        </PROPERTY>
+        <TOOL>
+            <LAYER>Dyn_object</LAYER>
+            <VISIBLE>true</VISIBLE>
+            <EDITABLE>false</EDITABLE>
+        </TOOL>
+    </OBJECT>
+    <SCENEOBJECT>
+        <COMMON>
+            <POSITION x="-1715.000000" y="-2050.000000" z="-522.000000" />
+            <DIRECTION x="0.000000" y="1.000000" z="0.000000" />
+            <UP x="0.000000" y="0.000000" z="1.000000" />
+        </COMMON>
+        <PROPERTY>
+            <NAME>prop_light_wall_02_on</NAME>
+            <SceneFileName>prop_light_wall_02_on.scene.xml</SceneFileName>
+            <Show>true</Show>
+            <PartsColor>ffffff</PartsColor>
+            <UMBRAID>100009</UMBRAID>
+        </PROPERTY>
+        <TOOL>
+            <LAYER>Prop</LAYER>
+            <VISIBLE>true</VISIBLE>
+            <EDITABLE>true</EDITABLE>
+        </TOOL>
+    </SCENEOBJECT>
+    <SCENEOBJECT>
+        <COMMON>
+            <POSITION x="-1550.000000" y="-1969.000000" z="-527.000000" />
+            <DIRECTION x="-1.000000" y="0.000000" z="0.000000" />
+            <UP x="0.000000" y="0.000000" z="1.000000" />
+        </COMMON>
+        <PROPERTY>
+            <NAME>prop_light_wall_02_on2</NAME>
+            <SceneFileName>prop_light_wall_02_on.scene.xml</SceneFileName>
+            <Show>true</Show>
+            <PartsColor>ffffff</PartsColor>
+            <UMBRAID>100010</UMBRAID>
+        </PROPERTY>
+        <TOOL>
+            <LAYER>Prop</LAYER>
+            <VISIBLE>true</VISIBLE>
+            <EDITABLE>true</EDITABLE>
+        </TOOL>
+    </SCENEOBJECT>
+    <SCENEOBJECT>
+        <COMMON>
+            <POSITION x="1550.000000" y="-1999.000000" z="-565.000000" />
+            <DIRECTION x="1.000000" y="0.000000" z="0.000000" />
+            <UP x="0.000000" y="0.000000" z="1.000000" />
+        </COMMON>
+        <PROPERTY>
+            <NAME>prop_light_wall_02_on7</NAME>
+            <SceneFileName>prop_light_wall_02_on.scene.xml</SceneFileName>
+            <Show>true</Show>
+            <PartsColor>ffffff</PartsColor>
+            <UMBRAID>100011</UMBRAID>
+        </PROPERTY>
+        <TOOL>
+            <LAYER>Prop</LAYER>
+            <VISIBLE>true</VISIBLE>
+            <EDITABLE>true</EDITABLE>
+        </TOOL>
+    </SCENEOBJECT>
+    <SCENEOBJECT>
+        <COMMON>
+            <POSITION x="2789.000000" y="-2050.000000" z="-164.000000" />
+            <DIRECTION x="-0.000000" y="1.000000" z="0.000000" />
+            <UP x="0.000000" y="0.000000" z="1.000000" />
+        </COMMON>
+        <PROPERTY>
+            <NAME>prop_light_wall_02_on9</NAME>
+            <SceneFileName>prop_light_wall_02_on.scene.xml</SceneFileName>
+            <Show>true</Show>
+            <PartsColor>ffffff</PartsColor>
+            <UMBRAID>100012</UMBRAID>
+        </PROPERTY>
+        <TOOL>
+            <LAYER>Prop</LAYER>
+            <VISIBLE>true</VISIBLE>
+            <EDITABLE>true</EDITABLE>
+        </TOOL>
+    </SCENEOBJECT>
+    <SCENEOBJECT>
+        <COMMON>
+            <POSITION x="2795.000000" y="-2600.000000" z="-160.000000" />
+            <DIRECTION x="0.000000" y="-1.000000" z="0.000000" />
+            <UP x="0.000000" y="0.000000" z="1.000000" />
+        </COMMON>
+        <PROPERTY>
+            <NAME>prop_light_wall_02_on10</NAME>
+            <SceneFileName>prop_light_wall_02_on.scene.xml</SceneFileName>
+            <Show>true</Show>
+            <PartsColor>ffffff</PartsColor>
+            <UMBRAID>100013</UMBRAID>
+        </PROPERTY>
+        <TOOL>
+            <LAYER>Prop</LAYER>
+            <VISIBLE>true</VISIBLE>
+            <EDITABLE>true</EDITABLE>
+        </TOOL>
+    </SCENEOBJECT>
+    <SCENEOBJECT>
+        <COMMON>
+            <POSITION x="5825.000000" y="-798.000000" z="1040.000000" />
+            <DIRECTION x="-0.000000" y="-1.000000" z="0.000000" />
+            <UP x="0.000000" y="0.000000" z="1.000000" />
+        </COMMON>
+        <PROPERTY>
+            <NAME>prop_light_wall_01_on4</NAME>
+            <SceneFileName>prop_light_wall_01_on.scene.xml</SceneFileName>
+            <Show>true</Show>
+            <PartsColor>ffffff</PartsColor>
+            <UMBRAID>100014</UMBRAID>
+        </PROPERTY>
+        <TOOL>
+            <LAYER>Prop</LAYER>
+            <VISIBLE>true</VISIBLE>
+            <EDITABLE>true</EDITABLE>
+        </TOOL>
+    </SCENEOBJECT>
+    <SCENEOBJECT>
+        <COMMON>
+            <POSITION x="4625.000000" y="-797.000000" z="1040.000000" />
+            <DIRECTION x="-0.000000" y="-1.000000" z="0.000000" />
+            <UP x="0.000000" y="0.000000" z="1.000000" />
+        </COMMON>
+        <PROPERTY>
+            <NAME>prop_light_wall_01_on7</NAME>
+            <SceneFileName>prop_light_wall_01_on.scene.xml</SceneFileName>
+            <Show>true</Show>
+            <PartsColor>ffffff</PartsColor>
+            <UMBRAID>100015</UMBRAID>
+        </PROPERTY>
+        <TOOL>
+            <LAYER>Prop</LAYER>
+            <VISIBLE>true</VISIBLE>
+            <EDITABLE>true</EDITABLE>
+        </TOOL>
+    </SCENEOBJECT>
+    <OBJECT>
+        <COMMON>
+            <POSITION x="5870.000000" y="-1330.000000" z="600.000000" />
+            <DIRECTION x="0.000000" y="1.000000" z="0.000000" />
+            <UP x="0.000000" y="0.000000" z="1.000000" />
+        </COMMON>
+        <PROPERTY>
+            <NAME>mansion_a_stand_light_01</NAME>
+            <DEFINITION>mansion_a_stand_light_01</DEFINITION>
+            <PartsColor>ffffff</PartsColor>
+            <Show>true</Show>
+            <MoveByScript>false</MoveByScript>
+            <Activate>false</Activate>
+            <UseLocal>false</UseLocal>
+            <MoveTime>0.000</MoveTime>
+            <MoveX>0.000</MoveX>
+            <MoveY>0.000</MoveY>
+            <MoveZ>0.000</MoveZ>
+            <MoveDelay>-1.000</MoveDelay>
+            <RotateAngleX>0.000</RotateAngleX>
+            <RotateAngleY>0.000</RotateAngleY>
+            <RotateAngleZ>0.000</RotateAngleZ>
+            <Loop>false</Loop>
+            <CanReverse>false</CanReverse>
+            <LoopDelay>0.000</LoopDelay>
+            <LoopCount>-1</LoopCount>
+            <UseInteraction>false</UseInteraction>
+            <InteractionDelay>0.000</InteractionDelay>
+        </PROPERTY>
+        <TOOL>
+            <LAYER>Dyn_object</LAYER>
+            <VISIBLE>true</VISIBLE>
+            <EDITABLE>false</EDITABLE>
+        </TOOL>
+    </OBJECT>
+    <OBJECT>
+        <COMMON>
+            <POSITION x="4571.000000" y="-1335.000000" z="600.000000" />
+            <DIRECTION x="0.000000" y="1.000000" z="0.000000" />
+            <UP x="0.000000" y="0.000000" z="1.000000" />
+        </COMMON>
+        <PROPERTY>
+            <NAME>mansion_a_stand_light_2</NAME>
+            <DEFINITION>mansion_a_stand_light_01</DEFINITION>
+            <PartsColor>ffffff</PartsColor>
+            <Show>true</Show>
+            <MoveByScript>false</MoveByScript>
+            <Activate>false</Activate>
+            <UseLocal>false</UseLocal>
+            <MoveTime>0.000</MoveTime>
+            <MoveX>0.000</MoveX>
+            <MoveY>0.000</MoveY>
+            <MoveZ>0.000</MoveZ>
+            <MoveDelay>-1.000</MoveDelay>
+            <RotateAngleX>0.000</RotateAngleX>
+            <RotateAngleY>0.000</RotateAngleY>
+            <RotateAngleZ>0.000</RotateAngleZ>
+            <Loop>false</Loop>
+            <CanReverse>false</CanReverse>
+            <LoopDelay>0.000</LoopDelay>
+            <LoopCount>-1</LoopCount>
+            <UseInteraction>false</UseInteraction>
+            <InteractionDelay>0.000</InteractionDelay>
+        </PROPERTY>
+        <TOOL>
+            <LAYER>Dyn_object</LAYER>
+            <VISIBLE>true</VISIBLE>
+            <EDITABLE>false</EDITABLE>
+        </TOOL>
+    </OBJECT>
+    <OBJECT>
+        <COMMON>
+            <POSITION x="-4575.000000" y="-1565.000000" z="600.000000" />
+            <DIRECTION x="0.000000" y="1.000000" z="0.000000" />
+            <UP x="0.000000" y="0.000000" z="1.000000" />
+        </COMMON>
+        <PROPERTY>
+            <NAME>mansion_a_stand_light_3</NAME>
+            <DEFINITION>mansion_a_stand_light_01</DEFINITION>
+            <PartsColor>ffffff</PartsColor>
+            <Show>true</Show>
+            <MoveByScript>false</MoveByScript>
+            <Activate>false</Activate>
+            <UseLocal>false</UseLocal>
+            <MoveTime>0.000</MoveTime>
+            <MoveX>0.000</MoveX>
+            <MoveY>0.000</MoveY>
+            <MoveZ>0.000</MoveZ>
+            <MoveDelay>-1.000</MoveDelay>
+            <RotateAngleX>0.000</RotateAngleX>
+            <RotateAngleY>0.000</RotateAngleY>
+            <RotateAngleZ>0.000</RotateAngleZ>
+            <Loop>false</Loop>
+            <CanReverse>false</CanReverse>
+            <LoopDelay>0.000</LoopDelay>
+            <LoopCount>-1</LoopCount>
+            <UseInteraction>false</UseInteraction>
+            <InteractionDelay>0.000</InteractionDelay>
+        </PROPERTY>
+        <TOOL>
+            <LAYER>Dyn_object</LAYER>
+            <VISIBLE>true</VISIBLE>
+            <EDITABLE>false</EDITABLE>
+        </TOOL>
+    </OBJECT>
+    <OBJECT>
+        <COMMON>
+            <POSITION x="-5875.000000" y="-1570.000000" z="600.000000" />
+            <DIRECTION x="0.000000" y="1.000000" z="0.000000" />
+            <UP x="0.000000" y="0.000000" z="1.000000" />
+        </COMMON>
+        <PROPERTY>
+            <NAME>mansion_a_stand_light_4</NAME>
+            <DEFINITION>mansion_a_stand_light_01</DEFINITION>
+            <PartsColor>ffffff</PartsColor>
+            <Show>true</Show>
+            <MoveByScript>false</MoveByScript>
+            <Activate>false</Activate>
+            <UseLocal>false</UseLocal>
+            <MoveTime>0.000</MoveTime>
+            <MoveX>0.000</MoveX>
+            <MoveY>0.000</MoveY>
+            <MoveZ>0.000</MoveZ>
+            <MoveDelay>-1.000</MoveDelay>
+            <RotateAngleX>0.000</RotateAngleX>
+            <RotateAngleY>0.000</RotateAngleY>
+            <RotateAngleZ>0.000</RotateAngleZ>
+            <Loop>false</Loop>
+            <CanReverse>false</CanReverse>
+            <LoopDelay>0.000</LoopDelay>
+            <LoopCount>-1</LoopCount>
+            <UseInteraction>false</UseInteraction>
+            <InteractionDelay>0.000</InteractionDelay>
+        </PROPERTY>
+        <TOOL>
+            <LAYER>Dyn_object</LAYER>
+            <VISIBLE>true</VISIBLE>
+            <EDITABLE>false</EDITABLE>
+        </TOOL>
+    </OBJECT>
+    <OBJECT>
+        <COMMON>
+            <POSITION x="-5225.000000" y="-1570.000000" z="600.000000" />
+            <DIRECTION x="0.000000" y="1.000000" z="0.000000" />
+            <UP x="0.000000" y="0.000000" z="1.000000" />
+        </COMMON>
+        <PROPERTY>
+            <NAME>mansion_a_stand_light_5</NAME>
+            <DEFINITION>mansion_a_stand_light_01</DEFINITION>
+            <PartsColor>ffffff</PartsColor>
+            <Show>true</Show>
+            <MoveByScript>false</MoveByScript>
+            <Activate>false</Activate>
+            <UseLocal>false</UseLocal>
+            <MoveTime>0.000</MoveTime>
+            <MoveX>0.000</MoveX>
+            <MoveY>0.000</MoveY>
+            <MoveZ>0.000</MoveZ>
+            <MoveDelay>-1.000</MoveDelay>
+            <RotateAngleX>0.000</RotateAngleX>
+            <RotateAngleY>0.000</RotateAngleY>
+            <RotateAngleZ>0.000</RotateAngleZ>
+            <Loop>false</Loop>
+            <CanReverse>false</CanReverse>
+            <LoopDelay>0.000</LoopDelay>
+            <LoopCount>-1</LoopCount>
+            <UseInteraction>false</UseInteraction>
+            <InteractionDelay>0.000</InteractionDelay>
+        </PROPERTY>
+        <TOOL>
+            <LAYER>Dyn_object</LAYER>
+            <VISIBLE>true</VISIBLE>
+            <EDITABLE>false</EDITABLE>
+        </TOOL>
+    </OBJECT>
+    <OBJECT>
+        <COMMON>
+            <POSITION x="-1425.000000" y="-2000.000000" z="2172.129150" />
+            <DIRECTION x="0.000000" y="1.000000" z="0.000000" />
+            <UP x="0.000000" y="0.000000" z="1.000000" />
+        </COMMON>
+        <PROPERTY>
+            <NAME>lighting_chandelier_g01</NAME>
+            <DEFINITION>lighting_chandelier_g01</DEFINITION>
+            <PartsColor>ffffff</PartsColor>
+            <Show>true</Show>
+            <MoveByScript>false</MoveByScript>
+            <Activate>false</Activate>
+            <UseLocal>false</UseLocal>
+            <MoveTime>0.000</MoveTime>
+            <MoveX>0.000</MoveX>
+            <MoveY>0.000</MoveY>
+            <MoveZ>0.000</MoveZ>
+            <MoveDelay>-1.000</MoveDelay>
+            <RotateAngleX>0.000</RotateAngleX>
+            <RotateAngleY>0.000</RotateAngleY>
+            <RotateAngleZ>0.000</RotateAngleZ>
+            <Loop>false</Loop>
+            <CanReverse>false</CanReverse>
+            <LoopDelay>0.000</LoopDelay>
+            <LoopCount>-1</LoopCount>
+            <UseInteraction>false</UseInteraction>
+            <InteractionDelay>0.000</InteractionDelay>
+        </PROPERTY>
+        <TOOL>
+            <LAYER>Dyn_object</LAYER>
+            <VISIBLE>true</VISIBLE>
+            <EDITABLE>false</EDITABLE>
+        </TOOL>
+    </OBJECT>
+    <OBJECT>
+        <COMMON>
+            <POSITION x="-1425.000000" y="-1200.000000" z="2172.129150" />
+            <DIRECTION x="0.000000" y="1.000000" z="0.000000" />
+            <UP x="0.000000" y="0.000000" z="1.000000" />
+        </COMMON>
+        <PROPERTY>
+            <NAME>lighting_chandelier_g2</NAME>
+            <DEFINITION>lighting_chandelier_g01</DEFINITION>
+            <PartsColor>ffffff</PartsColor>
+            <Show>true</Show>
+            <MoveByScript>false</MoveByScript>
+            <Activate>false</Activate>
+            <UseLocal>false</UseLocal>
+            <MoveTime>0.000</MoveTime>
+            <MoveX>0.000</MoveX>
+            <MoveY>0.000</MoveY>
+            <MoveZ>0.000</MoveZ>
+            <MoveDelay>-1.000</MoveDelay>
+            <RotateAngleX>0.000</RotateAngleX>
+            <RotateAngleY>0.000</RotateAngleY>
+            <RotateAngleZ>0.000</RotateAngleZ>
+            <Loop>false</Loop>
+            <CanReverse>false</CanReverse>
+            <LoopDelay>0.000</LoopDelay>
+            <LoopCount>-1</LoopCount>
+            <UseInteraction>false</UseInteraction>
+            <InteractionDelay>0.000</InteractionDelay>
+        </PROPERTY>
+        <TOOL>
+            <LAYER>Dyn_object</LAYER>
+            <VISIBLE>true</VISIBLE>
+            <EDITABLE>false</EDITABLE>
+        </TOOL>
+    </OBJECT>
+    <OBJECT>
+        <COMMON>
+            <POSITION x="-1425.000000" y="-400.000000" z="2172.129150" />
+            <DIRECTION x="0.000000" y="1.000000" z="0.000000" />
+            <UP x="0.000000" y="0.000000" z="1.000000" />
+        </COMMON>
+        <PROPERTY>
+            <NAME>lighting_chandelier_g3</NAME>
+            <DEFINITION>lighting_chandelier_g01</DEFINITION>
+            <PartsColor>ffffff</PartsColor>
+            <Show>true</Show>
+            <MoveByScript>false</MoveByScript>
+            <Activate>false</Activate>
+            <UseLocal>false</UseLocal>
+            <MoveTime>0.000</MoveTime>
+            <MoveX>0.000</MoveX>
+            <MoveY>0.000</MoveY>
+            <MoveZ>0.000</MoveZ>
+            <MoveDelay>-1.000</MoveDelay>
+            <RotateAngleX>0.000</RotateAngleX>
+            <RotateAngleY>0.000</RotateAngleY>
+            <RotateAngleZ>0.000</RotateAngleZ>
+            <Loop>false</Loop>
+            <CanReverse>false</CanReverse>
+            <LoopDelay>0.000</LoopDelay>
+            <LoopCount>-1</LoopCount>
+            <UseInteraction>false</UseInteraction>
+            <InteractionDelay>0.000</InteractionDelay>
+        </PROPERTY>
+        <TOOL>
+            <LAYER>Dyn_object</LAYER>
+            <VISIBLE>true</VISIBLE>
+            <EDITABLE>false</EDITABLE>
+        </TOOL>
+    </OBJECT>
+    <OBJECT>
+        <COMMON>
+            <POSITION x="-1425.000000" y="400.000000" z="2172.129150" />
+            <DIRECTION x="0.000000" y="1.000000" z="0.000000" />
+            <UP x="0.000000" y="0.000000" z="1.000000" />
+        </COMMON>
+        <PROPERTY>
+            <NAME>lighting_chandelier_g4</NAME>
+            <DEFINITION>lighting_chandelier_g01</DEFINITION>
+            <PartsColor>ffffff</PartsColor>
+            <Show>true</Show>
+            <MoveByScript>false</MoveByScript>
+            <Activate>false</Activate>
+            <UseLocal>false</UseLocal>
+            <MoveTime>0.000</MoveTime>
+            <MoveX>0.000</MoveX>
+            <MoveY>0.000</MoveY>
+            <MoveZ>0.000</MoveZ>
+            <MoveDelay>-1.000</MoveDelay>
+            <RotateAngleX>0.000</RotateAngleX>
+            <RotateAngleY>0.000</RotateAngleY>
+            <RotateAngleZ>0.000</RotateAngleZ>
+            <Loop>false</Loop>
+            <CanReverse>false</CanReverse>
+            <LoopDelay>0.000</LoopDelay>
+            <LoopCount>-1</LoopCount>
+            <UseInteraction>false</UseInteraction>
+            <InteractionDelay>0.000</InteractionDelay>
+        </PROPERTY>
+        <TOOL>
+            <LAYER>Dyn_object</LAYER>
+            <VISIBLE>true</VISIBLE>
+            <EDITABLE>false</EDITABLE>
+        </TOOL>
+    </OBJECT>
+    <OBJECT>
+        <COMMON>
+            <POSITION x="-1425.000000" y="1200.000000" z="2172.129150" />
+            <DIRECTION x="0.000000" y="1.000000" z="0.000000" />
+            <UP x="0.000000" y="0.000000" z="1.000000" />
+        </COMMON>
+        <PROPERTY>
+            <NAME>lighting_chandelier_g5</NAME>
+            <DEFINITION>lighting_chandelier_g01</DEFINITION>
+            <PartsColor>ffffff</PartsColor>
+            <Show>true</Show>
+            <MoveByScript>false</MoveByScript>
+            <Activate>false</Activate>
+            <UseLocal>false</UseLocal>
+            <MoveTime>0.000</MoveTime>
+            <MoveX>0.000</MoveX>
+            <MoveY>0.000</MoveY>
+            <MoveZ>0.000</MoveZ>
+            <MoveDelay>-1.000</MoveDelay>
+            <RotateAngleX>0.000</RotateAngleX>
+            <RotateAngleY>0.000</RotateAngleY>
+            <RotateAngleZ>0.000</RotateAngleZ>
+            <Loop>false</Loop>
+            <CanReverse>false</CanReverse>
+            <LoopDelay>0.000</LoopDelay>
+            <LoopCount>-1</LoopCount>
+            <UseInteraction>false</UseInteraction>
+            <InteractionDelay>0.000</InteractionDelay>
+        </PROPERTY>
+        <TOOL>
+            <LAYER>Dyn_object</LAYER>
+            <VISIBLE>true</VISIBLE>
+            <EDITABLE>false</EDITABLE>
+        </TOOL>
+    </OBJECT>
+    <OBJECT>
+        <COMMON>
+            <POSITION x="1425.000000" y="-2000.000000" z="2172.129150" />
+            <DIRECTION x="0.000000" y="1.000000" z="0.000000" />
+            <UP x="0.000000" y="0.000000" z="1.000000" />
+        </COMMON>
+        <PROPERTY>
+            <NAME>lighting_chandelier_g7</NAME>
+            <DEFINITION>lighting_chandelier_g01</DEFINITION>
+            <PartsColor>ffffff</PartsColor>
+            <Show>true</Show>
+            <MoveByScript>false</MoveByScript>
+            <Activate>false</Activate>
+            <UseLocal>false</UseLocal>
+            <MoveTime>0.000</MoveTime>
+            <MoveX>0.000</MoveX>
+            <MoveY>0.000</MoveY>
+            <MoveZ>0.000</MoveZ>
+            <MoveDelay>-1.000</MoveDelay>
+            <RotateAngleX>0.000</RotateAngleX>
+            <RotateAngleY>0.000</RotateAngleY>
+            <RotateAngleZ>0.000</RotateAngleZ>
+            <Loop>false</Loop>
+            <CanReverse>false</CanReverse>
+            <LoopDelay>0.000</LoopDelay>
+            <LoopCount>-1</LoopCount>
+            <UseInteraction>false</UseInteraction>
+            <InteractionDelay>0.000</InteractionDelay>
+        </PROPERTY>
+        <TOOL>
+            <LAYER>Dyn_object</LAYER>
+            <VISIBLE>true</VISIBLE>
+            <EDITABLE>false</EDITABLE>
+        </TOOL>
+    </OBJECT>
+    <OBJECT>
+        <COMMON>
+            <POSITION x="1425.000000" y="-1200.000000" z="2172.129150" />
+            <DIRECTION x="0.000000" y="1.000000" z="0.000000" />
+            <UP x="0.000000" y="0.000000" z="1.000000" />
+        </COMMON>
+        <PROPERTY>
+            <NAME>lighting_chandelier_g8</NAME>
+            <DEFINITION>lighting_chandelier_g01</DEFINITION>
+            <PartsColor>ffffff</PartsColor>
+            <Show>true</Show>
+            <MoveByScript>false</MoveByScript>
+            <Activate>false</Activate>
+            <UseLocal>false</UseLocal>
+            <MoveTime>0.000</MoveTime>
+            <MoveX>0.000</MoveX>
+            <MoveY>0.000</MoveY>
+            <MoveZ>0.000</MoveZ>
+            <MoveDelay>-1.000</MoveDelay>
+            <RotateAngleX>0.000</RotateAngleX>
+            <RotateAngleY>0.000</RotateAngleY>
+            <RotateAngleZ>0.000</RotateAngleZ>
+            <Loop>false</Loop>
+            <CanReverse>false</CanReverse>
+            <LoopDelay>0.000</LoopDelay>
+            <LoopCount>-1</LoopCount>
+            <UseInteraction>false</UseInteraction>
+            <InteractionDelay>0.000</InteractionDelay>
+        </PROPERTY>
+        <TOOL>
+            <LAYER>Dyn_object</LAYER>
+            <VISIBLE>true</VISIBLE>
+            <EDITABLE>false</EDITABLE>
+        </TOOL>
+    </OBJECT>
+    <OBJECT>
+        <COMMON>
+            <POSITION x="1425.000000" y="-400.000000" z="2172.129150" />
+            <DIRECTION x="0.000000" y="1.000000" z="0.000000" />
+            <UP x="0.000000" y="0.000000" z="1.000000" />
+        </COMMON>
+        <PROPERTY>
+            <NAME>lighting_chandelier_g9</NAME>
+            <DEFINITION>lighting_chandelier_g01</DEFINITION>
+            <PartsColor>ffffff</PartsColor>
+            <Show>true</Show>
+            <MoveByScript>false</MoveByScript>
+            <Activate>false</Activate>
+            <UseLocal>false</UseLocal>
+            <MoveTime>0.000</MoveTime>
+            <MoveX>0.000</MoveX>
+            <MoveY>0.000</MoveY>
+            <MoveZ>0.000</MoveZ>
+            <MoveDelay>-1.000</MoveDelay>
+            <RotateAngleX>0.000</RotateAngleX>
+            <RotateAngleY>0.000</RotateAngleY>
+            <RotateAngleZ>0.000</RotateAngleZ>
+            <Loop>false</Loop>
+            <CanReverse>false</CanReverse>
+            <LoopDelay>0.000</LoopDelay>
+            <LoopCount>-1</LoopCount>
+            <UseInteraction>false</UseInteraction>
+            <InteractionDelay>0.000</InteractionDelay>
+        </PROPERTY>
+        <TOOL>
+            <LAYER>Dyn_object</LAYER>
+            <VISIBLE>true</VISIBLE>
+            <EDITABLE>false</EDITABLE>
+        </TOOL>
+    </OBJECT>
+    <OBJECT>
+        <COMMON>
+            <POSITION x="1425.000000" y="400.000000" z="2172.129150" />
+            <DIRECTION x="0.000000" y="1.000000" z="0.000000" />
+            <UP x="0.000000" y="0.000000" z="1.000000" />
+        </COMMON>
+        <PROPERTY>
+            <NAME>lighting_chandelier_g10</NAME>
+            <DEFINITION>lighting_chandelier_g01</DEFINITION>
+            <PartsColor>ffffff</PartsColor>
+            <Show>true</Show>
+            <MoveByScript>false</MoveByScript>
+            <Activate>false</Activate>
+            <UseLocal>false</UseLocal>
+            <MoveTime>0.000</MoveTime>
+            <MoveX>0.000</MoveX>
+            <MoveY>0.000</MoveY>
+            <MoveZ>0.000</MoveZ>
+            <MoveDelay>-1.000</MoveDelay>
+            <RotateAngleX>0.000</RotateAngleX>
+            <RotateAngleY>0.000</RotateAngleY>
+            <RotateAngleZ>0.000</RotateAngleZ>
+            <Loop>false</Loop>
+            <CanReverse>false</CanReverse>
+            <LoopDelay>0.000</LoopDelay>
+            <LoopCount>-1</LoopCount>
+            <UseInteraction>false</UseInteraction>
+            <InteractionDelay>0.000</InteractionDelay>
+        </PROPERTY>
+        <TOOL>
+            <LAYER>Dyn_object</LAYER>
+            <VISIBLE>true</VISIBLE>
+            <EDITABLE>false</EDITABLE>
+        </TOOL>
+    </OBJECT>
+    <OBJECT>
+        <COMMON>
+            <POSITION x="1425.000000" y="1200.000000" z="2172.129150" />
+            <DIRECTION x="0.000000" y="1.000000" z="0.000000" />
+            <UP x="0.000000" y="0.000000" z="1.000000" />
+        </COMMON>
+        <PROPERTY>
+            <NAME>lighting_chandelier_g11</NAME>
+            <DEFINITION>lighting_chandelier_g01</DEFINITION>
+            <PartsColor>ffffff</PartsColor>
+            <Show>true</Show>
+            <MoveByScript>false</MoveByScript>
+            <Activate>false</Activate>
+            <UseLocal>false</UseLocal>
+            <MoveTime>0.000</MoveTime>
+            <MoveX>0.000</MoveX>
+            <MoveY>0.000</MoveY>
+            <MoveZ>0.000</MoveZ>
+            <MoveDelay>-1.000</MoveDelay>
+            <RotateAngleX>0.000</RotateAngleX>
+            <RotateAngleY>0.000</RotateAngleY>
+            <RotateAngleZ>0.000</RotateAngleZ>
+            <Loop>false</Loop>
+            <CanReverse>false</CanReverse>
+            <LoopDelay>0.000</LoopDelay>
+            <LoopCount>-1</LoopCount>
+            <UseInteraction>false</UseInteraction>
+            <InteractionDelay>0.000</InteractionDelay>
+        </PROPERTY>
+        <TOOL>
+            <LAYER>Dyn_object</LAYER>
+            <VISIBLE>true</VISIBLE>
+            <EDITABLE>false</EDITABLE>
+        </TOOL>
+    </OBJECT>
+    <OBJECT>
+        <COMMON>
+            <POSITION x="4770.000000" y="-1330.000000" z="1400.000000" />
+            <DIRECTION x="0.000000" y="1.000000" z="0.000000" />
+            <UP x="0.000000" y="0.000000" z="1.000000" />
+        </COMMON>
+        <PROPERTY>
+            <NAME>lighting_chandelier_g14</NAME>
+            <DEFINITION>lighting_chandelier_g01</DEFINITION>
+            <PartsColor>ffffff</PartsColor>
+            <Show>true</Show>
+            <MoveByScript>false</MoveByScript>
+            <Activate>false</Activate>
+            <UseLocal>false</UseLocal>
+            <MoveTime>0.000</MoveTime>
+            <MoveX>0.000</MoveX>
+            <MoveY>0.000</MoveY>
+            <MoveZ>0.000</MoveZ>
+            <MoveDelay>-1.000</MoveDelay>
+            <RotateAngleX>0.000</RotateAngleX>
+            <RotateAngleY>0.000</RotateAngleY>
+            <RotateAngleZ>0.000</RotateAngleZ>
+            <Loop>false</Loop>
+            <CanReverse>false</CanReverse>
+            <LoopDelay>0.000</LoopDelay>
+            <LoopCount>-1</LoopCount>
+            <UseInteraction>false</UseInteraction>
+            <InteractionDelay>0.000</InteractionDelay>
+        </PROPERTY>
+        <TOOL>
+            <LAYER>Dyn_object</LAYER>
+            <VISIBLE>true</VISIBLE>
+            <EDITABLE>false</EDITABLE>
+        </TOOL>
+    </OBJECT>
+    <OBJECT>
+        <COMMON>
+            <POSITION x="5680.000000" y="-1330.000000" z="1400.000000" />
+            <DIRECTION x="0.000000" y="1.000000" z="0.000000" />
+            <UP x="0.000000" y="0.000000" z="1.000000" />
+        </COMMON>
+        <PROPERTY>
+            <NAME>lighting_chandelier_g15</NAME>
+            <DEFINITION>lighting_chandelier_g01</DEFINITION>
+            <PartsColor>ffffff</PartsColor>
+            <Show>true</Show>
+            <MoveByScript>false</MoveByScript>
+            <Activate>false</Activate>
+            <UseLocal>false</UseLocal>
+            <MoveTime>0.000</MoveTime>
+            <MoveX>0.000</MoveX>
+            <MoveY>0.000</MoveY>
+            <MoveZ>0.000</MoveZ>
+            <MoveDelay>-1.000</MoveDelay>
+            <RotateAngleX>0.000</RotateAngleX>
+            <RotateAngleY>0.000</RotateAngleY>
+            <RotateAngleZ>0.000</RotateAngleZ>
+            <Loop>false</Loop>
+            <CanReverse>false</CanReverse>
+            <LoopDelay>0.000</LoopDelay>
+            <LoopCount>-1</LoopCount>
+            <UseInteraction>false</UseInteraction>
+            <InteractionDelay>0.000</InteractionDelay>
+        </PROPERTY>
+        <TOOL>
+            <LAYER>Dyn_object</LAYER>
+            <VISIBLE>true</VISIBLE>
+            <EDITABLE>false</EDITABLE>
+        </TOOL>
+    </OBJECT>
+    <SCENEOBJECT>
+        <COMMON>
+            <POSITION x="-2167.000000" y="-2600.000000" z="225.000000" />
+            <DIRECTION x="0.000000" y="-1.000000" z="0.000000" />
+            <UP x="0.000000" y="0.000000" z="1.000000" />
+        </COMMON>
+        <PROPERTY>
+            <NAME>prop_light_wall_02_on</NAME>
+            <SceneFileName>prop_light_wall_02_on.scene.xml</SceneFileName>
+            <Show>true</Show>
+            <PartsColor>ffffff</PartsColor>
+            <UMBRAID>100016</UMBRAID>
+        </PROPERTY>
+        <TOOL>
+            <LAYER>Prop</LAYER>
+            <VISIBLE>true</VISIBLE>
+            <EDITABLE>true</EDITABLE>
+        </TOOL>
+    </SCENEOBJECT>
+    <SCENEOBJECT>
+        <COMMON>
+            <POSITION x="-2790.000000" y="-2600.000000" z="-130.000000" />
+            <DIRECTION x="0.000000" y="-1.000000" z="0.000000" />
+            <UP x="0.000000" y="0.000000" z="1.000000" />
+        </COMMON>
+        <PROPERTY>
+            <NAME>prop_light_wall_02_on14</NAME>
+            <SceneFileName>prop_light_wall_02_on.scene.xml</SceneFileName>
+            <Show>true</Show>
+            <PartsColor>ffffff</PartsColor>
+            <UMBRAID>100017</UMBRAID>
+        </PROPERTY>
+        <TOOL>
+            <LAYER>Prop</LAYER>
+            <VISIBLE>true</VISIBLE>
+            <EDITABLE>true</EDITABLE>
+        </TOOL>
+    </SCENEOBJECT>
+    <SCENEOBJECT>
+        <COMMON>
+            <POSITION x="-2760.000000" y="-2050.000000" z="-134.000000" />
+            <DIRECTION x="-0.000000" y="1.000000" z="0.000000" />
+            <UP x="0.000000" y="0.000000" z="1.000000" />
+        </COMMON>
+        <PROPERTY>
+            <NAME>prop_light_wall_02_on15</NAME>
+            <SceneFileName>prop_light_wall_02_on.scene.xml</SceneFileName>
+            <Show>true</Show>
+            <PartsColor>ffffff</PartsColor>
+            <UMBRAID>100018</UMBRAID>
+        </PROPERTY>
+        <TOOL>
+            <LAYER>Prop</LAYER>
+            <VISIBLE>true</VISIBLE>
+            <EDITABLE>true</EDITABLE>
+        </TOOL>
+    </SCENEOBJECT>
+    <SCENEOBJECT>
+        <COMMON>
+            <POSITION x="-2210.000000" y="-2300.000000" z="-450.000000" />
+            <DIRECTION x="0.000000" y="-1.000000" z="0.000000" />
+            <UP x="0.000000" y="0.000000" z="1.000000" />
+        </COMMON>
+        <PROPERTY>
+            <NAME>prop_light_wall_02_on16</NAME>
+            <SceneFileName>prop_light_wall_02_on.scene.xml</SceneFileName>
+            <Show>true</Show>
+            <PartsColor>ffffff</PartsColor>
+            <UMBRAID>100019</UMBRAID>
+        </PROPERTY>
+        <TOOL>
+            <LAYER>Prop</LAYER>
+            <VISIBLE>true</VISIBLE>
+            <EDITABLE>true</EDITABLE>
+        </TOOL>
+    </SCENEOBJECT>
+    <SCENEOBJECT>
+        <COMMON>
+            <POSITION x="5026.000000" y="-1868.000000" z="905.000000" />
+            <DIRECTION x="0.000000" y="1.000000" z="0.000000" />
+            <UP x="0.000000" y="0.000000" z="1.000000" />
+        </COMMON>
+        <PROPERTY>
+            <NAME>prop_light_wall_01_on10</NAME>
+            <SceneFileName>prop_light_wall_01_on.scene.xml</SceneFileName>
+            <Show>true</Show>
+            <PartsColor>ffffff</PartsColor>
+            <UMBRAID>100020</UMBRAID>
+        </PROPERTY>
+        <TOOL>
+            <LAYER>Prop</LAYER>
+            <VISIBLE>true</VISIBLE>
+            <EDITABLE>true</EDITABLE>
+        </TOOL>
+    </SCENEOBJECT>
+    <SCENEOBJECT>
+        <COMMON>
+            <POSITION x="5425.000000" y="-1868.000000" z="905.000000" />
+            <DIRECTION x="0.000000" y="1.000000" z="0.000000" />
+            <UP x="0.000000" y="0.000000" z="1.000000" />
+        </COMMON>
+        <PROPERTY>
+            <NAME>prop_light_wall_01_on11</NAME>
+            <SceneFileName>prop_light_wall_01_on.scene.xml</SceneFileName>
+            <Show>true</Show>
+            <PartsColor>ffffff</PartsColor>
+            <UMBRAID>100021</UMBRAID>
+        </PROPERTY>
+        <TOOL>
+            <LAYER>Prop</LAYER>
+            <VISIBLE>true</VISIBLE>
+            <EDITABLE>true</EDITABLE>
+        </TOOL>
+    </SCENEOBJECT>
+    <SCENEOBJECT>
+        <COMMON>
+            <POSITION x="2274.000000" y="-2601.000000" z="165.000000" />
+            <DIRECTION x="0.000000" y="-1.000000" z="0.000000" />
+            <UP x="0.000000" y="0.000000" z="1.000000" />
+        </COMMON>
+        <PROPERTY>
+            <NAME>prop_light_wall_02_on17</NAME>
+            <SceneFileName>prop_light_wall_02_on.scene.xml</SceneFileName>
+            <Show>true</Show>
+            <PartsColor>ffffff</PartsColor>
+            <UMBRAID>100022</UMBRAID>
+        </PROPERTY>
+        <TOOL>
+            <LAYER>Prop</LAYER>
+            <VISIBLE>true</VISIBLE>
+            <EDITABLE>true</EDITABLE>
+        </TOOL>
+    </SCENEOBJECT>
+    <SCENEOBJECT>
+        <COMMON>
+            <POSITION x="2222.000000" y="-2300.000000" z="-458.000000" />
+            <DIRECTION x="0.000000" y="-1.000000" z="0.000000" />
+            <UP x="0.000000" y="0.000000" z="1.000000" />
+        </COMMON>
+        <PROPERTY>
+            <NAME>prop_light_wall_02_on18</NAME>
+            <SceneFileName>prop_light_wall_02_on.scene.xml</SceneFileName>
+            <Show>true</Show>
+            <PartsColor>ffffff</PartsColor>
+            <UMBRAID>100023</UMBRAID>
+        </PROPERTY>
+        <TOOL>
+            <LAYER>Prop</LAYER>
+            <VISIBLE>true</VISIBLE>
+            <EDITABLE>true</EDITABLE>
+        </TOOL>
+    </SCENEOBJECT>
+    <SCENEOBJECT>
+        <COMMON>
+            <POSITION x="1708.000000" y="-2300.000000" z="-564.000000" />
+            <DIRECTION x="0.000000" y="-1.000000" z="0.000000" />
+            <UP x="0.000000" y="0.000000" z="1.000000" />
+        </COMMON>
+        <PROPERTY>
+            <NAME>prop_light_wall_02_on19</NAME>
+            <SceneFileName>prop_light_wall_02_on.scene.xml</SceneFileName>
+            <Show>true</Show>
+            <PartsColor>ffffff</PartsColor>
+            <UMBRAID>100024</UMBRAID>
+        </PROPERTY>
+        <TOOL>
+            <LAYER>Prop</LAYER>
+            <VISIBLE>true</VISIBLE>
+            <EDITABLE>true</EDITABLE>
+        </TOOL>
+    </SCENEOBJECT>
+    <OBJECT>
+        <COMMON>
+            <POSITION x="-1284.000000" y="-3127.000000" z="171.186417" />
+            <DIRECTION x="1.000000" y="0.000000" z="0.000000" />
+            <UP x="0.000000" y="0.000000" z="1.000000" />
+        </COMMON>
+        <PROPERTY>
+            <NAME>OBJECT52</NAME>
+            <DEFINITION>prop_pottery_stand_k02_phy</DEFINITION>
+            <PartsColor>ffffff</PartsColor>
+            <Show>true</Show>
+            <MoveByScript>false</MoveByScript>
+            <Activate>false</Activate>
+            <UseLocal>false</UseLocal>
+            <MoveTime>0.000</MoveTime>
+            <MoveX>0.000</MoveX>
+            <MoveY>0.000</MoveY>
+            <MoveZ>0.000</MoveZ>
+            <MoveDelay>-1.000</MoveDelay>
+            <RotateAngleX>0.000</RotateAngleX>
+            <RotateAngleY>0.000</RotateAngleY>
+            <RotateAngleZ>0.000</RotateAngleZ>
+            <Loop>false</Loop>
+            <CanReverse>false</CanReverse>
+            <LoopDelay>0.000</LoopDelay>
+            <LoopCount>-1</LoopCount>
+            <UseInteraction>false</UseInteraction>
+            <InteractionDelay>0.000</InteractionDelay>
+        </PROPERTY>
+        <TOOL>
+            <LAYER>Dyn_object</LAYER>
+            <VISIBLE>true</VISIBLE>
+            <EDITABLE>false</EDITABLE>
+        </TOOL>
+    </OBJECT>
+    <OBJECT>
+        <COMMON>
+            <POSITION x="1283.000000" y="-3127.000000" z="171.186417" />
+            <DIRECTION x="1.000000" y="0.000000" z="0.000000" />
+            <UP x="0.000000" y="0.000000" z="1.000000" />
+        </COMMON>
+        <PROPERTY>
+            <NAME>OBJECT53</NAME>
+            <DEFINITION>prop_pottery_stand_k02_phy</DEFINITION>
+            <PartsColor>ffffff</PartsColor>
+            <Show>true</Show>
+            <MoveByScript>false</MoveByScript>
+            <Activate>false</Activate>
+            <UseLocal>false</UseLocal>
+            <MoveTime>0.000</MoveTime>
+            <MoveX>0.000</MoveX>
+            <MoveY>0.000</MoveY>
+            <MoveZ>0.000</MoveZ>
+            <MoveDelay>-1.000</MoveDelay>
+            <RotateAngleX>0.000</RotateAngleX>
+            <RotateAngleY>0.000</RotateAngleY>
+            <RotateAngleZ>0.000</RotateAngleZ>
+            <Loop>false</Loop>
+            <CanReverse>false</CanReverse>
+            <LoopDelay>0.000</LoopDelay>
+            <LoopCount>-1</LoopCount>
+            <UseInteraction>false</UseInteraction>
+            <InteractionDelay>0.000</InteractionDelay>
+        </PROPERTY>
+        <TOOL>
+            <LAYER>Dyn_object</LAYER>
+            <VISIBLE>true</VISIBLE>
+            <EDITABLE>false</EDITABLE>
+        </TOOL>
+    </OBJECT>
+    <OBJECT>
+        <COMMON>
+            <POSITION x="1572.000000" y="-615.000000" z="765.000000" />
+            <DIRECTION x="-1.000000" y="-0.000000" z="0.000000" />
+            <UP x="0.000000" y="0.000000" z="1.000000" />
+        </COMMON>
+        <PROPERTY>
+            <NAME>OBJECT54</NAME>
+            <DEFINITION>prop_pottery_stand_k02_phy</DEFINITION>
+            <PartsColor>ffffff</PartsColor>
+            <Show>true</Show>
+            <MoveByScript>false</MoveByScript>
+            <Activate>false</Activate>
+            <UseLocal>false</UseLocal>
+            <MoveTime>0.000</MoveTime>
+            <MoveX>0.000</MoveX>
+            <MoveY>0.000</MoveY>
+            <MoveZ>0.000</MoveZ>
+            <MoveDelay>-1.000</MoveDelay>
+            <RotateAngleX>0.000</RotateAngleX>
+            <RotateAngleY>0.000</RotateAngleY>
+            <RotateAngleZ>0.000</RotateAngleZ>
+            <Loop>false</Loop>
+            <CanReverse>false</CanReverse>
+            <LoopDelay>0.000</LoopDelay>
+            <LoopCount>-1</LoopCount>
+            <UseInteraction>false</UseInteraction>
+            <InteractionDelay>0.000</InteractionDelay>
+        </PROPERTY>
+        <TOOL>
+            <LAYER>Dyn_object</LAYER>
+            <VISIBLE>true</VISIBLE>
+            <EDITABLE>false</EDITABLE>
+        </TOOL>
+    </OBJECT>
+    <OBJECT>
+        <COMMON>
+            <POSITION x="1577.000000" y="990.000000" z="765.000000" />
+            <DIRECTION x="-1.000000" y="-0.000000" z="0.000000" />
+            <UP x="0.000000" y="0.000000" z="1.000000" />
+        </COMMON>
+        <PROPERTY>
+            <NAME>OBJECT55</NAME>
+            <DEFINITION>prop_pottery_stand_k02_phy</DEFINITION>
+            <PartsColor>ffffff</PartsColor>
+            <Show>true</Show>
+            <MoveByScript>false</MoveByScript>
+            <Activate>false</Activate>
+            <UseLocal>false</UseLocal>
+            <MoveTime>0.000</MoveTime>
+            <MoveX>0.000</MoveX>
+            <MoveY>0.000</MoveY>
+            <MoveZ>0.000</MoveZ>
+            <MoveDelay>-1.000</MoveDelay>
+            <RotateAngleX>0.000</RotateAngleX>
+            <RotateAngleY>0.000</RotateAngleY>
+            <RotateAngleZ>0.000</RotateAngleZ>
+            <Loop>false</Loop>
+            <CanReverse>false</CanReverse>
+            <LoopDelay>0.000</LoopDelay>
+            <LoopCount>-1</LoopCount>
+            <UseInteraction>false</UseInteraction>
+            <InteractionDelay>0.000</InteractionDelay>
+        </PROPERTY>
+        <TOOL>
+            <LAYER>Dyn_object</LAYER>
+            <VISIBLE>true</VISIBLE>
+            <EDITABLE>false</EDITABLE>
+        </TOOL>
+    </OBJECT>
+    <OBJECT>
+        <COMMON>
+            <POSITION x="1584.000000" y="-2590.000000" z="765.000000" />
+            <DIRECTION x="-1.000000" y="-0.000000" z="0.000000" />
+            <UP x="0.000000" y="0.000000" z="1.000000" />
+        </COMMON>
+        <PROPERTY>
+            <NAME>OBJECT56</NAME>
+            <DEFINITION>prop_pottery_stand_k02_phy</DEFINITION>
+            <PartsColor>ffffff</PartsColor>
+            <Show>true</Show>
+            <MoveByScript>false</MoveByScript>
+            <Activate>false</Activate>
+            <UseLocal>false</UseLocal>
+            <MoveTime>0.000</MoveTime>
+            <MoveX>0.000</MoveX>
+            <MoveY>0.000</MoveY>
+            <MoveZ>0.000</MoveZ>
+            <MoveDelay>-1.000</MoveDelay>
+            <RotateAngleX>0.000</RotateAngleX>
+            <RotateAngleY>0.000</RotateAngleY>
+            <RotateAngleZ>0.000</RotateAngleZ>
+            <Loop>false</Loop>
+            <CanReverse>false</CanReverse>
+            <LoopDelay>0.000</LoopDelay>
+            <LoopCount>-1</LoopCount>
+            <UseInteraction>false</UseInteraction>
+            <InteractionDelay>0.000</InteractionDelay>
+        </PROPERTY>
+        <TOOL>
+            <LAYER>Dyn_object</LAYER>
+            <VISIBLE>true</VISIBLE>
+            <EDITABLE>false</EDITABLE>
+        </TOOL>
+    </OBJECT>
+    <OBJECT>
+        <COMMON>
+            <POSITION x="-1596.000000" y="-2590.000000" z="765.000000" />
+            <DIRECTION x="1.000000" y="0.000000" z="0.000000" />
+            <UP x="0.000000" y="0.000000" z="1.000000" />
+        </COMMON>
+        <PROPERTY>
+            <NAME>OBJECT57</NAME>
+            <DEFINITION>prop_pottery_stand_k02_phy</DEFINITION>
+            <PartsColor>ffffff</PartsColor>
+            <Show>true</Show>
+            <MoveByScript>false</MoveByScript>
+            <Activate>false</Activate>
+            <UseLocal>false</UseLocal>
+            <MoveTime>0.000</MoveTime>
+            <MoveX>0.000</MoveX>
+            <MoveY>0.000</MoveY>
+            <MoveZ>0.000</MoveZ>
+            <MoveDelay>-1.000</MoveDelay>
+            <RotateAngleX>0.000</RotateAngleX>
+            <RotateAngleY>0.000</RotateAngleY>
+            <RotateAngleZ>0.000</RotateAngleZ>
+            <Loop>false</Loop>
+            <CanReverse>false</CanReverse>
+            <LoopDelay>0.000</LoopDelay>
+            <LoopCount>-1</LoopCount>
+            <UseInteraction>false</UseInteraction>
+            <InteractionDelay>0.000</InteractionDelay>
+        </PROPERTY>
+        <TOOL>
+            <LAYER>Dyn_object</LAYER>
+            <VISIBLE>true</VISIBLE>
+            <EDITABLE>false</EDITABLE>
+        </TOOL>
+    </OBJECT>
+    <OBJECT>
+        <COMMON>
+            <POSITION x="-1597.000000" y="-984.000000" z="766.000000" />
+            <DIRECTION x="1.000000" y="0.000000" z="0.000000" />
+            <UP x="0.000000" y="0.000000" z="1.000000" />
+        </COMMON>
+        <PROPERTY>
+            <NAME>OBJECT58</NAME>
+            <DEFINITION>prop_pottery_stand_k02_phy</DEFINITION>
+            <PartsColor>ffffff</PartsColor>
+            <Show>true</Show>
+            <MoveByScript>false</MoveByScript>
+            <Activate>false</Activate>
+            <UseLocal>false</UseLocal>
+            <MoveTime>0.000</MoveTime>
+            <MoveX>0.000</MoveX>
+            <MoveY>0.000</MoveY>
+            <MoveZ>0.000</MoveZ>
+            <MoveDelay>-1.000</MoveDelay>
+            <RotateAngleX>0.000</RotateAngleX>
+            <RotateAngleY>0.000</RotateAngleY>
+            <RotateAngleZ>0.000</RotateAngleZ>
+            <Loop>false</Loop>
+            <CanReverse>false</CanReverse>
+            <LoopDelay>0.000</LoopDelay>
+            <LoopCount>-1</LoopCount>
+            <UseInteraction>false</UseInteraction>
+            <InteractionDelay>0.000</InteractionDelay>
+        </PROPERTY>
+        <TOOL>
+            <LAYER>Dyn_object</LAYER>
+            <VISIBLE>true</VISIBLE>
+            <EDITABLE>false</EDITABLE>
+        </TOOL>
+    </OBJECT>
+    <OBJECT>
+        <COMMON>
+            <POSITION x="-1586.000000" y="615.000000" z="766.000000" />
+            <DIRECTION x="1.000000" y="0.000000" z="0.000000" />
+            <UP x="0.000000" y="0.000000" z="1.000000" />
+        </COMMON>
+        <PROPERTY>
+            <NAME>OBJECT59</NAME>
+            <DEFINITION>prop_pottery_stand_k02_phy</DEFINITION>
+            <PartsColor>ffffff</PartsColor>
+            <Show>true</Show>
+            <MoveByScript>false</MoveByScript>
+            <Activate>false</Activate>
+            <UseLocal>false</UseLocal>
+            <MoveTime>0.000</MoveTime>
+            <MoveX>0.000</MoveX>
+            <MoveY>0.000</MoveY>
+            <MoveZ>0.000</MoveZ>
+            <MoveDelay>-1.000</MoveDelay>
+            <RotateAngleX>0.000</RotateAngleX>
+            <RotateAngleY>0.000</RotateAngleY>
+            <RotateAngleZ>0.000</RotateAngleZ>
+            <Loop>false</Loop>
+            <CanReverse>false</CanReverse>
+            <LoopDelay>0.000</LoopDelay>
+            <LoopCount>-1</LoopCount>
+            <UseInteraction>false</UseInteraction>
+            <InteractionDelay>0.000</InteractionDelay>
+        </PROPERTY>
+        <TOOL>
+            <LAYER>Dyn_object</LAYER>
+            <VISIBLE>true</VISIBLE>
+            <EDITABLE>false</EDITABLE>
+        </TOOL>
+    </OBJECT>
+    <OBJECT>
+        <COMMON>
+            <POSITION x="4771.000000" y="-1568.000000" z="601.000000" />
+            <DIRECTION x="-0.500000" y="-0.866025" z="0.000000" />
+            <UP x="0.000000" y="0.000000" z="1.000000" />
+        </COMMON>
+        <PROPERTY>
+            <NAME>OBJECT</NAME>
+            <DEFINITION>mansion_a_dining_chair_01</DEFINITION>
+            <PartsColor>ffffff</PartsColor>
+            <Show>true</Show>
+            <MoveByScript>false</MoveByScript>
+            <Activate>false</Activate>
+            <UseLocal>false</UseLocal>
+            <MoveTime>0.000</MoveTime>
+            <MoveX>0.000</MoveX>
+            <MoveY>0.000</MoveY>
+            <MoveZ>0.000</MoveZ>
+            <MoveDelay>-1.000</MoveDelay>
+            <RotateAngleX>0.000</RotateAngleX>
+            <RotateAngleY>0.000</RotateAngleY>
+            <RotateAngleZ>0.000</RotateAngleZ>
+            <Loop>false</Loop>
+            <CanReverse>false</CanReverse>
+            <LoopDelay>0.000</LoopDelay>
+            <LoopCount>-1</LoopCount>
+            <UseInteraction>false</UseInteraction>
+            <InteractionDelay>0.000</InteractionDelay>
+        </PROPERTY>
+        <TOOL>
+            <LAYER>Dyn_object</LAYER>
+            <VISIBLE>true</VISIBLE>
+            <EDITABLE>false</EDITABLE>
+        </TOOL>
+    </OBJECT>
+    <OBJECT>
+        <COMMON>
+            <POSITION x="5598.000000" y="-1578.000000" z="601.000000" />
+            <DIRECTION x="0.173648" y="-0.984808" z="0.000000" />
+            <UP x="0.000000" y="0.000000" z="1.000000" />
+        </COMMON>
+        <PROPERTY>
+            <NAME>OBJECT61</NAME>
+            <DEFINITION>mansion_a_dining_chair_01</DEFINITION>
+            <PartsColor>ffffff</PartsColor>
+            <Show>true</Show>
+            <MoveByScript>false</MoveByScript>
+            <Activate>false</Activate>
+            <UseLocal>false</UseLocal>
+            <MoveTime>0.000</MoveTime>
+            <MoveX>0.000</MoveX>
+            <MoveY>0.000</MoveY>
+            <MoveZ>0.000</MoveZ>
+            <MoveDelay>-1.000</MoveDelay>
+            <RotateAngleX>0.000</RotateAngleX>
+            <RotateAngleY>0.000</RotateAngleY>
+            <RotateAngleZ>0.000</RotateAngleZ>
+            <Loop>false</Loop>
+            <CanReverse>false</CanReverse>
+            <LoopDelay>0.000</LoopDelay>
+            <LoopCount>-1</LoopCount>
+            <UseInteraction>false</UseInteraction>
+            <InteractionDelay>0.000</InteractionDelay>
+        </PROPERTY>
+        <TOOL>
+            <LAYER>Dyn_object</LAYER>
+            <VISIBLE>true</VISIBLE>
+            <EDITABLE>false</EDITABLE>
+        </TOOL>
+    </OBJECT>
+    <OBJECT>
+        <COMMON>
+            <POSITION x="5197.000000" y="-1584.000000" z="601.000000" />
+            <DIRECTION x="-0.000000" y="-1.000000" z="0.000000" />
+            <UP x="0.000000" y="0.000000" z="1.000000" />
+        </COMMON>
+        <PROPERTY>
+            <NAME>OBJECT62</NAME>
+            <DEFINITION>mansion_a_dining_chair_01</DEFINITION>
+            <PartsColor>ffffff</PartsColor>
+            <Show>true</Show>
+            <MoveByScript>false</MoveByScript>
+            <Activate>false</Activate>
+            <UseLocal>false</UseLocal>
+            <MoveTime>0.000</MoveTime>
+            <MoveX>0.000</MoveX>
+            <MoveY>0.000</MoveY>
+            <MoveZ>0.000</MoveZ>
+            <MoveDelay>-1.000</MoveDelay>
+            <RotateAngleX>0.000</RotateAngleX>
+            <RotateAngleY>0.000</RotateAngleY>
+            <RotateAngleZ>0.000</RotateAngleZ>
+            <Loop>false</Loop>
+            <CanReverse>false</CanReverse>
+            <LoopDelay>0.000</LoopDelay>
+            <LoopCount>-1</LoopCount>
+            <UseInteraction>false</UseInteraction>
+            <InteractionDelay>0.000</InteractionDelay>
+        </PROPERTY>
+        <TOOL>
+            <LAYER>Dyn_object</LAYER>
+            <VISIBLE>true</VISIBLE>
+            <EDITABLE>false</EDITABLE>
+        </TOOL>
+    </OBJECT>
+    <OBJECT>
+        <COMMON>
+            <POSITION x="4819.000000" y="-1060.000000" z="601.000000" />
+            <DIRECTION x="0.258819" y="0.965926" z="0.000000" />
+            <UP x="0.000000" y="0.000000" z="1.000000" />
+        </COMMON>
+        <PROPERTY>
+            <NAME>OBJECT63</NAME>
+            <DEFINITION>mansion_a_dining_chair_01</DEFINITION>
+            <PartsColor>ffffff</PartsColor>
+            <Show>true</Show>
+            <MoveByScript>false</MoveByScript>
+            <Activate>false</Activate>
+            <UseLocal>false</UseLocal>
+            <MoveTime>0.000</MoveTime>
+            <MoveX>0.000</MoveX>
+            <MoveY>0.000</MoveY>
+            <MoveZ>0.000</MoveZ>
+            <MoveDelay>-1.000</MoveDelay>
+            <RotateAngleX>0.000</RotateAngleX>
+            <RotateAngleY>0.000</RotateAngleY>
+            <RotateAngleZ>0.000</RotateAngleZ>
+            <Loop>false</Loop>
+            <CanReverse>false</CanReverse>
+            <LoopDelay>0.000</LoopDelay>
+            <LoopCount>-1</LoopCount>
+            <UseInteraction>false</UseInteraction>
+            <InteractionDelay>0.000</InteractionDelay>
+        </PROPERTY>
+        <TOOL>
+            <LAYER>Dyn_object</LAYER>
+            <VISIBLE>true</VISIBLE>
+            <EDITABLE>false</EDITABLE>
+        </TOOL>
+    </OBJECT>
+    <OBJECT>
+        <COMMON>
+            <POSITION x="5477.000000" y="-1060.000000" z="601.000000" />
+            <DIRECTION x="0.087156" y="0.996195" z="0.000000" />
+            <UP x="0.000000" y="0.000000" z="1.000000" />
+        </COMMON>
+        <PROPERTY>
+            <NAME>OBJECT64</NAME>
+            <DEFINITION>mansion_a_dining_chair_01</DEFINITION>
+            <PartsColor>ffffff</PartsColor>
+            <Show>true</Show>
+            <MoveByScript>false</MoveByScript>
+            <Activate>false</Activate>
+            <UseLocal>false</UseLocal>
+            <MoveTime>0.000</MoveTime>
+            <MoveX>0.000</MoveX>
+            <MoveY>0.000</MoveY>
+            <MoveZ>0.000</MoveZ>
+            <MoveDelay>-1.000</MoveDelay>
+            <RotateAngleX>0.000</RotateAngleX>
+            <RotateAngleY>0.000</RotateAngleY>
+            <RotateAngleZ>0.000</RotateAngleZ>
+            <Loop>false</Loop>
+            <CanReverse>false</CanReverse>
+            <LoopDelay>0.000</LoopDelay>
+            <LoopCount>-1</LoopCount>
+            <UseInteraction>false</UseInteraction>
+            <InteractionDelay>0.000</InteractionDelay>
+        </PROPERTY>
+        <TOOL>
+            <LAYER>Dyn_object</LAYER>
+            <VISIBLE>true</VISIBLE>
+            <EDITABLE>false</EDITABLE>
+        </TOOL>
+    </OBJECT>
+    <OBJECT>
+        <COMMON>
+            <POSITION x="-5356.000000" y="-616.000000" z="600.000000" />
+            <DIRECTION x="0.965926" y="0.258819" z="0.000000" />
+            <UP x="0.000000" y="0.000000" z="1.000000" />
+        </COMMON>
+        <PROPERTY>
+            <NAME>OBJECT</NAME>
+            <DEFINITION>mansion_a_dining_chair_01</DEFINITION>
+            <PartsColor>ffffff</PartsColor>
+            <Show>true</Show>
+            <MoveByScript>false</MoveByScript>
+            <Activate>false</Activate>
+            <UseLocal>false</UseLocal>
+            <MoveTime>0.000</MoveTime>
+            <MoveX>0.000</MoveX>
+            <MoveY>0.000</MoveY>
+            <MoveZ>0.000</MoveZ>
+            <MoveDelay>-1.000</MoveDelay>
+            <RotateAngleX>0.000</RotateAngleX>
+            <RotateAngleY>0.000</RotateAngleY>
+            <RotateAngleZ>0.000</RotateAngleZ>
+            <Loop>false</Loop>
+            <CanReverse>false</CanReverse>
+            <LoopDelay>0.000</LoopDelay>
+            <LoopCount>-1</LoopCount>
+            <UseInteraction>false</UseInteraction>
+            <InteractionDelay>0.000</InteractionDelay>
+        </PROPERTY>
+        <TOOL>
+            <LAYER>Dyn_object</LAYER>
+            <VISIBLE>true</VISIBLE>
+            <EDITABLE>false</EDITABLE>
+        </TOOL>
+    </OBJECT>
+    <OBJECT>
+        <COMMON>
+            <POSITION x="-5378.000000" y="-1287.000000" z="600.000000" />
+            <DIRECTION x="0.996195" y="-0.087156" z="0.000000" />
+            <UP x="0.000000" y="0.000000" z="1.000000" />
+        </COMMON>
+        <PROPERTY>
+            <NAME>OBJECT65</NAME>
+            <DEFINITION>mansion_a_dining_chair_01</DEFINITION>
+            <PartsColor>ffffff</PartsColor>
+            <Show>true</Show>
+            <MoveByScript>false</MoveByScript>
+            <Activate>false</Activate>
+            <UseLocal>false</UseLocal>
+            <MoveTime>0.000</MoveTime>
+            <MoveX>0.000</MoveX>
+            <MoveY>0.000</MoveY>
+            <MoveZ>0.000</MoveZ>
+            <MoveDelay>-1.000</MoveDelay>
+            <RotateAngleX>0.000</RotateAngleX>
+            <RotateAngleY>0.000</RotateAngleY>
+            <RotateAngleZ>0.000</RotateAngleZ>
+            <Loop>false</Loop>
+            <CanReverse>false</CanReverse>
+            <LoopDelay>0.000</LoopDelay>
+            <LoopCount>-1</LoopCount>
+            <UseInteraction>false</UseInteraction>
+            <InteractionDelay>0.000</InteractionDelay>
+        </PROPERTY>
+        <TOOL>
+            <LAYER>Dyn_object</LAYER>
+            <VISIBLE>true</VISIBLE>
+            <EDITABLE>false</EDITABLE>
+        </TOOL>
+    </OBJECT>
+    <OBJECT>
+        <COMMON>
+            <POSITION x="-5773.000000" y="-1288.000000" z="600.000000" />
+            <DIRECTION x="-0.984808" y="-0.173648" z="0.000000" />
+            <UP x="0.000000" y="0.000000" z="1.000000" />
+        </COMMON>
+        <PROPERTY>
+            <NAME>OBJECT66</NAME>
+            <DEFINITION>mansion_a_dining_chair_01</DEFINITION>
+            <PartsColor>ffffff</PartsColor>
+            <Show>true</Show>
+            <MoveByScript>false</MoveByScript>
+            <Activate>false</Activate>
+            <UseLocal>false</UseLocal>
+            <MoveTime>0.000</MoveTime>
+            <MoveX>0.000</MoveX>
+            <MoveY>0.000</MoveY>
+            <MoveZ>0.000</MoveZ>
+            <MoveDelay>-1.000</MoveDelay>
+            <RotateAngleX>0.000</RotateAngleX>
+            <RotateAngleY>0.000</RotateAngleY>
+            <RotateAngleZ>0.000</RotateAngleZ>
+            <Loop>false</Loop>
+            <CanReverse>false</CanReverse>
+            <LoopDelay>0.000</LoopDelay>
+            <LoopCount>-1</LoopCount>
+            <UseInteraction>false</UseInteraction>
+            <InteractionDelay>0.000</InteractionDelay>
+        </PROPERTY>
+        <TOOL>
+            <LAYER>Dyn_object</LAYER>
+            <VISIBLE>true</VISIBLE>
+            <EDITABLE>false</EDITABLE>
+        </TOOL>
+    </OBJECT>
+    <OBJECT>
+        <COMMON>
+            <POSITION x="-5773.000000" y="-950.000000" z="600.000000" />
+            <DIRECTION x="-1.000000" y="-0.000000" z="0.000000" />
+            <UP x="0.000000" y="0.000000" z="1.000000" />
+        </COMMON>
+        <PROPERTY>
+            <NAME>OBJECT67</NAME>
+            <DEFINITION>mansion_a_dining_chair_01</DEFINITION>
+            <PartsColor>ffffff</PartsColor>
+            <Show>true</Show>
+            <MoveByScript>false</MoveByScript>
+            <Activate>false</Activate>
+            <UseLocal>false</UseLocal>
+            <MoveTime>0.000</MoveTime>
+            <MoveX>0.000</MoveX>
+            <MoveY>0.000</MoveY>
+            <MoveZ>0.000</MoveZ>
+            <MoveDelay>-1.000</MoveDelay>
+            <RotateAngleX>0.000</RotateAngleX>
+            <RotateAngleY>0.000</RotateAngleY>
+            <RotateAngleZ>0.000</RotateAngleZ>
+            <Loop>false</Loop>
+            <CanReverse>false</CanReverse>
+            <LoopDelay>0.000</LoopDelay>
+            <LoopCount>-1</LoopCount>
+            <UseInteraction>false</UseInteraction>
+            <InteractionDelay>0.000</InteractionDelay>
+        </PROPERTY>
+        <TOOL>
+            <LAYER>Dyn_object</LAYER>
+            <VISIBLE>true</VISIBLE>
+            <EDITABLE>false</EDITABLE>
+        </TOOL>
+    </OBJECT>
+    <OBJECT>
+        <COMMON>
+            <POSITION x="-5065.000000" y="-1222.000000" z="600.000000" />
+            <DIRECTION x="-0.866025" y="-0.500000" z="0.000000" />
+            <UP x="0.000000" y="0.000000" z="1.000000" />
+        </COMMON>
+        <PROPERTY>
+            <NAME>OBJECT68</NAME>
+            <DEFINITION>mansion_a_dining_chair_01</DEFINITION>
+            <PartsColor>ffffff</PartsColor>
+            <Show>true</Show>
+            <MoveByScript>false</MoveByScript>
+            <Activate>false</Activate>
+            <UseLocal>false</UseLocal>
+            <MoveTime>0.000</MoveTime>
+            <MoveX>0.000</MoveX>
+            <MoveY>0.000</MoveY>
+            <MoveZ>0.000</MoveZ>
+            <MoveDelay>-1.000</MoveDelay>
+            <RotateAngleX>0.000</RotateAngleX>
+            <RotateAngleY>0.000</RotateAngleY>
+            <RotateAngleZ>0.000</RotateAngleZ>
+            <Loop>false</Loop>
+            <CanReverse>false</CanReverse>
+            <LoopDelay>0.000</LoopDelay>
+            <LoopCount>-1</LoopCount>
+            <UseInteraction>false</UseInteraction>
+            <InteractionDelay>0.000</InteractionDelay>
+        </PROPERTY>
+        <TOOL>
+            <LAYER>Dyn_object</LAYER>
+            <VISIBLE>true</VISIBLE>
+            <EDITABLE>false</EDITABLE>
+        </TOOL>
+    </OBJECT>
+    <OBJECT>
+        <COMMON>
+            <POSITION x="-5065.000000" y="-724.000000" z="600.000000" />
+            <DIRECTION x="-0.984808" y="0.173648" z="0.000000" />
+            <UP x="0.000000" y="0.000000" z="1.000000" />
+        </COMMON>
+        <PROPERTY>
+            <NAME>OBJECT69</NAME>
+            <DEFINITION>mansion_a_dining_chair_01</DEFINITION>
+            <PartsColor>ffffff</PartsColor>
+            <Show>true</Show>
+            <MoveByScript>false</MoveByScript>
+            <Activate>false</Activate>
+            <UseLocal>false</UseLocal>
+            <MoveTime>0.000</MoveTime>
+            <MoveX>0.000</MoveX>
+            <MoveY>0.000</MoveY>
+            <MoveZ>0.000</MoveZ>
+            <MoveDelay>-1.000</MoveDelay>
+            <RotateAngleX>0.000</RotateAngleX>
+            <RotateAngleY>0.000</RotateAngleY>
+            <RotateAngleZ>0.000</RotateAngleZ>
+            <Loop>false</Loop>
+            <CanReverse>false</CanReverse>
+            <LoopDelay>0.000</LoopDelay>
+            <LoopCount>-1</LoopCount>
+            <UseInteraction>false</UseInteraction>
+            <InteractionDelay>0.000</InteractionDelay>
+        </PROPERTY>
+        <TOOL>
+            <LAYER>Dyn_object</LAYER>
+            <VISIBLE>true</VISIBLE>
+            <EDITABLE>false</EDITABLE>
+        </TOOL>
+    </OBJECT>
+    <OBJECT>
+        <COMMON>
+            <POSITION x="-4669.000000" y="-677.000000" z="600.000000" />
+            <DIRECTION x="0.996195" y="0.087156" z="0.000000" />
+            <UP x="0.000000" y="0.000000" z="1.000000" />
+        </COMMON>
+        <PROPERTY>
+            <NAME>OBJECT70</NAME>
+            <DEFINITION>mansion_a_dining_chair_01</DEFINITION>
+            <PartsColor>ffffff</PartsColor>
+            <Show>true</Show>
+            <MoveByScript>false</MoveByScript>
+            <Activate>false</Activate>
+            <UseLocal>false</UseLocal>
+            <MoveTime>0.000</MoveTime>
+            <MoveX>0.000</MoveX>
+            <MoveY>0.000</MoveY>
+            <MoveZ>0.000</MoveZ>
+            <MoveDelay>-1.000</MoveDelay>
+            <RotateAngleX>0.000</RotateAngleX>
+            <RotateAngleY>0.000</RotateAngleY>
+            <RotateAngleZ>0.000</RotateAngleZ>
+            <Loop>false</Loop>
+            <CanReverse>false</CanReverse>
+            <LoopDelay>0.000</LoopDelay>
+            <LoopCount>-1</LoopCount>
+            <UseInteraction>false</UseInteraction>
+            <InteractionDelay>0.000</InteractionDelay>
+        </PROPERTY>
+        <TOOL>
+            <LAYER>Dyn_object</LAYER>
+            <VISIBLE>true</VISIBLE>
+            <EDITABLE>false</EDITABLE>
+        </TOOL>
+    </OBJECT>
+    <OBJECT>
+        <COMMON>
+            <POSITION x="-4669.000000" y="-1294.000000" z="600.000000" />
+            <DIRECTION x="0.939693" y="-0.342020" z="0.000000" />
+            <UP x="0.000000" y="0.000000" z="1.000000" />
+        </COMMON>
+        <PROPERTY>
+            <NAME>OBJECT71</NAME>
+            <DEFINITION>mansion_a_dining_chair_01</DEFINITION>
+            <PartsColor>ffffff</PartsColor>
+            <Show>true</Show>
+            <MoveByScript>false</MoveByScript>
+            <Activate>false</Activate>
+            <UseLocal>false</UseLocal>
+            <MoveTime>0.000</MoveTime>
+            <MoveX>0.000</MoveX>
+            <MoveY>0.000</MoveY>
+            <MoveZ>0.000</MoveZ>
+            <MoveDelay>-1.000</MoveDelay>
+            <RotateAngleX>0.000</RotateAngleX>
+            <RotateAngleY>0.000</RotateAngleY>
+            <RotateAngleZ>0.000</RotateAngleZ>
+            <Loop>false</Loop>
+            <CanReverse>false</CanReverse>
+            <LoopDelay>0.000</LoopDelay>
+            <LoopCount>-1</LoopCount>
+            <UseInteraction>false</UseInteraction>
+            <InteractionDelay>0.000</InteractionDelay>
+        </PROPERTY>
+        <TOOL>
+            <LAYER>Dyn_object</LAYER>
+            <VISIBLE>true</VISIBLE>
+            <EDITABLE>false</EDITABLE>
+        </TOOL>
+    </OBJECT>
+    <SCENEOBJECT>
+        <COMMON>
+            <POSITION x="-5945.000000" y="-335.000000" z="660.000000" />
+            <DIRECTION x="0.000000" y="1.000000" z="0.000000" />
+            <UP x="0.000000" y="0.000000" z="1.000000" />
+        </COMMON>
+        <PROPERTY>
+            <NAME>mansion_a_curtain_01</NAME>
+            <SceneFileName>mansion_a_curtain_01.scene.xml</SceneFileName>
+            <Show>true</Show>
+            <PartsColor>ffffff</PartsColor>
+            <UMBRAID>100025</UMBRAID>
+        </PROPERTY>
+        <TOOL>
+            <LAYER>Prop</LAYER>
+            <VISIBLE>true</VISIBLE>
+            <EDITABLE>true</EDITABLE>
+        </TOOL>
+    </SCENEOBJECT>
+    <SCENEOBJECT>
+        <COMMON>
+            <POSITION x="-4495.000000" y="-335.000000" z="660.000000" />
+            <DIRECTION x="0.000000" y="1.000000" z="0.000000" />
+            <UP x="0.000000" y="0.000000" z="1.000000" />
+        </COMMON>
+        <PROPERTY>
+            <NAME>mansion_a_curtain_2</NAME>
+            <SceneFileName>mansion_a_curtain_01.scene.xml</SceneFileName>
+            <Show>true</Show>
+            <PartsColor>ffffff</PartsColor>
+            <UMBRAID>100026</UMBRAID>
+        </PROPERTY>
+        <TOOL>
+            <LAYER>Prop</LAYER>
+            <VISIBLE>true</VISIBLE>
+            <EDITABLE>true</EDITABLE>
+        </TOOL>
+    </SCENEOBJECT>
+    <SCENEOBJECT>
+        <COMMON>
+            <POSITION x="4243.000000" y="-948.000000" z="640.000000" />
+            <DIRECTION x="-1.000000" y="-0.000000" z="0.000000" />
+            <UP x="0.000000" y="0.000000" z="1.000000" />
+        </COMMON>
+        <PROPERTY>
+            <NAME>mansion_a_curtain_3</NAME>
+            <SceneFileName>mansion_a_curtain_01.scene.xml</SceneFileName>
+            <Show>true</Show>
+            <PartsColor>ffffff</PartsColor>
+            <UMBRAID>100027</UMBRAID>
+        </PROPERTY>
+        <TOOL>
+            <LAYER>Prop</LAYER>
+            <VISIBLE>true</VISIBLE>
+            <EDITABLE>true</EDITABLE>
+        </TOOL>
+    </SCENEOBJECT>
+    <SCENEOBJECT>
+        <COMMON>
+            <POSITION x="4243.000000" y="-1323.000000" z="640.000000" />
+            <DIRECTION x="-1.000000" y="-0.000000" z="0.000000" />
+            <UP x="0.000000" y="0.000000" z="1.000000" />
+        </COMMON>
+        <PROPERTY>
+            <NAME>mansion_a_curtain_4</NAME>
+            <SceneFileName>mansion_a_curtain_01.scene.xml</SceneFileName>
+            <Show>true</Show>
+            <PartsColor>ffffff</PartsColor>
+            <UMBRAID>100028</UMBRAID>
+        </PROPERTY>
+        <TOOL>
+            <LAYER>Prop</LAYER>
+            <VISIBLE>true</VISIBLE>
+            <EDITABLE>true</EDITABLE>
+        </TOOL>
+    </SCENEOBJECT>
+    <SCENEOBJECT>
+        <COMMON>
+            <POSITION x="4243.000000" y="-1698.000000" z="640.000000" />
+            <DIRECTION x="-1.000000" y="-0.000000" z="0.000000" />
+            <UP x="0.000000" y="0.000000" z="1.000000" />
+        </COMMON>
+        <PROPERTY>
+            <NAME>mansion_a_curtain_5</NAME>
+            <SceneFileName>mansion_a_curtain_01.scene.xml</SceneFileName>
+            <Show>true</Show>
+            <PartsColor>ffffff</PartsColor>
+            <UMBRAID>100029</UMBRAID>
+        </PROPERTY>
+        <TOOL>
+            <LAYER>Prop</LAYER>
+            <VISIBLE>true</VISIBLE>
+            <EDITABLE>true</EDITABLE>
+        </TOOL>
+    </SCENEOBJECT>
+    <SCENEOBJECT>
+        <COMMON>
+            <POSITION x="676.000000" y="-29.000000" z="1215.000000" />
+            <DIRECTION x="1.000000" y="-0.000000" z="0.000000" />
+            <UP x="0.000000" y="0.000000" z="1.000000" />
+        </COMMON>
+        <PROPERTY>
+            <NAME>mansion_a_flag_y02</NAME>
+            <SceneFileName>mansion_a_flag_y02.scene.xml</SceneFileName>
+            <Show>true</Show>
+            <PartsColor>ffffff</PartsColor>
+            <UMBRAID>100030</UMBRAID>
+        </PROPERTY>
+        <TOOL>
+            <LAYER>Prop</LAYER>
+            <VISIBLE>true</VISIBLE>
+            <EDITABLE>true</EDITABLE>
+        </TOOL>
+    </SCENEOBJECT>
+    <SCENEOBJECT>
+        <COMMON>
+            <POSITION x="676.000000" y="817.000000" z="1215.000000" />
+            <DIRECTION x="1.000000" y="-0.000000" z="0.000000" />
+            <UP x="0.000000" y="0.000000" z="1.000000" />
+        </COMMON>
+        <PROPERTY>
+            <NAME>mansion_a_flag_y3</NAME>
+            <SceneFileName>mansion_a_flag_y02.scene.xml</SceneFileName>
+            <Show>true</Show>
+            <PartsColor>ffffff</PartsColor>
+            <UMBRAID>100031</UMBRAID>
+        </PROPERTY>
+        <TOOL>
+            <LAYER>Prop</LAYER>
+            <VISIBLE>true</VISIBLE>
+            <EDITABLE>true</EDITABLE>
+        </TOOL>
+    </SCENEOBJECT>
+    <SCENEOBJECT>
+        <COMMON>
+            <POSITION x="676.000000" y="-1599.000000" z="1215.000000" />
+            <DIRECTION x="1.000000" y="-0.000000" z="0.000000" />
+            <UP x="0.000000" y="0.000000" z="1.000000" />
+        </COMMON>
+        <PROPERTY>
+            <NAME>mansion_a_flag_y4</NAME>
+            <SceneFileName>mansion_a_flag_y02.scene.xml</SceneFileName>
+            <Show>true</Show>
+            <PartsColor>ffffff</PartsColor>
+            <UMBRAID>100032</UMBRAID>
+        </PROPERTY>
+        <TOOL>
+            <LAYER>Prop</LAYER>
+            <VISIBLE>true</VISIBLE>
+            <EDITABLE>true</EDITABLE>
+        </TOOL>
+    </SCENEOBJECT>
+    <BLOCKER>
+        <COMMON>
+            <POSITION x="-35.000000" y="2105.000000" z="1794.000000" />
+            <DIRECTION x="0.000000" y="1.000000" z="0.000000" />
+            <UP x="0.000000" y="0.000000" z="1.000000" />
+        </COMMON>
+        <PROPERTY>
+            <NAME>BLOCKER</NAME>
+            <SizeX>2400</SizeX>
+            <SizeY>1500</SizeY>
+            <SizeZ>1500</SizeZ>
+            <BlockerType>Default</BlockerType>
+            <Activate>true</Activate>
+            <Visible>false</Visible>
+        </PROPERTY>
+        <TOOL>
+            <LAYER>Blocker</LAYER>
+            <VISIBLE>false</VISIBLE>
+            <EDITABLE>false</EDITABLE>
+        </TOOL>
+    </BLOCKER>
+    <MINIMAPINFO>
+        <COMMON>
+            <POSITION x="100.000000" y="-750.000000" z="-533.274841" />
+            <DIRECTION x="0.000000" y="1.000000" z="0.000000" />
+            <UP x="0.000000" y="0.000000" z="1.000000" />
+        </COMMON>
+        <PROPERTY>
+            <NAME>MINIMAPINFO</NAME>
+            <RectSize>12500</RectSize>
+            <ImageSize>4096</ImageSize>
+        </PROPERTY>
+        <TOOL>
+            <LAYER>Minimap</LAYER>
+            <VISIBLE>true</VISIBLE>
+            <EDITABLE>true</EDITABLE>
+        </TOOL>
+    </MINIMAPINFO>
+    <MAPENV>
+        <COMMON>
+            <POSITION x="440.000000" y="-1085.000000" z="145.000000" />
+            <DIRECTION x="0.000000" y="1.000000" z="0.000000" />
+            <UP x="0.000000" y="0.000000" z="1.000000" />
+        </COMMON>
+        <PROPERTY>
+            <NAME>MAPENV</NAME>
+            <DEFAULT>true</DEFAULT>
+            <BGM>BGM_PvP</BGM>
+            <AMBIENT>G2Sound/ENV/pvp_mansion2</AMBIENT>
+            <DOFActive>false</DOFActive>
+            <DOFDistance>0.000</DOFDistance>
+            <DOFRange>0.000</DOFRange>
+            <DOFCoC>0.000</DOFCoC>
+            <EnvTexture>mansion_cubemap.dds</EnvTexture>
+        </PROPERTY>
+        <TOOL>
+            <LAYER>MAPenv</LAYER>
+            <VISIBLE>true</VISIBLE>
+            <EDITABLE>false</EDITABLE>
+        </TOOL>
+    </MAPENV>
+    <SOUND>
+        <COMMON>
+            <POSITION x="30.000000" y="-680.000000" z="1700.000000" />
+            <DIRECTION x="0.000000" y="1.000000" z="0.000000" />
+            <UP x="0.000000" y="0.000000" z="1.000000" />
+        </COMMON>
+        <PROPERTY>
+            <NAME>ENV_hall_01</NAME>
+            <TYPE>Sound</TYPE>
+            <VALUE>G2Sound/ENV/hall_01</VALUE>
+            <RADIUS>4500</RADIUS>
+            <KILLONCONTACT>false</KILLONCONTACT>
+            <MINDISTANCE>3000</MINDISTANCE>
+            <MAXDISTANCE>4000</MAXDISTANCE>
+            <VOLUME>-1.000</VOLUME>
+            <ACTIVE>true</ACTIVE>
+        </PROPERTY>
+        <TOOL>
+            <LAYER>Sound</LAYER>
+            <VISIBLE>false</VISIBLE>
+            <EDITABLE>false</EDITABLE>
+        </TOOL>
+    </SOUND>
+    <SOUND>
+        <COMMON>
+            <POSITION x="2700.000000" y="-2850.000000" z="881.427979" />
+            <DIRECTION x="0.000000" y="1.000000" z="0.000000" />
+            <UP x="0.000000" y="0.000000" z="1.000000" />
+        </COMMON>
+        <PROPERTY>
+            <NAME>SOUND1</NAME>
+            <TYPE>Sound</TYPE>
+            <VALUE>G2Sound/ENV/hall_02</VALUE>
+            <RADIUS>1500</RADIUS>
+            <KILLONCONTACT>false</KILLONCONTACT>
+            <MINDISTANCE>800</MINDISTANCE>
+            <MAXDISTANCE>1000</MAXDISTANCE>
+            <VOLUME>-1.000</VOLUME>
+            <ACTIVE>true</ACTIVE>
+        </PROPERTY>
+        <TOOL>
+            <LAYER>Sound</LAYER>
+            <VISIBLE>false</VISIBLE>
+            <EDITABLE>false</EDITABLE>
+        </TOOL>
+    </SOUND>
+    <SOUND>
+        <COMMON>
+            <POSITION x="3672.757568" y="-2532.301025" z="877.128906" />
+            <DIRECTION x="0.000000" y="1.000000" z="0.000000" />
+            <UP x="0.000000" y="0.000000" z="1.000000" />
+        </COMMON>
+        <PROPERTY>
+            <NAME>SOUND2</NAME>
+            <TYPE>Sound</TYPE>
+            <VALUE>G2Sound/ENV/hall_02</VALUE>
+            <RADIUS>1500</RADIUS>
+            <KILLONCONTACT>false</KILLONCONTACT>
+            <MINDISTANCE>800</MINDISTANCE>
+            <MAXDISTANCE>1000</MAXDISTANCE>
+            <VOLUME>-1.000</VOLUME>
+            <ACTIVE>true</ACTIVE>
+        </PROPERTY>
+        <TOOL>
+            <LAYER>Sound</LAYER>
+            <VISIBLE>false</VISIBLE>
+            <EDITABLE>false</EDITABLE>
+        </TOOL>
+    </SOUND>
+    <SOUND>
+        <COMMON>
+            <POSITION x="5400.000000" y="-2825.000000" z="1025.000000" />
+            <DIRECTION x="0.000000" y="1.000000" z="0.000000" />
+            <UP x="0.000000" y="0.000000" z="1.000000" />
+        </COMMON>
+        <PROPERTY>
+            <NAME>SOUND3</NAME>
+            <TYPE>Sound</TYPE>
+            <VALUE>G2Sound/ENV/hall_02</VALUE>
+            <RADIUS>1500</RADIUS>
+            <KILLONCONTACT>false</KILLONCONTACT>
+            <MINDISTANCE>0</MINDISTANCE>
+            <MAXDISTANCE>1000</MAXDISTANCE>
+            <VOLUME>-1.000</VOLUME>
+            <ACTIVE>true</ACTIVE>
+        </PROPERTY>
+        <TOOL>
+            <LAYER>Sound</LAYER>
+            <VISIBLE>false</VISIBLE>
+            <EDITABLE>false</EDITABLE>
+        </TOOL>
+    </SOUND>
+    <SOUND>
+        <COMMON>
+            <POSITION x="-4025.000000" y="-2775.000000" z="1025.000000" />
+            <DIRECTION x="0.000000" y="1.000000" z="0.000000" />
+            <UP x="0.000000" y="0.000000" z="1.000000" />
+        </COMMON>
+        <PROPERTY>
+            <NAME>SOUND4</NAME>
+            <TYPE>Sound</TYPE>
+            <VALUE>G2Sound/ENV/corridor_02</VALUE>
+            <RADIUS>1500</RADIUS>
+            <KILLONCONTACT>false</KILLONCONTACT>
+            <MINDISTANCE>500</MINDISTANCE>
+            <MAXDISTANCE>1000</MAXDISTANCE>
+            <VOLUME>-1.000</VOLUME>
+            <ACTIVE>true</ACTIVE>
+        </PROPERTY>
+        <TOOL>
+            <LAYER>Sound</LAYER>
+            <VISIBLE>false</VISIBLE>
+            <EDITABLE>false</EDITABLE>
+        </TOOL>
+    </SOUND>
+    <SOUND>
+        <COMMON>
+            <POSITION x="-5425.000000" y="-2775.000000" z="1025.000000" />
+            <DIRECTION x="0.000000" y="1.000000" z="0.000000" />
+            <UP x="0.000000" y="0.000000" z="1.000000" />
+        </COMMON>
+        <PROPERTY>
+            <NAME>SOUND5</NAME>
+            <TYPE>Sound</TYPE>
+            <VALUE>G2Sound/ENV/corridor_02</VALUE>
+            <RADIUS>1500</RADIUS>
+            <KILLONCONTACT>false</KILLONCONTACT>
+            <MINDISTANCE>500</MINDISTANCE>
+            <MAXDISTANCE>1000</MAXDISTANCE>
+            <VOLUME>-1.000</VOLUME>
+            <ACTIVE>true</ACTIVE>
+        </PROPERTY>
+        <TOOL>
+            <LAYER>Sound</LAYER>
+            <VISIBLE>false</VISIBLE>
+            <EDITABLE>false</EDITABLE>
+        </TOOL>
+    </SOUND>
+    <SOUND>
+        <COMMON>
+            <POSITION x="-5275.000000" y="-1000.000000" z="575.000000" />
+            <DIRECTION x="0.000000" y="1.000000" z="0.000000" />
+            <UP x="0.000000" y="0.000000" z="1.000000" />
+        </COMMON>
+        <PROPERTY>
+            <NAME>SOUND6</NAME>
+            <TYPE>Sound</TYPE>
+            <VALUE>G2Sound/ENV/room_01</VALUE>
+            <RADIUS>1800</RADIUS>
+            <KILLONCONTACT>false</KILLONCONTACT>
+            <MINDISTANCE>1000</MINDISTANCE>
+            <MAXDISTANCE>1500</MAXDISTANCE>
+            <VOLUME>-1.000</VOLUME>
+            <ACTIVE>true</ACTIVE>
+        </PROPERTY>
+        <TOOL>
+            <LAYER>Sound</LAYER>
+            <VISIBLE>false</VISIBLE>
+            <EDITABLE>false</EDITABLE>
+        </TOOL>
+    </SOUND>
+    <SOUND>
+        <COMMON>
+            <POSITION x="5125.000000" y="-800.000000" z="575.000000" />
+            <DIRECTION x="0.000000" y="1.000000" z="0.000000" />
+            <UP x="0.000000" y="0.000000" z="1.000000" />
+        </COMMON>
+        <PROPERTY>
+            <NAME>SOUND7</NAME>
+            <TYPE>Sound</TYPE>
+            <VALUE>G2Sound/ENV/room_01</VALUE>
+            <RADIUS>1800</RADIUS>
+            <KILLONCONTACT>false</KILLONCONTACT>
+            <MINDISTANCE>1000</MINDISTANCE>
+            <MAXDISTANCE>1500</MAXDISTANCE>
+            <VOLUME>-1.000</VOLUME>
+            <ACTIVE>true</ACTIVE>
+        </PROPERTY>
+        <TOOL>
+            <LAYER>Sound</LAYER>
+            <VISIBLE>false</VISIBLE>
+            <EDITABLE>false</EDITABLE>
+        </TOOL>
+    </SOUND>
+    <SOUND>
+        <COMMON>
+            <POSITION x="75.000000" y="-1650.000000" z="-832.929749" />
+            <DIRECTION x="0.000000" y="1.000000" z="0.000000" />
+            <UP x="0.000000" y="0.000000" z="1.000000" />
+        </COMMON>
+        <PROPERTY>
+            <NAME>SOUND8</NAME>
+            <TYPE>Sound</TYPE>
+            <VALUE>G2Sound/ENV/underground_01</VALUE>
+            <RADIUS>1800</RADIUS>
+            <KILLONCONTACT>false</KILLONCONTACT>
+            <MINDISTANCE>1000</MINDISTANCE>
+            <MAXDISTANCE>1500</MAXDISTANCE>
+            <VOLUME>-1.000</VOLUME>
+            <ACTIVE>true</ACTIVE>
+        </PROPERTY>
+        <TOOL>
+            <LAYER>Sound</LAYER>
+            <VISIBLE>false</VISIBLE>
+            <EDITABLE>false</EDITABLE>
+        </TOOL>
+    </SOUND>
+    <SOUND>
+        <COMMON>
+            <POSITION x="-2400.000000" y="-2900.000000" z="621.038147" />
+            <DIRECTION x="0.000000" y="1.000000" z="0.000000" />
+            <UP x="0.000000" y="0.000000" z="1.000000" />
+        </COMMON>
+        <PROPERTY>
+            <NAME>SOUND9</NAME>
+            <TYPE>Sound</TYPE>
+            <VALUE>G2Sound/ENV/corridor_02</VALUE>
+            <RADIUS>1500</RADIUS>
+            <KILLONCONTACT>false</KILLONCONTACT>
+            <MINDISTANCE>500</MINDISTANCE>
+            <MAXDISTANCE>1000</MAXDISTANCE>
+            <VOLUME>-1.000</VOLUME>
+            <ACTIVE>true</ACTIVE>
+        </PROPERTY>
+        <TOOL>
+            <LAYER>Sound</LAYER>
+            <VISIBLE>false</VISIBLE>
+            <EDITABLE>false</EDITABLE>
+        </TOOL>
+    </SOUND>
+    <SOUND>
+        <COMMON>
+            <POSITION x="2550.000000" y="-1650.000000" z="-200.000000" />
+            <DIRECTION x="0.000000" y="1.000000" z="0.000000" />
+            <UP x="0.000000" y="0.000000" z="1.000000" />
+        </COMMON>
+        <PROPERTY>
+            <NAME>SOUND10</NAME>
+            <TYPE>Sound</TYPE>
+            <VALUE>G2Sound/ENV/tunnel_01</VALUE>
+            <RADIUS>1500</RADIUS>
+            <KILLONCONTACT>false</KILLONCONTACT>
+            <MINDISTANCE>500</MINDISTANCE>
+            <MAXDISTANCE>1000</MAXDISTANCE>
+            <VOLUME>-1.000</VOLUME>
+            <ACTIVE>true</ACTIVE>
+        </PROPERTY>
+        <TOOL>
+            <LAYER>Sound</LAYER>
+            <VISIBLE>false</VISIBLE>
+            <EDITABLE>false</EDITABLE>
+        </TOOL>
+    </SOUND>
+    <SOUND>
+        <COMMON>
+            <POSITION x="-5240.000000" y="-368.567749" z="660.000000" />
+            <DIRECTION x="0.000000" y="1.000000" z="0.000000" />
+            <UP x="0.000000" y="0.000000" z="1.000000" />
+        </COMMON>
+        <PROPERTY>
+            <NAME>SOUND11</NAME>
+            <TYPE>Sound</TYPE>
+            <VALUE>G2Sound/ENV/fireplace_01</VALUE>
+            <RADIUS>800</RADIUS>
+            <KILLONCONTACT>false</KILLONCONTACT>
+            <MINDISTANCE>300</MINDISTANCE>
+            <MAXDISTANCE>500</MAXDISTANCE>
+            <VOLUME>-1.000</VOLUME>
+            <ACTIVE>true</ACTIVE>
+        </PROPERTY>
+        <TOOL>
+            <LAYER>Sound</LAYER>
+            <VISIBLE>false</VISIBLE>
+            <EDITABLE>false</EDITABLE>
+        </TOOL>
+    </SOUND>
+    <SOUND>
+        <COMMON>
+            <POSITION x="5240.000000" y="-745.000000" z="660.000000" />
+            <DIRECTION x="0.000000" y="1.000000" z="0.000000" />
+            <UP x="0.000000" y="0.000000" z="1.000000" />
+        </COMMON>
+        <PROPERTY>
+            <NAME>SOUND12</NAME>
+            <TYPE>Sound</TYPE>
+            <VALUE>G2Sound/ENV/fireplace_01</VALUE>
+            <RADIUS>1500</RADIUS>
+            <KILLONCONTACT>false</KILLONCONTACT>
+            <MINDISTANCE>1000</MINDISTANCE>
+            <MAXDISTANCE>1200</MAXDISTANCE>
+            <VOLUME>-1.000</VOLUME>
+            <ACTIVE>true</ACTIVE>
+        </PROPERTY>
+        <TOOL>
+            <LAYER>Sound</LAYER>
+            <VISIBLE>false</VISIBLE>
+            <EDITABLE>false</EDITABLE>
+        </TOOL>
+    </SOUND>
+    <OBJECT>
+        <COMMON>
+            <POSITION x="0.000000" y="-550.000000" z="1100.000000" />
+            <DIRECTION x="0.000000" y="1.000000" z="0.000000" />
+            <UP x="0.000000" y="0.000000" z="1.000000" />
+        </COMMON>
+        <PROPERTY>
+            <NAME>OBJECT7</NAME>
+            <DEFINITION>lighting_chandelier_k01</DEFINITION>
+            <PartsColor>ffffff</PartsColor>
+            <Show>true</Show>
+            <MoveByScript>false</MoveByScript>
+            <Activate>false</Activate>
+            <UseLocal>false</UseLocal>
+            <MoveTime>0.000</MoveTime>
+            <MoveX>0.000</MoveX>
+            <MoveY>0.000</MoveY>
+            <MoveZ>0.000</MoveZ>
+            <MoveDelay>-1.000</MoveDelay>
+            <RotateAngleX>0.000</RotateAngleX>
+            <RotateAngleY>0.000</RotateAngleY>
+            <RotateAngleZ>0.000</RotateAngleZ>
+            <Loop>false</Loop>
+            <CanReverse>false</CanReverse>
+            <LoopDelay>0.000</LoopDelay>
+            <LoopCount>-1</LoopCount>
+            <UseInteraction>false</UseInteraction>
+            <InteractionDelay>0.000</InteractionDelay>
+        </PROPERTY>
+        <TOOL>
+            <LAYER>Dyn_object</LAYER>
+            <VISIBLE>true</VISIBLE>
+            <EDITABLE>false</EDITABLE>
+        </TOOL>
+    </OBJECT>
+    <OBJECT>
+        <COMMON>
+            <POSITION x="5.000000" y="-1474.882080" z="1100.000000" />
+            <DIRECTION x="0.000000" y="1.000000" z="0.000000" />
+            <UP x="0.000000" y="0.000000" z="1.000000" />
+        </COMMON>
+        <PROPERTY>
+            <NAME>OBJECT9</NAME>
+            <DEFINITION>lighting_chandelier_k01</DEFINITION>
+            <PartsColor>ffffff</PartsColor>
+            <Show>true</Show>
+            <MoveByScript>false</MoveByScript>
+            <Activate>false</Activate>
+            <UseLocal>false</UseLocal>
+            <MoveTime>0.000</MoveTime>
+            <MoveX>0.000</MoveX>
+            <MoveY>0.000</MoveY>
+            <MoveZ>0.000</MoveZ>
+            <MoveDelay>-1.000</MoveDelay>
+            <RotateAngleX>0.000</RotateAngleX>
+            <RotateAngleY>0.000</RotateAngleY>
+            <RotateAngleZ>0.000</RotateAngleZ>
+            <Loop>false</Loop>
+            <CanReverse>false</CanReverse>
+            <LoopDelay>0.000</LoopDelay>
+            <LoopCount>-1</LoopCount>
+            <UseInteraction>false</UseInteraction>
+            <InteractionDelay>0.000</InteractionDelay>
+        </PROPERTY>
+        <TOOL>
+            <LAYER>Dyn_object</LAYER>
+            <VISIBLE>true</VISIBLE>
+            <EDITABLE>false</EDITABLE>
+        </TOOL>
+    </OBJECT>
+    <OBJECT>
+        <COMMON>
+            <POSITION x="0.000000" y="350.000000" z="1100.000000" />
+            <DIRECTION x="0.000000" y="1.000000" z="0.000000" />
+            <UP x="0.000000" y="0.000000" z="1.000000" />
+        </COMMON>
+        <PROPERTY>
+            <NAME>OBJECT8</NAME>
+            <DEFINITION>lighting_chandelier_k01</DEFINITION>
+            <PartsColor>ffffff</PartsColor>
+            <Show>true</Show>
+            <MoveByScript>false</MoveByScript>
+            <Activate>false</Activate>
+            <UseLocal>false</UseLocal>
+            <MoveTime>0.000</MoveTime>
+            <MoveX>0.000</MoveX>
+            <MoveY>0.000</MoveY>
+            <MoveZ>0.000</MoveZ>
+            <MoveDelay>-1.000</MoveDelay>
+            <RotateAngleX>0.000</RotateAngleX>
+            <RotateAngleY>0.000</RotateAngleY>
+            <RotateAngleZ>0.000</RotateAngleZ>
+            <Loop>false</Loop>
+            <CanReverse>false</CanReverse>
+            <LoopDelay>0.000</LoopDelay>
+            <LoopCount>-1</LoopCount>
+            <UseInteraction>false</UseInteraction>
+            <InteractionDelay>0.000</InteractionDelay>
+        </PROPERTY>
+        <TOOL>
+            <LAYER>Dyn_object</LAYER>
+            <VISIBLE>true</VISIBLE>
+            <EDITABLE>false</EDITABLE>
+        </TOOL>
+    </OBJECT>
+    <SCENEOBJECT>
+        <COMMON>
+            <POSITION x="1625.000000" y="-3230.000000" z="790.000000" />
+            <DIRECTION x="0.000000" y="1.000000" z="0.000000" />
+            <UP x="0.000000" y="0.000000" z="1.000000" />
+        </COMMON>
+        <PROPERTY>
+            <NAME>SCENEOBJECT50</NAME>
+            <SceneFileName>mansion_a_statue_01.scene.xml</SceneFileName>
+            <Show>true</Show>
+            <PartsColor>ffffff</PartsColor>
+            <UMBRAID>100033</UMBRAID>
+        </PROPERTY>
+        <TOOL>
+            <LAYER>Prop</LAYER>
+            <VISIBLE>true</VISIBLE>
+            <EDITABLE>true</EDITABLE>
+        </TOOL>
+    </SCENEOBJECT>
+    <SCENEOBJECT>
+        <COMMON>
+            <POSITION x="2424.000000" y="-3230.000000" z="790.000000" />
+            <DIRECTION x="0.000000" y="1.000000" z="0.000000" />
+            <UP x="0.000000" y="0.000000" z="1.000000" />
+        </COMMON>
+        <PROPERTY>
+            <NAME>SCENEOBJECT51</NAME>
+            <SceneFileName>mansion_a_statue_01.scene.xml</SceneFileName>
+            <Show>true</Show>
+            <PartsColor>ffffff</PartsColor>
+            <UMBRAID>100034</UMBRAID>
+        </PROPERTY>
+        <TOOL>
+            <LAYER>Prop</LAYER>
+            <VISIBLE>true</VISIBLE>
+            <EDITABLE>true</EDITABLE>
+        </TOOL>
+    </SCENEOBJECT>
+    <SCENEOBJECT>
+        <COMMON>
+            <POSITION x="3226.000000" y="-3230.000000" z="790.000000" />
+            <DIRECTION x="0.000000" y="1.000000" z="0.000000" />
+            <UP x="0.000000" y="0.000000" z="1.000000" />
+        </COMMON>
+        <PROPERTY>
+            <NAME>SCENEOBJECT52</NAME>
+            <SceneFileName>mansion_a_statue_01.scene.xml</SceneFileName>
+            <Show>true</Show>
+            <PartsColor>ffffff</PartsColor>
+            <UMBRAID>100035</UMBRAID>
+        </PROPERTY>
+        <TOOL>
+            <LAYER>Prop</LAYER>
+            <VISIBLE>true</VISIBLE>
+            <EDITABLE>true</EDITABLE>
+        </TOOL>
+    </SCENEOBJECT>
+    <OBJECT>
+        <COMMON>
+            <POSITION x="-5225.000000" y="-1485.000000" z="1420.000000" />
+            <DIRECTION x="0.000000" y="1.000000" z="0.000000" />
+            <UP x="0.000000" y="0.000000" z="1.000000" />
+        </COMMON>
+        <PROPERTY>
+            <NAME>lighting_chandelier_g16</NAME>
+            <DEFINITION>lighting_chandelier_g01</DEFINITION>
+            <PartsColor>ffffff</PartsColor>
+            <Show>true</Show>
+            <MoveByScript>false</MoveByScript>
+            <Activate>false</Activate>
+            <UseLocal>false</UseLocal>
+            <MoveTime>0.000</MoveTime>
+            <MoveX>0.000</MoveX>
+            <MoveY>0.000</MoveY>
+            <MoveZ>0.000</MoveZ>
+            <MoveDelay>-1.000</MoveDelay>
+            <RotateAngleX>0.000</RotateAngleX>
+            <RotateAngleY>0.000</RotateAngleY>
+            <RotateAngleZ>0.000</RotateAngleZ>
+            <Loop>false</Loop>
+            <CanReverse>false</CanReverse>
+            <LoopDelay>0.000</LoopDelay>
+            <LoopCount>-1</LoopCount>
+            <UseInteraction>false</UseInteraction>
+            <InteractionDelay>0.000</InteractionDelay>
+        </PROPERTY>
+        <TOOL>
+            <LAYER>Dyn_object</LAYER>
+            <VISIBLE>true</VISIBLE>
+            <EDITABLE>false</EDITABLE>
+        </TOOL>
+    </OBJECT>
+    <OBJECT>
+        <COMMON>
+            <POSITION x="-5225.000000" y="-795.000000" z="1420.000000" />
+            <DIRECTION x="0.000000" y="1.000000" z="0.000000" />
+            <UP x="0.000000" y="0.000000" z="1.000000" />
+        </COMMON>
+        <PROPERTY>
+            <NAME>lighting_chandelier_g17</NAME>
+            <DEFINITION>lighting_chandelier_g01</DEFINITION>
+            <PartsColor>ffffff</PartsColor>
+            <Show>true</Show>
+            <MoveByScript>false</MoveByScript>
+            <Activate>false</Activate>
+            <UseLocal>false</UseLocal>
+            <MoveTime>0.000</MoveTime>
+            <MoveX>0.000</MoveX>
+            <MoveY>0.000</MoveY>
+            <MoveZ>0.000</MoveZ>
+            <MoveDelay>-1.000</MoveDelay>
+            <RotateAngleX>0.000</RotateAngleX>
+            <RotateAngleY>0.000</RotateAngleY>
+            <RotateAngleZ>0.000</RotateAngleZ>
+            <Loop>false</Loop>
+            <CanReverse>false</CanReverse>
+            <LoopDelay>0.000</LoopDelay>
+            <LoopCount>-1</LoopCount>
+            <UseInteraction>false</UseInteraction>
+            <InteractionDelay>0.000</InteractionDelay>
+        </PROPERTY>
+        <TOOL>
+            <LAYER>Dyn_object</LAYER>
+            <VISIBLE>true</VISIBLE>
+            <EDITABLE>false</EDITABLE>
+        </TOOL>
+    </OBJECT>
+    <SOUNDOCCLUDER>
+        <COMMON>
+            <POSITION x="0.000000" y="-1260.000000" z="-50.000000" />
+            <DIRECTION x="0.000000" y="-0.000000" z="1.000000" />
+            <UP x="0.000000" y="-1.000000" z="-0.000000" />
+        </COMMON>
+        <PROPERTY>
+            <NAME>SOUNDOCCLUDER</NAME>
+            <WIDTH>3500</WIDTH>
+            <HEIGHT>3000</HEIGHT>
+            <OCCLUSION>1.000</OCCLUSION>
+            <REVERB_OCC>1.000</REVERB_OCC>
+            <DOUBLE_SIDES>true</DOUBLE_SIDES>
+        </PROPERTY>
+        <TOOL>
+            <LAYER>Sound</LAYER>
+            <VISIBLE>true</VISIBLE>
+            <EDITABLE>true</EDITABLE>
+        </TOOL>
+    </SOUNDOCCLUDER>
+    <SOUNDOCCLUDER>
+        <COMMON>
+            <POSITION x="1440.000000" y="-750.000000" z="570.000000" />
+            <DIRECTION x="0.000000" y="-0.000000" z="1.000000" />
+            <UP x="0.000000" y="-1.000000" z="-0.000000" />
+        </COMMON>
+        <PROPERTY>
+            <NAME>SOUNDOCCLUDER1</NAME>
+            <WIDTH>600</WIDTH>
+            <HEIGHT>5500</HEIGHT>
+            <OCCLUSION>0.850</OCCLUSION>
+            <REVERB_OCC>0.000</REVERB_OCC>
+            <DOUBLE_SIDES>true</DOUBLE_SIDES>
+        </PROPERTY>
+        <TOOL>
+            <LAYER>Sound</LAYER>
+            <VISIBLE>true</VISIBLE>
+            <EDITABLE>true</EDITABLE>
+        </TOOL>
+    </SOUNDOCCLUDER>
+    <SOUNDOCCLUDER>
+        <COMMON>
+            <POSITION x="-1360.000000" y="-820.000000" z="570.000000" />
+            <DIRECTION x="0.000000" y="-0.000000" z="1.000000" />
+            <UP x="0.000000" y="-1.000000" z="-0.000000" />
+        </COMMON>
+        <PROPERTY>
+            <NAME>SOUNDOCCLUDER2</NAME>
+            <WIDTH>600</WIDTH>
+            <HEIGHT>5500</HEIGHT>
+            <OCCLUSION>0.850</OCCLUSION>
+            <REVERB_OCC>0.500</REVERB_OCC>
+            <DOUBLE_SIDES>true</DOUBLE_SIDES>
+        </PROPERTY>
+        <TOOL>
+            <LAYER>Sound</LAYER>
+            <VISIBLE>true</VISIBLE>
+            <EDITABLE>true</EDITABLE>
+        </TOOL>
+    </SOUNDOCCLUDER>
+    <SOUNDOCCLUDER>
+        <COMMON>
+            <POSITION x="60.000000" y="1330.000000" z="570.000000" />
+            <DIRECTION x="0.000000" y="-0.000000" z="1.000000" />
+            <UP x="0.000000" y="-1.000000" z="-0.000000" />
+        </COMMON>
+        <PROPERTY>
+            <NAME>SOUNDOCCLUDER3</NAME>
+            <WIDTH>2100</WIDTH>
+            <HEIGHT>600</HEIGHT>
+            <OCCLUSION>0.850</OCCLUSION>
+            <REVERB_OCC>0.500</REVERB_OCC>
+            <DOUBLE_SIDES>true</DOUBLE_SIDES>
+        </PROPERTY>
+        <TOOL>
+            <LAYER>Sound</LAYER>
+            <VISIBLE>true</VISIBLE>
+            <EDITABLE>true</EDITABLE>
+        </TOOL>
+    </SOUNDOCCLUDER>
+    <SOUNDOCCLUDER>
+        <COMMON>
+            <POSITION x="1340.000000" y="-1780.000000" z="1280.000000" />
+            <DIRECTION x="0.000000" y="-0.000000" z="1.000000" />
+            <UP x="0.000000" y="-1.000000" z="-0.000000" />
+        </COMMON>
+        <PROPERTY>
+            <NAME>SOUNDOCCLUDER4</NAME>
+            <WIDTH>800</WIDTH>
+            <HEIGHT>2000</HEIGHT>
+            <OCCLUSION>0.850</OCCLUSION>
+            <REVERB_OCC>0.000</REVERB_OCC>
+            <DOUBLE_SIDES>true</DOUBLE_SIDES>
+        </PROPERTY>
+        <TOOL>
+            <LAYER>Sound</LAYER>
+            <VISIBLE>true</VISIBLE>
+            <EDITABLE>true</EDITABLE>
+        </TOOL>
+    </SOUNDOCCLUDER>
+    <SOUNDOCCLUDER>
+        <COMMON>
+            <POSITION x="1340.000000" y="1030.000000" z="1280.000000" />
+            <DIRECTION x="0.000000" y="-0.000000" z="1.000000" />
+            <UP x="0.000000" y="-1.000000" z="-0.000000" />
+        </COMMON>
+        <PROPERTY>
+            <NAME>SOUNDOCCLUDER5</NAME>
+            <WIDTH>800</WIDTH>
+            <HEIGHT>2000</HEIGHT>
+            <OCCLUSION>0.850</OCCLUSION>
+            <REVERB_OCC>0.000</REVERB_OCC>
+            <DOUBLE_SIDES>true</DOUBLE_SIDES>
+        </PROPERTY>
+        <TOOL>
+            <LAYER>Sound</LAYER>
+            <VISIBLE>true</VISIBLE>
+            <EDITABLE>true</EDITABLE>
+        </TOOL>
+    </SOUNDOCCLUDER>
+    <SOUNDOCCLUDER>
+        <COMMON>
+            <POSITION x="-1310.000000" y="-1310.000000" z="1280.000000" />
+            <DIRECTION x="0.000000" y="-0.000000" z="1.000000" />
+            <UP x="0.000000" y="-1.000000" z="-0.000000" />
+        </COMMON>
+        <PROPERTY>
+            <NAME>SOUNDOCCLUDER6</NAME>
+            <WIDTH>800</WIDTH>
+            <HEIGHT>2500</HEIGHT>
+            <OCCLUSION>0.850</OCCLUSION>
+            <REVERB_OCC>0.000</REVERB_OCC>
+            <DOUBLE_SIDES>true</DOUBLE_SIDES>
+        </PROPERTY>
+        <TOOL>
+            <LAYER>Sound</LAYER>
+            <VISIBLE>true</VISIBLE>
+            <EDITABLE>true</EDITABLE>
+        </TOOL>
+    </SOUNDOCCLUDER>
+    <SOUNDOCCLUDER>
+        <COMMON>
+            <POSITION x="-1310.000000" y="1490.000000" z="1280.000000" />
+            <DIRECTION x="0.000000" y="-0.000000" z="1.000000" />
+            <UP x="0.000000" y="-1.000000" z="-0.000000" />
+        </COMMON>
+        <PROPERTY>
+            <NAME>SOUNDOCCLUDER7</NAME>
+            <WIDTH>800</WIDTH>
+            <HEIGHT>1200</HEIGHT>
+            <OCCLUSION>0.850</OCCLUSION>
+            <REVERB_OCC>0.000</REVERB_OCC>
+            <DOUBLE_SIDES>true</DOUBLE_SIDES>
+        </PROPERTY>
+        <TOOL>
+            <LAYER>Sound</LAYER>
+            <VISIBLE>true</VISIBLE>
+            <EDITABLE>true</EDITABLE>
+        </TOOL>
+    </SOUNDOCCLUDER>
+    <SOUNDOCCLUDER>
+        <COMMON>
+            <POSITION x="-2624.330566" y="-2660.000000" z="73.017090" />
+            <DIRECTION x="0.000000" y="1.000000" z="-0.000000" />
+            <UP x="1.000000" y="0.000000" z="0.000000" />
+        </COMMON>
+        <PROPERTY>
+            <NAME>SOUNDOCCLUDER8</NAME>
+            <WIDTH>1200</WIDTH>
+            <HEIGHT>1000</HEIGHT>
+            <OCCLUSION>0.700</OCCLUSION>
+            <REVERB_OCC>0.750</REVERB_OCC>
+            <DOUBLE_SIDES>true</DOUBLE_SIDES>
+        </PROPERTY>
+        <TOOL>
+            <LAYER>Sound</LAYER>
+            <VISIBLE>true</VISIBLE>
+            <EDITABLE>true</EDITABLE>
+        </TOOL>
+    </SOUNDOCCLUDER>
+    <SOUNDOCCLUDER>
+        <COMMON>
+            <POSITION x="530.000000" y="-2140.000000" z="1280.000000" />
+            <DIRECTION x="0.000000" y="-0.000000" z="1.000000" />
+            <UP x="0.000000" y="-1.000000" z="-0.000000" />
+        </COMMON>
+        <PROPERTY>
+            <NAME>SOUNDOCCLUDER10</NAME>
+            <WIDTH>600</WIDTH>
+            <HEIGHT>800</HEIGHT>
+            <OCCLUSION>0.850</OCCLUSION>
+            <REVERB_OCC>0.000</REVERB_OCC>
+            <DOUBLE_SIDES>true</DOUBLE_SIDES>
+        </PROPERTY>
+        <TOOL>
+            <LAYER>Sound</LAYER>
+            <VISIBLE>true</VISIBLE>
+            <EDITABLE>true</EDITABLE>
+        </TOOL>
+    </SOUNDOCCLUDER>
+    <SOUNDOCCLUDER>
+        <COMMON>
+            <POSITION x="-600.000000" y="-2140.000000" z="1280.000000" />
+            <DIRECTION x="0.000000" y="-0.000000" z="1.000000" />
+            <UP x="0.000000" y="-1.000000" z="-0.000000" />
+        </COMMON>
+        <PROPERTY>
+            <NAME>SOUNDOCCLUDER11</NAME>
+            <WIDTH>600</WIDTH>
+            <HEIGHT>800</HEIGHT>
+            <OCCLUSION>0.850</OCCLUSION>
+            <REVERB_OCC>0.000</REVERB_OCC>
+            <DOUBLE_SIDES>true</DOUBLE_SIDES>
+        </PROPERTY>
+        <TOOL>
+            <LAYER>Sound</LAYER>
+            <VISIBLE>true</VISIBLE>
+            <EDITABLE>true</EDITABLE>
+        </TOOL>
+    </SOUNDOCCLUDER>
+    <SOUNDOCCLUDER>
+        <COMMON>
+            <POSITION x="790.000000" y="-2140.000000" z="560.000000" />
+            <DIRECTION x="0.000000" y="-0.000000" z="1.000000" />
+            <UP x="0.000000" y="-1.000000" z="-0.000000" />
+        </COMMON>
+        <PROPERTY>
+            <NAME>SOUNDOCCLUDER12</NAME>
+            <WIDTH>600</WIDTH>
+            <HEIGHT>800</HEIGHT>
+            <OCCLUSION>0.850</OCCLUSION>
+            <REVERB_OCC>0.000</REVERB_OCC>
+            <DOUBLE_SIDES>true</DOUBLE_SIDES>
+        </PROPERTY>
+        <TOOL>
+            <LAYER>Sound</LAYER>
+            <VISIBLE>true</VISIBLE>
+            <EDITABLE>true</EDITABLE>
+        </TOOL>
+    </SOUNDOCCLUDER>
+    <SOUNDOCCLUDER>
+        <COMMON>
+            <POSITION x="-750.000000" y="-2140.000000" z="560.000000" />
+            <DIRECTION x="0.000000" y="-0.000000" z="1.000000" />
+            <UP x="0.000000" y="-1.000000" z="-0.000000" />
+        </COMMON>
+        <PROPERTY>
+            <NAME>SOUNDOCCLUDER13</NAME>
+            <WIDTH>600</WIDTH>
+            <HEIGHT>800</HEIGHT>
+            <OCCLUSION>0.850</OCCLUSION>
+            <REVERB_OCC>0.500</REVERB_OCC>
+            <DOUBLE_SIDES>true</DOUBLE_SIDES>
+        </PROPERTY>
+        <TOOL>
+            <LAYER>Sound</LAYER>
+            <VISIBLE>true</VISIBLE>
+            <EDITABLE>true</EDITABLE>
+        </TOOL>
+    </SOUNDOCCLUDER>
+    <SOUND>
+        <COMMON>
+            <POSITION x="-2292.814941" y="-2143.211670" z="-179.893616" />
+            <DIRECTION x="0.000000" y="1.000000" z="0.000000" />
+            <UP x="0.000000" y="0.000000" z="1.000000" />
+        </COMMON>
+        <PROPERTY>
+            <NAME>underground_stair</NAME>
+            <TYPE>Sound</TYPE>
+            <VALUE>G2Sound/ENV/corridor_01</VALUE>
+            <RADIUS>1300</RADIUS>
+            <KILLONCONTACT>false</KILLONCONTACT>
+            <MINDISTANCE>800</MINDISTANCE>
+            <MAXDISTANCE>1000</MAXDISTANCE>
+            <VOLUME>-1.000</VOLUME>
+            <ACTIVE>true</ACTIVE>
+        </PROPERTY>
+        <TOOL>
+            <LAYER>Sound</LAYER>
+            <VISIBLE>false</VISIBLE>
+            <EDITABLE>false</EDITABLE>
+        </TOOL>
+    </SOUND>
+    <SCENEOBJECT>
+        <COMMON>
+            <POSITION x="0.000000" y="0.000000" z="0.000000" />
+            <DIRECTION x="0.000000" y="1.000000" z="0.000000" />
+            <UP x="0.000000" y="0.000000" z="1.000000" />
+        </COMMON>
+        <PROPERTY>
+            <NAME>shadowbox_mansion</NAME>
+            <SceneFileName>shadowbox_mansion.scene.xml</SceneFileName>
+            <Show>true</Show>
+            <PartsColor>ffffff</PartsColor>
+            <UMBRAID>100036</UMBRAID>
+        </PROPERTY>
+        <TOOL>
+            <LAYER>shadowbox</LAYER>
+            <VISIBLE>true</VISIBLE>
+            <EDITABLE>false</EDITABLE>
+        </TOOL>
+    </SCENEOBJECT>
+    <SCENEOBJECT>
+        <COMMON>
+            <POSITION x="2825.000000" y="-2775.000000" z="790.000000" />
+            <DIRECTION x="0.000000" y="-1.000000" z="0.000000" />
+            <UP x="0.000000" y="0.000000" z="1.000000" />
+        </COMMON>
+        <PROPERTY>
+            <NAME>SCENEOBJECT53</NAME>
+            <SceneFileName>mansion_a_statue_01.scene.xml</SceneFileName>
+            <Show>true</Show>
+            <PartsColor>ffffff</PartsColor>
+            <UMBRAID>100037</UMBRAID>
+        </PROPERTY>
+        <TOOL>
+            <LAYER>Prop</LAYER>
+            <VISIBLE>true</VISIBLE>
+            <EDITABLE>true</EDITABLE>
+        </TOOL>
+    </SCENEOBJECT>
+    <SCENEOBJECT>
+        <COMMON>
+            <POSITION x="2025.000000" y="-2775.000000" z="790.000000" />
+            <DIRECTION x="0.000000" y="-1.000000" z="0.000000" />
+            <UP x="0.000000" y="0.000000" z="1.000000" />
+        </COMMON>
+        <PROPERTY>
+            <NAME>SCENEOBJECT54</NAME>
+            <SceneFileName>mansion_a_statue_01.scene.xml</SceneFileName>
+            <Show>true</Show>
+            <PartsColor>ffffff</PartsColor>
+            <UMBRAID>100038</UMBRAID>
+        </PROPERTY>
+        <TOOL>
+            <LAYER>Prop</LAYER>
+            <VISIBLE>true</VISIBLE>
+            <EDITABLE>true</EDITABLE>
+        </TOOL>
+    </SCENEOBJECT>
+    <SCENEOBJECT>
+        <COMMON>
+            <POSITION x="6195.000000" y="-1320.000000" z="655.000000" />
+            <DIRECTION x="1.000000" y="0.000000" z="0.000000" />
+            <UP x="0.000000" y="0.000000" z="1.000000" />
+        </COMMON>
+        <PROPERTY>
+            <NAME>mansion_a_curtain_7</NAME>
+            <SceneFileName>mansion_a_curtain_01.scene.xml</SceneFileName>
+            <Show>true</Show>
+            <PartsColor>ffffff</PartsColor>
+            <UMBRAID>100039</UMBRAID>
+        </PROPERTY>
+        <TOOL>
+            <LAYER>Prop</LAYER>
+            <VISIBLE>true</VISIBLE>
+            <EDITABLE>true</EDITABLE>
+        </TOOL>
+    </SCENEOBJECT>
+    <SCENEOBJECT>
+        <COMMON>
+            <POSITION x="6195.000000" y="-945.000000" z="655.000000" />
+            <DIRECTION x="1.000000" y="0.000000" z="0.000000" />
+            <UP x="0.000000" y="0.000000" z="1.000000" />
+        </COMMON>
+        <PROPERTY>
+            <NAME>mansion_a_curtain_6</NAME>
+            <SceneFileName>mansion_a_curtain_01.scene.xml</SceneFileName>
+            <Show>true</Show>
+            <PartsColor>ffffff</PartsColor>
+            <UMBRAID>100040</UMBRAID>
+        </PROPERTY>
+        <TOOL>
+            <LAYER>Prop</LAYER>
+            <VISIBLE>true</VISIBLE>
+            <EDITABLE>true</EDITABLE>
+        </TOOL>
+    </SCENEOBJECT>
+    <SCENEOBJECT>
+        <COMMON>
+            <POSITION x="6195.000000" y="-1695.000000" z="655.000000" />
+            <DIRECTION x="1.000000" y="0.000000" z="0.000000" />
+            <UP x="0.000000" y="0.000000" z="1.000000" />
+        </COMMON>
+        <PROPERTY>
+            <NAME>mansion_a_curtain_8</NAME>
+            <SceneFileName>mansion_a_curtain_01.scene.xml</SceneFileName>
+            <Show>true</Show>
+            <PartsColor>ffffff</PartsColor>
+            <UMBRAID>100041</UMBRAID>
+        </PROPERTY>
+        <TOOL>
+            <LAYER>Prop</LAYER>
+            <VISIBLE>true</VISIBLE>
+            <EDITABLE>true</EDITABLE>
+        </TOOL>
+    </SCENEOBJECT>
+    <SOUND>
+        <COMMON>
+            <POSITION x="0.000000" y="-290.182739" z="1449.415527" />
+            <DIRECTION x="0.000000" y="1.000000" z="0.000000" />
+            <UP x="0.000000" y="0.000000" z="1.000000" />
+        </COMMON>
+        <PROPERTY>
+            <NAME>reverb_arena</NAME>
+            <TYPE>Local Reverb</TYPE>
+            <VALUE>(arena)</VALUE>
+            <RADIUS>2500</RADIUS>
+            <KILLONCONTACT>false</KILLONCONTACT>
+            <MINDISTANCE>0</MINDISTANCE>
+            <MAXDISTANCE>0</MAXDISTANCE>
+            <VOLUME>0.000</VOLUME>
+            <ACTIVE>true</ACTIVE>
+        </PROPERTY>
+        <TOOL>
+            <LAYER>Sound</LAYER>
+            <VISIBLE>false</VISIBLE>
+            <EDITABLE>false</EDITABLE>
+        </TOOL>
+    </SOUND>
+    <SOUND>
+        <COMMON>
+            <POSITION x="18.181885" y="-1764.053711" z="-590.785645" />
+            <DIRECTION x="0.000000" y="1.000000" z="0.000000" />
+            <UP x="0.000000" y="0.000000" z="1.000000" />
+        </COMMON>
+        <PROPERTY>
+            <NAME>reverb_cave</NAME>
+            <TYPE>Local Reverb</TYPE>
+            <VALUE>(cave)</VALUE>
+            <RADIUS>2000</RADIUS>
+            <KILLONCONTACT>false</KILLONCONTACT>
+            <MINDISTANCE>0</MINDISTANCE>
+            <MAXDISTANCE>0</MAXDISTANCE>
+            <VOLUME>-1.000</VOLUME>
+            <ACTIVE>true</ACTIVE>
+        </PROPERTY>
+        <TOOL>
+            <LAYER>Sound</LAYER>
+            <VISIBLE>false</VISIBLE>
+            <EDITABLE>false</EDITABLE>
+        </TOOL>
+    </SOUND>
+    <SOUNDOCCLUDER>
+        <COMMON>
+            <POSITION x="1676.453369" y="-282.570923" z="1466.958496" />
+            <DIRECTION x="1.000000" y="-0.000000" z="0.000000" />
+            <UP x="0.000000" y="0.000000" z="1.000000" />
+        </COMMON>
+        <PROPERTY>
+            <NAME>SOUNDOCCLUDER16</NAME>
+            <WIDTH>5000</WIDTH>
+            <HEIGHT>3000</HEIGHT>
+            <OCCLUSION>1.000</OCCLUSION>
+            <REVERB_OCC>1.000</REVERB_OCC>
+            <DOUBLE_SIDES>true</DOUBLE_SIDES>
+        </PROPERTY>
+        <TOOL>
+            <LAYER>Sound</LAYER>
+            <VISIBLE>true</VISIBLE>
+            <EDITABLE>true</EDITABLE>
+        </TOOL>
+    </SOUNDOCCLUDER>
+    <SOUND>
+        <COMMON>
+            <POSITION x="2145.634766" y="-2382.425293" z="-54.266769" />
+            <DIRECTION x="0.000000" y="1.000000" z="0.000000" />
+            <UP x="0.000000" y="0.000000" z="1.000000" />
+        </COMMON>
+        <PROPERTY>
+            <NAME>reverb_sc01</NAME>
+            <TYPE>Sound</TYPE>
+            <VALUE>(stonecorridor)</VALUE>
+            <RADIUS>1200</RADIUS>
+            <KILLONCONTACT>false</KILLONCONTACT>
+            <MINDISTANCE>0</MINDISTANCE>
+            <MAXDISTANCE>0</MAXDISTANCE>
+            <VOLUME>0.000</VOLUME>
+            <ACTIVE>true</ACTIVE>
+        </PROPERTY>
+        <TOOL>
+            <LAYER>Sound</LAYER>
+            <VISIBLE>false</VISIBLE>
+            <EDITABLE>false</EDITABLE>
+        </TOOL>
+    </SOUND>
+    <SOUNDOCCLUDER>
+        <COMMON>
+            <POSITION x="2445.118652" y="-2287.291504" z="684.414063" />
+            <DIRECTION x="0.000000" y="-0.000000" z="1.000000" />
+            <UP x="0.000000" y="-1.000000" z="-0.000000" />
+        </COMMON>
+        <PROPERTY>
+            <NAME>SOUNDOCCLUDER17</NAME>
+            <WIDTH>1400</WIDTH>
+            <HEIGHT>1000</HEIGHT>
+            <OCCLUSION>1.000</OCCLUSION>
+            <REVERB_OCC>1.000</REVERB_OCC>
+            <DOUBLE_SIDES>true</DOUBLE_SIDES>
+        </PROPERTY>
+        <TOOL>
+            <LAYER>Sound</LAYER>
+            <VISIBLE>true</VISIBLE>
+            <EDITABLE>true</EDITABLE>
+        </TOOL>
+    </SOUNDOCCLUDER>
+    <SOUND>
+        <COMMON>
+            <POSITION x="1926.636475" y="-2300.000000" z="-706.327393" />
+            <DIRECTION x="0.000000" y="1.000000" z="0.000000" />
+            <UP x="0.000000" y="0.000000" z="1.000000" />
+        </COMMON>
+        <PROPERTY>
+            <NAME>blowholes01</NAME>
+            <TYPE>Sound</TYPE>
+            <VALUE>G2Sound/ENV/blowhole_s</VALUE>
+            <RADIUS>500</RADIUS>
+            <KILLONCONTACT>false</KILLONCONTACT>
+            <MINDISTANCE>100</MINDISTANCE>
+            <MAXDISTANCE>300</MAXDISTANCE>
+            <VOLUME>-1.000</VOLUME>
+            <ACTIVE>true</ACTIVE>
+        </PROPERTY>
+        <TOOL>
+            <LAYER>Sound</LAYER>
+            <VISIBLE>false</VISIBLE>
+            <EDITABLE>false</EDITABLE>
+        </TOOL>
+    </SOUND>
+    <SOUND>
+        <COMMON>
+            <POSITION x="1919.712891" y="-2026.882080" z="-774.999695" />
+            <DIRECTION x="0.000000" y="1.000000" z="0.000000" />
+            <UP x="0.000000" y="0.000000" z="1.000000" />
+        </COMMON>
+        <PROPERTY>
+            <NAME>blowholes02</NAME>
+            <TYPE>Sound</TYPE>
+            <VALUE>G2Sound/ENV/blowhole_s</VALUE>
+            <RADIUS>500</RADIUS>
+            <KILLONCONTACT>false</KILLONCONTACT>
+            <MINDISTANCE>100</MINDISTANCE>
+            <MAXDISTANCE>300</MAXDISTANCE>
+            <VOLUME>-1.000</VOLUME>
+            <ACTIVE>true</ACTIVE>
+        </PROPERTY>
+        <TOOL>
+            <LAYER>Sound</LAYER>
+            <VISIBLE>false</VISIBLE>
+            <EDITABLE>false</EDITABLE>
+        </TOOL>
+    </SOUND>
+    <SOUND>
+        <COMMON>
+            <POSITION x="1422.402832" y="-2316.175293" z="-767.546021" />
+            <DIRECTION x="0.000000" y="1.000000" z="0.000000" />
+            <UP x="0.000000" y="0.000000" z="1.000000" />
+        </COMMON>
+        <PROPERTY>
+            <NAME>blowholes03</NAME>
+            <TYPE>Sound</TYPE>
+            <VALUE>G2Sound/ENV/blowhole_s</VALUE>
+            <RADIUS>500</RADIUS>
+            <KILLONCONTACT>false</KILLONCONTACT>
+            <MINDISTANCE>100</MINDISTANCE>
+            <MAXDISTANCE>300</MAXDISTANCE>
+            <VOLUME>-1.000</VOLUME>
+            <ACTIVE>true</ACTIVE>
+        </PROPERTY>
+        <TOOL>
+            <LAYER>Sound</LAYER>
+            <VISIBLE>false</VISIBLE>
+            <EDITABLE>false</EDITABLE>
+        </TOOL>
+    </SOUND>
+    <SOUND>
+        <COMMON>
+            <POSITION x="1556.327637" y="-1798.230347" z="-750.747498" />
+            <DIRECTION x="0.000000" y="1.000000" z="0.000000" />
+            <UP x="0.000000" y="0.000000" z="1.000000" />
+        </COMMON>
+        <PROPERTY>
+            <NAME>blowholes04</NAME>
+            <TYPE>Sound</TYPE>
+            <VALUE>G2Sound/ENV/blowhole_s</VALUE>
+            <RADIUS>500</RADIUS>
+            <KILLONCONTACT>false</KILLONCONTACT>
+            <MINDISTANCE>100</MINDISTANCE>
+            <MAXDISTANCE>300</MAXDISTANCE>
+            <VOLUME>-1.000</VOLUME>
+            <ACTIVE>true</ACTIVE>
+        </PROPERTY>
+        <TOOL>
+            <LAYER>Sound</LAYER>
+            <VISIBLE>false</VISIBLE>
+            <EDITABLE>false</EDITABLE>
+        </TOOL>
+    </SOUND>
+    <SOUND>
+        <COMMON>
+            <POSITION x="1294.858398" y="-1380.075317" z="-740.257385" />
+            <DIRECTION x="0.000000" y="1.000000" z="0.000000" />
+            <UP x="0.000000" y="0.000000" z="1.000000" />
+        </COMMON>
+        <PROPERTY>
+            <NAME>blowholes05</NAME>
+            <TYPE>Sound</TYPE>
+            <VALUE>G2Sound/ENV/blowhole_s</VALUE>
+            <RADIUS>500</RADIUS>
+            <KILLONCONTACT>false</KILLONCONTACT>
+            <MINDISTANCE>100</MINDISTANCE>
+            <MAXDISTANCE>300</MAXDISTANCE>
+            <VOLUME>-1.000</VOLUME>
+            <ACTIVE>true</ACTIVE>
+        </PROPERTY>
+        <TOOL>
+            <LAYER>Sound</LAYER>
+            <VISIBLE>false</VISIBLE>
+            <EDITABLE>false</EDITABLE>
+        </TOOL>
+    </SOUND>
+    <SOUND>
+        <COMMON>
+            <POSITION x="1551.096069" y="-1394.453735" z="-774.999756" />
+            <DIRECTION x="0.000000" y="1.000000" z="0.000000" />
+            <UP x="0.000000" y="0.000000" z="1.000000" />
+        </COMMON>
+        <PROPERTY>
+            <NAME>blowholes06</NAME>
+            <TYPE>Sound</TYPE>
+            <VALUE>G2Sound/ENV/blowhole_s</VALUE>
+            <RADIUS>500</RADIUS>
+            <KILLONCONTACT>false</KILLONCONTACT>
+            <MINDISTANCE>100</MINDISTANCE>
+            <MAXDISTANCE>300</MAXDISTANCE>
+            <VOLUME>-1.000</VOLUME>
+            <ACTIVE>true</ACTIVE>
+        </PROPERTY>
+        <TOOL>
+            <LAYER>Sound</LAYER>
+            <VISIBLE>false</VISIBLE>
+            <EDITABLE>false</EDITABLE>
+        </TOOL>
+    </SOUND>
+    <SOUND>
+        <COMMON>
+            <POSITION x="-1549.999634" y="-1782.963257" z="-713.451172" />
+            <DIRECTION x="0.000000" y="1.000000" z="0.000000" />
+            <UP x="0.000000" y="0.000000" z="1.000000" />
+        </COMMON>
+        <PROPERTY>
+            <NAME>blowholes07</NAME>
+            <TYPE>Sound</TYPE>
+            <VALUE>G2Sound/ENV/blowhole_s</VALUE>
+            <RADIUS>500</RADIUS>
+            <KILLONCONTACT>false</KILLONCONTACT>
+            <MINDISTANCE>100</MINDISTANCE>
+            <MAXDISTANCE>300</MAXDISTANCE>
+            <VOLUME>-1.000</VOLUME>
+            <ACTIVE>true</ACTIVE>
+        </PROPERTY>
+        <TOOL>
+            <LAYER>Sound</LAYER>
+            <VISIBLE>false</VISIBLE>
+            <EDITABLE>false</EDITABLE>
+        </TOOL>
+    </SOUND>
+    <SOUND>
+        <COMMON>
+            <POSITION x="-1575.270874" y="-1391.709106" z="-751.774292" />
+            <DIRECTION x="0.000000" y="1.000000" z="0.000000" />
+            <UP x="0.000000" y="0.000000" z="1.000000" />
+        </COMMON>
+        <PROPERTY>
+            <NAME>blowholes08</NAME>
+            <TYPE>Sound</TYPE>
+            <VALUE>G2Sound/ENV/blowhole_s</VALUE>
+            <RADIUS>500</RADIUS>
+            <KILLONCONTACT>false</KILLONCONTACT>
+            <MINDISTANCE>100</MINDISTANCE>
+            <MAXDISTANCE>300</MAXDISTANCE>
+            <VOLUME>-1.000</VOLUME>
+            <ACTIVE>true</ACTIVE>
+        </PROPERTY>
+        <TOOL>
+            <LAYER>Sound</LAYER>
+            <VISIBLE>false</VISIBLE>
+            <EDITABLE>false</EDITABLE>
+        </TOOL>
+    </SOUND>
+    <SOUND>
+        <COMMON>
+            <POSITION x="-1450.358643" y="-2300.000000" z="-705.801697" />
+            <DIRECTION x="0.000000" y="1.000000" z="0.000000" />
+            <UP x="0.000000" y="0.000000" z="1.000000" />
+        </COMMON>
+        <PROPERTY>
+            <NAME>blowholes09</NAME>
+            <TYPE>Sound</TYPE>
+            <VALUE>G2Sound/ENV/blowhole_s</VALUE>
+            <RADIUS>500</RADIUS>
+            <KILLONCONTACT>false</KILLONCONTACT>
+            <MINDISTANCE>100</MINDISTANCE>
+            <MAXDISTANCE>300</MAXDISTANCE>
+            <VOLUME>-1.000</VOLUME>
+            <ACTIVE>true</ACTIVE>
+        </PROPERTY>
+        <TOOL>
+            <LAYER>Sound</LAYER>
+            <VISIBLE>false</VISIBLE>
+            <EDITABLE>false</EDITABLE>
+        </TOOL>
+    </SOUND>
+    <SOUND>
+        <COMMON>
+            <POSITION x="-1936.335571" y="-2043.068604" z="-757.314819" />
+            <DIRECTION x="0.000000" y="1.000000" z="0.000000" />
+            <UP x="0.000000" y="0.000000" z="1.000000" />
+        </COMMON>
+        <PROPERTY>
+            <NAME>blowholes10</NAME>
+            <TYPE>Sound</TYPE>
+            <VALUE>G2Sound/ENV/blowhole_s</VALUE>
+            <RADIUS>500</RADIUS>
+            <KILLONCONTACT>false</KILLONCONTACT>
+            <MINDISTANCE>100</MINDISTANCE>
+            <MAXDISTANCE>300</MAXDISTANCE>
+            <VOLUME>-1.000</VOLUME>
+            <ACTIVE>true</ACTIVE>
+        </PROPERTY>
+        <TOOL>
+            <LAYER>Sound</LAYER>
+            <VISIBLE>false</VISIBLE>
+            <EDITABLE>false</EDITABLE>
+        </TOOL>
+    </SOUND>
+    <SOUND>
+        <COMMON>
+            <POSITION x="-1931.260864" y="-2307.753174" z="-754.028198" />
+            <DIRECTION x="0.000000" y="1.000000" z="0.000000" />
+            <UP x="0.000000" y="0.000000" z="1.000000" />
+        </COMMON>
+        <PROPERTY>
+            <NAME>blowholes11</NAME>
+            <TYPE>Sound</TYPE>
+            <VALUE>G2Sound/ENV/blowhole_s</VALUE>
+            <RADIUS>500</RADIUS>
+            <KILLONCONTACT>false</KILLONCONTACT>
+            <MINDISTANCE>100</MINDISTANCE>
+            <MAXDISTANCE>300</MAXDISTANCE>
+            <VOLUME>-1.000</VOLUME>
+            <ACTIVE>true</ACTIVE>
+        </PROPERTY>
+        <TOOL>
+            <LAYER>Sound</LAYER>
+            <VISIBLE>false</VISIBLE>
+            <EDITABLE>false</EDITABLE>
+        </TOOL>
+    </SOUND>
+    <SOUNDOCCLUDER>
+        <COMMON>
+            <POSITION x="-1182.509888" y="-3088.604248" z="1064.899902" />
+            <DIRECTION x="1.000000" y="-0.000000" z="0.000000" />
+            <UP x="0.000000" y="0.000000" z="1.000000" />
+        </COMMON>
+        <PROPERTY>
+            <NAME>SOUNDOCCLUDER18</NAME>
+            <WIDTH>1500</WIDTH>
+            <HEIGHT>3000</HEIGHT>
+            <OCCLUSION>1.000</OCCLUSION>
+            <REVERB_OCC>0.000</REVERB_OCC>
+            <DOUBLE_SIDES>true</DOUBLE_SIDES>
+        </PROPERTY>
+        <TOOL>
+            <LAYER>Sound</LAYER>
+            <VISIBLE>true</VISIBLE>
+            <EDITABLE>true</EDITABLE>
+        </TOOL>
+    </SOUNDOCCLUDER>
+    <SOUNDOCCLUDER>
+        <COMMON>
+            <POSITION x="828.578491" y="-3134.847900" z="1064.899902" />
+            <DIRECTION x="1.000000" y="-0.000000" z="0.000000" />
+            <UP x="0.000000" y="0.000000" z="1.000000" />
+        </COMMON>
+        <PROPERTY>
+            <NAME>SOUNDOCCLUDER19</NAME>
+            <WIDTH>1500</WIDTH>
+            <HEIGHT>3000</HEIGHT>
+            <OCCLUSION>1.000</OCCLUSION>
+            <REVERB_OCC>0.000</REVERB_OCC>
+            <DOUBLE_SIDES>true</DOUBLE_SIDES>
+        </PROPERTY>
+        <TOOL>
+            <LAYER>Sound</LAYER>
+            <VISIBLE>true</VISIBLE>
+            <EDITABLE>true</EDITABLE>
+        </TOOL>
+    </SOUNDOCCLUDER>
+    <SOUND>
+        <COMMON>
+            <POSITION x="-1197.505371" y="-1092.598877" z="863.419678" />
+            <DIRECTION x="0.000000" y="1.000000" z="0.000000" />
+            <UP x="0.000000" y="0.000000" z="1.000000" />
+        </COMMON>
+        <PROPERTY>
+            <NAME>test</NAME>
+            <TYPE>Sound</TYPE>
+            <RADIUS>9000</RADIUS>
+            <KILLONCONTACT>false</KILLONCONTACT>
+            <MINDISTANCE>4000</MINDISTANCE>
+            <MAXDISTANCE>8000</MAXDISTANCE>
+            <VOLUME>-1.000</VOLUME>
+            <ACTIVE>true</ACTIVE>
+        </PROPERTY>
+        <TOOL>
+            <LAYER>Sound</LAYER>
+            <VISIBLE>true</VISIBLE>
+            <EDITABLE>true</EDITABLE>
+        </TOOL>
+    </SOUND>
+    <SOUNDOCCLUDER>
+        <COMMON>
+            <POSITION x="-1764.833008" y="-282.570923" z="1457.211182" />
+            <DIRECTION x="1.000000" y="-0.000000" z="0.000000" />
+            <UP x="0.000000" y="0.000000" z="1.000000" />
+        </COMMON>
+        <PROPERTY>
+            <NAME>SOUNDOCCLUDER20</NAME>
+            <WIDTH>5000</WIDTH>
+            <HEIGHT>3000</HEIGHT>
+            <OCCLUSION>1.000</OCCLUSION>
+            <REVERB_OCC>1.000</REVERB_OCC>
+            <DOUBLE_SIDES>true</DOUBLE_SIDES>
+        </PROPERTY>
+        <TOOL>
+            <LAYER />
+            <VISIBLE>true</VISIBLE>
+            <EDITABLE>true</EDITABLE>
+        </TOOL>
+    </SOUNDOCCLUDER>
+    <SOUNDOCCLUDER>
+        <COMMON>
+            <POSITION x="-3089.704590" y="-1276.075195" z="230.776733" />
+            <DIRECTION x="1.000000" y="-0.000000" z="0.000000" />
+            <UP x="0.000000" y="0.000000" z="1.000000" />
+        </COMMON>
+        <PROPERTY>
+            <NAME>SOUNDOCCLUDER21</NAME>
+            <WIDTH>3000</WIDTH>
+            <HEIGHT>3000</HEIGHT>
+            <OCCLUSION>1.000</OCCLUSION>
+            <REVERB_OCC>1.000</REVERB_OCC>
+            <DOUBLE_SIDES>true</DOUBLE_SIDES>
+        </PROPERTY>
+        <TOOL>
+            <LAYER />
+            <VISIBLE>true</VISIBLE>
+            <EDITABLE>true</EDITABLE>
+        </TOOL>
+    </SOUNDOCCLUDER>
+    <SOUNDOCCLUDER>
+        <COMMON>
+            <POSITION x="3198.283936" y="-1262.780029" z="230.776733" />
+            <DIRECTION x="1.000000" y="-0.000000" z="0.000000" />
+            <UP x="0.000000" y="0.000000" z="1.000000" />
+        </COMMON>
+        <PROPERTY>
+            <NAME>SOUNDOCCLUDER22</NAME>
+            <WIDTH>3000</WIDTH>
+            <HEIGHT>3000</HEIGHT>
+            <OCCLUSION>1.000</OCCLUSION>
+            <REVERB_OCC>1.000</REVERB_OCC>
+            <DOUBLE_SIDES>true</DOUBLE_SIDES>
+        </PROPERTY>
+        <TOOL>
+            <LAYER />
+            <VISIBLE>true</VISIBLE>
+            <EDITABLE>true</EDITABLE>
+        </TOOL>
+    </SOUNDOCCLUDER>
+    <SOUNDOCCLUDER>
+        <COMMON>
+            <POSITION x="2608.428223" y="-2762.960938" z="98.824219" />
+            <DIRECTION x="0.000000" y="1.000000" z="-0.000000" />
+            <UP x="1.000000" y="0.000000" z="0.000000" />
+        </COMMON>
+        <PROPERTY>
+            <NAME>SOUNDOCCLUDER23</NAME>
+            <WIDTH>1200</WIDTH>
+            <HEIGHT>1200</HEIGHT>
+            <OCCLUSION>0.700</OCCLUSION>
+            <REVERB_OCC>0.750</REVERB_OCC>
+            <DOUBLE_SIDES>true</DOUBLE_SIDES>
+        </PROPERTY>
+        <TOOL>
+            <LAYER />
+            <VISIBLE>true</VISIBLE>
+            <EDITABLE>true</EDITABLE>
+        </TOOL>
+    </SOUNDOCCLUDER>
+</XML>

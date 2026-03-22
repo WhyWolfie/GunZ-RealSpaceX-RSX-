@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<XML>
+    <MATERIALLIST>
+        <MATERIAL name="at_prop_fan_02_steel2">
+            <DIFFUSE>150 150 150</DIFFUSE>
+            <AMBIENT>150 150 150</AMBIENT>
+            <SPECULAR>229 229 229</SPECULAR>
+            <SPECULAR_LEVEL>100.000</SPECULAR_LEVEL>
+            <GLOSSINESS>10.000</GLOSSINESS>
+            <SELFILLUSIONSCALE>0.000</SELFILLUSIONSCALE>
+            <TEXTURELIST count="4">
+                <TEXTURELAYER index="0">
+                    <DIFFUSEMAP>prop_fan_small_02_df.tga</DIFFUSEMAP>
+                </TEXTURELAYER>
+                <TEXTURELAYER index="1">
+                    <SPECULARMAP>prop_fan_small_02_df.tga</SPECULARMAP>
+                </TEXTURELAYER>
+                <TEXTURELAYER index="2">
+                    <OPACITYMAP>prop_fan_small_02_nm.tga</OPACITYMAP>
+                </TEXTURELAYER>
+                <TEXTURELAYER index="3">
+                    <NORMALMAP>prop_fan_small_02_nm.tga</NORMALMAP>
+                </TEXTURELAYER>
+            </TEXTURELIST>
+            <TWOSIDED />
+            <USEALPHATEST>
+                <ALPHATESTVALUE>128</ALPHATESTVALUE>
+            </USEALPHATEST>
+        </MATERIAL>
+    </MATERIALLIST>
+    <COLLISION />
+    <USERPROPERTYLIST>
+        <USERPROPERTY node="prop_fan_small_02" property="Density = 1.0" />
+        <USERPROPERTY node="prop_fan_small_02" property="GeometryType = 1" />
+        <USERPROPERTY node="prop_fan_small_02" property="MaterialType = 2" />
+        <USERPROPERTY node="prop_fan_small_02" property="Friction = 0.3" />
+        <USERPROPERTY node="prop_fan_small_02" property="StaticFriction = 0.3" />
+        <USERPROPERTY node="prop_fan_small_02" property="Restitution = 0.0" />
+        <USERPROPERTY node="prop_fan_small_02" property="InitialVelocityX = 0.0" />
+        <USERPROPERTY node="prop_fan_small_02" property="InitialVelocityY = 0.0" />
+        <USERPROPERTY node="prop_fan_small_02" property="InitialVelocityZ = 0.0" />
+        <USERPROPERTY node="prop_fan_small_02" property="InitialSpinX = 0.0" />
+        <USERPROPERTY node="prop_fan_small_02" property="InitialSpinY = 0.0" />
+        <USERPROPERTY node="prop_fan_small_02" property="InitialSpinZ = 0.0" />
+        <USERPROPERTY node="prop_fan_small_02" property="PutToSleep = false" />
+        <USERPROPERTY node="prop_fan_small_02" property="EnableCCD = false" />
+        <USERPROPERTY node="prop_fan_small_02" property="PhysicsType = 5" />
+        <USERPROPERTY node="fan" property="Density = 1.0" />
+        <USERPROPERTY node="fan" property="GeometryType = 1" />
+        <USERPROPERTY node="fan" property="MaterialType = 2" />
+        <USERPROPERTY node="fan" property="Friction = 0.3" />
+        <USERPROPERTY node="fan" property="StaticFriction = 0.3" />
+        <USERPROPERTY node="fan" property="Restitution = 0.0" />
+        <USERPROPERTY node="fan" property="InitialVelocityX = 0.0" />
+        <USERPROPERTY node="fan" property="InitialVelocityY = 0.0" />
+        <USERPROPERTY node="fan" property="InitialVelocityZ = 0.0" />
+        <USERPROPERTY node="fan" property="InitialSpinX = 0.0" />
+        <USERPROPERTY node="fan" property="InitialSpinY = 0.0" />
+        <USERPROPERTY node="fan" property="InitialSpinZ = 0.0" />
+        <USERPROPERTY node="fan" property="PutToSleep = false" />
+        <USERPROPERTY node="fan" property="EnableCCD = false" />
+        <USERPROPERTY node="fan" property="PhysicsType = 5" />
+    </USERPROPERTYLIST>
+    <AUTOANIMATION />
+</XML>

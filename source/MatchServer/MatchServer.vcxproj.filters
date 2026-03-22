@@ -1,0 +1,427 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="MFCFramework">
+      <UniqueIdentifier>{da380516-a05b-41cd-a1a1-d884233afa36}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Server">
+      <UniqueIdentifier>{2677d64d-f8a6-4534-b13e-1022983bb34b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Server\MBMatchAsync">
+      <UniqueIdentifier>{119b67dc-51a2-4296-99e0-24d5015577ca}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Server\MBMatchAsync\AccountItem">
+      <UniqueIdentifier>{ecb55b33-8cbb-4b9e-9ac6-a50e6f53ee19}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Server\MBMatchServerOnCommand">
+      <UniqueIdentifier>{1b506843-418e-4086-9112-3e4ef66155d9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Server\Test">
+      <UniqueIdentifier>{62d9eb28-5313-4fdb-a906-290b42274ae1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Server\Test\TestResourceCRC32Cache">
+      <UniqueIdentifier>{a78eed20-aa7a-482b-b9f0-464c8f099db6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Netmarble">
+      <UniqueIdentifier>{c6f5f882-12c8-47c4-99d7-0c460e6f27c1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Netmarble\Billing">
+      <UniqueIdentifier>{93706f6e-81c4-45f8-8dd1-750b2a5c883a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Netmarble\Login">
+      <UniqueIdentifier>{cfd488ff-70cb-40ad-9074-8dc7ee2fa6ef}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="NHN_USA">
+      <UniqueIdentifier>{bd03c3e3-ce6d-4d8b-8aa4-a99c7e1a95d2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Security">
+      <UniqueIdentifier>{724c14e9-62b8-45d1-a366-21ef2fec9604}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Security\Hack">
+      <UniqueIdentifier>{0a1f0748-c629-4ee5-8c9e-e58b521ca181}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="MBMatchMonitor">
+      <UniqueIdentifier>{dc03da36-504f-4774-937b-4c9778940e7c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GameOn">
+      <UniqueIdentifier>{3715f62d-5b4d-487b-9d90-0087e03bf92d}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="ChildFrm.cpp">
+      <Filter>MFCFramework</Filter>
+    </ClCompile>
+    <ClCompile Include="CommandLogView.cpp">
+      <Filter>MFCFramework</Filter>
+    </ClCompile>
+    <ClCompile Include="ExceptionAttacher.cpp">
+      <Filter>MFCFramework</Filter>
+    </ClCompile>
+    <ClCompile Include="MainFrm.cpp">
+      <Filter>MFCFramework</Filter>
+    </ClCompile>
+    <ClCompile Include="MatchServer.cpp">
+      <Filter>MFCFramework</Filter>
+    </ClCompile>
+    <ClCompile Include="MatchServerDoc.cpp">
+      <Filter>MFCFramework</Filter>
+    </ClCompile>
+    <ClCompile Include="MatchServerView.cpp">
+      <Filter>MFCFramework</Filter>
+    </ClCompile>
+    <ClCompile Include="OutputView.cpp">
+      <Filter>MFCFramework</Filter>
+    </ClCompile>
+    <ClCompile Include="stdafx.cpp">
+      <Filter>MFCFramework</Filter>
+    </ClCompile>
+    <ClCompile Include="TrayIcon.cpp">
+      <Filter>MFCFramework</Filter>
+    </ClCompile>
+    <ClCompile Include="MBMatchServer.cpp">
+      <Filter>Server</Filter>
+    </ClCompile>
+    <ClCompile Include="MBMatchServerConfigReloader.cpp">
+      <Filter>Server</Filter>
+    </ClCompile>
+    <ClCompile Include="MBMatchAsyncDBJob_BuyBountyItem.cpp">
+      <Filter>Server\MBMatchAsync</Filter>
+    </ClCompile>
+    <ClCompile Include="MBMatchAsyncDBJob_Character.cpp">
+      <Filter>Server\MBMatchAsync</Filter>
+    </ClCompile>
+    <ClCompile Include="MBMatchAsyncDBJob_GambleItem.cpp">
+      <Filter>Server\MBMatchAsync</Filter>
+    </ClCompile>
+    <ClCompile Include="MBMatchAsyncDBJob_GambleQuestItem.cpp">
+      <Filter>Server\MBMatchAsync</Filter>
+    </ClCompile>
+    <ClCompile Include="MBMatchAsyncDBJob_GameOnLogin.cpp">
+      <Filter>Server\MBMatchAsync</Filter>
+    </ClCompile>
+    <ClCompile Include="MBMatchAsyncDBJob_NetmarbleLogin.cpp">
+      <Filter>Server\MBMatchAsync</Filter>
+    </ClCompile>
+    <ClCompile Include="MBMatchAsyncDBJob_NHNLogin.cpp">
+      <Filter>Server\MBMatchAsync</Filter>
+    </ClCompile>
+    <ClCompile Include="MBMatchAsyncDBJob_SellItem.cpp">
+      <Filter>Server\MBMatchAsync</Filter>
+    </ClCompile>
+    <ClCompile Include="MBMatchAsyncDBJob_TakeoffItem.cpp">
+      <Filter>Server\MBMatchAsync</Filter>
+    </ClCompile>
+    <ClCompile Include="MBMatchAsyncDBJob_UpdateCharLevel.cpp">
+      <Filter>Server\MBMatchAsync</Filter>
+    </ClCompile>
+    <ClCompile Include="MBMatchAsyncDBJob_UpdateCharPlayInfo.cpp">
+      <Filter>Server\MBMatchAsync</Filter>
+    </ClCompile>
+    <ClCompile Include="MBMatchAsyncDBJob_UpdateEquipItem.cpp">
+      <Filter>Server\MBMatchAsync</Filter>
+    </ClCompile>
+    <ClCompile Include="MBMatchAsyncJob_GetCpuInfo.cpp">
+      <Filter>Server\MBMatchAsync</Filter>
+    </ClCompile>
+    <ClCompile Include="OnProcessAsyncJob.cpp">
+      <Filter>Server\MBMatchAsync</Filter>
+    </ClCompile>
+    <ClCompile Include="MBMatchAsyncDBJob_BringAccountItem.cpp">
+      <Filter>Server\MBMatchAsync\AccountItem</Filter>
+    </ClCompile>
+    <ClCompile Include="MBMatchAsyncDBJob_BringAccountItemStackable.cpp">
+      <Filter>Server\MBMatchAsync\AccountItem</Filter>
+    </ClCompile>
+    <ClCompile Include="MBMatchAsyncDBJob_BringBackAccountItem.cpp">
+      <Filter>Server\MBMatchAsync\AccountItem</Filter>
+    </ClCompile>
+    <ClCompile Include="MBMatchAsyncDBJob_BringBackAccountItemStackable.cpp">
+      <Filter>Server\MBMatchAsync\AccountItem</Filter>
+    </ClCompile>
+    <ClCompile Include="MBMatchServer_CountryFilter.cpp">
+      <Filter>Server\MBMatchServerOnCommand</Filter>
+    </ClCompile>
+    <ClCompile Include="MBMatchServer_Item.cpp">
+      <Filter>Server\MBMatchServerOnCommand</Filter>
+    </ClCompile>
+    <ClCompile Include="MBMatchServer_Login.cpp">
+      <Filter>Server\MBMatchServerOnCommand</Filter>
+    </ClCompile>
+    <ClCompile Include="MBMatchServer_OnCommand.cpp">
+      <Filter>Server\MBMatchServerOnCommand</Filter>
+    </ClCompile>
+    <ClCompile Include="MBMatchServer_ServerKeeper.cpp">
+      <Filter>Server\MBMatchServerOnCommand</Filter>
+    </ClCompile>
+    <ClCompile Include="MBMatchServer_Stage.cpp">
+      <Filter>Server\MBMatchServerOnCommand</Filter>
+    </ClCompile>
+    <ClCompile Include="MMatchServer_Schedule.cpp">
+      <Filter>Server\MBMatchServerOnCommand</Filter>
+    </ClCompile>
+    <ClCompile Include="MBMatchTest.cpp">
+      <Filter>Server\Test</Filter>
+    </ClCompile>
+    <ClCompile Include="MBMatchTest_Killtracker.cpp">
+      <Filter>Server\Test</Filter>
+    </ClCompile>
+    <ClCompile Include="TestCRC32Server.cpp">
+      <Filter>Server\Test\TestResourceCRC32Cache</Filter>
+    </ClCompile>
+    <ClCompile Include="TestCRCNetModule.cpp">
+      <Filter>Server\Test\TestResourceCRC32Cache</Filter>
+    </ClCompile>
+    <ClCompile Include="TestCRCPlayer.cpp">
+      <Filter>Server\Test\TestResourceCRC32Cache</Filter>
+    </ClCompile>
+    <ClCompile Include="TestCRCStage.cpp">
+      <Filter>Server\Test\TestResourceCRC32Cache</Filter>
+    </ClCompile>
+    <ClCompile Include="TestResourceCRC32Cache_ServerClient.cpp">
+      <Filter>Server\Test\TestResourceCRC32Cache</Filter>
+    </ClCompile>
+    <ClCompile Include="MBMatchNetmarbleBilling.cpp">
+      <Filter>Netmarble\Billing</Filter>
+    </ClCompile>
+    <ClCompile Include="MBMatchAuth.cpp">
+      <Filter>Netmarble\Login</Filter>
+    </ClCompile>
+    <ClCompile Include="MBMatchNHNAuth.cpp">
+      <Filter>NHN_USA</Filter>
+    </ClCompile>
+    <ClCompile Include="MBMatchNHNRTA.cpp">
+      <Filter>NHN_USA</Filter>
+    </ClCompile>
+    <ClCompile Include="MBMatchSecurity.cpp">
+      <Filter>Security</Filter>
+    </ClCompile>
+    <ClCompile Include="MBMatchKillTracker.cpp">
+      <Filter>Security\Hack</Filter>
+    </ClCompile>
+    <ClCompile Include="MBMatchMonitor.cpp">
+      <Filter>MBMatchMonitor</Filter>
+    </ClCompile>
+    <ClCompile Include="MBMatchMonitorCommunicator.cpp">
+      <Filter>MBMatchMonitor</Filter>
+    </ClCompile>
+    <ClCompile Include="MBMatchMonitorXml.cpp">
+      <Filter>MBMatchMonitor</Filter>
+    </ClCompile>
+    <ClCompile Include="MBMatchSystemInfo.cpp">
+      <Filter>MBMatchMonitor</Filter>
+    </ClCompile>
+    <ClCompile Include="MBMatchGameOnAuth.cpp">
+      <Filter>GameOn</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="ChildFrm.h">
+      <Filter>MFCFramework</Filter>
+    </ClInclude>
+    <ClInclude Include="CommandLogView.h">
+      <Filter>MFCFramework</Filter>
+    </ClInclude>
+    <ClInclude Include="MainFrm.h">
+      <Filter>MFCFramework</Filter>
+    </ClInclude>
+    <ClInclude Include="MatchServer.h">
+      <Filter>MFCFramework</Filter>
+    </ClInclude>
+    <ClInclude Include="MatchServerDoc.h">
+      <Filter>MFCFramework</Filter>
+    </ClInclude>
+    <ClInclude Include="MatchServerView.h">
+      <Filter>MFCFramework</Filter>
+    </ClInclude>
+    <ClInclude Include="OutputView.h">
+      <Filter>MFCFramework</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource.h">
+      <Filter>MFCFramework</Filter>
+    </ClInclude>
+    <ClInclude Include="stdafx.h">
+      <Filter>MFCFramework</Filter>
+    </ClInclude>
+    <ClInclude Include="TrayIcon.h">
+      <Filter>MFCFramework</Filter>
+    </ClInclude>
+    <ClInclude Include="MBMatchServer.h">
+      <Filter>Server</Filter>
+    </ClInclude>
+    <ClInclude Include="MBMatchServerConfigReloader.h">
+      <Filter>Server</Filter>
+    </ClInclude>
+    <ClInclude Include="MBMatchAsyncDBJob_BuyBountyItem.h">
+      <Filter>Server\MBMatchAsync</Filter>
+    </ClInclude>
+    <ClInclude Include="MBMatchAsyncDBJob_GambleItem.h">
+      <Filter>Server\MBMatchAsync</Filter>
+    </ClInclude>
+    <ClInclude Include="MBMatchAsyncDBJob_GambleQuestItem.h">
+      <Filter>Server\MBMatchAsync</Filter>
+    </ClInclude>
+    <ClInclude Include="MBMatchAsyncDBJob_GameOnLogin.h">
+      <Filter>Server\MBMatchAsync</Filter>
+    </ClInclude>
+    <ClInclude Include="MBMatchAsyncDBJob_NetmarbleLogin.h">
+      <Filter>Server\MBMatchAsync</Filter>
+    </ClInclude>
+    <ClInclude Include="MBMatchAsyncDBJob_NHNLogin.h">
+      <Filter>Server\MBMatchAsync</Filter>
+    </ClInclude>
+    <ClInclude Include="MBMatchAsyncDBJob_SellItem.h">
+      <Filter>Server\MBMatchAsync</Filter>
+    </ClInclude>
+    <ClInclude Include="MBMatchAsyncDBJob_TakeoffItem.h">
+      <Filter>Server\MBMatchAsync</Filter>
+    </ClInclude>
+    <ClInclude Include="MBMatchAsyncDBJob_UpdateCharLevel.h">
+      <Filter>Server\MBMatchAsync</Filter>
+    </ClInclude>
+    <ClInclude Include="MBMatchAsyncDBJob_UpdateCharPlayInfo.h">
+      <Filter>Server\MBMatchAsync</Filter>
+    </ClInclude>
+    <ClInclude Include="MBMatchAsyncDBJob_UpdateEquipItem.h">
+      <Filter>Server\MBMatchAsync</Filter>
+    </ClInclude>
+    <ClInclude Include="MBMatchAsyncJob_GetCpuInfo.h">
+      <Filter>Server\MBMatchAsync</Filter>
+    </ClInclude>
+    <ClInclude Include="MBMatchAsyncDBJob_BringAccountItem.h">
+      <Filter>Server\MBMatchAsync\AccountItem</Filter>
+    </ClInclude>
+    <ClInclude Include="MBMatchAsyncDBJob_BringAccountItemStackable.h">
+      <Filter>Server\MBMatchAsync\AccountItem</Filter>
+    </ClInclude>
+    <ClInclude Include="MBMatchAsyncDBJob_BringBackAccountItem.h">
+      <Filter>Server\MBMatchAsync\AccountItem</Filter>
+    </ClInclude>
+    <ClInclude Include="MBMatchAsyncDBJob_BringBackAccountItemStackable.h">
+      <Filter>Server\MBMatchAsync\AccountItem</Filter>
+    </ClInclude>
+    <ClInclude Include="MBMatchTest.h">
+      <Filter>Server\Test</Filter>
+    </ClInclude>
+    <ClInclude Include="TestCRC32Resource.h">
+      <Filter>Server\Test\TestResourceCRC32Cache</Filter>
+    </ClInclude>
+    <ClInclude Include="TestCRC32Server.h">
+      <Filter>Server\Test\TestResourceCRC32Cache</Filter>
+    </ClInclude>
+    <ClInclude Include="TestCRCNetModule.h">
+      <Filter>Server\Test\TestResourceCRC32Cache</Filter>
+    </ClInclude>
+    <ClInclude Include="TestCRCPlayer.h">
+      <Filter>Server\Test\TestResourceCRC32Cache</Filter>
+    </ClInclude>
+    <ClInclude Include="TestCRCStage.h">
+      <Filter>Server\Test\TestResourceCRC32Cache</Filter>
+    </ClInclude>
+    <ClInclude Include="TestResourceCRC32Cache_ServerClient.h">
+      <Filter>Server\Test\TestResourceCRC32Cache</Filter>
+    </ClInclude>
+    <ClInclude Include="MBMatchNetmarbleBilling.h">
+      <Filter>Netmarble\Billing</Filter>
+    </ClInclude>
+    <ClInclude Include="Netmarble\CPSSOLib.h">
+      <Filter>Netmarble\Login</Filter>
+    </ClInclude>
+    <ClInclude Include="MBMatchAuth.h">
+      <Filter>Netmarble\Login</Filter>
+    </ClInclude>
+    <ClInclude Include="Netmarble\NMAuthLib.h">
+      <Filter>Netmarble\Login</Filter>
+    </ClInclude>
+    <ClInclude Include="nhn\HanAuthForSvr.h">
+      <Filter>NHN_USA</Filter>
+    </ClInclude>
+    <ClInclude Include="nhn\HanRTA.h">
+      <Filter>NHN_USA</Filter>
+    </ClInclude>
+    <ClInclude Include="MBMatchNHNAuth.h">
+      <Filter>NHN_USA</Filter>
+    </ClInclude>
+    <ClInclude Include="MBMatchNHNRTA.h">
+      <Filter>NHN_USA</Filter>
+    </ClInclude>
+    <ClInclude Include="MBMatchSecurity.h">
+      <Filter>Security</Filter>
+    </ClInclude>
+    <ClInclude Include="MBMatchUserSecurityInfo.h">
+      <Filter>Security</Filter>
+    </ClInclude>
+    <ClInclude Include="MBMatchAttackerVictimPair.h">
+      <Filter>Security\Hack</Filter>
+    </ClInclude>
+    <ClInclude Include="MBMatchKillTracker.h">
+      <Filter>Security\Hack</Filter>
+    </ClInclude>
+    <ClInclude Include="MBMatchMonitor.h">
+      <Filter>MBMatchMonitor</Filter>
+    </ClInclude>
+    <ClInclude Include="MBMatchMonitorCommunicator.h">
+      <Filter>MBMatchMonitor</Filter>
+    </ClInclude>
+    <ClInclude Include="MBMatchMonitorXml.h">
+      <Filter>MBMatchMonitor</Filter>
+    </ClInclude>
+    <ClInclude Include="MBMatchSystemInfo.h">
+      <Filter>MBMatchMonitor</Filter>
+    </ClInclude>
+    <ClInclude Include="GameOn\GCCertificationHelper.h">
+      <Filter>GameOn</Filter>
+    </ClInclude>
+    <ClInclude Include="MBMatchGameOnAuth.h">
+      <Filter>GameOn</Filter>
+    </ClInclude>
+    <ClInclude Include="VersionNo.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="res\MatchServer.ico">
+      <Filter>MFCFramework</Filter>
+    </Image>
+    <Image Include="res\MatchServerDoc.ico">
+      <Filter>MFCFramework</Filter>
+    </Image>
+    <Image Include="res\Toolbar.bmp">
+      <Filter>MFCFramework</Filter>
+    </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <Manifest Include="res\MatchServer.manifest">
+      <Filter>MFCFramework</Filter>
+    </Manifest>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="MatchServer.rc">
+      <Filter>MFCFramework</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="res\MatchServer.rc2">
+      <Filter>MFCFramework</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="ReadMe.txt">
+      <Filter>MFCFramework</Filter>
+    </Text>
+  </ItemGroup>
+  <ItemGroup>
+    <Library Include="Netmarble\CPSSOLib.lib">
+      <Filter>Netmarble\Login</Filter>
+    </Library>
+    <Library Include="nhn\HanAuthForSvr.lib">
+      <Filter>NHN_USA</Filter>
+    </Library>
+    <Library Include="nhn\HanAuthForSvrD.lib">
+      <Filter>NHN_USA</Filter>
+    </Library>
+    <Library Include="nhn\HanRTA.lib">
+      <Filter>NHN_USA</Filter>
+    </Library>
+    <Library Include="nhn\HanRTAD.lib">
+      <Filter>NHN_USA</Filter>
+    </Library>
+  </ItemGroup>
+</Project>

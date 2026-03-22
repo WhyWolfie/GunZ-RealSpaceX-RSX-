@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT>
+    <SCENE>
+        <ACTOR>
+            <COMMON name="prop_light_search_fixed_01" />
+            <PROPERTY>
+                <FILENAME>prop_light_search_fixed_01.elu</FILENAME>
+            </PROPERTY>
+            <SCENE>
+                <LIGHT>
+                    <COMMON name="Omni001">
+                        <POSITION>-1.7894846 -71.2331314 -3.1658630</POSITION>
+                    </COMMON>
+                    <CONTROLLERS>
+                        <ACTORNODECONSTRAINTCONTROLLER>
+                            <TARGET>03_Light</TARGET>
+                        </ACTORNODECONSTRAINTCONTROLLER>
+                    </CONTROLLERS>
+                    <PROPERTY>
+                        <COLOR>1.0000000 1.0000000 1.0000000</COLOR>
+                        <INTENSITY>1.0000000</INTENSITY>
+                        <ATTENUATIONSTART>0.0000000</ATTENUATIONSTART>
+                        <ATTENUATIONEND>111.4000244</ATTENUATIONEND>
+                        <FOV>-1.0000000</FOV>
+                        <USERPROPERTYLIST />
+                    </PROPERTY>
+                </LIGHT>
+            </SCENE>
+        </ACTOR>
+    </SCENE>
+</ROOT>

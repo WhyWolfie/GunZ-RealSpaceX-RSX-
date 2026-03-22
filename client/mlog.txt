@@ -1,0 +1,176 @@
+GUNZ 1,0,0,290 launched. build (Apr 20 2015 17:57:52) 
+Log time (04/20/15 21:53:06)
+CPU ID = GenuineIntel ( family = 774 , model = 10 , stepping = 9 ) @ 2494 MHz
+Display Device = Intel(R) HD Graphics 4000 ( vendor=8086 device=166 subsys=1741854 revision=9 )
+Display Driver Version = 10.18.0010.4061
+Windows = 6.2 Build 9200 ,  (4050428KB) :  ..
+Load XML from memory : system/locale.xml- SUCCESS
+Country : (INTERNATIONAL), Language : (USA)
+Load Config from file : config.xml- FAIL
+Load XML from memory : system/system.xml- SUCCESS
+Load XML from memory : system//strings.xml(0x0000) - SUCCESS
+Load XML from memory : system//cserror.xml(0x0000) - SUCCESS
+Load XML from memory : system//messages.xml(0x0000) - SUCCESS
+Load XML from memory : system/gametypecfg.xml 
+InitializeNotify ok.
+WFog Enabled Device.
+device created.
+Video memory 864.500000 
+shader initialize successful : 1
+main : RGetLenzFlare()->Initialize() 
+Version : 5170
+InitialLoading success.
+interface Initialize success
+ZApplication::OnCreate : begin
+0(Primary Sound Driver): Hardware Mixing Not Supported
+1(Headphones (High Definition Audio Device)): Hardware Mixing Not Supported
+2(Speakers (High Definition Audio Device)): Hardware Mixing Not Supported
+[[[getMaxChannel32]]]]
+LoadWave: Error loading file
+
+-------------------> Sound Engine Create : 1.657000 
+
+sound engine create.
+Load XML from memory : System/tips.xml(0x0000)- SUCCESS
+start log bipmap
+end of load bitmaps2
+loading pictures : 3.027000 
+warning : bitmap slot_head.tga not found.
+warning : bitmap slot_head.tga not found.
+warning : bitmap icon_gameroom.tga not found.
+IDLResource Loading Success!!
+IDL resources : 0.135000 
+start InitInterface option
+Number of Display mode : 44
+Number of Display mode : 0
+end of InitInterface option ok
+Init maps : no Current ChannelRule 
+Screen Effect Manager Create : 0.060000 
+Screen effect manager create success.
+SFX/ef_hp ampulla.elu mesh Plane57 node 2 face 0 point -> physique 3 개 이상
+SFX/ef_hp ampulla.elu mesh Plane50 node 2 face 0 point -> physique 3 개 이상
+SFX/ef_hp ampulla.elu mesh Plane51 node 2 face 0 point -> physique 3 개 이상
+SFX/ef_hp ampulla.elu mesh Plane52 node 2 face 0 point -> physique 3 개 이상
+SFX/ef_hp ampulla.elu mesh Plane53 node 2 face 0 point -> physique 3 개 이상
+SFX/ef_hp ampulla.elu mesh Plane54 node 2 face 0 point -> physique 3 개 이상
+SFX/ef_hp ampulla.elu mesh Plane56 node 2 face 0 point -> physique 3 개 이상
+SFX/ef_ap ampulla.elu mesh Plane50 node 2 face 0 point -> physique 3 개 이상
+SFX/ef_ap ampulla.elu mesh Plane51 node 2 face 0 point -> physique 3 개 이상
+SFX/ef_ap ampulla.elu mesh Plane52 node 2 face 0 point -> physique 3 개 이상
+SFX/ef_ap ampulla.elu mesh Plane53 node 2 face 0 point -> physique 3 개 이상
+SFX/ef_ap ampulla.elu mesh Plane54 node 2 face 0 point -> physique 3 개 이상
+SFX/ef_ap ampulla.elu mesh Plane56 node 2 face 0 point -> physique 3 개 이상
+SFX/ef_ap ampulla.elu mesh Plane57 node 2 face 0 point -> physique 3 개 이상
+SFX/ef_haste ampulla.elu mesh Plane50 node 2 face 0 point -> physique 3 개 이상
+SFX/ef_haste ampulla.elu mesh Plane51 node 2 face 0 point -> physique 3 개 이상
+SFX/ef_haste ampulla.elu mesh Plane52 node 2 face 0 point -> physique 3 개 이상
+SFX/ef_haste ampulla.elu mesh Plane53 node 2 face 0 point -> physique 3 개 이상
+SFX/ef_haste ampulla.elu mesh Plane54 node 2 face 0 point -> physique 3 개 이상
+SFX/ef_haste ampulla.elu mesh Plane56 node 2 face 0 point -> physique 3 개 이상
+SFX/ef_haste ampulla.elu mesh Plane57 node 2 face 0 point -> physique 3 개 이상
+Effect manager create success.
+Client create success.
+game interface create success.
+
+-------------------> GameInterface Create : 3.449000 
+
+model/man/man-parts_shunter.elu mesh eq_chest_shunter node 34 face 0 point -> physique 3 개 이상
+model/man/man-parts_dryad.elu mesh eq_chest_dryad node 680 face 0 point -> physique 3 개 이상
+model/man/man-parts_gveteran.elu mesh eq_chest_gveteran node 6 face 2 point -> physique 3 개 이상
+model/man/man-parts_mummy.elu mesh eq_chest_mummy node 18 face 0 point -> physique 3 개 이상
+model/woman/woman-parts_blackdragon.elu mesh eq_legs_blackdragon node 301 face 1 point -> physique 3 개 이상
+model/woman/woman-parts_eskimo.elu mesh eq_chest_eskimo node 80 face 1 point -> physique 3 개 이상
+model/woman/woman-parts_bloodsuit.elu mesh eq_chest_bloodsuit node 129 face 0 point -> physique 3 개 이상
+model/woman/woman-parts_gveteran.elu mesh eq_chest_gveteran node 6 face 1 point -> physique 3 개 이상
+Load character.xml success,
+
+-------------------> Character Loading : 2.165000 
+
+
+-------------------> WeaponMesh Loading : 0.668000 
+
+Load weapon.xml success. 
+
+-------------------> Worlditem Loading : 0.028000 
+
+Load zitem info success.
+Load zBuff info success.
+Init world item manager success.
+Init map Descriptor success.
+Init channel rule manager success.
+Init abuse manager success.
+Init chatting filter. success
+
+-------------------> ETC .. : 0.355000 
+
+BspObject open : begin interface/login/login.rs 
+RBspObject::Open : Open_MaterialList
+RBspObject::Open : Open_LightList
+BspObject open object list : begin
+RBspObject::Open_ObjectList : size 13 
+RBspObject::Open_ObjectList : end
+RBspObject::Open : OpenDescription
+RBspObject::OpenRs : file.Open 
+RBspObject::OpenRs : file.Read(&header) 
+RBspObject::OpenRs : file.Read(&nMaterial) 
+RBspObject::OpenRs : Open_Nodes begin 
+RBspObject::OpenRs : Open_Nodes end 
+RBspObject::Open : OpenRs 
+RBspObject::Open : OpenBsp 
+RBspObject::Open : done
+Load smoke description mesh.
+Reset Device 
+Video memory 864.500000 
+shader initialize successful : 1
+main : OnCreate() done
+Server Connected
+Login Posted
+Login Successful. 
+Responsed Account Charlist
+Selected character name : DnS (44 6E 53 )  (len = 3)
+StageCreated
+CastStageBridgePeer 호출 in Zgame::Create
+game create begin , type = 0
+game world create success.
+Reload all animation end 
+---------------------------------setBuffer
+game created ( 21:53:55 )
+Create character : Name=DnS Level=1 
+MExitListener !
+Destroy gunz
+Destroy sound engine.
+Destroy sound engine. success
+Destroy console.
+Destroy interface begin 
+game interface destory begin.
+game destroy begin
+Destroy sound engine()
+game destroy match destroy 
+------------------------ReleaseBuffer
+game destroyed ( 21:54:06 )
+game interface destroy finished
+destroy client.
+PeerInfoList Released
+clear looks end.
+Widget map clear end.
+desctroy cursor system end.
+clear IDL resource end.
+Final interface end.
+Destroy game interface done.
+clear looks end.
+Widget map clear end.
+desctroy cursor system end.
+Destroy mesh manager.
+Destroy weapon mesh manager.
+Clear SkillManager.
+Clear QuestItemDescMgr.
+Clear MatchItemDescMgr.
+Clear ChattingFilter.
+Clear ChannelRuleMgr.
+destroy game application done.
+interface finalize.
+game input destroy.
+game gonfiguration destroy.
+Bitmap manager destroy Animation bitmap.
+destroy gunz finish.
+Rframe_destory::closeDisplay

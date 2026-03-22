@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT>
+    <SCENE>
+        <ACTOR>
+            <COMMON name="pvp_market_town_signlight" />
+            <PROPERTY>
+                <FILENAME>pvp_market_town_signlight.elu</FILENAME>
+                <ANI />
+            </PROPERTY>
+            <SCENE>
+                <LIGHT>
+                    <COMMON name="Omni002">
+                        <POSITION>0.0000000 0.0000000 0.0000000</POSITION>
+                    </COMMON>
+                    <CONTROLLERS>
+                        <ACTORNODECONSTRAINTCONTROLLER>
+                            <TARGET>Dummy002</TARGET>
+                        </ACTORNODECONSTRAINTCONTROLLER>
+                    </CONTROLLERS>
+                    <PROPERTY>
+                        <COLOR>0.7215686 0.3529412 0.3019608</COLOR>
+                        <INTENSITY>1.3000000</INTENSITY>
+                        <ATTENUATIONSTART>80.0000000</ATTENUATIONSTART>
+                        <ATTENUATIONEND>450.0000000</ATTENUATIONEND>
+                        <FOV>-1.0000000</FOV>
+                        <USERPROPERTYLIST />
+                    </PROPERTY>
+                </LIGHT>
+            </SCENE>
+        </ACTOR>
+    </SCENE>
+</ROOT>

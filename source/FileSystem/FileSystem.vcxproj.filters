@@ -1,0 +1,103 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="lzo">
+      <UniqueIdentifier>{843d73b8-212a-4ae2-80ca-5845d40bd971}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="doboz">
+      <UniqueIdentifier>{6a323c37-be04-42ac-b519-e2d1eb2c9771}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="files">
+      <UniqueIdentifier>{d913a37d-c9db-4a43-bf87-ba2a07211a0b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="aes">
+      <UniqueIdentifier>{f644e89e-85b6-4542-a9d1-a3d319704199}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="minilzo\minilzo.c">
+      <Filter>lzo</Filter>
+    </ClCompile>
+    <ClCompile Include="Doboz\Compressor.cpp">
+      <Filter>doboz</Filter>
+    </ClCompile>
+    <ClCompile Include="Doboz\Decompressor.cpp">
+      <Filter>doboz</Filter>
+    </ClCompile>
+    <ClCompile Include="Doboz\Dictionary.cpp">
+      <Filter>doboz</Filter>
+    </ClCompile>
+    <ClCompile Include="CompressionEngine.cpp">
+      <Filter>files</Filter>
+    </ClCompile>
+    <ClCompile Include="EncryptionEngine.cpp">
+      <Filter>files</Filter>
+    </ClCompile>
+    <ClCompile Include="FileSystem.cpp">
+      <Filter>files</Filter>
+    </ClCompile>
+    <ClCompile Include="FSTest.cpp">
+      <Filter>files</Filter>
+    </ClCompile>
+    <ClCompile Include="aes\aescrypt.c">
+      <Filter>aes</Filter>
+    </ClCompile>
+    <ClCompile Include="aes\aeskey.c">
+      <Filter>aes</Filter>
+    </ClCompile>
+    <ClCompile Include="aes\aestab.c">
+      <Filter>aes</Filter>
+    </ClCompile>
+    <ClCompile Include="aes\aes_modes.c">
+      <Filter>aes</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="minilzo\minilzo.h">
+      <Filter>lzo</Filter>
+    </ClInclude>
+    <ClInclude Include="Doboz\Common.h">
+      <Filter>doboz</Filter>
+    </ClInclude>
+    <ClInclude Include="Doboz\Compressor.h">
+      <Filter>doboz</Filter>
+    </ClInclude>
+    <ClInclude Include="Doboz\Decompressor.h">
+      <Filter>doboz</Filter>
+    </ClInclude>
+    <ClInclude Include="Doboz\Dictionary.h">
+      <Filter>doboz</Filter>
+    </ClInclude>
+    <ClInclude Include="CompressionEngine.h">
+      <Filter>files</Filter>
+    </ClInclude>
+    <ClInclude Include="crc32.h">
+      <Filter>files</Filter>
+    </ClInclude>
+    <ClInclude Include="EncryptionEngine.h">
+      <Filter>files</Filter>
+    </ClInclude>
+    <ClInclude Include="FileSystem.h">
+      <Filter>files</Filter>
+    </ClInclude>
+    <ClInclude Include="IFileManager.h">
+      <Filter>files</Filter>
+    </ClInclude>
+    <ClInclude Include="stdafx.h">
+      <Filter>files</Filter>
+    </ClInclude>
+    <ClInclude Include="Timer.h">
+      <Filter>files</Filter>
+    </ClInclude>
+    <ClInclude Include="aes\aes.h">
+      <Filter>aes</Filter>
+    </ClInclude>
+    <ClInclude Include="aes\aesopt.h">
+      <Filter>aes</Filter>
+    </ClInclude>
+    <ClInclude Include="aes\aestab.h">
+      <Filter>aes</Filter>
+    </ClInclude>
+    <ClInclude Include="string_utils.h" />
+  </ItemGroup>
+</Project>

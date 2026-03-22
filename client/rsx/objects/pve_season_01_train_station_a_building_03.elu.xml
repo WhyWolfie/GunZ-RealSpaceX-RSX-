@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<XML>
+    <MATERIALLIST>
+        <MATERIAL name="pve_train_station_wall_building_bottom_01_stone">
+            <DIFFUSE>150 150 150</DIFFUSE>
+            <AMBIENT>150 150 150</AMBIENT>
+            <SPECULAR>229 229 229</SPECULAR>
+            <SPECULAR_LEVEL>100.000</SPECULAR_LEVEL>
+            <GLOSSINESS>10.000</GLOSSINESS>
+            <SELFILLUSIONSCALE>0.000</SELFILLUSIONSCALE>
+            <TEXTURELIST count="3">
+                <TEXTURELAYER unreducible="true" index="0">
+                    <DIFFUSEMAP>pve_train_station_wall_building_bottom_01_df.tga</DIFFUSEMAP>
+                </TEXTURELAYER>
+                <TEXTURELAYER unreducible="true" index="1">
+                    <SPECULARMAP>pve_train_station_wall_building_bottom_01_nm.tga</SPECULARMAP>
+                </TEXTURELAYER>
+                <TEXTURELAYER unreducible="true" index="2">
+                    <NORMALMAP>pve_train_station_wall_building_bottom_01_nm.tga</NORMALMAP>
+                </TEXTURELAYER>
+            </TEXTURELIST>
+        </MATERIAL>
+        <MATERIAL name="pve_train_station_wall_building_top_01_stone">
+            <DIFFUSE>150 150 150</DIFFUSE>
+            <AMBIENT>150 150 150</AMBIENT>
+            <SPECULAR>229 229 229</SPECULAR>
+            <SPECULAR_LEVEL>100.000</SPECULAR_LEVEL>
+            <GLOSSINESS>10.000</GLOSSINESS>
+            <SELFILLUSIONSCALE>0.000</SELFILLUSIONSCALE>
+            <TEXTURELIST count="3">
+                <TEXTURELAYER unreducible="true" index="0">
+                    <DIFFUSEMAP>pve_train_station_wall_building_top_01_df.tga</DIFFUSEMAP>
+                </TEXTURELAYER>
+                <TEXTURELAYER unreducible="true" index="1">
+                    <SPECULARMAP>pve_train_station_wall_building_top_01_nm.tga</SPECULARMAP>
+                </TEXTURELAYER>
+                <TEXTURELAYER unreducible="true" index="2">
+                    <NORMALMAP>pve_train_station_wall_building_top_01_nm.tga</NORMALMAP>
+                </TEXTURELAYER>
+            </TEXTURELIST>
+        </MATERIAL>
+        <MATERIAL name="pve_train_station_wall_building_top_corner_01_stone">
+            <DIFFUSE>149 149 149</DIFFUSE>
+            <AMBIENT>149 149 149</AMBIENT>
+            <SPECULAR>229 229 229</SPECULAR>
+            <SPECULAR_LEVEL>100.000</SPECULAR_LEVEL>
+            <GLOSSINESS>10.000</GLOSSINESS>
+            <SELFILLUSIONSCALE>0.000</SELFILLUSIONSCALE>
+            <TEXTURELIST count="3">
+                <TEXTURELAYER unreducible="true" index="0">
+                    <DIFFUSEMAP>pve_train_station_wall_building_top_corner_01_df.tga</DIFFUSEMAP>
+                </TEXTURELAYER>
+                <TEXTURELAYER unreducible="true" index="1">
+                    <SPECULARMAP>pve_train_station_wall_building_top_corner_01_nm.tga</SPECULARMAP>
+                </TEXTURELAYER>
+                <TEXTURELAYER unreducible="true" index="2">
+                    <NORMALMAP>pve_train_station_wall_building_top_corner_01_nm.tga</NORMALMAP>
+                </TEXTURELAYER>
+            </TEXTURELIST>
+        </MATERIAL>
+        <MATERIAL name="pve_train_station_wall_building_tream_01_stone">
+            <DIFFUSE>150 150 150</DIFFUSE>
+            <AMBIENT>150 150 150</AMBIENT>
+            <SPECULAR>229 229 229</SPECULAR>
+            <SPECULAR_LEVEL>100.000</SPECULAR_LEVEL>
+            <GLOSSINESS>10.000</GLOSSINESS>
+            <SELFILLUSIONSCALE>0.000</SELFILLUSIONSCALE>
+            <TEXTURELIST count="3">
+                <TEXTURELAYER unreducible="true" index="0">
+                    <DIFFUSEMAP>pve_train_station_wall_building_tream_01_df.tga</DIFFUSEMAP>
+                </TEXTURELAYER>
+                <TEXTURELAYER unreducible="true" index="1">
+                    <SPECULARMAP>pve_train_station_wall_building_tream_01_nm.tga</SPECULARMAP>
+                </TEXTURELAYER>
+                <TEXTURELAYER unreducible="true" index="2">
+                    <NORMALMAP>pve_train_station_wall_building_tream_01_nm.tga</NORMALMAP>
+                </TEXTURELAYER>
+            </TEXTURELIST>
+        </MATERIAL>
+        <MATERIAL name="pve_train_station_window_steel_01_steel2">
+            <DIFFUSE>150 150 150</DIFFUSE>
+            <AMBIENT>150 150 150</AMBIENT>
+            <SPECULAR>229 229 229</SPECULAR>
+            <SPECULAR_LEVEL>100.000</SPECULAR_LEVEL>
+            <GLOSSINESS>10.000</GLOSSINESS>
+            <SELFILLUSIONSCALE>0.000</SELFILLUSIONSCALE>
+            <TEXTURELIST count="3">
+                <TEXTURELAYER unreducible="true" index="0">
+                    <DIFFUSEMAP>pve_train_station_window_steel_01_df.tga</DIFFUSEMAP>
+                </TEXTURELAYER>
+                <TEXTURELAYER unreducible="true" index="1">
+                    <SPECULARMAP>pve_train_station_window_steel_01_nm.tga</SPECULARMAP>
+                </TEXTURELAYER>
+                <TEXTURELAYER unreducible="true" index="2">
+                    <NORMALMAP>pve_train_station_window_steel_01_nm.tga</NORMALMAP>
+                </TEXTURELAYER>
+            </TEXTURELIST>
+        </MATERIAL>
+        <MATERIAL name="prop_signboard_big_02_steel2">
+            <DIFFUSE>150 150 150</DIFFUSE>
+            <AMBIENT>150 150 150</AMBIENT>
+            <SPECULAR>229 229 229</SPECULAR>
+            <SPECULAR_LEVEL>100.000</SPECULAR_LEVEL>
+            <GLOSSINESS>10.000</GLOSSINESS>
+            <SELFILLUSIONSCALE>0.000</SELFILLUSIONSCALE>
+            <TEXTURELIST count="3">
+                <TEXTURELAYER unreducible="true" index="0">
+                    <DIFFUSEMAP>prop_signboard_big_02_df.tga</DIFFUSEMAP>
+                </TEXTURELAYER>
+                <TEXTURELAYER unreducible="true" index="1">
+                    <SPECULARMAP>prop_signboard_big_02_nm.tga</SPECULARMAP>
+                </TEXTURELAYER>
+                <TEXTURELAYER unreducible="true" index="2">
+                    <NORMALMAP>prop_signboard_big_02_nm.tga</NORMALMAP>
+                </TEXTURELAYER>
+            </TEXTURELIST>
+        </MATERIAL>
+        <MATERIAL name="prop_door_single_wood_01_wood1">
+            <DIFFUSE>150 150 150</DIFFUSE>
+            <AMBIENT>150 150 150</AMBIENT>
+            <SPECULAR>229 229 229</SPECULAR>
+            <SPECULAR_LEVEL>100.000</SPECULAR_LEVEL>
+            <GLOSSINESS>10.000</GLOSSINESS>
+            <SELFILLUSIONSCALE>0.000</SELFILLUSIONSCALE>
+            <TEXTURELIST count="3">
+                <TEXTURELAYER unreducible="true" index="0">
+                    <DIFFUSEMAP>prop_door_single_wood_01_df.tga</DIFFUSEMAP>
+                </TEXTURELAYER>
+                <TEXTURELAYER unreducible="true" index="1">
+                    <SPECULARMAP>prop_door_single_wood_01_nm.TGA</SPECULARMAP>
+                </TEXTURELAYER>
+                <TEXTURELAYER unreducible="true" index="2">
+                    <NORMALMAP>prop_door_single_wood_01_nm.TGA</NORMALMAP>
+                </TEXTURELAYER>
+            </TEXTURELIST>
+        </MATERIAL>
+        <MATERIAL name="AT_camou_normal">
+            <DIFFUSE>149 149 149</DIFFUSE>
+            <AMBIENT>149 149 149</AMBIENT>
+            <SPECULAR>229 229 229</SPECULAR>
+            <SPECULAR_LEVEL>100.000</SPECULAR_LEVEL>
+            <GLOSSINESS>10.000</GLOSSINESS>
+            <SELFILLUSIONSCALE>0.000</SELFILLUSIONSCALE>
+            <TEXTURELIST count="4">
+                <TEXTURELAYER unreducible="true" index="0">
+                    <DIFFUSEMAP>prop_camouflage_net_01_df.dds</DIFFUSEMAP>
+                </TEXTURELAYER>
+                <TEXTURELAYER unreducible="true" index="1">
+                    <SPECULARMAP>prop_camouflage_net_01_nm.dds</SPECULARMAP>
+                </TEXTURELAYER>
+                <TEXTURELAYER unreducible="true" index="2">
+                    <OPACITYMAP>prop_camouflage_net_01_nm.dds</OPACITYMAP>
+                </TEXTURELAYER>
+                <TEXTURELAYER unreducible="true" index="3">
+                    <NORMALMAP>prop_camouflage_net_01_df.dds</NORMALMAP>
+                </TEXTURELAYER>
+            </TEXTURELIST>
+            <USEALPHATEST>
+                <ALPHATESTVALUE>128</ALPHATESTVALUE>
+            </USEALPHATEST>
+        </MATERIAL>
+        <MATERIAL name="AT_fence_steel2">
+            <DIFFUSE>149 149 149</DIFFUSE>
+            <AMBIENT>149 149 149</AMBIENT>
+            <SPECULAR>229 229 229</SPECULAR>
+            <SPECULAR_LEVEL>100.000</SPECULAR_LEVEL>
+            <GLOSSINESS>10.000</GLOSSINESS>
+            <SELFILLUSIONSCALE>0.000</SELFILLUSIONSCALE>
+            <TEXTURELIST count="4">
+                <TEXTURELAYER unreducible="true" index="0">
+                    <DIFFUSEMAP>prop_fence_big_800x1200_01_df.tga</DIFFUSEMAP>
+                </TEXTURELAYER>
+                <TEXTURELAYER unreducible="true" index="1">
+                    <SPECULARMAP>prop_fence_big_800x1200_01_nm.tga</SPECULARMAP>
+                </TEXTURELAYER>
+                <TEXTURELAYER unreducible="true" index="2">
+                    <OPACITYMAP>prop_fence_big_800x1200_01_df.tga</OPACITYMAP>
+                </TEXTURELAYER>
+                <TEXTURELAYER unreducible="true" index="3">
+                    <NORMALMAP>prop_fence_big_800x1200_01_nm.tga</NORMALMAP>
+                </TEXTURELAYER>
+            </TEXTURELIST>
+            <USEALPHATEST>
+                <ALPHATESTVALUE>128</ALPHATESTVALUE>
+            </USEALPHATEST>
+        </MATERIAL>
+    </MATERIALLIST>
+    <COLLISION />
+    <USERPROPERTYLIST />
+</XML>

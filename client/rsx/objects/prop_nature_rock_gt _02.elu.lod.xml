@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<XML>
+    <METRICLIST>
+        <METRIC index="0">
+            <DISTANCE>1200.000</DISTANCE>
+        </METRIC>
+        <METRIC index="1">
+            <DISTANCE>3000.000</DISTANCE>
+        </METRIC>
+        <METRIC index="2">
+            <DISTANCE>5600.000</DISTANCE>
+        </METRIC>
+        <HYSTERESIS>
+            <DISTANCE>0.000</DISTANCE>
+        </HYSTERESIS>
+    </METRICLIST>
+</XML>

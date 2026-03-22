@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT>
+    <SCENE>
+        <ACTOR>
+            <COMMON name="prop_frame_wall_400x400_01a" />
+            <PROPERTY>
+                <FILENAME>prop_frame_wall_400x400_01a.elu</FILENAME>
+                <SHADOWRECEIVER />
+            </PROPERTY>
+            <SCENE />
+        </ACTOR>
+    </SCENE>
+</ROOT>

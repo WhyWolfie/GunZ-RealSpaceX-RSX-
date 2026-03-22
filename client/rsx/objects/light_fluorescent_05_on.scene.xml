@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Umbra Synchronization="false" />
+<ROOT>
+    <SCENE>
+        <ACTOR>
+            <COMMON name="light_fluorescent_05_on">
+                <POSITION>0.000000 0.000000 0.000000</POSITION>
+                <DIRECTION>0.000000 1.000000 0.000000</DIRECTION>
+                <UP>0.000000 0.000000 1.000000</UP>
+                <SCALE>1.000000 1.000000 1.000000</SCALE>
+            </COMMON>
+            <PROPERTY>
+                <FILENAME>light_fluorescent_05_on.elu</FILENAME>
+            </PROPERTY>
+            <SCENE>
+                <LIGHT>
+                    <COMMON name="Omni001">
+                        <POSITION>0.000000 0.000000 -20.000000</POSITION>
+                        <DIRECTION>0.000000 1.000000 0.000000</DIRECTION>
+                        <UP>0.000000 0.000000 1.000000</UP>
+                        <SCALE>1.000000 1.000000 1.000000</SCALE>
+                    </COMMON>
+                    <CONTROLLERS>
+                        <ACTORNODECONSTRAINTCONTROLLER>
+                            <TARGET>light</TARGET>
+                        </ACTORNODECONSTRAINTCONTROLLER>
+                    </CONTROLLERS>
+                    <PROPERTY>
+                        <COLOR>0.835 0.992 0.984</COLOR>
+                        <INTENSITY>1.500</INTENSITY>
+                        <ATTENUATIONEND>200.000</ATTENUATIONEND>
+                        <ATTENUATIONSTART>80.000</ATTENUATIONSTART>
+                        <POINTLIGHTTYPE>1</POINTLIGHTTYPE>
+                        <AREARANGE>150.000 15.000 5.000</AREARANGE>
+                    </PROPERTY>
+                </LIGHT>
+                <LIGHT>
+                    <COMMON name="Omni002">
+                        <POSITION>0.000000 0.000000 -140.000000</POSITION>
+                        <DIRECTION>0.000000 1.000000 0.000000</DIRECTION>
+                        <UP>0.000000 0.000000 1.000000</UP>
+                        <SCALE>1.000000 1.000000 1.000000</SCALE>
+                    </COMMON>
+                    <CONTROLLERS>
+                        <ACTORNODECONSTRAINTCONTROLLER>
+                            <TARGET>light</TARGET>
+                        </ACTORNODECONSTRAINTCONTROLLER>
+                    </CONTROLLERS>
+                    <PROPERTY>
+                        <COLOR>0.922 0.996 0.988</COLOR>
+                        <INTENSITY>0.500</INTENSITY>
+                        <ATTENUATIONEND>222.000</ATTENUATIONEND>
+                        <ATTENUATIONSTART>80.000</ATTENUATIONSTART>
+                    </PROPERTY>
+                </LIGHT>
+            </SCENE>
+        </ACTOR>
+    </SCENE>
+</ROOT>

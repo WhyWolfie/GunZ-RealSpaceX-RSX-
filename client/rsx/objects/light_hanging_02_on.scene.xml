@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Umbra Synchronization="false" />
+<ROOT>
+    <SCENE>
+        <ACTOR>
+            <COMMON name="light_hanging_02_off">
+                <POSITION>0.000000 0.000000 0.000000</POSITION>
+                <DIRECTION>0.000000 1.000000 0.000000</DIRECTION>
+                <UP>0.000000 0.000000 1.000000</UP>
+                <SCALE>1.000000 1.000000 1.000000</SCALE>
+            </COMMON>
+            <PROPERTY>
+                <FILENAME>light_hanging_02_off.elu</FILENAME>
+                <SHADOWRECEIVER />
+            </PROPERTY>
+            <SCENE>
+                <LIGHT>
+                    <COMMON name="Omni001">
+                        <POSITION>0.000000 0.000000 -375.000000</POSITION>
+                        <DIRECTION>0.000000 1.000000 0.000000</DIRECTION>
+                        <UP>0.000000 0.000000 1.000000</UP>
+                        <SCALE>1.000000 1.000000 1.000000</SCALE>
+                    </COMMON>
+                    <CONTROLLERS>
+                        <ACTORNODECONSTRAINTCONTROLLER>
+                            <TARGET>main</TARGET>
+                        </ACTORNODECONSTRAINTCONTROLLER>
+                    </CONTROLLERS>
+                    <PROPERTY>
+                        <COLOR>0.965 0.816 0.373</COLOR>
+                        <INTENSITY>1.600</INTENSITY>
+                        <ATTENUATIONEND>430.000</ATTENUATIONEND>
+                        <ATTENUATIONSTART>110.000</ATTENUATIONSTART>
+                    </PROPERTY>
+                </LIGHT>
+            </SCENE>
+        </ACTOR>
+        <LIGHT>
+            <COMMON name="Omni2">
+                <POSITION>0.000000 0.000000 -185.000000</POSITION>
+                <DIRECTION>0.000000 1.000000 0.000000</DIRECTION>
+                <UP>0.000000 0.000000 1.000000</UP>
+                <SCALE>1.000000 1.000000 1.000000</SCALE>
+            </COMMON>
+            <PROPERTY>
+                <COLOR>0.965 0.816 0.373</COLOR>
+                <INTENSITY>3.700</INTENSITY>
+                <ATTENUATIONEND>60.000</ATTENUATIONEND>
+                <ATTENUATIONSTART>40.000</ATTENUATIONSTART>
+            </PROPERTY>
+        </LIGHT>
+    </SCENE>
+</ROOT>

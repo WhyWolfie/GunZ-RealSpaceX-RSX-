@@ -1,0 +1,2915 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT>
+    <SCENE>
+        <SCENEINSTANCE>
+            <COMMON name="prop_stair_200X100_middle.scene_001">
+                <POSITION>-200.000000 0.000000 0.000000</POSITION>
+                <DIRECTION>0.000000 1.000000 0.000000</DIRECTION>
+                <UP>0.000000 0.000000 1.000000</UP>
+                <SCALE>1.000000 1.000000 1.000000</SCALE>
+            </COMMON>
+            <USER_PROPERTY>
+                <TOOL_LAYER>stair</TOOL_LAYER>
+            </USER_PROPERTY>
+            <PROPERTY>
+                <FILENAME>prop_stair_200X100_middle.scene.xml</FILENAME>
+            </PROPERTY>
+            <SCENE />
+        </SCENEINSTANCE>
+        <SCENEINSTANCE>
+            <COMMON name="prop_stair_200_base_a.scene_001">
+                <POSITION>-200.000000 -600.000000 400.000000</POSITION>
+                <DIRECTION>0.000000 1.000000 0.000000</DIRECTION>
+                <UP>0.000000 0.000000 1.000000</UP>
+                <SCALE>1.000000 1.000000 1.000000</SCALE>
+            </COMMON>
+            <USER_PROPERTY>
+                <TOOL_LAYER>stair</TOOL_LAYER>
+            </USER_PROPERTY>
+            <PROPERTY>
+                <FILENAME>prop_stair_200_base_a.scene.xml</FILENAME>
+            </PROPERTY>
+            <SCENE />
+        </SCENEINSTANCE>
+        <SCENEINSTANCE>
+            <COMMON name="prop_stair_200_Corner.scene_001">
+                <POSITION>-200.000000 -1600.000000 400.000000</POSITION>
+                <DIRECTION>1.000000 -0.000000 0.000000</DIRECTION>
+                <UP>0.000000 0.000000 1.000000</UP>
+                <SCALE>1.000000 1.000000 1.000000</SCALE>
+            </COMMON>
+            <USER_PROPERTY>
+                <TOOL_LAYER>stair</TOOL_LAYER>
+            </USER_PROPERTY>
+            <PROPERTY>
+                <FILENAME>prop_stair_200_Corner.scene.xml</FILENAME>
+            </PROPERTY>
+            <SCENE />
+        </SCENEINSTANCE>
+        <SCENEINSTANCE>
+            <COMMON name="prop_stair_200X100_middle.scene_2">
+                <POSITION>-200.000000 -150.000000 100.000000</POSITION>
+                <DIRECTION>0.000000 1.000000 0.000000</DIRECTION>
+                <UP>0.000000 0.000000 1.000000</UP>
+                <SCALE>1.000000 1.000000 1.000000</SCALE>
+            </COMMON>
+            <USER_PROPERTY>
+                <TOOL_LAYER>stair</TOOL_LAYER>
+            </USER_PROPERTY>
+            <PROPERTY>
+                <FILENAME>prop_stair_200X100_middle.scene.xml</FILENAME>
+            </PROPERTY>
+            <SCENE />
+        </SCENEINSTANCE>
+        <SCENEINSTANCE>
+            <COMMON name="prop_stair_200X100_middle.scene_3">
+                <POSITION>-200.000000 -300.000000 200.000000</POSITION>
+                <DIRECTION>0.000000 1.000000 0.000000</DIRECTION>
+                <UP>0.000000 0.000000 1.000000</UP>
+                <SCALE>1.000000 1.000000 1.000000</SCALE>
+            </COMMON>
+            <USER_PROPERTY>
+                <TOOL_LAYER>stair</TOOL_LAYER>
+            </USER_PROPERTY>
+            <PROPERTY>
+                <FILENAME>prop_stair_200X100_middle.scene.xml</FILENAME>
+            </PROPERTY>
+            <SCENE />
+        </SCENEINSTANCE>
+        <SCENEINSTANCE>
+            <COMMON name="prop_stair_200X100_middle.scene_4">
+                <POSITION>-200.000000 -450.000000 300.000000</POSITION>
+                <DIRECTION>0.000000 1.000000 0.000000</DIRECTION>
+                <UP>0.000000 0.000000 1.000000</UP>
+                <SCALE>1.000000 1.000000 1.000000</SCALE>
+            </COMMON>
+            <USER_PROPERTY>
+                <TOOL_LAYER>stair</TOOL_LAYER>
+            </USER_PROPERTY>
+            <PROPERTY>
+                <FILENAME>prop_stair_200X100_middle.scene.xml</FILENAME>
+            </PROPERTY>
+            <SCENE />
+        </SCENEINSTANCE>
+        <SCENEINSTANCE>
+            <COMMON name="prop_stair_200_base_a.scene_2">
+                <POSITION>0.000000 -1400.000000 400.000000</POSITION>
+                <DIRECTION>-1.000000 -0.000000 0.000000</DIRECTION>
+                <UP>0.000000 0.000000 1.000000</UP>
+                <SCALE>1.000000 1.000000 1.000000</SCALE>
+            </COMMON>
+            <USER_PROPERTY>
+                <TOOL_LAYER>stair</TOOL_LAYER>
+            </USER_PROPERTY>
+            <PROPERTY>
+                <FILENAME>prop_stair_200_base_a.scene.xml</FILENAME>
+            </PROPERTY>
+            <SCENE />
+        </SCENEINSTANCE>
+        <SCENEINSTANCE>
+            <COMMON name="prop_stair_200_base_a.scene_4">
+                <POSITION>600.000000 -1400.000000 400.000000</POSITION>
+                <DIRECTION>-1.000000 -0.000000 0.000000</DIRECTION>
+                <UP>0.000000 0.000000 1.000000</UP>
+                <SCALE>1.000000 1.000000 1.000000</SCALE>
+            </COMMON>
+            <USER_PROPERTY>
+                <TOOL_LAYER>stair</TOOL_LAYER>
+            </USER_PROPERTY>
+            <PROPERTY>
+                <FILENAME>prop_stair_200_base_a.scene.xml</FILENAME>
+            </PROPERTY>
+            <SCENE />
+        </SCENEINSTANCE>
+        <SCENEINSTANCE>
+            <COMMON name="prop_stair_200_base_a.scene_5">
+                <POSITION>400.000000 -1400.000000 400.000000</POSITION>
+                <DIRECTION>-1.000000 -0.000000 0.000000</DIRECTION>
+                <UP>0.000000 0.000000 1.000000</UP>
+                <SCALE>1.000000 1.000000 1.000000</SCALE>
+            </COMMON>
+            <USER_PROPERTY>
+                <TOOL_LAYER>stair</TOOL_LAYER>
+            </USER_PROPERTY>
+            <PROPERTY>
+                <FILENAME>prop_stair_200_base_a.scene.xml</FILENAME>
+            </PROPERTY>
+            <SCENE />
+        </SCENEINSTANCE>
+        <SCENEINSTANCE>
+            <COMMON name="prop_stair_200_Corner.scene_2">
+                <POSITION>1200.000000 -1400.000000 400.000000</POSITION>
+                <DIRECTION>0.000000 1.000000 0.000000</DIRECTION>
+                <UP>0.000000 0.000000 1.000000</UP>
+                <SCALE>1.000000 1.000000 1.000000</SCALE>
+            </COMMON>
+            <USER_PROPERTY>
+                <TOOL_LAYER>stair</TOOL_LAYER>
+            </USER_PROPERTY>
+            <PROPERTY>
+                <FILENAME>prop_stair_200_Corner.scene.xml</FILENAME>
+            </PROPERTY>
+            <SCENE />
+        </SCENEINSTANCE>
+        <SCENEINSTANCE>
+            <COMMON name="prop_stair_200X100_middle.scene_5">
+                <POSITION>1000.000000 -350.000000 700.000000</POSITION>
+                <DIRECTION>0.000000 -1.000000 0.000000</DIRECTION>
+                <UP>0.000000 0.000000 1.000000</UP>
+                <SCALE>1.000000 1.000000 1.000000</SCALE>
+            </COMMON>
+            <USER_PROPERTY>
+                <TOOL_LAYER>stair</TOOL_LAYER>
+            </USER_PROPERTY>
+            <PROPERTY>
+                <FILENAME>prop_stair_200X100_middle.scene.xml</FILENAME>
+            </PROPERTY>
+            <SCENE />
+        </SCENEINSTANCE>
+        <SCENEINSTANCE>
+            <COMMON name="prop_stair_200X100_middle.scene_6">
+                <POSITION>1000.000000 -500.000000 600.000000</POSITION>
+                <DIRECTION>0.000000 -1.000000 0.000000</DIRECTION>
+                <UP>0.000000 0.000000 1.000000</UP>
+                <SCALE>1.000000 1.000000 1.000000</SCALE>
+            </COMMON>
+            <USER_PROPERTY>
+                <TOOL_LAYER>stair</TOOL_LAYER>
+            </USER_PROPERTY>
+            <PROPERTY>
+                <FILENAME>prop_stair_200X100_middle.scene.xml</FILENAME>
+            </PROPERTY>
+            <SCENE />
+        </SCENEINSTANCE>
+        <SCENEINSTANCE>
+            <COMMON name="prop_stair_200X100_middle.scene_7">
+                <POSITION>1000.000000 -650.000000 500.000000</POSITION>
+                <DIRECTION>0.000000 -1.000000 0.000000</DIRECTION>
+                <UP>0.000000 0.000000 1.000000</UP>
+                <SCALE>1.000000 1.000000 1.000000</SCALE>
+            </COMMON>
+            <USER_PROPERTY>
+                <TOOL_LAYER>stair</TOOL_LAYER>
+            </USER_PROPERTY>
+            <PROPERTY>
+                <FILENAME>prop_stair_200X100_middle.scene.xml</FILENAME>
+            </PROPERTY>
+            <SCENE />
+        </SCENEINSTANCE>
+        <SCENEINSTANCE>
+            <COMMON name="prop_stair_200X100_middle.scene_8">
+                <POSITION>1000.000000 -800.000000 400.000000</POSITION>
+                <DIRECTION>0.000000 -1.000000 0.000000</DIRECTION>
+                <UP>0.000000 0.000000 1.000000</UP>
+                <SCALE>1.000000 1.000000 1.000000</SCALE>
+            </COMMON>
+            <USER_PROPERTY>
+                <TOOL_LAYER>stair</TOOL_LAYER>
+            </USER_PROPERTY>
+            <PROPERTY>
+                <FILENAME>prop_stair_200X100_middle.scene.xml</FILENAME>
+            </PROPERTY>
+            <SCENE />
+        </SCENEINSTANCE>
+        <SCENEINSTANCE>
+            <COMMON name="prop_stair_200_base_a.scene_6">
+                <POSITION>1000.000000 -200.000000 800.000000</POSITION>
+                <DIRECTION>0.000000 -1.000000 0.000000</DIRECTION>
+                <UP>0.000000 0.000000 1.000000</UP>
+                <SCALE>1.000000 1.000000 1.000000</SCALE>
+            </COMMON>
+            <USER_PROPERTY>
+                <TOOL_LAYER>stair</TOOL_LAYER>
+            </USER_PROPERTY>
+            <PROPERTY>
+                <FILENAME>prop_stair_200_base_a.scene.xml</FILENAME>
+            </PROPERTY>
+            <SCENE />
+        </SCENEINSTANCE>
+        <SCENEINSTANCE>
+            <COMMON name="prop_stair_200_Corner.scene_3">
+                <POSITION>1000.000000 400.000000 800.000000</POSITION>
+                <DIRECTION>-1.000000 -0.000000 0.000000</DIRECTION>
+                <UP>0.000000 0.000000 1.000000</UP>
+                <SCALE>1.000000 1.000000 1.000000</SCALE>
+            </COMMON>
+            <USER_PROPERTY>
+                <TOOL_LAYER>stair</TOOL_LAYER>
+            </USER_PROPERTY>
+            <PROPERTY>
+                <FILENAME>prop_stair_200_Corner.scene.xml</FILENAME>
+            </PROPERTY>
+            <SCENE />
+        </SCENEINSTANCE>
+        <SCENEINSTANCE>
+            <COMMON name="prop_stair_200_base_a.scene_7">
+                <POSITION>800.000000 200.000000 800.000000</POSITION>
+                <DIRECTION>1.000000 0.000000 0.000000</DIRECTION>
+                <UP>-0.000000 0.000000 1.000000</UP>
+                <SCALE>1.000000 1.000000 1.000000</SCALE>
+            </COMMON>
+            <USER_PROPERTY>
+                <TOOL_LAYER>stair</TOOL_LAYER>
+            </USER_PROPERTY>
+            <PROPERTY>
+                <FILENAME>prop_stair_200_base_a.scene.xml</FILENAME>
+            </PROPERTY>
+            <SCENE />
+        </SCENEINSTANCE>
+        <SCENEINSTANCE>
+            <COMMON name="prop_stair_200_Corner.scene_16">
+                <POSITION>-400.000000 200.000000 0.000000</POSITION>
+                <DIRECTION>0.000000 -1.000000 0.000000</DIRECTION>
+                <UP>0.000000 0.000000 1.000000</UP>
+                <SCALE>1.000000 1.000000 1.000000</SCALE>
+            </COMMON>
+            <USER_PROPERTY>
+                <TOOL_LAYER>stair</TOOL_LAYER>
+            </USER_PROPERTY>
+            <PROPERTY>
+                <FILENAME>prop_stair_200_Corner.scene.xml</FILENAME>
+            </PROPERTY>
+            <SCENE />
+        </SCENEINSTANCE>
+        <SCENEINSTANCE>
+            <COMMON name="prop_stair_200_base_a.scene_41">
+                <POSITION>-200.000000 200.000000 0.000000</POSITION>
+                <DIRECTION>0.000000 1.000000 0.000000</DIRECTION>
+                <UP>0.000000 0.000000 1.000000</UP>
+                <SCALE>1.000000 1.000000 1.000000</SCALE>
+            </COMMON>
+            <USER_PROPERTY>
+                <TOOL_LAYER>stair</TOOL_LAYER>
+            </USER_PROPERTY>
+            <PROPERTY>
+                <FILENAME>prop_stair_200_base_a.scene.xml</FILENAME>
+            </PROPERTY>
+            <SCENE />
+        </SCENEINSTANCE>
+        <SCENEINSTANCE>
+            <COMMON name="prop_stair_200_base_a.scene_3">
+                <POSITION>200.000000 -1400.000000 400.000000</POSITION>
+                <DIRECTION>-1.000000 -0.000000 0.000000</DIRECTION>
+                <UP>0.000000 0.000000 1.000000</UP>
+                <SCALE>1.000000 1.000000 1.000000</SCALE>
+            </COMMON>
+            <USER_PROPERTY>
+                <TOOL_LAYER>stair</TOOL_LAYER>
+            </USER_PROPERTY>
+            <PROPERTY>
+                <FILENAME>prop_stair_200_base_a.scene.xml</FILENAME>
+            </PROPERTY>
+            <SCENE />
+        </SCENEINSTANCE>
+        <SCENEINSTANCE>
+            <COMMON name="prop_stair_200_base_a.scene_8">
+                <POSITION>600.000000 200.000000 800.000000</POSITION>
+                <DIRECTION>1.000000 0.000000 0.000000</DIRECTION>
+                <UP>-0.000000 0.000000 1.000000</UP>
+                <SCALE>1.000000 1.000000 1.000000</SCALE>
+            </COMMON>
+            <USER_PROPERTY>
+                <TOOL_LAYER>stair</TOOL_LAYER>
+            </USER_PROPERTY>
+            <PROPERTY>
+                <FILENAME>prop_stair_200_base_a.scene.xml</FILENAME>
+            </PROPERTY>
+            <SCENE />
+        </SCENEINSTANCE>
+        <SCENEINSTANCE>
+            <COMMON name="prop_stair_200_base_a.scene_10">
+                <POSITION>400.000000 200.000000 800.000000</POSITION>
+                <DIRECTION>1.000000 0.000000 0.000000</DIRECTION>
+                <UP>-0.000000 0.000000 1.000000</UP>
+                <SCALE>1.000000 1.000000 1.000000</SCALE>
+            </COMMON>
+            <USER_PROPERTY>
+                <TOOL_LAYER>stair</TOOL_LAYER>
+            </USER_PROPERTY>
+            <PROPERTY>
+                <FILENAME>prop_stair_200_base_a.scene.xml</FILENAME>
+            </PROPERTY>
+            <SCENE />
+        </SCENEINSTANCE>
+        <SCENEINSTANCE>
+            <COMMON name="prop_stair_200_base_a.scene_9">
+                <POSITION>200.000000 200.000000 800.000000</POSITION>
+                <DIRECTION>1.000000 0.000000 0.000000</DIRECTION>
+                <UP>-0.000000 0.000000 1.000000</UP>
+                <SCALE>1.000000 1.000000 1.000000</SCALE>
+            </COMMON>
+            <USER_PROPERTY>
+                <TOOL_LAYER>stair</TOOL_LAYER>
+            </USER_PROPERTY>
+            <PROPERTY>
+                <FILENAME>prop_stair_200_base_a.scene.xml</FILENAME>
+            </PROPERTY>
+            <SCENE />
+        </SCENEINSTANCE>
+        <SCENEINSTANCE>
+            <COMMON name="prop_frame_400x400_02b.scene_002">
+                <POSITION>0.000000 -800.000000 0.000000</POSITION>
+                <DIRECTION>0.000000 1.000000 0.000000</DIRECTION>
+                <UP>0.000000 0.000000 1.000000</UP>
+                <SCALE>1.000000 1.000000 1.000000</SCALE>
+            </COMMON>
+            <USER_PROPERTY>
+                <TOOL_LAYER>frame</TOOL_LAYER>
+            </USER_PROPERTY>
+            <PROPERTY>
+                <FILENAME>prop_frame_400x400_02b.scene.xml</FILENAME>
+            </PROPERTY>
+            <SCENE />
+        </SCENEINSTANCE>
+        <SCENEINSTANCE>
+            <COMMON name="prop_frame_400x400_02b.scene_3">
+                <POSITION>400.000000 -800.000000 0.000000</POSITION>
+                <DIRECTION>0.000000 1.000000 0.000000</DIRECTION>
+                <UP>0.000000 0.000000 1.000000</UP>
+                <SCALE>1.000000 1.000000 1.000000</SCALE>
+            </COMMON>
+            <USER_PROPERTY>
+                <TOOL_LAYER>frame</TOOL_LAYER>
+            </USER_PROPERTY>
+            <PROPERTY>
+                <FILENAME>prop_frame_400x400_02b.scene.xml</FILENAME>
+            </PROPERTY>
+            <SCENE />
+        </SCENEINSTANCE>
+        <SCENEINSTANCE>
+            <COMMON name="prop_frame_400x400_02b.scene_4">
+                <POSITION>400.000000 -800.000000 800.000000</POSITION>
+                <DIRECTION>0.000000 1.000000 0.000000</DIRECTION>
+                <UP>0.000000 0.000000 1.000000</UP>
+                <SCALE>1.000000 1.000000 1.000000</SCALE>
+            </COMMON>
+            <USER_PROPERTY>
+                <TOOL_LAYER>frame</TOOL_LAYER>
+            </USER_PROPERTY>
+            <PROPERTY>
+                <FILENAME>prop_frame_400x400_02b.scene.xml</FILENAME>
+            </PROPERTY>
+            <SCENE />
+        </SCENEINSTANCE>
+        <SCENEINSTANCE>
+            <COMMON name="prop_frame_400x400_02b.scene_5">
+                <POSITION>0.000000 -800.000000 800.000000</POSITION>
+                <DIRECTION>0.000000 1.000000 0.000000</DIRECTION>
+                <UP>0.000000 0.000000 1.000000</UP>
+                <SCALE>1.000000 1.000000 1.000000</SCALE>
+            </COMMON>
+            <USER_PROPERTY>
+                <TOOL_LAYER>frame</TOOL_LAYER>
+            </USER_PROPERTY>
+            <PROPERTY>
+                <FILENAME>prop_frame_400x400_02b.scene.xml</FILENAME>
+            </PROPERTY>
+            <SCENE />
+        </SCENEINSTANCE>
+        <SCENEINSTANCE>
+            <COMMON name="prop_frame_400x400_02b.scene_6">
+                <POSITION>400.000000 -800.000000 2400.000000</POSITION>
+                <DIRECTION>0.000000 1.000000 0.000000</DIRECTION>
+                <UP>0.000000 0.000000 1.000000</UP>
+                <SCALE>1.000000 1.000000 1.000000</SCALE>
+            </COMMON>
+            <USER_PROPERTY>
+                <TOOL_LAYER>frame</TOOL_LAYER>
+            </USER_PROPERTY>
+            <PROPERTY>
+                <FILENAME>prop_frame_400x400_02b.scene.xml</FILENAME>
+            </PROPERTY>
+            <SCENE />
+        </SCENEINSTANCE>
+        <SCENEINSTANCE>
+            <COMMON name="prop_frame_400x400_02b.scene_7">
+                <POSITION>0.000000 -800.000000 2400.000000</POSITION>
+                <DIRECTION>0.000000 1.000000 0.000000</DIRECTION>
+                <UP>0.000000 0.000000 1.000000</UP>
+                <SCALE>1.000000 1.000000 1.000000</SCALE>
+            </COMMON>
+            <USER_PROPERTY>
+                <TOOL_LAYER>frame</TOOL_LAYER>
+            </USER_PROPERTY>
+            <PROPERTY>
+                <FILENAME>prop_frame_400x400_02b.scene.xml</FILENAME>
+            </PROPERTY>
+            <SCENE />
+        </SCENEINSTANCE>
+        <SCENEINSTANCE>
+            <COMMON name="prop_frame_400x400_02b.scene_8">
+                <POSITION>0.000000 -800.000000 1600.000000</POSITION>
+                <DIRECTION>0.000000 1.000000 0.000000</DIRECTION>
+                <UP>0.000000 0.000000 1.000000</UP>
+                <SCALE>1.000000 1.000000 1.000000</SCALE>
+            </COMMON>
+            <USER_PROPERTY>
+                <TOOL_LAYER>frame</TOOL_LAYER>
+            </USER_PROPERTY>
+            <PROPERTY>
+                <FILENAME>prop_frame_400x400_02b.scene.xml</FILENAME>
+            </PROPERTY>
+            <SCENE />
+        </SCENEINSTANCE>
+        <SCENEINSTANCE>
+            <COMMON name="prop_frame_400x400_02b.scene_9">
+                <POSITION>400.000000 -800.000000 1600.000000</POSITION>
+                <DIRECTION>0.000000 1.000000 0.000000</DIRECTION>
+                <UP>0.000000 0.000000 1.000000</UP>
+                <SCALE>1.000000 1.000000 1.000000</SCALE>
+            </COMMON>
+            <USER_PROPERTY>
+                <TOOL_LAYER>frame</TOOL_LAYER>
+            </USER_PROPERTY>
+            <PROPERTY>
+                <FILENAME>prop_frame_400x400_02b.scene.xml</FILENAME>
+            </PROPERTY>
+            <SCENE />
+        </SCENEINSTANCE>
+        <SCENEINSTANCE>
+            <COMMON name="prop_stair_200_base_a.scene_42">
+                <POSITION>-200.000000 -800.000000 400.000000</POSITION>
+                <DIRECTION>0.000000 1.000000 0.000000</DIRECTION>
+                <UP>0.000000 0.000000 1.000000</UP>
+                <SCALE>1.000000 1.000000 1.000000</SCALE>
+            </COMMON>
+            <USER_PROPERTY>
+                <TOOL_LAYER>stair</TOOL_LAYER>
+            </USER_PROPERTY>
+            <PROPERTY>
+                <FILENAME>prop_stair_200_base_a.scene.xml</FILENAME>
+            </PROPERTY>
+            <SCENE />
+        </SCENEINSTANCE>
+        <SCENEINSTANCE>
+            <COMMON name="prop_stair_200_base_a.scene_43">
+                <POSITION>-200.000000 -1000.000000 400.000000</POSITION>
+                <DIRECTION>0.000000 1.000000 0.000000</DIRECTION>
+                <UP>0.000000 0.000000 1.000000</UP>
+                <SCALE>1.000000 1.000000 1.000000</SCALE>
+            </COMMON>
+            <USER_PROPERTY>
+                <TOOL_LAYER>stair</TOOL_LAYER>
+            </USER_PROPERTY>
+            <PROPERTY>
+                <FILENAME>prop_stair_200_base_a.scene.xml</FILENAME>
+            </PROPERTY>
+            <SCENE />
+        </SCENEINSTANCE>
+        <SCENEINSTANCE>
+            <COMMON name="prop_stair_200_base_a.scene_44">
+                <POSITION>-200.000000 -1400.000000 400.000000</POSITION>
+                <DIRECTION>-1.000000 -0.000000 0.000000</DIRECTION>
+                <UP>0.000000 0.000000 1.000000</UP>
+                <SCALE>1.000000 1.000000 1.000000</SCALE>
+            </COMMON>
+            <USER_PROPERTY>
+                <TOOL_LAYER>stair</TOOL_LAYER>
+            </USER_PROPERTY>
+            <PROPERTY>
+                <FILENAME>prop_stair_200_base_a.scene.xml</FILENAME>
+            </PROPERTY>
+            <SCENE />
+        </SCENEINSTANCE>
+        <SCENEINSTANCE>
+            <COMMON name="prop_stair_200_base_a.scene_45">
+                <POSITION>-200.000000 -1200.000000 400.000000</POSITION>
+                <DIRECTION>0.000000 1.000000 0.000000</DIRECTION>
+                <UP>0.000000 0.000000 1.000000</UP>
+                <SCALE>1.000000 1.000000 1.000000</SCALE>
+            </COMMON>
+            <USER_PROPERTY>
+                <TOOL_LAYER>stair</TOOL_LAYER>
+            </USER_PROPERTY>
+            <PROPERTY>
+                <FILENAME>prop_stair_200_base_a.scene.xml</FILENAME>
+            </PROPERTY>
+            <SCENE />
+        </SCENEINSTANCE>
+        <SCENEINSTANCE>
+            <COMMON name="prop_stair_200_base_a.scene_46">
+                <POSITION>1200.000000 -1200.000000 400.000000</POSITION>
+                <DIRECTION>0.000000 1.000000 0.000000</DIRECTION>
+                <UP>0.000000 0.000000 1.000000</UP>
+                <SCALE>1.000000 1.000000 1.000000</SCALE>
+            </COMMON>
+            <USER_PROPERTY>
+                <TOOL_LAYER>stair</TOOL_LAYER>
+            </USER_PROPERTY>
+            <PROPERTY>
+                <FILENAME>prop_stair_200_base_a.scene.xml</FILENAME>
+            </PROPERTY>
+            <SCENE />
+        </SCENEINSTANCE>
+        <SCENEINSTANCE>
+            <COMMON name="prop_stair_200_base_a.scene_47">
+                <POSITION>800.000000 -1400.000000 400.000000</POSITION>
+                <DIRECTION>-1.000000 -0.000000 0.000000</DIRECTION>
+                <UP>0.000000 0.000000 1.000000</UP>
+                <SCALE>1.000000 1.000000 1.000000</SCALE>
+            </COMMON>
+            <USER_PROPERTY>
+                <TOOL_LAYER>stair</TOOL_LAYER>
+            </USER_PROPERTY>
+            <PROPERTY>
+                <FILENAME>prop_stair_200_base_a.scene.xml</FILENAME>
+            </PROPERTY>
+            <SCENE />
+        </SCENEINSTANCE>
+        <SCENEINSTANCE>
+            <COMMON name="prop_stair_200_base_a.scene_48">
+                <POSITION>1200.000000 -1000.000000 400.000000</POSITION>
+                <DIRECTION>0.000000 1.000000 0.000000</DIRECTION>
+                <UP>0.000000 0.000000 1.000000</UP>
+                <SCALE>1.000000 1.000000 1.000000</SCALE>
+            </COMMON>
+            <USER_PROPERTY>
+                <TOOL_LAYER>stair</TOOL_LAYER>
+            </USER_PROPERTY>
+            <PROPERTY>
+                <FILENAME>prop_stair_200_base_a.scene.xml</FILENAME>
+            </PROPERTY>
+            <SCENE />
+        </SCENEINSTANCE>
+        <SCENEINSTANCE>
+            <COMMON name="prop_stair_200_base_a.scene_49">
+                <POSITION>1200.000000 -800.000000 400.000000</POSITION>
+                <DIRECTION>0.000000 1.000000 0.000000</DIRECTION>
+                <UP>0.000000 0.000000 1.000000</UP>
+                <SCALE>1.000000 1.000000 1.000000</SCALE>
+            </COMMON>
+            <USER_PROPERTY>
+                <TOOL_LAYER>stair</TOOL_LAYER>
+            </USER_PROPERTY>
+            <PROPERTY>
+                <FILENAME>prop_stair_200_base_a.scene.xml</FILENAME>
+            </PROPERTY>
+            <SCENE />
+        </SCENEINSTANCE>
+        <SCENEINSTANCE>
+            <COMMON name="prop_stair_200_base_a.scene_50">
+                <POSITION>1000.000000 200.000000 800.000000</POSITION>
+                <DIRECTION>1.000000 0.000000 0.000000</DIRECTION>
+                <UP>-0.000000 0.000000 1.000000</UP>
+                <SCALE>1.000000 1.000000 1.000000</SCALE>
+            </COMMON>
+            <USER_PROPERTY>
+                <TOOL_LAYER>stair</TOOL_LAYER>
+            </USER_PROPERTY>
+            <PROPERTY>
+                <FILENAME>prop_stair_200_base_a.scene.xml</FILENAME>
+            </PROPERTY>
+            <SCENE />
+        </SCENEINSTANCE>
+        <SCENEINSTANCE>
+            <COMMON name="prop_stair_200_base_a.scene_51">
+                <POSITION>1000.000000 0.000000 800.000000</POSITION>
+                <DIRECTION>0.000000 -1.000000 0.000000</DIRECTION>
+                <UP>0.000000 0.000000 1.000000</UP>
+                <SCALE>1.000000 1.000000 1.000000</SCALE>
+            </COMMON>
+            <USER_PROPERTY>
+                <TOOL_LAYER>stair</TOOL_LAYER>
+            </USER_PROPERTY>
+            <PROPERTY>
+                <FILENAME>prop_stair_200_base_a.scene.xml</FILENAME>
+            </PROPERTY>
+            <SCENE />
+        </SCENEINSTANCE>
+        <SCENEINSTANCE>
+            <COMMON name="prop_stair_200X100_middle.scene_9">
+                <POSITION>-200.000000 0.000000 800.000000</POSITION>
+                <DIRECTION>0.000000 1.000000 0.000000</DIRECTION>
+                <UP>0.000000 0.000000 1.000000</UP>
+                <SCALE>1.000000 1.000000 1.000000</SCALE>
+            </COMMON>
+            <USER_PROPERTY>
+                <TOOL_LAYER>stair</TOOL_LAYER>
+            </USER_PROPERTY>
+            <PROPERTY>
+                <FILENAME>prop_stair_200X100_middle.scene.xml</FILENAME>
+            </PROPERTY>
+            <SCENE />
+        </SCENEINSTANCE>
+        <SCENEINSTANCE>
+            <COMMON name="prop_stair_200_base_a.scene_52">
+                <POSITION>-200.000000 -600.000000 1200.000000</POSITION>
+                <DIRECTION>0.000000 1.000000 0.000000</DIRECTION>
+                <UP>0.000000 0.000000 1.000000</UP>
+                <SCALE>1.000000 1.000000 1.000000</SCALE>
+            </COMMON>
+            <USER_PROPERTY>
+                <TOOL_LAYER>stair</TOOL_LAYER>
+            </USER_PROPERTY>
+            <PROPERTY>
+                <FILENAME>prop_stair_200_base_a.scene.xml</FILENAME>
+            </PROPERTY>
+            <SCENE />
+        </SCENEINSTANCE>
+        <SCENEINSTANCE>
+            <COMMON name="prop_stair_200_Corner.scene_17">
+                <POSITION>-200.000000 -1600.000000 1200.000000</POSITION>
+                <DIRECTION>1.000000 -0.000000 0.000000</DIRECTION>
+                <UP>0.000000 0.000000 1.000000</UP>
+                <SCALE>1.000000 1.000000 1.000000</SCALE>
+            </COMMON>
+            <USER_PROPERTY>
+                <TOOL_LAYER>stair</TOOL_LAYER>
+            </USER_PROPERTY>
+            <PROPERTY>
+                <FILENAME>prop_stair_200_Corner.scene.xml</FILENAME>
+            </PROPERTY>
+            <SCENE />
+        </SCENEINSTANCE>
+        <SCENEINSTANCE>
+            <COMMON name="prop_stair_200X100_middle.scene_10">
+                <POSITION>-200.000000 -150.000000 900.000000</POSITION>
+                <DIRECTION>0.000000 1.000000 0.000000</DIRECTION>
+                <UP>0.000000 0.000000 1.000000</UP>
+                <SCALE>1.000000 1.000000 1.000000</SCALE>
+            </COMMON>
+            <USER_PROPERTY>
+                <TOOL_LAYER>stair</TOOL_LAYER>
+            </USER_PROPERTY>
+            <PROPERTY>
+                <FILENAME>prop_stair_200X100_middle.scene.xml</FILENAME>
+            </PROPERTY>
+            <SCENE />
+        </SCENEINSTANCE>
+        <SCENEINSTANCE>
+            <COMMON name="prop_stair_200X100_middle.scene_11">
+                <POSITION>-200.000000 -300.000000 1000.000000</POSITION>
+                <DIRECTION>0.000000 1.000000 0.000000</DIRECTION>
+                <UP>0.000000 0.000000 1.000000</UP>
+                <SCALE>1.000000 1.000000 1.000000</SCALE>
+            </COMMON>
+            <USER_PROPERTY>
+                <TOOL_LAYER>stair</TOOL_LAYER>
+            </USER_PROPERTY>
+            <PROPERTY>
+                <FILENAME>prop_stair_200X100_middle.scene.xml</FILENAME>
+            </PROPERTY>
+            <SCENE />
+        </SCENEINSTANCE>
+        <SCENEINSTANCE>
+            <COMMON name="prop_stair_200X100_middle.scene_12">
+                <POSITION>-200.000000 -450.000000 1100.000000</POSITION>
+                <DIRECTION>0.000000 1.000000 0.000000</DIRECTION>
+                <UP>0.000000 0.000000 1.000000</UP>
+                <SCALE>1.000000 1.000000 1.000000</SCALE>
+            </COMMON>
+            <USER_PROPERTY>
+                <TOOL_LAYER>stair</TOOL_LAYER>
+            </USER_PROPERTY>
+            <PROPERTY>
+                <FILENAME>prop_stair_200X100_middle.scene.xml</FILENAME>
+            </PROPERTY>
+            <SCENE />
+        </SCENEINSTANCE>
+        <SCENEINSTANCE>
+            <COMMON name="prop_stair_200_base_a.scene_53">
+                <POSITION>0.000000 -1400.000000 1200.000000</POSITION>
+                <DIRECTION>-1.000000 -0.000000 0.000000</DIRECTION>
+                <UP>0.000000 0.000000 1.000000</UP>
+                <SCALE>1.000000 1.000000 1.000000</SCALE>
+            </COMMON>
+            <USER_PROPERTY>
+                <TOOL_LAYER>stair</TOOL_LAYER>
+            </USER_PROPERTY>
+            <PROPERTY>
+                <FILENAME>prop_stair_200_base_a.scene.xml</FILENAME>
+            </PROPERTY>
+            <SCENE />
+        </SCENEINSTANCE>
+        <SCENEINSTANCE>
+            <COMMON name="prop_stair_200_base_a.scene_54">
+                <POSITION>600.000000 -1400.000000 1200.000000</POSITION>
+                <DIRECTION>-1.000000 -0.000000 0.000000</DIRECTION>
+                <UP>0.000000 0.000000 1.000000</UP>
+                <SCALE>1.000000 1.000000 1.000000</SCALE>
+            </COMMON>
+            <USER_PROPERTY>
+                <TOOL_LAYER>stair</TOOL_LAYER>
+            </USER_PROPERTY>
+            <PROPERTY>
+                <FILENAME>prop_stair_200_base_a.scene.xml</FILENAME>
+            </PROPERTY>
+            <SCENE />
+        </SCENEINSTANCE>
+        <SCENEINSTANCE>
+            <COMMON name="prop_stair_200_base_a.scene_55">
+                <POSITION>400.000000 -1400.000000 1200.000000</POSITION>
+                <DIRECTION>-1.000000 -0.000000 0.000000</DIRECTION>
+                <UP>0.000000 0.000000 1.000000</UP>
+                <SCALE>1.000000 1.000000 1.000000</SCALE>
+            </COMMON>
+            <USER_PROPERTY>
+                <TOOL_LAYER>stair</TOOL_LAYER>
+            </USER_PROPERTY>
+            <PROPERTY>
+                <FILENAME>prop_stair_200_base_a.scene.xml</FILENAME>
+            </PROPERTY>
+            <SCENE />
+        </SCENEINSTANCE>
+        <SCENEINSTANCE>
+            <COMMON name="prop_stair_200_Corner.scene_18">
+                <POSITION>1200.000000 -1400.000000 1200.000000</POSITION>
+                <DIRECTION>0.000000 1.000000 0.000000</DIRECTION>
+                <UP>0.000000 0.000000 1.000000</UP>
+                <SCALE>1.000000 1.000000 1.000000</SCALE>
+            </COMMON>
+            <USER_PROPERTY>
+                <TOOL_LAYER>stair</TOOL_LAYER>
+            </USER_PROPERTY>
+            <PROPERTY>
+                <FILENAME>prop_stair_200_Corner.scene.xml</FILENAME>
+            </PROPERTY>
+            <SCENE />
+        </SCENEINSTANCE>
+        <SCENEINSTANCE>
+            <COMMON name="prop_stair_200X100_middle.scene_13">
+                <POSITION>1000.000000 -350.000000 1500.000000</POSITION>
+                <DIRECTION>0.000000 -1.000000 0.000000</DIRECTION>
+                <UP>0.000000 0.000000 1.000000</UP>
+                <SCALE>1.000000 1.000000 1.000000</SCALE>
+            </COMMON>
+            <USER_PROPERTY>
+                <TOOL_LAYER>stair</TOOL_LAYER>
+            </USER_PROPERTY>
+            <PROPERTY>
+                <FILENAME>prop_stair_200X100_middle.scene.xml</FILENAME>
+            </PROPERTY>
+            <SCENE />
+        </SCENEINSTANCE>
+        <SCENEINSTANCE>
+            <COMMON name="prop_stair_200X100_middle.scene_14">
+                <POSITION>1000.000000 -500.000000 1400.000000</POSITION>
+                <DIRECTION>0.000000 -1.000000 0.000000</DIRECTION>
+                <UP>0.000000 0.000000 1.000000</UP>
+                <SCALE>1.000000 1.000000 1.000000</SCALE>
+            </COMMON>
+            <USER_PROPERTY>
+                <TOOL_LAYER>stair</TOOL_LAYER>
+            </USER_PROPERTY>
+            <PROPERTY>
+                <FILENAME>prop_stair_200X100_middle.scene.xml</FILENAME>
+            </PROPERTY>
+            <SCENE />
+        </SCENEINSTANCE>
+        <SCENEINSTANCE>
+            <COMMON name="prop_stair_200X100_middle.scene_15">
+                <POSITION>1000.000000 -650.000000 1300.000000</POSITION>
+                <DIRECTION>0.000000 -1.000000 0.000000</DIRECTION>
+                <UP>0.000000 0.000000 1.000000</UP>
+                <SCALE>1.000000 1.000000 1.000000</SCALE>
+            </COMMON>
+            <USER_PROPERTY>
+                <TOOL_LAYER>stair</TOOL_LAYER>
+            </USER_PROPERTY>
+            <PROPERTY>
+                <FILENAME>prop_stair_200X100_middle.scene.xml</FILENAME>
+            </PROPERTY>
+            <SCENE />
+        </SCENEINSTANCE>
+        <SCENEINSTANCE>
+            <COMMON name="prop_stair_200X100_middle.scene_16">
+                <POSITION>1000.000000 -800.000000 1200.000000</POSITION>
+                <DIRECTION>0.000000 -1.000000 0.000000</DIRECTION>
+                <UP>0.000000 0.000000 1.000000</UP>
+                <SCALE>1.000000 1.000000 1.000000</SCALE>
+            </COMMON>
+            <USER_PROPERTY>
+                <TOOL_LAYER>stair</TOOL_LAYER>
+            </USER_PROPERTY>
+            <PROPERTY>
+                <FILENAME>prop_stair_200X100_middle.scene.xml</FILENAME>
+            </PROPERTY>
+            <SCENE />
+        </SCENEINSTANCE>
+        <SCENEINSTANCE>
+            <COMMON name="prop_stair_200_base_a.scene_56">
+                <POSITION>1000.000000 -200.000000 1600.000000</POSITION>
+                <DIRECTION>0.000000 -1.000000 0.000000</DIRECTION>
+                <UP>0.000000 0.000000 1.000000</UP>
+                <SCALE>1.000000 1.000000 1.000000</SCALE>
+            </COMMON>
+            <USER_PROPERTY>
+                <TOOL_LAYER>stair</TOOL_LAYER>
+            </USER_PROPERTY>
+            <PROPERTY>
+                <FILENAME>prop_stair_200_base_a.scene.xml</FILENAME>
+            </PROPERTY>
+            <SCENE />
+        </SCENEINSTANCE>
+        <SCENEINSTANCE>
+            <COMMON name="prop_stair_200_Corner.scene_19">
+                <POSITION>1000.000000 400.000000 1600.000000</POSITION>
+                <DIRECTION>-1.000000 -0.000000 0.000000</DIRECTION>
+                <UP>0.000000 0.000000 1.000000</UP>
+                <SCALE>1.000000 1.000000 1.000000</SCALE>
+            </COMMON>
+            <USER_PROPERTY>
+                <TOOL_LAYER>stair</TOOL_LAYER>
+            </USER_PROPERTY>
+            <PROPERTY>
+                <FILENAME>prop_stair_200_Corner.scene.xml</FILENAME>
+            </PROPERTY>
+            <SCENE />
+        </SCENEINSTANCE>
+        <SCENEINSTANCE>
+            <COMMON name="prop_stair_200_base_a.scene_57">
+                <POSITION>800.000000 200.000000 1600.000000</POSITION>
+                <DIRECTION>1.000000 0.000000 0.000000</DIRECTION>
+                <UP>-0.000000 0.000000 1.000000</UP>
+                <SCALE>1.000000 1.000000 1.000000</SCALE>
+            </COMMON>
+            <USER_PROPERTY>
+                <TOOL_LAYER>stair</TOOL_LAYER>
+            </USER_PROPERTY>
+            <PROPERTY>
+                <FILENAME>prop_stair_200_base_a.scene.xml</FILENAME>
+            </PROPERTY>
+            <SCENE />
+        </SCENEINSTANCE>
+        <SCENEINSTANCE>
+            <COMMON name="prop_stair_200_Corner.scene_20">
+                <POSITION>-400.000000 200.000000 800.000000</POSITION>
+                <DIRECTION>0.000000 -1.000000 0.000000</DIRECTION>
+                <UP>0.000000 0.000000 1.000000</UP>
+                <SCALE>1.000000 1.000000 1.000000</SCALE>
+            </COMMON>
+            <USER_PROPERTY>
+                <TOOL_LAYER>stair</TOOL_LAYER>
+            </USER_PROPERTY>
+            <PROPERTY>
+                <FILENAME>prop_stair_200_Corner.scene.xml</FILENAME>
+            </PROPERTY>
+            <SCENE />
+        </SCENEINSTANCE>
+        <SCENEINSTANCE>
+            <COMMON name="prop_stair_200_base_a.scene_58">
+                <POSITION>-200.000000 200.000000 800.000000</POSITION>
+                <DIRECTION>0.000000 1.000000 0.000000</DIRECTION>
+                <UP>0.000000 0.000000 1.000000</UP>
+                <SCALE>1.000000 1.000000 1.000000</SCALE>
+            </COMMON>
+            <USER_PROPERTY>
+                <TOOL_LAYER>stair</TOOL_LAYER>
+            </USER_PROPERTY>
+            <PROPERTY>
+                <FILENAME>prop_stair_200_base_a.scene.xml</FILENAME>
+            </PROPERTY>
+            <SCENE />
+        </SCENEINSTANCE>
+        <SCENEINSTANCE>
+            <COMMON name="prop_stair_200_base_a.scene_59">
+                <POSITION>200.000000 -1400.000000 1200.000000</POSITION>
+                <DIRECTION>-1.000000 -0.000000 0.000000</DIRECTION>
+                <UP>0.000000 0.000000 1.000000</UP>
+                <SCALE>1.000000 1.000000 1.000000</SCALE>
+            </COMMON>
+            <USER_PROPERTY>
+                <TOOL_LAYER>stair</TOOL_LAYER>
+            </USER_PROPERTY>
+            <PROPERTY>
+                <FILENAME>prop_stair_200_base_a.scene.xml</FILENAME>
+            </PROPERTY>
+            <SCENE />
+        </SCENEINSTANCE>
+        <SCENEINSTANCE>
+            <COMMON name="prop_stair_200_base_a.scene_60">
+                <POSITION>600.000000 200.000000 1600.000000</POSITION>
+                <DIRECTION>1.000000 0.000000 0.000000</DIRECTION>
+                <UP>-0.000000 0.000000 1.000000</UP>
+                <SCALE>1.000000 1.000000 1.000000</SCALE>
+            </COMMON>
+            <USER_PROPERTY>
+                <TOOL_LAYER>stair</TOOL_LAYER>
+            </USER_PROPERTY>
+            <PROPERTY>
+                <FILENAME>prop_stair_200_base_a.scene.xml</FILENAME>
+            </PROPERTY>
+            <SCENE />
+        </SCENEINSTANCE>
+        <SCENEINSTANCE>
+            <COMMON name="prop_stair_200_base_a.scene_61">
+                <POSITION>400.000000 200.000000 1600.000000</POSITION>
+                <DIRECTION>1.000000 0.000000 0.000000</DIRECTION>
+                <UP>-0.000000 0.000000 1.000000</UP>
+                <SCALE>1.000000 1.000000 1.000000</SCALE>
+            </COMMON>
+            <USER_PROPERTY>
+                <TOOL_LAYER>stair</TOOL_LAYER>
+            </USER_PROPERTY>
+            <PROPERTY>
+                <FILENAME>prop_stair_200_base_a.scene.xml</FILENAME>
+            </PROPERTY>
+            <SCENE />
+        </SCENEINSTANCE>
+        <SCENEINSTANCE>
+            <COMMON name="prop_stair_200_base_a.scene_62">
+                <POSITION>200.000000 200.000000 1600.000000</POSITION>
+                <DIRECTION>1.000000 0.000000 0.000000</DIRECTION>
+                <UP>-0.000000 0.000000 1.000000</UP>
+                <SCALE>1.000000 1.000000 1.000000</SCALE>
+            </COMMON>
+            <USER_PROPERTY>
+                <TOOL_LAYER>stair</TOOL_LAYER>
+            </USER_PROPERTY>
+            <PROPERTY>
+                <FILENAME>prop_stair_200_base_a.scene.xml</FILENAME>
+            </PROPERTY>
+            <SCENE />
+        </SCENEINSTANCE>
+        <SCENEINSTANCE>
+            <COMMON name="prop_stair_200_base_a.scene_63">
+                <POSITION>-200.000000 -800.000000 1200.000000</POSITION>
+                <DIRECTION>0.000000 1.000000 0.000000</DIRECTION>
+                <UP>0.000000 0.000000 1.000000</UP>
+                <SCALE>1.000000 1.000000 1.000000</SCALE>
+            </COMMON>
+            <USER_PROPERTY>
+                <TOOL_LAYER>stair</TOOL_LAYER>
+            </USER_PROPERTY>
+            <PROPERTY>
+                <FILENAME>prop_stair_200_base_a.scene.xml</FILENAME>
+            </PROPERTY>
+            <SCENE />
+        </SCENEINSTANCE>
+        <SCENEINSTANCE>
+            <COMMON name="prop_stair_200_base_a.scene_64">
+                <POSITION>-200.000000 -1000.000000 1200.000000</POSITION>
+                <DIRECTION>0.000000 1.000000 0.000000</DIRECTION>
+                <UP>0.000000 0.000000 1.000000</UP>
+                <SCALE>1.000000 1.000000 1.000000</SCALE>
+            </COMMON>
+            <USER_PROPERTY>
+                <TOOL_LAYER>stair</TOOL_LAYER>
+            </USER_PROPERTY>
+            <PROPERTY>
+                <FILENAME>prop_stair_200_base_a.scene.xml</FILENAME>
+            </PROPERTY>
+            <SCENE />
+        </SCENEINSTANCE>
+        <SCENEINSTANCE>
+            <COMMON name="prop_stair_200_base_a.scene_65">
+                <POSITION>-200.000000 -1400.000000 1200.000000</POSITION>
+                <DIRECTION>-1.000000 -0.000000 0.000000</DIRECTION>
+                <UP>0.000000 0.000000 1.000000</UP>
+                <SCALE>1.000000 1.000000 1.000000</SCALE>
+            </COMMON>
+            <USER_PROPERTY>
+                <TOOL_LAYER>stair</TOOL_LAYER>
+            </USER_PROPERTY>
+            <PROPERTY>
+                <FILENAME>prop_stair_200_base_a.scene.xml</FILENAME>
+            </PROPERTY>
+            <SCENE />
+        </SCENEINSTANCE>
+        <SCENEINSTANCE>
+            <COMMON name="prop_stair_200_base_a.scene_66">
+                <POSITION>-200.000000 -1200.000000 1200.000000</POSITION>
+                <DIRECTION>0.000000 1.000000 0.000000</DIRECTION>
+                <UP>0.000000 0.000000 1.000000</UP>
+                <SCALE>1.000000 1.000000 1.000000</SCALE>
+            </COMMON>
+            <USER_PROPERTY>
+                <TOOL_LAYER>stair</TOOL_LAYER>
+            </USER_PROPERTY>
+            <PROPERTY>
+                <FILENAME>prop_stair_200_base_a.scene.xml</FILENAME>
+            </PROPERTY>
+            <SCENE />
+        </SCENEINSTANCE>
+        <SCENEINSTANCE>
+            <COMMON name="prop_stair_200_base_a.scene_67">
+                <POSITION>1200.000000 -1200.000000 1200.000000</POSITION>
+                <DIRECTION>0.000000 1.000000 0.000000</DIRECTION>
+                <UP>0.000000 0.000000 1.000000</UP>
+                <SCALE>1.000000 1.000000 1.000000</SCALE>
+            </COMMON>
+            <USER_PROPERTY>
+                <TOOL_LAYER>stair</TOOL_LAYER>
+            </USER_PROPERTY>
+            <PROPERTY>
+                <FILENAME>prop_stair_200_base_a.scene.xml</FILENAME>
+            </PROPERTY>
+            <SCENE />
+        </SCENEINSTANCE>
+        <SCENEINSTANCE>
+            <COMMON name="prop_stair_200_base_a.scene_68">
+                <POSITION>800.000000 -1400.000000 1200.000000</POSITION>
+                <DIRECTION>-1.000000 -0.000000 0.000000</DIRECTION>
+                <UP>0.000000 0.000000 1.000000</UP>
+                <SCALE>1.000000 1.000000 1.000000</SCALE>
+            </COMMON>
+            <USER_PROPERTY>
+                <TOOL_LAYER>stair</TOOL_LAYER>
+            </USER_PROPERTY>
+            <PROPERTY>
+                <FILENAME>prop_stair_200_base_a.scene.xml</FILENAME>
+            </PROPERTY>
+            <SCENE />
+        </SCENEINSTANCE>
+        <SCENEINSTANCE>
+            <COMMON name="prop_stair_200_base_a.scene_69">
+                <POSITION>1200.000000 -1000.000000 1200.000000</POSITION>
+                <DIRECTION>0.000000 1.000000 0.000000</DIRECTION>
+                <UP>0.000000 0.000000 1.000000</UP>
+                <SCALE>1.000000 1.000000 1.000000</SCALE>
+            </COMMON>
+            <USER_PROPERTY>
+                <TOOL_LAYER>stair</TOOL_LAYER>
+            </USER_PROPERTY>
+            <PROPERTY>
+                <FILENAME>prop_stair_200_base_a.scene.xml</FILENAME>
+            </PROPERTY>
+            <SCENE />
+        </SCENEINSTANCE>
+        <SCENEINSTANCE>
+            <COMMON name="prop_stair_200_base_a.scene_70">
+                <POSITION>1200.000000 -800.000000 1200.000000</POSITION>
+                <DIRECTION>0.000000 1.000000 0.000000</DIRECTION>
+                <UP>0.000000 0.000000 1.000000</UP>
+                <SCALE>1.000000 1.000000 1.000000</SCALE>
+            </COMMON>
+            <USER_PROPERTY>
+                <TOOL_LAYER>stair</TOOL_LAYER>
+            </USER_PROPERTY>
+            <PROPERTY>
+                <FILENAME>prop_stair_200_base_a.scene.xml</FILENAME>
+            </PROPERTY>
+            <SCENE />
+        </SCENEINSTANCE>
+        <SCENEINSTANCE>
+            <COMMON name="prop_stair_200_base_a.scene_71">
+                <POSITION>1000.000000 200.000000 1600.000000</POSITION>
+                <DIRECTION>1.000000 0.000000 0.000000</DIRECTION>
+                <UP>-0.000000 0.000000 1.000000</UP>
+                <SCALE>1.000000 1.000000 1.000000</SCALE>
+            </COMMON>
+            <USER_PROPERTY>
+                <TOOL_LAYER>stair</TOOL_LAYER>
+            </USER_PROPERTY>
+            <PROPERTY>
+                <FILENAME>prop_stair_200_base_a.scene.xml</FILENAME>
+            </PROPERTY>
+            <SCENE />
+        </SCENEINSTANCE>
+        <SCENEINSTANCE>
+            <COMMON name="prop_stair_200_base_a.scene_72">
+                <POSITION>1000.000000 0.000000 1600.000000</POSITION>
+                <DIRECTION>0.000000 -1.000000 0.000000</DIRECTION>
+                <UP>0.000000 0.000000 1.000000</UP>
+                <SCALE>1.000000 1.000000 1.000000</SCALE>
+            </COMMON>
+            <USER_PROPERTY>
+                <TOOL_LAYER>stair</TOOL_LAYER>
+            </USER_PROPERTY>
+            <PROPERTY>
+                <FILENAME>prop_stair_200_base_a.scene.xml</FILENAME>
+            </PROPERTY>
+            <SCENE />
+        </SCENEINSTANCE>
+        <SCENEINSTANCE>
+            <COMMON name="prop_stair_200_base_a.scene_73">
+                <POSITION>0.000000 200.000000 800.000000</POSITION>
+                <DIRECTION>1.000000 0.000000 0.000000</DIRECTION>
+                <UP>-0.000000 0.000000 1.000000</UP>
+                <SCALE>1.000000 1.000000 1.000000</SCALE>
+            </COMMON>
+            <USER_PROPERTY>
+                <TOOL_LAYER>stair</TOOL_LAYER>
+            </USER_PROPERTY>
+            <PROPERTY>
+                <FILENAME>prop_stair_200_base_a.scene.xml</FILENAME>
+            </PROPERTY>
+            <SCENE />
+        </SCENEINSTANCE>
+        <SCENEINSTANCE>
+            <COMMON name="prop_stair_200_base_a.scene_74">
+                <POSITION>0.000000 200.000000 1600.000000</POSITION>
+                <DIRECTION>1.000000 0.000000 0.000000</DIRECTION>
+                <UP>-0.000000 0.000000 1.000000</UP>
+                <SCALE>1.000000 1.000000 1.000000</SCALE>
+            </COMMON>
+            <USER_PROPERTY>
+                <TOOL_LAYER>stair</TOOL_LAYER>
+            </USER_PROPERTY>
+            <PROPERTY>
+                <FILENAME>prop_stair_200_base_a.scene.xml</FILENAME>
+            </PROPERTY>
+            <SCENE />
+        </SCENEINSTANCE>
+        <SCENEINSTANCE>
+            <COMMON name="prop_stair_200X100_middle.scene_17">
+                <POSITION>-200.000000 0.000000 1600.000000</POSITION>
+                <DIRECTION>0.000000 1.000000 0.000000</DIRECTION>
+                <UP>0.000000 0.000000 1.000000</UP>
+                <SCALE>1.000000 1.000000 1.000000</SCALE>
+            </COMMON>
+            <USER_PROPERTY>
+                <TOOL_LAYER>stair</TOOL_LAYER>
+            </USER_PROPERTY>
+            <PROPERTY>
+                <FILENAME>prop_stair_200X100_middle.scene.xml</FILENAME>
+            </PROPERTY>
+            <SCENE />
+        </SCENEINSTANCE>
+        <SCENEINSTANCE>
+            <COMMON name="prop_stair_200_base_a.scene_75">
+                <POSITION>-200.000000 -600.000000 2000.000000</POSITION>
+                <DIRECTION>0.000000 1.000000 0.000000</DIRECTION>
+                <UP>0.000000 0.000000 1.000000</UP>
+                <SCALE>1.000000 1.000000 1.000000</SCALE>
+            </COMMON>
+            <USER_PROPERTY>
+                <TOOL_LAYER>stair</TOOL_LAYER>
+            </USER_PROPERTY>
+            <PROPERTY>
+                <FILENAME>prop_stair_200_base_a.scene.xml</FILENAME>
+            </PROPERTY>
+            <SCENE />
+        </SCENEINSTANCE>
+        <SCENEINSTANCE>
+            <COMMON name="prop_stair_200_Corner.scene_21">
+                <POSITION>-200.000000 -1600.000000 2000.000000</POSITION>
+                <DIRECTION>1.000000 -0.000000 0.000000</DIRECTION>
+                <UP>0.000000 0.000000 1.000000</UP>
+                <SCALE>1.000000 1.000000 1.000000</SCALE>
+            </COMMON>
+            <USER_PROPERTY>
+                <TOOL_LAYER>stair</TOOL_LAYER>
+            </USER_PROPERTY>
+            <PROPERTY>
+                <FILENAME>prop_stair_200_Corner.scene.xml</FILENAME>
+            </PROPERTY>
+            <SCENE />
+        </SCENEINSTANCE>
+        <SCENEINSTANCE>
+            <COMMON name="prop_stair_200X100_middle.scene_18">
+                <POSITION>-200.000000 -150.000000 1700.000000</POSITION>
+                <DIRECTION>0.000000 1.000000 0.000000</DIRECTION>
+                <UP>0.000000 0.000000 1.000000</UP>
+                <SCALE>1.000000 1.000000 1.000000</SCALE>
+            </COMMON>
+            <USER_PROPERTY>
+                <TOOL_LAYER>stair</TOOL_LAYER>
+            </USER_PROPERTY>
+            <PROPERTY>
+                <FILENAME>prop_stair_200X100_middle.scene.xml</FILENAME>
+            </PROPERTY>
+            <SCENE />
+        </SCENEINSTANCE>
+        <SCENEINSTANCE>
+            <COMMON name="prop_stair_200X100_middle.scene_19">
+                <POSITION>-200.000000 -300.000000 1800.000000</POSITION>
+                <DIRECTION>0.000000 1.000000 0.000000</DIRECTION>
+                <UP>0.000000 0.000000 1.000000</UP>
+                <SCALE>1.000000 1.000000 1.000000</SCALE>
+            </COMMON>
+            <USER_PROPERTY>
+                <TOOL_LAYER>stair</TOOL_LAYER>
+            </USER_PROPERTY>
+            <PROPERTY>
+                <FILENAME>prop_stair_200X100_middle.scene.xml</FILENAME>
+            </PROPERTY>
+            <SCENE />
+        </SCENEINSTANCE>
+        <SCENEINSTANCE>
+            <COMMON name="prop_stair_200X100_middle.scene_20">
+                <POSITION>-200.000000 -450.000000 1900.000000</POSITION>
+                <DIRECTION>0.000000 1.000000 0.000000</DIRECTION>
+                <UP>0.000000 0.000000 1.000000</UP>
+                <SCALE>1.000000 1.000000 1.000000</SCALE>
+            </COMMON>
+            <USER_PROPERTY>
+                <TOOL_LAYER>stair</TOOL_LAYER>
+            </USER_PROPERTY>
+            <PROPERTY>
+                <FILENAME>prop_stair_200X100_middle.scene.xml</FILENAME>
+            </PROPERTY>
+            <SCENE />
+        </SCENEINSTANCE>
+        <SCENEINSTANCE>
+            <COMMON name="prop_stair_200_base_a.scene_76">
+                <POSITION>0.000000 -1400.000000 2000.000000</POSITION>
+                <DIRECTION>-1.000000 -0.000000 0.000000</DIRECTION>
+                <UP>0.000000 0.000000 1.000000</UP>
+                <SCALE>1.000000 1.000000 1.000000</SCALE>
+            </COMMON>
+            <USER_PROPERTY>
+                <TOOL_LAYER>stair</TOOL_LAYER>
+            </USER_PROPERTY>
+            <PROPERTY>
+                <FILENAME>prop_stair_200_base_a.scene.xml</FILENAME>
+            </PROPERTY>
+            <SCENE />
+        </SCENEINSTANCE>
+        <SCENEINSTANCE>
+            <COMMON name="prop_stair_200_base_a.scene_77">
+                <POSITION>600.000000 -1400.000000 2000.000000</POSITION>
+                <DIRECTION>-1.000000 -0.000000 0.000000</DIRECTION>
+                <UP>0.000000 0.000000 1.000000</UP>
+                <SCALE>1.000000 1.000000 1.000000</SCALE>
+            </COMMON>
+            <USER_PROPERTY>
+                <TOOL_LAYER>stair</TOOL_LAYER>
+            </USER_PROPERTY>
+            <PROPERTY>
+                <FILENAME>prop_stair_200_base_a.scene.xml</FILENAME>
+            </PROPERTY>
+            <SCENE />
+        </SCENEINSTANCE>
+        <SCENEINSTANCE>
+            <COMMON name="prop_stair_200_base_a.scene_78">
+                <POSITION>400.000000 -1400.000000 2000.000000</POSITION>
+                <DIRECTION>-1.000000 -0.000000 0.000000</DIRECTION>
+                <UP>0.000000 0.000000 1.000000</UP>
+                <SCALE>1.000000 1.000000 1.000000</SCALE>
+            </COMMON>
+            <USER_PROPERTY>
+                <TOOL_LAYER>stair</TOOL_LAYER>
+            </USER_PROPERTY>
+            <PROPERTY>
+                <FILENAME>prop_stair_200_base_a.scene.xml</FILENAME>
+            </PROPERTY>
+            <SCENE />
+        </SCENEINSTANCE>
+        <SCENEINSTANCE>
+            <COMMON name="prop_stair_200_Corner.scene_22">
+                <POSITION>1200.000000 -1400.000000 2000.000000</POSITION>
+                <DIRECTION>0.000000 1.000000 0.000000</DIRECTION>
+                <UP>0.000000 0.000000 1.000000</UP>
+                <SCALE>1.000000 1.000000 1.000000</SCALE>
+            </COMMON>
+            <USER_PROPERTY>
+                <TOOL_LAYER>stair</TOOL_LAYER>
+            </USER_PROPERTY>
+            <PROPERTY>
+                <FILENAME>prop_stair_200_Corner.scene.xml</FILENAME>
+            </PROPERTY>
+            <SCENE />
+        </SCENEINSTANCE>
+        <SCENEINSTANCE>
+            <COMMON name="prop_stair_200X100_middle.scene_21">
+                <POSITION>1000.000000 -350.000000 2300.000000</POSITION>
+                <DIRECTION>0.000000 -1.000000 0.000000</DIRECTION>
+                <UP>0.000000 0.000000 1.000000</UP>
+                <SCALE>1.000000 1.000000 1.000000</SCALE>
+            </COMMON>
+            <USER_PROPERTY>
+                <TOOL_LAYER>stair</TOOL_LAYER>
+            </USER_PROPERTY>
+            <PROPERTY>
+                <FILENAME>prop_stair_200X100_middle.scene.xml</FILENAME>
+            </PROPERTY>
+            <SCENE />
+        </SCENEINSTANCE>
+        <SCENEINSTANCE>
+            <COMMON name="prop_stair_200X100_middle.scene_22">
+                <POSITION>1000.000000 -500.000000 2200.000000</POSITION>
+                <DIRECTION>0.000000 -1.000000 0.000000</DIRECTION>
+                <UP>0.000000 0.000000 1.000000</UP>
+                <SCALE>1.000000 1.000000 1.000000</SCALE>
+            </COMMON>
+            <USER_PROPERTY>
+                <TOOL_LAYER>stair</TOOL_LAYER>
+            </USER_PROPERTY>
+            <PROPERTY>
+                <FILENAME>prop_stair_200X100_middle.scene.xml</FILENAME>
+            </PROPERTY>
+            <SCENE />
+        </SCENEINSTANCE>
+        <SCENEINSTANCE>
+            <COMMON name="prop_stair_200X100_middle.scene_23">
+                <POSITION>1000.000000 -650.000000 2100.000000</POSITION>
+                <DIRECTION>0.000000 -1.000000 0.000000</DIRECTION>
+                <UP>0.000000 0.000000 1.000000</UP>
+                <SCALE>1.000000 1.000000 1.000000</SCALE>
+            </COMMON>
+            <USER_PROPERTY>
+                <TOOL_LAYER>stair</TOOL_LAYER>
+            </USER_PROPERTY>
+            <PROPERTY>
+                <FILENAME>prop_stair_200X100_middle.scene.xml</FILENAME>
+            </PROPERTY>
+            <SCENE />
+        </SCENEINSTANCE>
+        <SCENEINSTANCE>
+            <COMMON name="prop_stair_200X100_middle.scene_24">
+                <POSITION>1000.000000 -800.000000 2000.000000</POSITION>
+                <DIRECTION>0.000000 -1.000000 0.000000</DIRECTION>
+                <UP>0.000000 0.000000 1.000000</UP>
+                <SCALE>1.000000 1.000000 1.000000</SCALE>
+            </COMMON>
+            <USER_PROPERTY>
+                <TOOL_LAYER>stair</TOOL_LAYER>
+            </USER_PROPERTY>
+            <PROPERTY>
+                <FILENAME>prop_stair_200X100_middle.scene.xml</FILENAME>
+            </PROPERTY>
+            <SCENE />
+        </SCENEINSTANCE>
+        <SCENEINSTANCE>
+            <COMMON name="prop_stair_200_base_a.scene_79">
+                <POSITION>1000.000000 -200.000000 2400.000000</POSITION>
+                <DIRECTION>0.000000 -1.000000 0.000000</DIRECTION>
+                <UP>0.000000 0.000000 1.000000</UP>
+                <SCALE>1.000000 1.000000 1.000000</SCALE>
+            </COMMON>
+            <USER_PROPERTY>
+                <TOOL_LAYER>stair</TOOL_LAYER>
+            </USER_PROPERTY>
+            <PROPERTY>
+                <FILENAME>prop_stair_200_base_a.scene.xml</FILENAME>
+            </PROPERTY>
+            <SCENE />
+        </SCENEINSTANCE>
+        <SCENEINSTANCE>
+            <COMMON name="prop_stair_200_Corner.scene_23">
+                <POSITION>1000.000000 400.000000 2400.000000</POSITION>
+                <DIRECTION>-1.000000 -0.000000 0.000000</DIRECTION>
+                <UP>0.000000 0.000000 1.000000</UP>
+                <SCALE>1.000000 1.000000 1.000000</SCALE>
+            </COMMON>
+            <USER_PROPERTY>
+                <TOOL_LAYER>stair</TOOL_LAYER>
+            </USER_PROPERTY>
+            <PROPERTY>
+                <FILENAME>prop_stair_200_Corner.scene.xml</FILENAME>
+            </PROPERTY>
+            <SCENE />
+        </SCENEINSTANCE>
+        <SCENEINSTANCE>
+            <COMMON name="prop_stair_200_base_a.scene_80">
+                <POSITION>800.000000 200.000000 2400.000000</POSITION>
+                <DIRECTION>1.000000 0.000000 0.000000</DIRECTION>
+                <UP>-0.000000 0.000000 1.000000</UP>
+                <SCALE>1.000000 1.000000 1.000000</SCALE>
+            </COMMON>
+            <USER_PROPERTY>
+                <TOOL_LAYER>stair</TOOL_LAYER>
+            </USER_PROPERTY>
+            <PROPERTY>
+                <FILENAME>prop_stair_200_base_a.scene.xml</FILENAME>
+            </PROPERTY>
+            <SCENE />
+        </SCENEINSTANCE>
+        <SCENEINSTANCE>
+            <COMMON name="prop_stair_200_base_a.scene_81">
+                <POSITION>200.000000 -1400.000000 2000.000000</POSITION>
+                <DIRECTION>-1.000000 -0.000000 0.000000</DIRECTION>
+                <UP>0.000000 0.000000 1.000000</UP>
+                <SCALE>1.000000 1.000000 1.000000</SCALE>
+            </COMMON>
+            <USER_PROPERTY>
+                <TOOL_LAYER>stair</TOOL_LAYER>
+            </USER_PROPERTY>
+            <PROPERTY>
+                <FILENAME>prop_stair_200_base_a.scene.xml</FILENAME>
+            </PROPERTY>
+            <SCENE />
+        </SCENEINSTANCE>
+        <SCENEINSTANCE>
+            <COMMON name="prop_stair_200_base_a.scene_82">
+                <POSITION>600.000000 200.000000 2400.000000</POSITION>
+                <DIRECTION>1.000000 0.000000 0.000000</DIRECTION>
+                <UP>-0.000000 0.000000 1.000000</UP>
+                <SCALE>1.000000 1.000000 1.000000</SCALE>
+            </COMMON>
+            <USER_PROPERTY>
+                <TOOL_LAYER>stair</TOOL_LAYER>
+            </USER_PROPERTY>
+            <PROPERTY>
+                <FILENAME>prop_stair_200_base_a.scene.xml</FILENAME>
+            </PROPERTY>
+            <SCENE />
+        </SCENEINSTANCE>
+        <SCENEINSTANCE>
+            <COMMON name="prop_stair_200_base_a.scene_83">
+                <POSITION>400.000000 200.000000 2400.000000</POSITION>
+                <DIRECTION>1.000000 0.000000 0.000000</DIRECTION>
+                <UP>-0.000000 0.000000 1.000000</UP>
+                <SCALE>1.000000 1.000000 1.000000</SCALE>
+            </COMMON>
+            <USER_PROPERTY>
+                <TOOL_LAYER>stair</TOOL_LAYER>
+            </USER_PROPERTY>
+            <PROPERTY>
+                <FILENAME>prop_stair_200_base_a.scene.xml</FILENAME>
+            </PROPERTY>
+            <SCENE />
+        </SCENEINSTANCE>
+        <SCENEINSTANCE>
+            <COMMON name="prop_stair_200_base_a.scene_84">
+                <POSITION>200.000000 200.000000 2400.000000</POSITION>
+                <DIRECTION>1.000000 0.000000 0.000000</DIRECTION>
+                <UP>-0.000000 0.000000 1.000000</UP>
+                <SCALE>1.000000 1.000000 1.000000</SCALE>
+            </COMMON>
+            <USER_PROPERTY>
+                <TOOL_LAYER>stair</TOOL_LAYER>
+            </USER_PROPERTY>
+            <PROPERTY>
+                <FILENAME>prop_stair_200_base_a.scene.xml</FILENAME>
+            </PROPERTY>
+            <SCENE />
+        </SCENEINSTANCE>
+        <SCENEINSTANCE>
+            <COMMON name="prop_stair_200_base_a.scene_85">
+                <POSITION>-200.000000 -800.000000 2000.000000</POSITION>
+                <DIRECTION>0.000000 1.000000 0.000000</DIRECTION>
+                <UP>0.000000 0.000000 1.000000</UP>
+                <SCALE>1.000000 1.000000 1.000000</SCALE>
+            </COMMON>
+            <USER_PROPERTY>
+                <TOOL_LAYER>stair</TOOL_LAYER>
+            </USER_PROPERTY>
+            <PROPERTY>
+                <FILENAME>prop_stair_200_base_a.scene.xml</FILENAME>
+            </PROPERTY>
+            <SCENE />
+        </SCENEINSTANCE>
+        <SCENEINSTANCE>
+            <COMMON name="prop_stair_200_base_a.scene_86">
+                <POSITION>-200.000000 -1000.000000 2000.000000</POSITION>
+                <DIRECTION>0.000000 1.000000 0.000000</DIRECTION>
+                <UP>0.000000 0.000000 1.000000</UP>
+                <SCALE>1.000000 1.000000 1.000000</SCALE>
+            </COMMON>
+            <USER_PROPERTY>
+                <TOOL_LAYER>stair</TOOL_LAYER>
+            </USER_PROPERTY>
+            <PROPERTY>
+                <FILENAME>prop_stair_200_base_a.scene.xml</FILENAME>
+            </PROPERTY>
+            <SCENE />
+        </SCENEINSTANCE>
+        <SCENEINSTANCE>
+            <COMMON name="prop_stair_200_base_a.scene_87">
+                <POSITION>-200.000000 -1400.000000 2000.000000</POSITION>
+                <DIRECTION>-1.000000 -0.000000 0.000000</DIRECTION>
+                <UP>0.000000 0.000000 1.000000</UP>
+                <SCALE>1.000000 1.000000 1.000000</SCALE>
+            </COMMON>
+            <USER_PROPERTY>
+                <TOOL_LAYER>stair</TOOL_LAYER>
+            </USER_PROPERTY>
+            <PROPERTY>
+                <FILENAME>prop_stair_200_base_a.scene.xml</FILENAME>
+            </PROPERTY>
+            <SCENE />
+        </SCENEINSTANCE>
+        <SCENEINSTANCE>
+            <COMMON name="prop_stair_200_base_a.scene_88">
+                <POSITION>-200.000000 -1200.000000 2000.000000</POSITION>
+                <DIRECTION>0.000000 1.000000 0.000000</DIRECTION>
+                <UP>0.000000 0.000000 1.000000</UP>
+                <SCALE>1.000000 1.000000 1.000000</SCALE>
+            </COMMON>
+            <USER_PROPERTY>
+                <TOOL_LAYER>stair</TOOL_LAYER>
+            </USER_PROPERTY>
+            <PROPERTY>
+                <FILENAME>prop_stair_200_base_a.scene.xml</FILENAME>
+            </PROPERTY>
+            <SCENE />
+        </SCENEINSTANCE>
+        <SCENEINSTANCE>
+            <COMMON name="prop_stair_200_base_a.scene_89">
+                <POSITION>1200.000000 -1200.000000 2000.000000</POSITION>
+                <DIRECTION>0.000000 1.000000 0.000000</DIRECTION>
+                <UP>0.000000 0.000000 1.000000</UP>
+                <SCALE>1.000000 1.000000 1.000000</SCALE>
+            </COMMON>
+            <USER_PROPERTY>
+                <TOOL_LAYER>stair</TOOL_LAYER>
+            </USER_PROPERTY>
+            <PROPERTY>
+                <FILENAME>prop_stair_200_base_a.scene.xml</FILENAME>
+            </PROPERTY>
+            <SCENE />
+        </SCENEINSTANCE>
+        <SCENEINSTANCE>
+            <COMMON name="prop_stair_200_base_a.scene_90">
+                <POSITION>800.000000 -1400.000000 2000.000000</POSITION>
+                <DIRECTION>-1.000000 -0.000000 0.000000</DIRECTION>
+                <UP>0.000000 0.000000 1.000000</UP>
+                <SCALE>1.000000 1.000000 1.000000</SCALE>
+            </COMMON>
+            <USER_PROPERTY>
+                <TOOL_LAYER>stair</TOOL_LAYER>
+            </USER_PROPERTY>
+            <PROPERTY>
+                <FILENAME>prop_stair_200_base_a.scene.xml</FILENAME>
+            </PROPERTY>
+            <SCENE />
+        </SCENEINSTANCE>
+        <SCENEINSTANCE>
+            <COMMON name="prop_stair_200_base_a.scene_91">
+                <POSITION>1200.000000 -1000.000000 2000.000000</POSITION>
+                <DIRECTION>0.000000 1.000000 0.000000</DIRECTION>
+                <UP>0.000000 0.000000 1.000000</UP>
+                <SCALE>1.000000 1.000000 1.000000</SCALE>
+            </COMMON>
+            <USER_PROPERTY>
+                <TOOL_LAYER>stair</TOOL_LAYER>
+            </USER_PROPERTY>
+            <PROPERTY>
+                <FILENAME>prop_stair_200_base_a.scene.xml</FILENAME>
+            </PROPERTY>
+            <SCENE />
+        </SCENEINSTANCE>
+        <SCENEINSTANCE>
+            <COMMON name="prop_stair_200_base_a.scene_92">
+                <POSITION>1200.000000 -800.000000 2000.000000</POSITION>
+                <DIRECTION>0.000000 1.000000 0.000000</DIRECTION>
+                <UP>0.000000 0.000000 1.000000</UP>
+                <SCALE>1.000000 1.000000 1.000000</SCALE>
+            </COMMON>
+            <USER_PROPERTY>
+                <TOOL_LAYER>stair</TOOL_LAYER>
+            </USER_PROPERTY>
+            <PROPERTY>
+                <FILENAME>prop_stair_200_base_a.scene.xml</FILENAME>
+            </PROPERTY>
+            <SCENE />
+        </SCENEINSTANCE>
+        <SCENEINSTANCE>
+            <COMMON name="prop_stair_200_base_a.scene_93">
+                <POSITION>1000.000000 200.000000 2400.000000</POSITION>
+                <DIRECTION>1.000000 0.000000 0.000000</DIRECTION>
+                <UP>-0.000000 0.000000 1.000000</UP>
+                <SCALE>1.000000 1.000000 1.000000</SCALE>
+            </COMMON>
+            <USER_PROPERTY>
+                <TOOL_LAYER>stair</TOOL_LAYER>
+            </USER_PROPERTY>
+            <PROPERTY>
+                <FILENAME>prop_stair_200_base_a.scene.xml</FILENAME>
+            </PROPERTY>
+            <SCENE />
+        </SCENEINSTANCE>
+        <SCENEINSTANCE>
+            <COMMON name="prop_stair_200_base_a.scene_94">
+                <POSITION>1000.000000 0.000000 2400.000000</POSITION>
+                <DIRECTION>0.000000 -1.000000 0.000000</DIRECTION>
+                <UP>0.000000 0.000000 1.000000</UP>
+                <SCALE>1.000000 1.000000 1.000000</SCALE>
+            </COMMON>
+            <USER_PROPERTY>
+                <TOOL_LAYER>stair</TOOL_LAYER>
+            </USER_PROPERTY>
+            <PROPERTY>
+                <FILENAME>prop_stair_200_base_a.scene.xml</FILENAME>
+            </PROPERTY>
+            <SCENE />
+        </SCENEINSTANCE>
+        <SCENEINSTANCE>
+            <COMMON name="prop_stair_200_base_a.scene_95">
+                <POSITION>0.000000 200.000000 2400.000000</POSITION>
+                <DIRECTION>1.000000 0.000000 0.000000</DIRECTION>
+                <UP>-0.000000 0.000000 1.000000</UP>
+                <SCALE>1.000000 1.000000 1.000000</SCALE>
+            </COMMON>
+            <USER_PROPERTY>
+                <TOOL_LAYER>stair</TOOL_LAYER>
+            </USER_PROPERTY>
+            <PROPERTY>
+                <FILENAME>prop_stair_200_base_a.scene.xml</FILENAME>
+            </PROPERTY>
+            <SCENE />
+        </SCENEINSTANCE>
+        <SCENEINSTANCE>
+            <COMMON name="prop_stair_200_Corner.scene_24">
+                <POSITION>-400.000000 200.000000 1600.000000</POSITION>
+                <DIRECTION>0.000000 -1.000000 0.000000</DIRECTION>
+                <UP>0.000000 0.000000 1.000000</UP>
+                <SCALE>1.000000 1.000000 1.000000</SCALE>
+            </COMMON>
+            <USER_PROPERTY>
+                <TOOL_LAYER>stair</TOOL_LAYER>
+            </USER_PROPERTY>
+            <PROPERTY>
+                <FILENAME>prop_stair_200_Corner.scene.xml</FILENAME>
+            </PROPERTY>
+            <SCENE />
+        </SCENEINSTANCE>
+        <SCENEINSTANCE>
+            <COMMON name="prop_stair_200_base_a.scene_96">
+                <POSITION>-200.000000 200.000000 1600.000000</POSITION>
+                <DIRECTION>0.000000 1.000000 0.000000</DIRECTION>
+                <UP>0.000000 0.000000 1.000000</UP>
+                <SCALE>1.000000 1.000000 1.000000</SCALE>
+            </COMMON>
+            <USER_PROPERTY>
+                <TOOL_LAYER>stair</TOOL_LAYER>
+            </USER_PROPERTY>
+            <PROPERTY>
+                <FILENAME>prop_stair_200_base_a.scene.xml</FILENAME>
+            </PROPERTY>
+            <SCENE />
+        </SCENEINSTANCE>
+        <SCENEINSTANCE>
+            <COMMON name="prop_stair_200_base_a.scene_97">
+                <POSITION>1000.000000 200.000000 3200.000000</POSITION>
+                <DIRECTION>1.000000 0.000000 0.000000</DIRECTION>
+                <UP>-0.000000 0.000000 1.000000</UP>
+                <SCALE>1.000000 1.000000 1.000000</SCALE>
+            </COMMON>
+            <USER_PROPERTY>
+                <TOOL_LAYER>stair</TOOL_LAYER>
+            </USER_PROPERTY>
+            <PROPERTY>
+                <FILENAME>prop_stair_200_base_a.scene.xml</FILENAME>
+            </PROPERTY>
+            <SCENE />
+        </SCENEINSTANCE>
+        <SCENEINSTANCE>
+            <COMMON name="prop_stair_200X100_middle.scene_25">
+                <POSITION>-200.000000 0.000000 2400.000000</POSITION>
+                <DIRECTION>0.000000 1.000000 0.000000</DIRECTION>
+                <UP>0.000000 0.000000 1.000000</UP>
+                <SCALE>1.000000 1.000000 1.000000</SCALE>
+            </COMMON>
+            <USER_PROPERTY>
+                <TOOL_LAYER>stair</TOOL_LAYER>
+            </USER_PROPERTY>
+            <PROPERTY>
+                <FILENAME>prop_stair_200X100_middle.scene.xml</FILENAME>
+            </PROPERTY>
+            <SCENE />
+        </SCENEINSTANCE>
+        <SCENEINSTANCE>
+            <COMMON name="prop_stair_200_base_a.scene_98">
+                <POSITION>-200.000000 -600.000000 2800.000000</POSITION>
+                <DIRECTION>0.000000 1.000000 0.000000</DIRECTION>
+                <UP>0.000000 0.000000 1.000000</UP>
+                <SCALE>1.000000 1.000000 1.000000</SCALE>
+            </COMMON>
+            <USER_PROPERTY>
+                <TOOL_LAYER>stair</TOOL_LAYER>
+            </USER_PROPERTY>
+            <PROPERTY>
+                <FILENAME>prop_stair_200_base_a.scene.xml</FILENAME>
+            </PROPERTY>
+            <SCENE />
+        </SCENEINSTANCE>
+        <SCENEINSTANCE>
+            <COMMON name="prop_stair_200_Corner.scene_25">
+                <POSITION>-200.000000 -1600.000000 2800.000000</POSITION>
+                <DIRECTION>1.000000 -0.000000 0.000000</DIRECTION>
+                <UP>0.000000 0.000000 1.000000</UP>
+                <SCALE>1.000000 1.000000 1.000000</SCALE>
+            </COMMON>
+            <USER_PROPERTY>
+                <TOOL_LAYER>stair</TOOL_LAYER>
+            </USER_PROPERTY>
+            <PROPERTY>
+                <FILENAME>prop_stair_200_Corner.scene.xml</FILENAME>
+            </PROPERTY>
+            <SCENE />
+        </SCENEINSTANCE>
+        <SCENEINSTANCE>
+            <COMMON name="prop_stair_200X100_middle.scene_26">
+                <POSITION>-200.000000 -150.000000 2500.000000</POSITION>
+                <DIRECTION>0.000000 1.000000 0.000000</DIRECTION>
+                <UP>0.000000 0.000000 1.000000</UP>
+                <SCALE>1.000000 1.000000 1.000000</SCALE>
+            </COMMON>
+            <USER_PROPERTY>
+                <TOOL_LAYER>stair</TOOL_LAYER>
+            </USER_PROPERTY>
+            <PROPERTY>
+                <FILENAME>prop_stair_200X100_middle.scene.xml</FILENAME>
+            </PROPERTY>
+            <SCENE />
+        </SCENEINSTANCE>
+        <SCENEINSTANCE>
+            <COMMON name="prop_stair_200X100_middle.scene_27">
+                <POSITION>-200.000000 -300.000000 2600.000000</POSITION>
+                <DIRECTION>0.000000 1.000000 0.000000</DIRECTION>
+                <UP>0.000000 0.000000 1.000000</UP>
+                <SCALE>1.000000 1.000000 1.000000</SCALE>
+            </COMMON>
+            <USER_PROPERTY>
+                <TOOL_LAYER>stair</TOOL_LAYER>
+            </USER_PROPERTY>
+            <PROPERTY>
+                <FILENAME>prop_stair_200X100_middle.scene.xml</FILENAME>
+            </PROPERTY>
+            <SCENE />
+        </SCENEINSTANCE>
+        <SCENEINSTANCE>
+            <COMMON name="prop_stair_200X100_middle.scene_28">
+                <POSITION>-200.000000 -450.000000 2700.000000</POSITION>
+                <DIRECTION>0.000000 1.000000 0.000000</DIRECTION>
+                <UP>0.000000 0.000000 1.000000</UP>
+                <SCALE>1.000000 1.000000 1.000000</SCALE>
+            </COMMON>
+            <USER_PROPERTY>
+                <TOOL_LAYER>stair</TOOL_LAYER>
+            </USER_PROPERTY>
+            <PROPERTY>
+                <FILENAME>prop_stair_200X100_middle.scene.xml</FILENAME>
+            </PROPERTY>
+            <SCENE />
+        </SCENEINSTANCE>
+        <SCENEINSTANCE>
+            <COMMON name="prop_stair_200_base_a.scene_99">
+                <POSITION>0.000000 -1400.000000 2800.000000</POSITION>
+                <DIRECTION>-1.000000 -0.000000 0.000000</DIRECTION>
+                <UP>0.000000 0.000000 1.000000</UP>
+                <SCALE>1.000000 1.000000 1.000000</SCALE>
+            </COMMON>
+            <USER_PROPERTY>
+                <TOOL_LAYER>stair</TOOL_LAYER>
+            </USER_PROPERTY>
+            <PROPERTY>
+                <FILENAME>prop_stair_200_base_a.scene.xml</FILENAME>
+            </PROPERTY>
+            <SCENE />
+        </SCENEINSTANCE>
+        <SCENEINSTANCE>
+            <COMMON name="prop_stair_200_base_a.scene_100">
+                <POSITION>600.000000 -1400.000000 2800.000000</POSITION>
+                <DIRECTION>-1.000000 -0.000000 0.000000</DIRECTION>
+                <UP>0.000000 0.000000 1.000000</UP>
+                <SCALE>1.000000 1.000000 1.000000</SCALE>
+            </COMMON>
+            <USER_PROPERTY>
+                <TOOL_LAYER>stair</TOOL_LAYER>
+            </USER_PROPERTY>
+            <PROPERTY>
+                <FILENAME>prop_stair_200_base_a.scene.xml</FILENAME>
+            </PROPERTY>
+            <SCENE />
+        </SCENEINSTANCE>
+        <SCENEINSTANCE>
+            <COMMON name="prop_stair_200_base_a.scene_101">
+                <POSITION>400.000000 -1400.000000 2800.000000</POSITION>
+                <DIRECTION>-1.000000 -0.000000 0.000000</DIRECTION>
+                <UP>0.000000 0.000000 1.000000</UP>
+                <SCALE>1.000000 1.000000 1.000000</SCALE>
+            </COMMON>
+            <USER_PROPERTY>
+                <TOOL_LAYER>stair</TOOL_LAYER>
+            </USER_PROPERTY>
+            <PROPERTY>
+                <FILENAME>prop_stair_200_base_a.scene.xml</FILENAME>
+            </PROPERTY>
+            <SCENE />
+        </SCENEINSTANCE>
+        <SCENEINSTANCE>
+            <COMMON name="prop_stair_200_Corner.scene_26">
+                <POSITION>1200.000000 -1400.000000 2800.000000</POSITION>
+                <DIRECTION>0.000000 1.000000 0.000000</DIRECTION>
+                <UP>0.000000 0.000000 1.000000</UP>
+                <SCALE>1.000000 1.000000 1.000000</SCALE>
+            </COMMON>
+            <USER_PROPERTY>
+                <TOOL_LAYER>stair</TOOL_LAYER>
+            </USER_PROPERTY>
+            <PROPERTY>
+                <FILENAME>prop_stair_200_Corner.scene.xml</FILENAME>
+            </PROPERTY>
+            <SCENE />
+        </SCENEINSTANCE>
+        <SCENEINSTANCE>
+            <COMMON name="prop_stair_200X100_middle.scene_29">
+                <POSITION>1000.000000 -350.000000 3100.000000</POSITION>
+                <DIRECTION>0.000000 -1.000000 0.000000</DIRECTION>
+                <UP>0.000000 0.000000 1.000000</UP>
+                <SCALE>1.000000 1.000000 1.000000</SCALE>
+            </COMMON>
+            <USER_PROPERTY>
+                <TOOL_LAYER>stair</TOOL_LAYER>
+            </USER_PROPERTY>
+            <PROPERTY>
+                <FILENAME>prop_stair_200X100_middle.scene.xml</FILENAME>
+            </PROPERTY>
+            <SCENE />
+        </SCENEINSTANCE>
+        <SCENEINSTANCE>
+            <COMMON name="prop_stair_200X100_middle.scene_30">
+                <POSITION>1000.000000 -500.000000 3000.000000</POSITION>
+                <DIRECTION>0.000000 -1.000000 0.000000</DIRECTION>
+                <UP>0.000000 0.000000 1.000000</UP>
+                <SCALE>1.000000 1.000000 1.000000</SCALE>
+            </COMMON>
+            <USER_PROPERTY>
+                <TOOL_LAYER>stair</TOOL_LAYER>
+            </USER_PROPERTY>
+            <PROPERTY>
+                <FILENAME>prop_stair_200X100_middle.scene.xml</FILENAME>
+            </PROPERTY>
+            <SCENE />
+        </SCENEINSTANCE>
+        <SCENEINSTANCE>
+            <COMMON name="prop_stair_200X100_middle.scene_31">
+                <POSITION>1000.000000 -650.000000 2900.000000</POSITION>
+                <DIRECTION>0.000000 -1.000000 0.000000</DIRECTION>
+                <UP>0.000000 0.000000 1.000000</UP>
+                <SCALE>1.000000 1.000000 1.000000</SCALE>
+            </COMMON>
+            <USER_PROPERTY>
+                <TOOL_LAYER>stair</TOOL_LAYER>
+            </USER_PROPERTY>
+            <PROPERTY>
+                <FILENAME>prop_stair_200X100_middle.scene.xml</FILENAME>
+            </PROPERTY>
+            <SCENE />
+        </SCENEINSTANCE>
+        <SCENEINSTANCE>
+            <COMMON name="prop_stair_200X100_middle.scene_32">
+                <POSITION>1000.000000 -800.000000 2800.000000</POSITION>
+                <DIRECTION>0.000000 -1.000000 0.000000</DIRECTION>
+                <UP>0.000000 0.000000 1.000000</UP>
+                <SCALE>1.000000 1.000000 1.000000</SCALE>
+            </COMMON>
+            <USER_PROPERTY>
+                <TOOL_LAYER>stair</TOOL_LAYER>
+            </USER_PROPERTY>
+            <PROPERTY>
+                <FILENAME>prop_stair_200X100_middle.scene.xml</FILENAME>
+            </PROPERTY>
+            <SCENE />
+        </SCENEINSTANCE>
+        <SCENEINSTANCE>
+            <COMMON name="prop_stair_200_base_a.scene_102">
+                <POSITION>1000.000000 -200.000000 3200.000000</POSITION>
+                <DIRECTION>0.000000 -1.000000 0.000000</DIRECTION>
+                <UP>0.000000 0.000000 1.000000</UP>
+                <SCALE>1.000000 1.000000 1.000000</SCALE>
+            </COMMON>
+            <USER_PROPERTY>
+                <TOOL_LAYER>stair</TOOL_LAYER>
+            </USER_PROPERTY>
+            <PROPERTY>
+                <FILENAME>prop_stair_200_base_a.scene.xml</FILENAME>
+            </PROPERTY>
+            <SCENE />
+        </SCENEINSTANCE>
+        <SCENEINSTANCE>
+            <COMMON name="prop_stair_200_Corner.scene_27">
+                <POSITION>1000.000000 400.000000 3200.000000</POSITION>
+                <DIRECTION>-1.000000 -0.000000 0.000000</DIRECTION>
+                <UP>0.000000 0.000000 1.000000</UP>
+                <SCALE>1.000000 1.000000 1.000000</SCALE>
+            </COMMON>
+            <USER_PROPERTY>
+                <TOOL_LAYER>stair</TOOL_LAYER>
+            </USER_PROPERTY>
+            <PROPERTY>
+                <FILENAME>prop_stair_200_Corner.scene.xml</FILENAME>
+            </PROPERTY>
+            <SCENE />
+        </SCENEINSTANCE>
+        <SCENEINSTANCE>
+            <COMMON name="prop_stair_200_base_a.scene_103">
+                <POSITION>800.000000 200.000000 3200.000000</POSITION>
+                <DIRECTION>1.000000 0.000000 0.000000</DIRECTION>
+                <UP>-0.000000 0.000000 1.000000</UP>
+                <SCALE>1.000000 1.000000 1.000000</SCALE>
+            </COMMON>
+            <USER_PROPERTY>
+                <TOOL_LAYER>stair</TOOL_LAYER>
+            </USER_PROPERTY>
+            <PROPERTY>
+                <FILENAME>prop_stair_200_base_a.scene.xml</FILENAME>
+            </PROPERTY>
+            <SCENE />
+        </SCENEINSTANCE>
+        <SCENEINSTANCE>
+            <COMMON name="prop_stair_200_base_a.scene_104">
+                <POSITION>200.000000 -1400.000000 2800.000000</POSITION>
+                <DIRECTION>-1.000000 -0.000000 0.000000</DIRECTION>
+                <UP>0.000000 0.000000 1.000000</UP>
+                <SCALE>1.000000 1.000000 1.000000</SCALE>
+            </COMMON>
+            <USER_PROPERTY>
+                <TOOL_LAYER>stair</TOOL_LAYER>
+            </USER_PROPERTY>
+            <PROPERTY>
+                <FILENAME>prop_stair_200_base_a.scene.xml</FILENAME>
+            </PROPERTY>
+            <SCENE />
+        </SCENEINSTANCE>
+        <SCENEINSTANCE>
+            <COMMON name="prop_stair_200_base_a.scene_105">
+                <POSITION>600.000000 200.000000 3200.000000</POSITION>
+                <DIRECTION>1.000000 0.000000 0.000000</DIRECTION>
+                <UP>-0.000000 0.000000 1.000000</UP>
+                <SCALE>1.000000 1.000000 1.000000</SCALE>
+            </COMMON>
+            <USER_PROPERTY>
+                <TOOL_LAYER>stair</TOOL_LAYER>
+            </USER_PROPERTY>
+            <PROPERTY>
+                <FILENAME>prop_stair_200_base_a.scene.xml</FILENAME>
+            </PROPERTY>
+            <SCENE />
+        </SCENEINSTANCE>
+        <SCENEINSTANCE>
+            <COMMON name="prop_stair_200_base_a.scene_106">
+                <POSITION>400.000000 200.000000 3200.000000</POSITION>
+                <DIRECTION>1.000000 0.000000 0.000000</DIRECTION>
+                <UP>-0.000000 0.000000 1.000000</UP>
+                <SCALE>1.000000 1.000000 1.000000</SCALE>
+            </COMMON>
+            <USER_PROPERTY>
+                <TOOL_LAYER>stair</TOOL_LAYER>
+            </USER_PROPERTY>
+            <PROPERTY>
+                <FILENAME>prop_stair_200_base_a.scene.xml</FILENAME>
+            </PROPERTY>
+            <SCENE />
+        </SCENEINSTANCE>
+        <SCENEINSTANCE>
+            <COMMON name="prop_stair_200_base_a.scene_107">
+                <POSITION>200.000000 200.000000 3200.000000</POSITION>
+                <DIRECTION>1.000000 0.000000 0.000000</DIRECTION>
+                <UP>-0.000000 0.000000 1.000000</UP>
+                <SCALE>1.000000 1.000000 1.000000</SCALE>
+            </COMMON>
+            <USER_PROPERTY>
+                <TOOL_LAYER>stair</TOOL_LAYER>
+            </USER_PROPERTY>
+            <PROPERTY>
+                <FILENAME>prop_stair_200_base_a.scene.xml</FILENAME>
+            </PROPERTY>
+            <SCENE />
+        </SCENEINSTANCE>
+        <SCENEINSTANCE>
+            <COMMON name="prop_stair_200_base_a.scene_108">
+                <POSITION>-200.000000 -800.000000 2800.000000</POSITION>
+                <DIRECTION>0.000000 1.000000 0.000000</DIRECTION>
+                <UP>0.000000 0.000000 1.000000</UP>
+                <SCALE>1.000000 1.000000 1.000000</SCALE>
+            </COMMON>
+            <USER_PROPERTY>
+                <TOOL_LAYER>stair</TOOL_LAYER>
+            </USER_PROPERTY>
+            <PROPERTY>
+                <FILENAME>prop_stair_200_base_a.scene.xml</FILENAME>
+            </PROPERTY>
+            <SCENE />
+        </SCENEINSTANCE>
+        <SCENEINSTANCE>
+            <COMMON name="prop_stair_200_base_a.scene_109">
+                <POSITION>-200.000000 -1000.000000 2800.000000</POSITION>
+                <DIRECTION>0.000000 1.000000 0.000000</DIRECTION>
+                <UP>0.000000 0.000000 1.000000</UP>
+                <SCALE>1.000000 1.000000 1.000000</SCALE>
+            </COMMON>
+            <USER_PROPERTY>
+                <TOOL_LAYER>stair</TOOL_LAYER>
+            </USER_PROPERTY>
+            <PROPERTY>
+                <FILENAME>prop_stair_200_base_a.scene.xml</FILENAME>
+            </PROPERTY>
+            <SCENE />
+        </SCENEINSTANCE>
+        <SCENEINSTANCE>
+            <COMMON name="prop_stair_200_base_a.scene_110">
+                <POSITION>-200.000000 -1400.000000 2800.000000</POSITION>
+                <DIRECTION>-1.000000 -0.000000 0.000000</DIRECTION>
+                <UP>0.000000 0.000000 1.000000</UP>
+                <SCALE>1.000000 1.000000 1.000000</SCALE>
+            </COMMON>
+            <USER_PROPERTY>
+                <TOOL_LAYER>stair</TOOL_LAYER>
+            </USER_PROPERTY>
+            <PROPERTY>
+                <FILENAME>prop_stair_200_base_a.scene.xml</FILENAME>
+            </PROPERTY>
+            <SCENE />
+        </SCENEINSTANCE>
+        <SCENEINSTANCE>
+            <COMMON name="prop_stair_200_base_a.scene_111">
+                <POSITION>-200.000000 -1200.000000 2800.000000</POSITION>
+                <DIRECTION>0.000000 1.000000 0.000000</DIRECTION>
+                <UP>0.000000 0.000000 1.000000</UP>
+                <SCALE>1.000000 1.000000 1.000000</SCALE>
+            </COMMON>
+            <USER_PROPERTY>
+                <TOOL_LAYER>stair</TOOL_LAYER>
+            </USER_PROPERTY>
+            <PROPERTY>
+                <FILENAME>prop_stair_200_base_a.scene.xml</FILENAME>
+            </PROPERTY>
+            <SCENE />
+        </SCENEINSTANCE>
+        <SCENEINSTANCE>
+            <COMMON name="prop_stair_200_base_a.scene_112">
+                <POSITION>1200.000000 -1200.000000 2800.000000</POSITION>
+                <DIRECTION>0.000000 1.000000 0.000000</DIRECTION>
+                <UP>0.000000 0.000000 1.000000</UP>
+                <SCALE>1.000000 1.000000 1.000000</SCALE>
+            </COMMON>
+            <USER_PROPERTY>
+                <TOOL_LAYER>stair</TOOL_LAYER>
+            </USER_PROPERTY>
+            <PROPERTY>
+                <FILENAME>prop_stair_200_base_a.scene.xml</FILENAME>
+            </PROPERTY>
+            <SCENE />
+        </SCENEINSTANCE>
+        <SCENEINSTANCE>
+            <COMMON name="prop_stair_200_base_a.scene_113">
+                <POSITION>800.000000 -1400.000000 2800.000000</POSITION>
+                <DIRECTION>-1.000000 -0.000000 0.000000</DIRECTION>
+                <UP>0.000000 0.000000 1.000000</UP>
+                <SCALE>1.000000 1.000000 1.000000</SCALE>
+            </COMMON>
+            <USER_PROPERTY>
+                <TOOL_LAYER>stair</TOOL_LAYER>
+            </USER_PROPERTY>
+            <PROPERTY>
+                <FILENAME>prop_stair_200_base_a.scene.xml</FILENAME>
+            </PROPERTY>
+            <SCENE />
+        </SCENEINSTANCE>
+        <SCENEINSTANCE>
+            <COMMON name="prop_stair_200_base_a.scene_114">
+                <POSITION>1200.000000 -1000.000000 2800.000000</POSITION>
+                <DIRECTION>0.000000 1.000000 0.000000</DIRECTION>
+                <UP>0.000000 0.000000 1.000000</UP>
+                <SCALE>1.000000 1.000000 1.000000</SCALE>
+            </COMMON>
+            <USER_PROPERTY>
+                <TOOL_LAYER>stair</TOOL_LAYER>
+            </USER_PROPERTY>
+            <PROPERTY>
+                <FILENAME>prop_stair_200_base_a.scene.xml</FILENAME>
+            </PROPERTY>
+            <SCENE />
+        </SCENEINSTANCE>
+        <SCENEINSTANCE>
+            <COMMON name="prop_stair_200_base_a.scene_115">
+                <POSITION>1200.000000 -800.000000 2800.000000</POSITION>
+                <DIRECTION>0.000000 1.000000 0.000000</DIRECTION>
+                <UP>0.000000 0.000000 1.000000</UP>
+                <SCALE>1.000000 1.000000 1.000000</SCALE>
+            </COMMON>
+            <USER_PROPERTY>
+                <TOOL_LAYER>stair</TOOL_LAYER>
+            </USER_PROPERTY>
+            <PROPERTY>
+                <FILENAME>prop_stair_200_base_a.scene.xml</FILENAME>
+            </PROPERTY>
+            <SCENE />
+        </SCENEINSTANCE>
+        <SCENEINSTANCE>
+            <COMMON name="prop_stair_200_base_a.scene_116">
+                <POSITION>1000.000000 0.000000 3200.000000</POSITION>
+                <DIRECTION>0.000000 -1.000000 0.000000</DIRECTION>
+                <UP>0.000000 0.000000 1.000000</UP>
+                <SCALE>1.000000 1.000000 1.000000</SCALE>
+            </COMMON>
+            <USER_PROPERTY>
+                <TOOL_LAYER>stair</TOOL_LAYER>
+            </USER_PROPERTY>
+            <PROPERTY>
+                <FILENAME>prop_stair_200_base_a.scene.xml</FILENAME>
+            </PROPERTY>
+            <SCENE />
+        </SCENEINSTANCE>
+        <SCENEINSTANCE>
+            <COMMON name="prop_stair_200_base_a.scene_117">
+                <POSITION>0.000000 200.000000 3200.000000</POSITION>
+                <DIRECTION>1.000000 0.000000 0.000000</DIRECTION>
+                <UP>-0.000000 0.000000 1.000000</UP>
+                <SCALE>1.000000 1.000000 1.000000</SCALE>
+            </COMMON>
+            <USER_PROPERTY>
+                <TOOL_LAYER>stair</TOOL_LAYER>
+            </USER_PROPERTY>
+            <PROPERTY>
+                <FILENAME>prop_stair_200_base_a.scene.xml</FILENAME>
+            </PROPERTY>
+            <SCENE />
+        </SCENEINSTANCE>
+        <SCENEINSTANCE>
+            <COMMON name="prop_stair_200_Corner.scene_28">
+                <POSITION>-400.000000 200.000000 2400.000000</POSITION>
+                <DIRECTION>0.000000 -1.000000 0.000000</DIRECTION>
+                <UP>0.000000 0.000000 1.000000</UP>
+                <SCALE>1.000000 1.000000 1.000000</SCALE>
+            </COMMON>
+            <USER_PROPERTY>
+                <TOOL_LAYER>stair</TOOL_LAYER>
+            </USER_PROPERTY>
+            <PROPERTY>
+                <FILENAME>prop_stair_200_Corner.scene.xml</FILENAME>
+            </PROPERTY>
+            <SCENE />
+        </SCENEINSTANCE>
+        <SCENEINSTANCE>
+            <COMMON name="prop_stair_200_base_a.scene_118">
+                <POSITION>-200.000000 200.000000 2400.000000</POSITION>
+                <DIRECTION>0.000000 1.000000 0.000000</DIRECTION>
+                <UP>0.000000 0.000000 1.000000</UP>
+                <SCALE>1.000000 1.000000 1.000000</SCALE>
+            </COMMON>
+            <USER_PROPERTY>
+                <TOOL_LAYER>stair</TOOL_LAYER>
+            </USER_PROPERTY>
+            <PROPERTY>
+                <FILENAME>prop_stair_200_base_a.scene.xml</FILENAME>
+            </PROPERTY>
+            <SCENE />
+        </SCENEINSTANCE>
+        <SCENEINSTANCE>
+            <COMMON name="prop_frame_support_01.scene_001">
+                <POSITION>0.000000 -800.000000 400.000000</POSITION>
+                <DIRECTION>1.000000 -0.000000 0.000000</DIRECTION>
+                <UP>0.000000 0.000000 1.000000</UP>
+                <SCALE>1.000000 1.000000 1.000000</SCALE>
+            </COMMON>
+            <USER_PROPERTY>
+                <TOOL_LAYER>support</TOOL_LAYER>
+            </USER_PROPERTY>
+            <PROPERTY>
+                <FILENAME>prop_frame_support_01.scene.xml</FILENAME>
+            </PROPERTY>
+            <SCENE />
+        </SCENEINSTANCE>
+        <SCENEINSTANCE>
+            <COMMON name="prop_frame_support_01.scene_2">
+                <POSITION>0.000000 -1150.000000 400.000000</POSITION>
+                <DIRECTION>1.000000 -0.000000 0.000000</DIRECTION>
+                <UP>0.000000 0.000000 1.000000</UP>
+                <SCALE>1.000000 1.000000 1.000000</SCALE>
+            </COMMON>
+            <USER_PROPERTY>
+                <TOOL_LAYER>support</TOOL_LAYER>
+            </USER_PROPERTY>
+            <PROPERTY>
+                <FILENAME>prop_frame_support_01.scene.xml</FILENAME>
+            </PROPERTY>
+            <SCENE />
+        </SCENEINSTANCE>
+        <SCENEINSTANCE>
+            <COMMON name="prop_frame_support_02.scene_001">
+                <POSITION>20.000000 -1200.000000 400.000000</POSITION>
+                <DIRECTION>0.000000 1.000000 0.000000</DIRECTION>
+                <UP>0.000000 0.000000 1.000000</UP>
+                <SCALE>1.000000 1.000000 1.000000</SCALE>
+            </COMMON>
+            <USER_PROPERTY>
+                <TOOL_LAYER>support</TOOL_LAYER>
+            </USER_PROPERTY>
+            <PROPERTY>
+                <FILENAME>prop_frame_support_02.scene.xml</FILENAME>
+            </PROPERTY>
+            <SCENE />
+        </SCENEINSTANCE>
+        <SCENEINSTANCE>
+            <COMMON name="prop_frame_support_02.scene_2">
+                <POSITION>20.000000 -1200.000000 1200.000000</POSITION>
+                <DIRECTION>0.000000 1.000000 0.000000</DIRECTION>
+                <UP>0.000000 0.000000 1.000000</UP>
+                <SCALE>1.000000 1.000000 1.000000</SCALE>
+            </COMMON>
+            <USER_PROPERTY>
+                <TOOL_LAYER>support</TOOL_LAYER>
+            </USER_PROPERTY>
+            <PROPERTY>
+                <FILENAME>prop_frame_support_02.scene.xml</FILENAME>
+            </PROPERTY>
+            <SCENE />
+        </SCENEINSTANCE>
+        <SCENEINSTANCE>
+            <COMMON name="prop_frame_support_02.scene_5">
+                <POSITION>780.000000 -1200.000000 1200.000000</POSITION>
+                <DIRECTION>0.000000 1.000000 0.000000</DIRECTION>
+                <UP>0.000000 0.000000 1.000000</UP>
+                <SCALE>1.000000 1.000000 1.000000</SCALE>
+            </COMMON>
+            <USER_PROPERTY>
+                <TOOL_LAYER>support</TOOL_LAYER>
+            </USER_PROPERTY>
+            <PROPERTY>
+                <FILENAME>prop_frame_support_02.scene.xml</FILENAME>
+            </PROPERTY>
+            <SCENE />
+        </SCENEINSTANCE>
+        <SCENEINSTANCE>
+            <COMMON name="prop_frame_support_02.scene_6">
+                <POSITION>780.000000 -1200.000000 400.000000</POSITION>
+                <DIRECTION>0.000000 1.000000 0.000000</DIRECTION>
+                <UP>0.000000 0.000000 1.000000</UP>
+                <SCALE>1.000000 1.000000 1.000000</SCALE>
+            </COMMON>
+            <USER_PROPERTY>
+                <TOOL_LAYER>support</TOOL_LAYER>
+            </USER_PROPERTY>
+            <PROPERTY>
+                <FILENAME>prop_frame_support_02.scene.xml</FILENAME>
+            </PROPERTY>
+            <SCENE />
+        </SCENEINSTANCE>
+        <SCENEINSTANCE>
+            <COMMON name="prop_frame_support_02.scene_7">
+                <POSITION>20.000000 -1200.000000 2800.000000</POSITION>
+                <DIRECTION>0.000000 1.000000 0.000000</DIRECTION>
+                <UP>0.000000 0.000000 1.000000</UP>
+                <SCALE>1.000000 1.000000 1.000000</SCALE>
+            </COMMON>
+            <USER_PROPERTY>
+                <TOOL_LAYER>support</TOOL_LAYER>
+            </USER_PROPERTY>
+            <PROPERTY>
+                <FILENAME>prop_frame_support_02.scene.xml</FILENAME>
+            </PROPERTY>
+            <SCENE />
+        </SCENEINSTANCE>
+        <SCENEINSTANCE>
+            <COMMON name="prop_frame_support_02.scene_8">
+                <POSITION>20.000000 -1200.000000 2000.000000</POSITION>
+                <DIRECTION>0.000000 1.000000 0.000000</DIRECTION>
+                <UP>0.000000 0.000000 1.000000</UP>
+                <SCALE>1.000000 1.000000 1.000000</SCALE>
+            </COMMON>
+            <USER_PROPERTY>
+                <TOOL_LAYER>support</TOOL_LAYER>
+            </USER_PROPERTY>
+            <PROPERTY>
+                <FILENAME>prop_frame_support_02.scene.xml</FILENAME>
+            </PROPERTY>
+            <SCENE />
+        </SCENEINSTANCE>
+        <SCENEINSTANCE>
+            <COMMON name="prop_frame_support_02.scene_9">
+                <POSITION>780.000000 -1200.000000 2800.000000</POSITION>
+                <DIRECTION>0.000000 1.000000 0.000000</DIRECTION>
+                <UP>0.000000 0.000000 1.000000</UP>
+                <SCALE>1.000000 1.000000 1.000000</SCALE>
+            </COMMON>
+            <USER_PROPERTY>
+                <TOOL_LAYER>support</TOOL_LAYER>
+            </USER_PROPERTY>
+            <PROPERTY>
+                <FILENAME>prop_frame_support_02.scene.xml</FILENAME>
+            </PROPERTY>
+            <SCENE />
+        </SCENEINSTANCE>
+        <SCENEINSTANCE>
+            <COMMON name="prop_frame_support_02.scene_10">
+                <POSITION>780.000000 -1200.000000 2000.000000</POSITION>
+                <DIRECTION>0.000000 1.000000 0.000000</DIRECTION>
+                <UP>0.000000 0.000000 1.000000</UP>
+                <SCALE>1.000000 1.000000 1.000000</SCALE>
+            </COMMON>
+            <USER_PROPERTY>
+                <TOOL_LAYER>support</TOOL_LAYER>
+            </USER_PROPERTY>
+            <PROPERTY>
+                <FILENAME>prop_frame_support_02.scene.xml</FILENAME>
+            </PROPERTY>
+            <SCENE />
+        </SCENEINSTANCE>
+        <SCENEINSTANCE>
+            <COMMON name="prop_frame_support_02.scene_11">
+                <POSITION>780.000000 0.000000 3200.000000</POSITION>
+                <DIRECTION>0.000000 -1.000000 0.000000</DIRECTION>
+                <UP>0.000000 0.000000 1.000000</UP>
+                <SCALE>1.000000 1.000000 1.000000</SCALE>
+            </COMMON>
+            <USER_PROPERTY>
+                <TOOL_LAYER>support</TOOL_LAYER>
+            </USER_PROPERTY>
+            <PROPERTY>
+                <FILENAME>prop_frame_support_02.scene.xml</FILENAME>
+            </PROPERTY>
+            <SCENE />
+        </SCENEINSTANCE>
+        <SCENEINSTANCE>
+            <COMMON name="prop_frame_support_02.scene_12">
+                <POSITION>780.000000 0.000000 2400.000000</POSITION>
+                <DIRECTION>0.000000 -1.000000 0.000000</DIRECTION>
+                <UP>0.000000 0.000000 1.000000</UP>
+                <SCALE>1.000000 1.000000 1.000000</SCALE>
+            </COMMON>
+            <USER_PROPERTY>
+                <TOOL_LAYER>support</TOOL_LAYER>
+            </USER_PROPERTY>
+            <PROPERTY>
+                <FILENAME>prop_frame_support_02.scene.xml</FILENAME>
+            </PROPERTY>
+            <SCENE />
+        </SCENEINSTANCE>
+        <SCENEINSTANCE>
+            <COMMON name="prop_frame_support_02.scene_13">
+                <POSITION>20.000000 0.000000 3200.000000</POSITION>
+                <DIRECTION>0.000000 -1.000000 0.000000</DIRECTION>
+                <UP>0.000000 0.000000 1.000000</UP>
+                <SCALE>1.000000 1.000000 1.000000</SCALE>
+            </COMMON>
+            <USER_PROPERTY>
+                <TOOL_LAYER>support</TOOL_LAYER>
+            </USER_PROPERTY>
+            <PROPERTY>
+                <FILENAME>prop_frame_support_02.scene.xml</FILENAME>
+            </PROPERTY>
+            <SCENE />
+        </SCENEINSTANCE>
+        <SCENEINSTANCE>
+            <COMMON name="prop_frame_support_02.scene_14">
+                <POSITION>20.000000 0.000000 2400.000000</POSITION>
+                <DIRECTION>0.000000 -1.000000 0.000000</DIRECTION>
+                <UP>0.000000 0.000000 1.000000</UP>
+                <SCALE>1.000000 1.000000 1.000000</SCALE>
+            </COMMON>
+            <USER_PROPERTY>
+                <TOOL_LAYER>support</TOOL_LAYER>
+            </USER_PROPERTY>
+            <PROPERTY>
+                <FILENAME>prop_frame_support_02.scene.xml</FILENAME>
+            </PROPERTY>
+            <SCENE />
+        </SCENEINSTANCE>
+        <SCENEINSTANCE>
+            <COMMON name="prop_frame_support_02.scene_15">
+                <POSITION>780.000000 0.000000 1600.000000</POSITION>
+                <DIRECTION>0.000000 -1.000000 0.000000</DIRECTION>
+                <UP>0.000000 0.000000 1.000000</UP>
+                <SCALE>1.000000 1.000000 1.000000</SCALE>
+            </COMMON>
+            <USER_PROPERTY>
+                <TOOL_LAYER>support</TOOL_LAYER>
+            </USER_PROPERTY>
+            <PROPERTY>
+                <FILENAME>prop_frame_support_02.scene.xml</FILENAME>
+            </PROPERTY>
+            <SCENE />
+        </SCENEINSTANCE>
+        <SCENEINSTANCE>
+            <COMMON name="prop_frame_support_02.scene_16">
+                <POSITION>20.000000 0.000000 1600.000000</POSITION>
+                <DIRECTION>0.000000 -1.000000 0.000000</DIRECTION>
+                <UP>0.000000 0.000000 1.000000</UP>
+                <SCALE>1.000000 1.000000 1.000000</SCALE>
+            </COMMON>
+            <USER_PROPERTY>
+                <TOOL_LAYER>support</TOOL_LAYER>
+            </USER_PROPERTY>
+            <PROPERTY>
+                <FILENAME>prop_frame_support_02.scene.xml</FILENAME>
+            </PROPERTY>
+            <SCENE />
+        </SCENEINSTANCE>
+        <SCENEINSTANCE>
+            <COMMON name="prop_frame_support_02.scene_17">
+                <POSITION>780.000000 0.000000 800.000000</POSITION>
+                <DIRECTION>0.000000 -1.000000 0.000000</DIRECTION>
+                <UP>0.000000 0.000000 1.000000</UP>
+                <SCALE>1.000000 1.000000 1.000000</SCALE>
+            </COMMON>
+            <USER_PROPERTY>
+                <TOOL_LAYER>support</TOOL_LAYER>
+            </USER_PROPERTY>
+            <PROPERTY>
+                <FILENAME>prop_frame_support_02.scene.xml</FILENAME>
+            </PROPERTY>
+            <SCENE />
+        </SCENEINSTANCE>
+        <SCENEINSTANCE>
+            <COMMON name="prop_frame_support_02.scene_18">
+                <POSITION>20.000000 0.000000 800.000000</POSITION>
+                <DIRECTION>0.000000 -1.000000 0.000000</DIRECTION>
+                <UP>0.000000 0.000000 1.000000</UP>
+                <SCALE>1.000000 1.000000 1.000000</SCALE>
+            </COMMON>
+            <USER_PROPERTY>
+                <TOOL_LAYER>support</TOOL_LAYER>
+            </USER_PROPERTY>
+            <PROPERTY>
+                <FILENAME>prop_frame_support_02.scene.xml</FILENAME>
+            </PROPERTY>
+            <SCENE />
+        </SCENEINSTANCE>
+        <SCENEINSTANCE>
+            <COMMON name="prop_frame_support_02.scene_19">
+                <POSITION>10.000000 -1160.000000 2800.000000</POSITION>
+                <DIRECTION>1.000000 0.000000 0.000000</DIRECTION>
+                <UP>-0.000000 0.000000 1.000000</UP>
+                <SCALE>1.000000 1.000000 1.000000</SCALE>
+            </COMMON>
+            <USER_PROPERTY>
+                <TOOL_LAYER>support</TOOL_LAYER>
+            </USER_PROPERTY>
+            <PROPERTY>
+                <FILENAME>prop_frame_support_02.scene.xml</FILENAME>
+            </PROPERTY>
+            <SCENE />
+        </SCENEINSTANCE>
+        <SCENEINSTANCE>
+            <COMMON name="prop_frame_support_02.scene_20">
+                <POSITION>10.000000 -40.000000 2400.000000</POSITION>
+                <DIRECTION>1.000000 0.000000 0.000000</DIRECTION>
+                <UP>-0.000000 0.000000 1.000000</UP>
+                <SCALE>1.000000 1.000000 1.000000</SCALE>
+            </COMMON>
+            <USER_PROPERTY>
+                <TOOL_LAYER>support</TOOL_LAYER>
+            </USER_PROPERTY>
+            <PROPERTY>
+                <FILENAME>prop_frame_support_02.scene.xml</FILENAME>
+            </PROPERTY>
+            <SCENE />
+        </SCENEINSTANCE>
+        <SCENEINSTANCE>
+            <COMMON name="prop_frame_support_02.scene_21">
+                <POSITION>10.000000 -40.000000 3200.000000</POSITION>
+                <DIRECTION>1.000000 0.000000 0.000000</DIRECTION>
+                <UP>-0.000000 0.000000 1.000000</UP>
+                <SCALE>1.000000 1.000000 1.000000</SCALE>
+            </COMMON>
+            <USER_PROPERTY>
+                <TOOL_LAYER>support</TOOL_LAYER>
+            </USER_PROPERTY>
+            <PROPERTY>
+                <FILENAME>prop_frame_support_02.scene.xml</FILENAME>
+            </PROPERTY>
+            <SCENE />
+        </SCENEINSTANCE>
+        <SCENEINSTANCE>
+            <COMMON name="prop_frame_support_02.scene_22">
+                <POSITION>10.000000 -1160.000000 2000.000000</POSITION>
+                <DIRECTION>1.000000 0.000000 0.000000</DIRECTION>
+                <UP>-0.000000 0.000000 1.000000</UP>
+                <SCALE>1.000000 1.000000 1.000000</SCALE>
+            </COMMON>
+            <USER_PROPERTY>
+                <TOOL_LAYER>support</TOOL_LAYER>
+            </USER_PROPERTY>
+            <PROPERTY>
+                <FILENAME>prop_frame_support_02.scene.xml</FILENAME>
+            </PROPERTY>
+            <SCENE />
+        </SCENEINSTANCE>
+        <SCENEINSTANCE>
+            <COMMON name="prop_frame_support_02.scene_23">
+                <POSITION>10.000000 -40.000000 1600.000000</POSITION>
+                <DIRECTION>1.000000 0.000000 0.000000</DIRECTION>
+                <UP>-0.000000 0.000000 1.000000</UP>
+                <SCALE>1.000000 1.000000 1.000000</SCALE>
+            </COMMON>
+            <USER_PROPERTY>
+                <TOOL_LAYER>support</TOOL_LAYER>
+            </USER_PROPERTY>
+            <PROPERTY>
+                <FILENAME>prop_frame_support_02.scene.xml</FILENAME>
+            </PROPERTY>
+            <SCENE />
+        </SCENEINSTANCE>
+        <SCENEINSTANCE>
+            <COMMON name="prop_frame_support_02.scene_24">
+                <POSITION>10.000000 -1160.000000 1200.000000</POSITION>
+                <DIRECTION>1.000000 0.000000 0.000000</DIRECTION>
+                <UP>-0.000000 0.000000 1.000000</UP>
+                <SCALE>1.000000 1.000000 1.000000</SCALE>
+            </COMMON>
+            <USER_PROPERTY>
+                <TOOL_LAYER>support</TOOL_LAYER>
+            </USER_PROPERTY>
+            <PROPERTY>
+                <FILENAME>prop_frame_support_02.scene.xml</FILENAME>
+            </PROPERTY>
+            <SCENE />
+        </SCENEINSTANCE>
+        <SCENEINSTANCE>
+            <COMMON name="prop_frame_support_02.scene_25">
+                <POSITION>10.000000 -40.000000 800.000000</POSITION>
+                <DIRECTION>1.000000 0.000000 0.000000</DIRECTION>
+                <UP>-0.000000 0.000000 1.000000</UP>
+                <SCALE>1.000000 1.000000 1.000000</SCALE>
+            </COMMON>
+            <USER_PROPERTY>
+                <TOOL_LAYER>support</TOOL_LAYER>
+            </USER_PROPERTY>
+            <PROPERTY>
+                <FILENAME>prop_frame_support_02.scene.xml</FILENAME>
+            </PROPERTY>
+            <SCENE />
+        </SCENEINSTANCE>
+        <SCENEINSTANCE>
+            <COMMON name="prop_frame_support_02.scene_26">
+                <POSITION>10.000000 -1160.000000 400.000000</POSITION>
+                <DIRECTION>1.000000 0.000000 0.000000</DIRECTION>
+                <UP>-0.000000 0.000000 1.000000</UP>
+                <SCALE>1.000000 1.000000 1.000000</SCALE>
+            </COMMON>
+            <USER_PROPERTY>
+                <TOOL_LAYER>support</TOOL_LAYER>
+            </USER_PROPERTY>
+            <PROPERTY>
+                <FILENAME>prop_frame_support_02.scene.xml</FILENAME>
+            </PROPERTY>
+            <SCENE />
+        </SCENEINSTANCE>
+        <SCENEINSTANCE>
+            <COMMON name="prop_frame_support_02.scene_27">
+                <POSITION>790.000000 -1160.000000 2800.000000</POSITION>
+                <DIRECTION>-1.000000 -0.000000 0.000000</DIRECTION>
+                <UP>0.000000 0.000000 1.000000</UP>
+                <SCALE>1.000000 1.000000 1.000000</SCALE>
+            </COMMON>
+            <USER_PROPERTY>
+                <TOOL_LAYER>support</TOOL_LAYER>
+            </USER_PROPERTY>
+            <PROPERTY>
+                <FILENAME>prop_frame_support_02.scene.xml</FILENAME>
+            </PROPERTY>
+            <SCENE />
+        </SCENEINSTANCE>
+        <SCENEINSTANCE>
+            <COMMON name="prop_frame_support_02.scene_28">
+                <POSITION>790.000000 -40.000000 3200.000000</POSITION>
+                <DIRECTION>-1.000000 -0.000000 0.000000</DIRECTION>
+                <UP>0.000000 0.000000 1.000000</UP>
+                <SCALE>1.000000 1.000000 1.000000</SCALE>
+            </COMMON>
+            <USER_PROPERTY>
+                <TOOL_LAYER>support</TOOL_LAYER>
+            </USER_PROPERTY>
+            <PROPERTY>
+                <FILENAME>prop_frame_support_02.scene.xml</FILENAME>
+            </PROPERTY>
+            <SCENE />
+        </SCENEINSTANCE>
+        <SCENEINSTANCE>
+            <COMMON name="prop_frame_support_02.scene_29">
+                <POSITION>790.000000 -1160.000000 2000.000000</POSITION>
+                <DIRECTION>-1.000000 -0.000000 0.000000</DIRECTION>
+                <UP>0.000000 0.000000 1.000000</UP>
+                <SCALE>1.000000 1.000000 1.000000</SCALE>
+            </COMMON>
+            <USER_PROPERTY>
+                <TOOL_LAYER>support</TOOL_LAYER>
+            </USER_PROPERTY>
+            <PROPERTY>
+                <FILENAME>prop_frame_support_02.scene.xml</FILENAME>
+            </PROPERTY>
+            <SCENE />
+        </SCENEINSTANCE>
+        <SCENEINSTANCE>
+            <COMMON name="prop_frame_support_02.scene_30">
+                <POSITION>790.000000 -40.000000 2400.000000</POSITION>
+                <DIRECTION>-1.000000 -0.000000 0.000000</DIRECTION>
+                <UP>0.000000 0.000000 1.000000</UP>
+                <SCALE>1.000000 1.000000 1.000000</SCALE>
+            </COMMON>
+            <USER_PROPERTY>
+                <TOOL_LAYER>support</TOOL_LAYER>
+            </USER_PROPERTY>
+            <PROPERTY>
+                <FILENAME>prop_frame_support_02.scene.xml</FILENAME>
+            </PROPERTY>
+            <SCENE />
+        </SCENEINSTANCE>
+        <SCENEINSTANCE>
+            <COMMON name="prop_frame_support_02.scene_31">
+                <POSITION>790.000000 -40.000000 1600.000000</POSITION>
+                <DIRECTION>-1.000000 -0.000000 0.000000</DIRECTION>
+                <UP>0.000000 0.000000 1.000000</UP>
+                <SCALE>1.000000 1.000000 1.000000</SCALE>
+            </COMMON>
+            <USER_PROPERTY>
+                <TOOL_LAYER>support</TOOL_LAYER>
+            </USER_PROPERTY>
+            <PROPERTY>
+                <FILENAME>prop_frame_support_02.scene.xml</FILENAME>
+            </PROPERTY>
+            <SCENE />
+        </SCENEINSTANCE>
+        <SCENEINSTANCE>
+            <COMMON name="prop_frame_support_02.scene_32">
+                <POSITION>790.000000 -1160.000000 1200.000000</POSITION>
+                <DIRECTION>-1.000000 -0.000000 0.000000</DIRECTION>
+                <UP>0.000000 0.000000 1.000000</UP>
+                <SCALE>1.000000 1.000000 1.000000</SCALE>
+            </COMMON>
+            <USER_PROPERTY>
+                <TOOL_LAYER>support</TOOL_LAYER>
+            </USER_PROPERTY>
+            <PROPERTY>
+                <FILENAME>prop_frame_support_02.scene.xml</FILENAME>
+            </PROPERTY>
+            <SCENE />
+        </SCENEINSTANCE>
+        <SCENEINSTANCE>
+            <COMMON name="prop_frame_support_02.scene_33">
+                <POSITION>790.000000 -1160.000000 400.000000</POSITION>
+                <DIRECTION>-1.000000 -0.000000 0.000000</DIRECTION>
+                <UP>0.000000 0.000000 1.000000</UP>
+                <SCALE>1.000000 1.000000 1.000000</SCALE>
+            </COMMON>
+            <USER_PROPERTY>
+                <TOOL_LAYER>support</TOOL_LAYER>
+            </USER_PROPERTY>
+            <PROPERTY>
+                <FILENAME>prop_frame_support_02.scene.xml</FILENAME>
+            </PROPERTY>
+            <SCENE />
+        </SCENEINSTANCE>
+        <SCENEINSTANCE>
+            <COMMON name="prop_frame_support_02.scene_34">
+                <POSITION>790.000000 -40.000000 800.000000</POSITION>
+                <DIRECTION>-1.000000 -0.000000 0.000000</DIRECTION>
+                <UP>0.000000 0.000000 1.000000</UP>
+                <SCALE>1.000000 1.000000 1.000000</SCALE>
+            </COMMON>
+            <USER_PROPERTY>
+                <TOOL_LAYER>support</TOOL_LAYER>
+            </USER_PROPERTY>
+            <PROPERTY>
+                <FILENAME>prop_frame_support_02.scene.xml</FILENAME>
+            </PROPERTY>
+            <SCENE />
+        </SCENEINSTANCE>
+        <SCENEINSTANCE>
+            <COMMON name="prop_frame_800x800_elevator_a.scene_001">
+                <POSITION>0.000000 0.000000 0.000000</POSITION>
+                <DIRECTION>0.000000 1.000000 0.000000</DIRECTION>
+                <UP>0.000000 0.000000 1.000000</UP>
+                <SCALE>1.000000 1.000000 1.000000</SCALE>
+            </COMMON>
+            <PROPERTY>
+                <FILENAME>prop_frame_800x800_elevator_a.scene.xml</FILENAME>
+            </PROPERTY>
+            <SCENE />
+        </SCENEINSTANCE>
+        <SCENEINSTANCE>
+            <COMMON name="prop_frame_800x800_elevator_a.scene_2">
+                <POSITION>0.000000 0.000000 800.000000</POSITION>
+                <DIRECTION>0.000000 1.000000 0.000000</DIRECTION>
+                <UP>0.000000 0.000000 1.000000</UP>
+                <SCALE>1.000000 1.000000 1.000000</SCALE>
+            </COMMON>
+            <PROPERTY>
+                <FILENAME>prop_frame_800x800_elevator_a.scene.xml</FILENAME>
+            </PROPERTY>
+            <SCENE />
+        </SCENEINSTANCE>
+        <SCENEINSTANCE>
+            <COMMON name="prop_frame_800x800_elevator_a.scene_3">
+                <POSITION>0.000000 0.000000 2400.000000</POSITION>
+                <DIRECTION>0.000000 1.000000 0.000000</DIRECTION>
+                <UP>0.000000 0.000000 1.000000</UP>
+                <SCALE>1.000000 1.000000 1.000000</SCALE>
+            </COMMON>
+            <PROPERTY>
+                <FILENAME>prop_frame_800x800_elevator_a.scene.xml</FILENAME>
+            </PROPERTY>
+            <SCENE />
+        </SCENEINSTANCE>
+        <SCENEINSTANCE>
+            <COMMON name="prop_frame_800x800_elevator_a.scene_4">
+                <POSITION>0.000000 0.000000 1600.000000</POSITION>
+                <DIRECTION>0.000000 1.000000 0.000000</DIRECTION>
+                <UP>0.000000 0.000000 1.000000</UP>
+                <SCALE>1.000000 1.000000 1.000000</SCALE>
+            </COMMON>
+            <PROPERTY>
+                <FILENAME>prop_frame_800x800_elevator_a.scene.xml</FILENAME>
+            </PROPERTY>
+            <SCENE />
+        </SCENEINSTANCE>
+        <SCENEINSTANCE>
+            <COMMON name="prop_h_beam_100X800_02.scene_001">
+                <POSITION>-50.000000 50.000000 0.000000</POSITION>
+                <DIRECTION>-1.000000 -0.000000 0.000000</DIRECTION>
+                <UP>0.000000 0.000000 1.000000</UP>
+                <SCALE>1.000000 1.000000 1.000000</SCALE>
+            </COMMON>
+            <PROPERTY>
+                <FILENAME>prop_h_beam_100X800_02.scene.xml</FILENAME>
+            </PROPERTY>
+            <SCENE />
+        </SCENEINSTANCE>
+        <SCENEINSTANCE>
+            <COMMON name="prop_h_beam_100X800_02.scene_2">
+                <POSITION>-50.000000 50.000000 800.000000</POSITION>
+                <DIRECTION>-1.000000 -0.000000 0.000000</DIRECTION>
+                <UP>0.000000 0.000000 1.000000</UP>
+                <SCALE>1.000000 1.000000 1.000000</SCALE>
+            </COMMON>
+            <PROPERTY>
+                <FILENAME>prop_h_beam_100X800_02.scene.xml</FILENAME>
+            </PROPERTY>
+            <SCENE />
+        </SCENEINSTANCE>
+        <SCENEINSTANCE>
+            <COMMON name="prop_h_beam_100X800_02.scene_3">
+                <POSITION>-50.000000 50.000000 2400.000000</POSITION>
+                <DIRECTION>-1.000000 -0.000000 0.000000</DIRECTION>
+                <UP>0.000000 0.000000 1.000000</UP>
+                <SCALE>1.000000 1.000000 1.000000</SCALE>
+            </COMMON>
+            <PROPERTY>
+                <FILENAME>prop_h_beam_100X800_02.scene.xml</FILENAME>
+            </PROPERTY>
+            <SCENE />
+        </SCENEINSTANCE>
+        <SCENEINSTANCE>
+            <COMMON name="prop_h_beam_100X800_02.scene_4">
+                <POSITION>-50.000000 50.000000 1600.000000</POSITION>
+                <DIRECTION>-1.000000 -0.000000 0.000000</DIRECTION>
+                <UP>0.000000 0.000000 1.000000</UP>
+                <SCALE>1.000000 1.000000 1.000000</SCALE>
+            </COMMON>
+            <PROPERTY>
+                <FILENAME>prop_h_beam_100X800_02.scene.xml</FILENAME>
+            </PROPERTY>
+            <SCENE />
+        </SCENEINSTANCE>
+        <SCENEINSTANCE>
+            <COMMON name="prop_h_beam_100X800_02.scene_5">
+                <POSITION>850.000000 50.000000 2400.000000</POSITION>
+                <DIRECTION>-1.000000 -0.000000 0.000000</DIRECTION>
+                <UP>0.000000 0.000000 1.000000</UP>
+                <SCALE>1.000000 1.000000 1.000000</SCALE>
+            </COMMON>
+            <PROPERTY>
+                <FILENAME>prop_h_beam_100X800_02.scene.xml</FILENAME>
+            </PROPERTY>
+            <SCENE />
+        </SCENEINSTANCE>
+        <SCENEINSTANCE>
+            <COMMON name="prop_h_beam_100X800_02.scene_6">
+                <POSITION>850.000000 50.000000 1600.000000</POSITION>
+                <DIRECTION>-1.000000 -0.000000 0.000000</DIRECTION>
+                <UP>0.000000 0.000000 1.000000</UP>
+                <SCALE>1.000000 1.000000 1.000000</SCALE>
+            </COMMON>
+            <PROPERTY>
+                <FILENAME>prop_h_beam_100X800_02.scene.xml</FILENAME>
+            </PROPERTY>
+            <SCENE />
+        </SCENEINSTANCE>
+        <SCENEINSTANCE>
+            <COMMON name="prop_h_beam_100X800_02.scene_7">
+                <POSITION>850.000000 50.000000 800.000000</POSITION>
+                <DIRECTION>-1.000000 -0.000000 0.000000</DIRECTION>
+                <UP>0.000000 0.000000 1.000000</UP>
+                <SCALE>1.000000 1.000000 1.000000</SCALE>
+            </COMMON>
+            <PROPERTY>
+                <FILENAME>prop_h_beam_100X800_02.scene.xml</FILENAME>
+            </PROPERTY>
+            <SCENE />
+        </SCENEINSTANCE>
+        <SCENEINSTANCE>
+            <COMMON name="prop_h_beam_100X800_02.scene_8">
+                <POSITION>850.000000 50.000000 0.000000</POSITION>
+                <DIRECTION>-1.000000 -0.000000 0.000000</DIRECTION>
+                <UP>0.000000 0.000000 1.000000</UP>
+                <SCALE>1.000000 1.000000 1.000000</SCALE>
+            </COMMON>
+            <PROPERTY>
+                <FILENAME>prop_h_beam_100X800_02.scene.xml</FILENAME>
+            </PROPERTY>
+            <SCENE />
+        </SCENEINSTANCE>
+        <SCENEINSTANCE>
+            <COMMON name="prop_h_beam_100X800_02.scene_9">
+                <POSITION>850.000000 -1250.000000 2400.000000</POSITION>
+                <DIRECTION>-1.000000 -0.000000 0.000000</DIRECTION>
+                <UP>0.000000 0.000000 1.000000</UP>
+                <SCALE>1.000000 1.000000 1.000000</SCALE>
+            </COMMON>
+            <PROPERTY>
+                <FILENAME>prop_h_beam_100X800_02.scene.xml</FILENAME>
+            </PROPERTY>
+            <SCENE />
+        </SCENEINSTANCE>
+        <SCENEINSTANCE>
+            <COMMON name="prop_h_beam_100X800_02.scene_10">
+                <POSITION>850.000000 -1250.000000 1600.000000</POSITION>
+                <DIRECTION>-1.000000 -0.000000 0.000000</DIRECTION>
+                <UP>0.000000 0.000000 1.000000</UP>
+                <SCALE>1.000000 1.000000 1.000000</SCALE>
+            </COMMON>
+            <PROPERTY>
+                <FILENAME>prop_h_beam_100X800_02.scene.xml</FILENAME>
+            </PROPERTY>
+            <SCENE />
+        </SCENEINSTANCE>
+        <SCENEINSTANCE>
+            <COMMON name="prop_h_beam_100X800_02.scene_11">
+                <POSITION>850.000000 -1250.000000 800.000000</POSITION>
+                <DIRECTION>-1.000000 -0.000000 0.000000</DIRECTION>
+                <UP>0.000000 0.000000 1.000000</UP>
+                <SCALE>1.000000 1.000000 1.000000</SCALE>
+            </COMMON>
+            <PROPERTY>
+                <FILENAME>prop_h_beam_100X800_02.scene.xml</FILENAME>
+            </PROPERTY>
+            <SCENE />
+        </SCENEINSTANCE>
+        <SCENEINSTANCE>
+            <COMMON name="prop_h_beam_100X800_02.scene_12">
+                <POSITION>850.000000 -1250.000000 0.000000</POSITION>
+                <DIRECTION>-1.000000 -0.000000 0.000000</DIRECTION>
+                <UP>0.000000 0.000000 1.000000</UP>
+                <SCALE>1.000000 1.000000 1.000000</SCALE>
+            </COMMON>
+            <PROPERTY>
+                <FILENAME>prop_h_beam_100X800_02.scene.xml</FILENAME>
+            </PROPERTY>
+            <SCENE />
+        </SCENEINSTANCE>
+        <SCENEINSTANCE>
+            <COMMON name="prop_h_beam_100X800_02.scene_13">
+                <POSITION>-50.000000 -1250.000000 2400.000000</POSITION>
+                <DIRECTION>-1.000000 -0.000000 0.000000</DIRECTION>
+                <UP>0.000000 0.000000 1.000000</UP>
+                <SCALE>1.000000 1.000000 1.000000</SCALE>
+            </COMMON>
+            <PROPERTY>
+                <FILENAME>prop_h_beam_100X800_02.scene.xml</FILENAME>
+            </PROPERTY>
+            <SCENE />
+        </SCENEINSTANCE>
+        <SCENEINSTANCE>
+            <COMMON name="prop_h_beam_100X800_02.scene_14">
+                <POSITION>-50.000000 -1250.000000 1600.000000</POSITION>
+                <DIRECTION>-1.000000 -0.000000 0.000000</DIRECTION>
+                <UP>0.000000 0.000000 1.000000</UP>
+                <SCALE>1.000000 1.000000 1.000000</SCALE>
+            </COMMON>
+            <PROPERTY>
+                <FILENAME>prop_h_beam_100X800_02.scene.xml</FILENAME>
+            </PROPERTY>
+            <SCENE />
+        </SCENEINSTANCE>
+        <SCENEINSTANCE>
+            <COMMON name="prop_h_beam_100X800_02.scene_15">
+                <POSITION>-50.000000 -1250.000000 800.000000</POSITION>
+                <DIRECTION>-1.000000 -0.000000 0.000000</DIRECTION>
+                <UP>0.000000 0.000000 1.000000</UP>
+                <SCALE>1.000000 1.000000 1.000000</SCALE>
+            </COMMON>
+            <PROPERTY>
+                <FILENAME>prop_h_beam_100X800_02.scene.xml</FILENAME>
+            </PROPERTY>
+            <SCENE />
+        </SCENEINSTANCE>
+        <SCENEINSTANCE>
+            <COMMON name="prop_h_beam_100X800_02.scene_16">
+                <POSITION>-50.000000 -1250.000000 0.000000</POSITION>
+                <DIRECTION>-1.000000 -0.000000 0.000000</DIRECTION>
+                <UP>0.000000 0.000000 1.000000</UP>
+                <SCALE>1.000000 1.000000 1.000000</SCALE>
+            </COMMON>
+            <PROPERTY>
+                <FILENAME>prop_h_beam_100X800_02.scene.xml</FILENAME>
+            </PROPERTY>
+            <SCENE />
+        </SCENEINSTANCE>
+    </SCENE>
+</ROOT>

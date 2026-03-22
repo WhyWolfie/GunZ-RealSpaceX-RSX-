@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<XML>
+    <MATERIALLIST>
+        <MATERIAL name="AT_light_emergency_01_steel2">
+            <DIFFUSE>149 149 149</DIFFUSE>
+            <AMBIENT>149 149 149</AMBIENT>
+            <SPECULAR>229 229 229</SPECULAR>
+            <SPECULAR_LEVEL>100.000</SPECULAR_LEVEL>
+            <GLOSSINESS>10.000</GLOSSINESS>
+            <SELFILLUSIONSCALE>2.635</SELFILLUSIONSCALE>
+            <TEXTURELIST count="4">
+                <TEXTURELAYER index="0">
+                    <DIFFUSEMAP>light_emergency_01_df.tga</DIFFUSEMAP>
+                </TEXTURELAYER>
+                <TEXTURELAYER index="1">
+                    <SPECULARMAP>light_emergency_01_nm.TGA</SPECULARMAP>
+                </TEXTURELAYER>
+                <TEXTURELAYER index="2">
+                    <SELFILLUMINATIONMAP>light_emergency_01_si.tga.dds</SELFILLUMINATIONMAP>
+                    <TEX_ANIMATION>
+                        <TEX_ANI_OFFSET_LOOP>false</TEX_ANI_OFFSET_LOOP>
+                        <TEX_ANI_SCALE_LOOP>false</TEX_ANI_SCALE_LOOP>
+                        <TEX_VISIBILITY time="0">0.200</TEX_VISIBILITY>
+                        <TEX_VISIBILITY time="12800">1.000</TEX_VISIBILITY>
+                        <TEX_VISIBILITY time="25600">0.200</TEX_VISIBILITY>
+                    </TEX_ANIMATION>
+                </TEXTURELAYER>
+                <TEXTURELAYER index="3">
+                    <NORMALMAP>light_emergency_01_nm.TGA</NORMALMAP>
+                </TEXTURELAYER>
+            </TEXTURELIST>
+            <USEALPHATEST>
+                <ALPHATESTVALUE>128</ALPHATESTVALUE>
+            </USEALPHATEST>
+        </MATERIAL>
+    </MATERIALLIST>
+    <COLLISION />
+    <USERPROPERTYLIST>
+        <USERPROPERTY node="Object001" property="Density = 1.0" />
+        <USERPROPERTY node="Object001" property="GeometryType = 1" />
+        <USERPROPERTY node="Object001" property="MaterialType = 2" />
+        <USERPROPERTY node="Object001" property="StaticFriction = 0.3" />
+        <USERPROPERTY node="Object001" property="Restitution = 0.0" />
+        <USERPROPERTY node="Object001" property="InitialVelocityX = 0.0" />
+        <USERPROPERTY node="Object001" property="InitialVelocityY = 0.0" />
+        <USERPROPERTY node="Object001" property="InitialVelocityZ = 0.0" />
+        <USERPROPERTY node="Object001" property="InitialSpinX = 0.0" />
+        <USERPROPERTY node="Object001" property="InitialSpinY = 0.0" />
+        <USERPROPERTY node="Object001" property="InitialSpinZ = 0.0" />
+        <USERPROPERTY node="Object001" property="PutToSleep = false" />
+        <USERPROPERTY node="Object001" property="EnableCCD = false" />
+        <USERPROPERTY node="Object001" property="PhysicsType = 5" />
+    </USERPROPERTYLIST>
+    <AUTOANIMATION />
+</XML>

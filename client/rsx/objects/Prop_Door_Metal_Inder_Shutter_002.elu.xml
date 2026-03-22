@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<XML>
+    <MATERIALLIST>
+        <MATERIAL name="01 - Default">
+            <DIFFUSE>150 150 150</DIFFUSE>
+            <AMBIENT>150 150 150</AMBIENT>
+            <SPECULAR>229 229 229</SPECULAR>
+            <SPECULAR_LEVEL>0.000</SPECULAR_LEVEL>
+            <GLOSSINESS>45.000</GLOSSINESS>
+            <SELFILLUSIONSCALE>0.000</SELFILLUSIONSCALE>
+            <TEXTURELIST count="3">
+                <TEXTURELAYER index="0">
+                    <DIFFUSEMAP>Door_Metal_Inder_Sutter_001_df.DDS</DIFFUSEMAP>
+                </TEXTURELAYER>
+                <TEXTURELAYER index="1">
+                    <SPECULARMAP>Door_Metal_Inder_Sutter_001_nm.DDS</SPECULARMAP>
+                </TEXTURELAYER>
+                <TEXTURELAYER index="2">
+                    <NORMALMAP>Door_Metal_Inder_Sutter_001_nm.DDS</NORMALMAP>
+                </TEXTURELAYER>
+            </TEXTURELIST>
+        </MATERIAL>
+    </MATERIALLIST>
+    <COLLISION />
+    <USERPROPERTYLIST>
+        <USERPROPERTY node="Box001" property="Density = 1.0" />
+        <USERPROPERTY node="Box001" property="GeometryType = 1" />
+        <USERPROPERTY node="Box001" property="MaterialType = 2" />
+        <USERPROPERTY node="Box001" property="Friction = 0.3" />
+        <USERPROPERTY node="Box001" property="StaticFriction = 0.3" />
+        <USERPROPERTY node="Box001" property="Restitution = 0.0" />
+        <USERPROPERTY node="Box001" property="InitialVelocityX = 0.0" />
+        <USERPROPERTY node="Box001" property="InitialVelocityY = 0.0" />
+        <USERPROPERTY node="Box001" property="InitialVelocityZ = 0.0" />
+        <USERPROPERTY node="Box001" property="InitialSpinX = 0.0" />
+        <USERPROPERTY node="Box001" property="InitialSpinY = 0.0" />
+        <USERPROPERTY node="Box001" property="InitialSpinZ = 0.0" />
+        <USERPROPERTY node="Box001" property="PutToSleep = false" />
+        <USERPROPERTY node="Box001" property="EnableCCD = false" />
+        <USERPROPERTY node="Box001" property="PhysicsType = 5" />
+    </USERPROPERTYLIST>
+</XML>

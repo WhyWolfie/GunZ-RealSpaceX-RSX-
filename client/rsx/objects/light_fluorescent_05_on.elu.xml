@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<XML>
+    <MATERIALLIST>
+        <MATERIAL name="light_fluorescent_02_steel2">
+            <DIFFUSE>149 149 149</DIFFUSE>
+            <AMBIENT>149 149 149</AMBIENT>
+            <SPECULAR>229 229 229</SPECULAR>
+            <SPECULAR_LEVEL>100.000</SPECULAR_LEVEL>
+            <GLOSSINESS>10.000</GLOSSINESS>
+            <SELFILLUSIONSCALE>0.000</SELFILLUSIONSCALE>
+            <TEXTURELIST count="3">
+                <TEXTURELAYER index="0">
+                    <DIFFUSEMAP>light_fluorescent_02_df.tga</DIFFUSEMAP>
+                </TEXTURELAYER>
+                <TEXTURELAYER index="1">
+                    <SPECULARMAP>light_fluorescent_02_nm.tga</SPECULARMAP>
+                </TEXTURELAYER>
+                <TEXTURELAYER index="2">
+                    <NORMALMAP>light_fluorescent_02_nm.tga</NORMALMAP>
+                </TEXTURELAYER>
+            </TEXTURELIST>
+            <TWOSIDED />
+        </MATERIAL>
+    </MATERIALLIST>
+    <COLLISION />
+    <USERPROPERTYLIST>
+        <USERPROPERTY node="light" property="PhysicsType = 1" />
+        <USERPROPERTY node="light" property="Density = 1.0" />
+        <USERPROPERTY node="light" property="GeometryType = 1" />
+        <USERPROPERTY node="light" property="MaterialType = 2" />
+        <USERPROPERTY node="light" property="StaticFriction = 0.3" />
+        <USERPROPERTY node="light" property="Restitution = 0.0" />
+        <USERPROPERTY node="light" property="InitialVelocityX = 0.0" />
+        <USERPROPERTY node="light" property="InitialVelocityY = 0.0" />
+        <USERPROPERTY node="light" property="InitialVelocityZ = 0.0" />
+        <USERPROPERTY node="light" property="InitialSpinX = 0.0" />
+        <USERPROPERTY node="light" property="InitialSpinY = 0.0" />
+        <USERPROPERTY node="light" property="InitialSpinZ = 0.0" />
+        <USERPROPERTY node="light" property="PutToSleep = false" />
+        <USERPROPERTY node="light" property="EnableCCD = false" />
+        <USERPROPERTY node="top01" property="PhysicsType = 1" />
+        <USERPROPERTY node="top01" property="Density = 1.0" />
+        <USERPROPERTY node="top01" property="GeometryType = 1" />
+        <USERPROPERTY node="top01" property="MaterialType = 2" />
+        <USERPROPERTY node="top01" property="StaticFriction = 0.3" />
+        <USERPROPERTY node="top01" property="Restitution = 0.0" />
+        <USERPROPERTY node="top01" property="InitialVelocityX = 0.0" />
+        <USERPROPERTY node="top01" property="InitialVelocityY = 0.0" />
+        <USERPROPERTY node="top01" property="InitialVelocityZ = 0.0" />
+        <USERPROPERTY node="top01" property="InitialSpinX = 0.0" />
+        <USERPROPERTY node="top01" property="InitialSpinY = 0.0" />
+        <USERPROPERTY node="top01" property="InitialSpinZ = 0.0" />
+        <USERPROPERTY node="top01" property="PutToSleep = false" />
+        <USERPROPERTY node="top01" property="EnableCCD = false" />
+        <USERPROPERTY node="middle02" property="PhysicsType = 1" />
+        <USERPROPERTY node="middle02" property="Density = 1.0" />
+        <USERPROPERTY node="middle02" property="GeometryType = 1" />
+        <USERPROPERTY node="middle02" property="MaterialType = 2" />
+        <USERPROPERTY node="middle02" property="StaticFriction = 0.3" />
+        <USERPROPERTY node="middle02" property="Restitution = 0.0" />
+        <USERPROPERTY node="middle02" property="InitialVelocityX = 0.0" />
+        <USERPROPERTY node="middle02" property="InitialVelocityY = 0.0" />
+        <USERPROPERTY node="middle02" property="InitialVelocityZ = 0.0" />
+        <USERPROPERTY node="middle02" property="InitialSpinX = 0.0" />
+        <USERPROPERTY node="middle02" property="InitialSpinY = 0.0" />
+        <USERPROPERTY node="middle02" property="InitialSpinZ = 0.0" />
+        <USERPROPERTY node="middle02" property="PutToSleep = false" />
+        <USERPROPERTY node="middle02" property="EnableCCD = false" />
+        <USERPROPERTY node="top02" property="PhysicsType = 1" />
+        <USERPROPERTY node="top02" property="Density = 1.0" />
+        <USERPROPERTY node="top02" property="GeometryType = 1" />
+        <USERPROPERTY node="top02" property="MaterialType = 2" />
+        <USERPROPERTY node="top02" property="StaticFriction = 0.3" />
+        <USERPROPERTY node="top02" property="Restitution = 0.0" />
+        <USERPROPERTY node="top02" property="InitialVelocityX = 0.0" />
+        <USERPROPERTY node="top02" property="InitialVelocityY = 0.0" />
+        <USERPROPERTY node="top02" property="InitialVelocityZ = 0.0" />
+        <USERPROPERTY node="top02" property="InitialSpinX = 0.0" />
+        <USERPROPERTY node="top02" property="InitialSpinY = 0.0" />
+        <USERPROPERTY node="top02" property="InitialSpinZ = 0.0" />
+        <USERPROPERTY node="top02" property="PutToSleep = false" />
+        <USERPROPERTY node="top02" property="EnableCCD = false" />
+        <USERPROPERTY node="middle01" property="PhysicsType = 1" />
+        <USERPROPERTY node="middle01" property="Density = 1.0" />
+        <USERPROPERTY node="middle01" property="GeometryType = 1" />
+        <USERPROPERTY node="middle01" property="MaterialType = 2" />
+        <USERPROPERTY node="middle01" property="StaticFriction = 0.3" />
+        <USERPROPERTY node="middle01" property="Restitution = 0.0" />
+        <USERPROPERTY node="middle01" property="InitialVelocityX = 0.0" />
+        <USERPROPERTY node="middle01" property="InitialVelocityY = 0.0" />
+        <USERPROPERTY node="middle01" property="InitialVelocityZ = 0.0" />
+        <USERPROPERTY node="middle01" property="InitialSpinX = 0.0" />
+        <USERPROPERTY node="middle01" property="InitialSpinY = 0.0" />
+        <USERPROPERTY node="middle01" property="InitialSpinZ = 0.0" />
+        <USERPROPERTY node="middle01" property="PutToSleep = false" />
+        <USERPROPERTY node="middle01" property="EnableCCD = false" />
+    </USERPROPERTYLIST>
+</XML>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<XML>
+    <MATERIALLIST>
+        <MATERIAL name="prop_cabinet_01_steel2">
+            <DIFFUSE>150 150 150</DIFFUSE>
+            <AMBIENT>150 150 150</AMBIENT>
+            <SPECULAR>229 229 229</SPECULAR>
+            <SPECULAR_LEVEL>100.000</SPECULAR_LEVEL>
+            <GLOSSINESS>15.000</GLOSSINESS>
+            <SELFILLUSIONSCALE>0.000</SELFILLUSIONSCALE>
+            <TEXTURELIST count="3">
+                <TEXTURELAYER index="0">
+                    <DIFFUSEMAP>prop_cabinet_01_df.tga.dds</DIFFUSEMAP>
+                </TEXTURELAYER>
+                <TEXTURELAYER index="1">
+                    <SPECULARMAP>prop_cabinet_01_df.tga.dds</SPECULARMAP>
+                </TEXTURELAYER>
+                <TEXTURELAYER index="2">
+                    <NORMALMAP>Com_DetailNormal_Metal001_nm.TGA</NORMALMAP>
+                    <TEX_SCALE>8.000000 8.000000</TEX_SCALE>
+                </TEXTURELAYER>
+                <TEXTURELAYER index="2">
+                    <NORMALMAP>prop_cabinet_01_nm.tga.dds</NORMALMAP>
+                </TEXTURELAYER>
+            </TEXTURELIST>
+            <COMPOSITELAYERLIST>
+                <COMPOSITELAYER index="4" count="2">
+                    <LAYER index="0">
+                        <LAYERMAP>Com_DetailNormal_Metal001_nm.TGA</LAYERMAP>
+                        <OPACITY>1.000</OPACITY>
+                        <BLENDMODE>0</BLENDMODE>
+                    </LAYER>
+                    <LAYER index="1">
+                        <LAYERMAP>prop_cabinet_01_nm.tga.dds</LAYERMAP>
+                        <OPACITY>1.000</OPACITY>
+                        <BLENDMODE>14</BLENDMODE>
+                    </LAYER>
+                </COMPOSITELAYER>
+            </COMPOSITELAYERLIST>
+        </MATERIAL>
+    </MATERIALLIST>
+    <COLLISION />
+    <USERPROPERTYLIST>
+        <USERPROPERTY node="prop_cabinet_01" property="Density = 1.0" />
+        <USERPROPERTY node="prop_cabinet_01" property="GeometryType = 1" />
+        <USERPROPERTY node="prop_cabinet_01" property="MaterialType = 2" />
+        <USERPROPERTY node="prop_cabinet_01" property="Friction = 0.3" />
+        <USERPROPERTY node="prop_cabinet_01" property="StaticFriction = 0.3" />
+        <USERPROPERTY node="prop_cabinet_01" property="Restitution = 0.0" />
+        <USERPROPERTY node="prop_cabinet_01" property="InitialVelocityX = 0.0" />
+        <USERPROPERTY node="prop_cabinet_01" property="InitialVelocityY = 0.0" />
+        <USERPROPERTY node="prop_cabinet_01" property="InitialVelocityZ = 0.0" />
+        <USERPROPERTY node="prop_cabinet_01" property="InitialSpinX = 0.0" />
+        <USERPROPERTY node="prop_cabinet_01" property="InitialSpinY = 0.0" />
+        <USERPROPERTY node="prop_cabinet_01" property="InitialSpinZ = 0.0" />
+        <USERPROPERTY node="prop_cabinet_01" property="PutToSleep = false" />
+        <USERPROPERTY node="prop_cabinet_01" property="EnableCCD = false" />
+        <USERPROPERTY node="prop_cabinet_01" property="PhysicsType = 5" />
+    </USERPROPERTYLIST>
+</XML>

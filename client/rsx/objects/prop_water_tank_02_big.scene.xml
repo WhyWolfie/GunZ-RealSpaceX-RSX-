@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Umbra Synchronization="false" Version="3.1.24.2" />
+<ROOT>
+    <SCENE>
+        <ACTOR>
+            <COMMON name="prop_water_tank_02">
+                <POSITION>0.000000 0.000000 0.000000</POSITION>
+                <DIRECTION>0.000000 1.000000 0.000000</DIRECTION>
+                <UP>0.000000 0.000000 1.000000</UP>
+                <SCALE>1.500000 1.500000 1.500000</SCALE>
+            </COMMON>
+            <PROPERTY>
+                <FILENAME>prop_water_tank_02.elu</FILENAME>
+                <RENDER_PRIORITY>0</RENDER_PRIORITY>
+            </PROPERTY>
+            <SCENE />
+        </ACTOR>
+    </SCENE>
+</ROOT>

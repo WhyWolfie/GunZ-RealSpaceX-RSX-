@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Umbra Synchronization="false" />
+<ROOT>
+    <SCENE>
+        <ACTOR>
+            <COMMON name="vehicle_K511_01_emergency">
+                <POSITION>0.000000 0.000000 0.000000</POSITION>
+                <DIRECTION>0.000000 1.000000 0.000000</DIRECTION>
+                <UP>0.000000 0.000000 1.000000</UP>
+                <SCALE>1.000000 1.000000 1.000000</SCALE>
+            </COMMON>
+            <PROPERTY>
+                <FILENAME>vehicle_K511_01_emergency.elu</FILENAME>
+                <ANI />
+            </PROPERTY>
+            <SCENE>
+                <LIGHT>
+                    <COMMON name="Omni001">
+                        <POSITION>18.000000 -29.000000 0.000000</POSITION>
+                        <DIRECTION>0.000000 1.000000 0.000000</DIRECTION>
+                        <UP>0.000000 0.000000 1.000000</UP>
+                        <SCALE>1.000000 1.000000 1.000000</SCALE>
+                    </COMMON>
+                    <CONTROLLERS>
+                        <ACTORNODECONSTRAINTCONTROLLER>
+                            <TARGET>Dummy001</TARGET>
+                        </ACTORNODECONSTRAINTCONTROLLER>
+                    </CONTROLLERS>
+                    <PROPERTY>
+                        <COLOR>0.945 0.580 0.188</COLOR>
+                        <INTENSITY>0.900</INTENSITY>
+                        <ATTENUATIONEND>158.400</ATTENUATIONEND>
+                        <ATTENUATIONSTART>50.000</ATTENUATIONSTART>
+                    </PROPERTY>
+                </LIGHT>
+                <LIGHT>
+                    <COMMON name="Omni002">
+                        <POSITION>-17.000000 -29.000000 0.000000</POSITION>
+                        <DIRECTION>0.000000 1.000000 0.000000</DIRECTION>
+                        <UP>0.000000 0.000000 1.000000</UP>
+                        <SCALE>1.000000 1.000000 1.000000</SCALE>
+                    </COMMON>
+                    <CONTROLLERS>
+                        <ACTORNODECONSTRAINTCONTROLLER>
+                            <TARGET>Dummy002</TARGET>
+                        </ACTORNODECONSTRAINTCONTROLLER>
+                    </CONTROLLERS>
+                    <PROPERTY>
+                        <COLOR>0.945 0.635 0.302</COLOR>
+                        <INTENSITY>0.900</INTENSITY>
+                        <ATTENUATIONEND>160.000</ATTENUATIONEND>
+                        <ATTENUATIONSTART>50.000</ATTENUATIONSTART>
+                    </PROPERTY>
+                </LIGHT>
+            </SCENE>
+        </ACTOR>
+    </SCENE>
+</ROOT>

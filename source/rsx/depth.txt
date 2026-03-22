@@ -1,0 +1,58 @@
+struct VS_OUTPUT
+{
+	float4 position   : POSITION;
+	float2 texCoord   : TEXCOORD0;
+};
+
+VS_OUTPUT vs_fsquad( float4 position	: POSITION, float2 texCoord   : TEXCOORD0 )
+{
+	VS_OUTPUT Out;
+	Out.position = float4(position.xyz, 1.0);
+	Out.texCoord = texCoord;
+	return Out;
+}
+
+
+struct PS_OUTPUT
+{
+	float4 color: COLOR;
+	float depth : DEPTH0;
+};
+
+
+float g_Near;
+float g_Far;
+sampler2D depthTexture : register(s0);
+
+
+float Linearize(float depth, float near, float far)
+{
+	return (2.0 * near) / (far + near - depth * (far - near));
+}
+
+float depthFromLinear(float lin_depth, float near, float far)
+{
+	float z = lin_depth *(far - near) + near;
+    return lin_depth * far / z;
+}
+
+PS_OUTPUT ps_depth( in VS_OUTPUT In )
+{
+	PS_OUTPUT Out;
+	float z = tex2D(depthTexture, In.texCoord).x;
+	z = depthFromLinear(z, g_Near, g_Far);
+
+	Out.depth = z;
+	Out.color = float4(z,z,z, 1.0f);
+	return Out;
+}
+
+
+technique DepthCopy
+{
+    pass P0
+    {          
+        VertexShader = compile vs_2_0 vs_fsquad();
+        PixelShader  = compile ps_3_0 ps_depth(); 
+    }
+}

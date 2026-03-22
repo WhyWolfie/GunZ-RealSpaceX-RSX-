@@ -1,0 +1,185 @@
+/////////////////////////////////////////////////////////////////////////////////////////////
+#include "stdafx.h"
+#include "MMatchQuestMonsterGroup.h"
+#include "MZFileSystem.h"
+#include "FileInfo.h"
+
+#include "../FileSystem/FileSystem.h"
+
+#define MTOK_MONSTERGROUP	"GROUP"
+#define MTOK_NPC			"NPC"
+#define MTOK_ATTR_ID		"id"
+#define MTOK_ATTR_NAME		"name"
+
+
+MNPCGroupMgr::MNPCGroupMgr()
+{
+
+}
+
+MNPCGroupMgr::~MNPCGroupMgr()
+{
+	Clear();
+}
+
+MNPCGroupMgr* MNPCGroupMgr::GetInstance()
+{
+	static MNPCGroupMgr g_NPCGroupMgr;
+	return &g_NPCGroupMgr;
+}
+
+void MNPCGroupMgr::Clear()
+{
+	while(!empty())	{
+		MNPCGroup* pGroup = (*begin()).second;
+		delete pGroup; 
+		pGroup = NULL;
+		erase(begin());
+	}
+}
+
+
+MNPCGroup* MNPCGroupMgr::GetGroup(const string& strName)
+{
+	iterator itor = find(strName);
+	if (itor != end()) {
+		return (*itor).second;
+	}
+	return NULL;
+}
+
+MNPCGroup* MNPCGroupMgr::GetGroup(int nGroupID)
+{
+	iterator it;
+	MNPCGroup* pGroup = NULL;
+
+	for(it = begin();it!=end(); ++it ) {
+
+		pGroup = (*it).second;
+
+		if(pGroup) {
+			if(pGroup->GetID()==nGroupID) {
+				return pGroup;
+			}
+		}
+	}
+	return NULL;
+}
+
+bool MNPCGroupMgr::ReadXml(const char* szFileName)
+{
+	MXmlDocument xmlIniData;
+
+	xmlIniData.Create();
+
+	if (!xmlIniData.LoadFromFile(szFileName)) {
+		xmlIniData.Destroy();
+		return false;
+	}
+
+	MXmlElement rootElement, chrElement, attrElement;
+
+	char szTagName[256];
+
+	rootElement = xmlIniData.GetDocumentElement();
+
+	int iCount = rootElement.GetChildNodeCount();
+
+	for (int i = 0; i < iCount; i++) {
+
+		chrElement = rootElement.GetChildNode(i);
+		chrElement.GetTagName(szTagName);
+
+		if (szTagName[0] == '#') continue;
+
+		if (!stricmp(szTagName, MTOK_MONSTERGROUP))
+		{
+			ParseRule(&chrElement);
+		}
+	}
+
+	xmlIniData.Destroy();
+	return true;
+}
+
+bool MNPCGroupMgr::ReadXml(MZFileSystem* pFileSystem, const char* szFileName)
+{
+	MXmlDocument	xmlIniData;
+	xmlIniData.Create();
+
+	std::unique_ptr<IFile> pFile = std::unique_ptr<IFile>(getFileManager()->open(szFileName));
+    if (!pFile.get())
+    {
+        xmlIniData.Destroy();
+        return false;
+    }
+
+
+    std::unique_ptr<char> buffer = std::unique_ptr<char>(new char[pFile->getSize()+1]);
+    pFile->read(pFile->getSize(), buffer.get());
+	buffer.get()[pFile->getSize()] = 0;
+
+	if(!xmlIniData.LoadFromMemory(buffer.get()))
+	{
+		xmlIniData.Destroy();
+		return false;
+	}
+    pFile.reset();
+    buffer.reset();
+
+
+	MXmlElement rootElement, chrElement, attrElement;
+	char szTagName[256];
+
+	rootElement = xmlIniData.GetDocumentElement();
+	int iCount = rootElement.GetChildNodeCount();
+
+	for (int i = 0; i < iCount; i++) {
+
+		chrElement = rootElement.GetChildNode(i);
+		chrElement.GetTagName(szTagName);
+
+		if (szTagName[0] == '#') continue;
+
+		if (!stricmp(szTagName, MTOK_MONSTERGROUP)) {
+			ParseRule(&chrElement);
+		}
+	}
+
+	xmlIniData.Destroy();
+	return true;
+}
+
+void MNPCGroupMgr::ParseRule(MXmlElement* pElement)
+{
+	int nID = 0;
+	pElement->GetAttribute(&nID, MTOK_ATTR_ID);
+	char szName[128]="";
+	pElement->GetAttribute(szName, MTOK_ATTR_NAME);	
+
+	MNPCGroup* pGroup = new MNPCGroup;
+	pGroup->SetID(nID);
+	pGroup->SetName(szName);
+
+
+	MXmlElement childElement;
+	char szTagName[256]=""; char szAttr[256]="";
+
+	int nCount = pElement->GetChildNodeCount();
+
+	for (int i=0; i<nCount; i++) {
+		childElement = pElement->GetChildNode(i);
+
+		childElement.GetTagName(szTagName);
+		if (szTagName[0] == '#') continue;
+
+		if (!stricmp(szTagName, MTOK_NPC))
+		{
+			childElement.GetAttribute(szAttr, MTOK_ATTR_NAME);
+			pGroup->AddNpc(szAttr);
+		}
+	}
+
+	insert(value_type(pGroup->GetName(), pGroup));
+}
+

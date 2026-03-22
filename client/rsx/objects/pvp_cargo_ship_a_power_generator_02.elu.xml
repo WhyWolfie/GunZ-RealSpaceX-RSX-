@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<XML>
+    <MATERIALLIST>
+        <MATERIAL name="pvp_cargo_ship_a_power_generator_02_steel2">
+            <DIFFUSE>150 150 150</DIFFUSE>
+            <AMBIENT>150 150 150</AMBIENT>
+            <SPECULAR>229 229 229</SPECULAR>
+            <SPECULAR_LEVEL>100.000</SPECULAR_LEVEL>
+            <GLOSSINESS>10.000</GLOSSINESS>
+            <SELFILLUSIONSCALE>0.000</SELFILLUSIONSCALE>
+            <TEXTURELIST count="3">
+                <TEXTURELAYER index="0">
+                    <DIFFUSEMAP>pvp_cargo_ship_a_power_generator_02_df.tga.dds</DIFFUSEMAP>
+                </TEXTURELAYER>
+                <TEXTURELAYER index="1">
+                    <SPECULARMAP>pvp_cargo_ship_a_power_generator_02_df.tga.dds</SPECULARMAP>
+                </TEXTURELAYER>
+                <TEXTURELAYER index="2">
+                    <NORMALMAP>pvp_cargo_ship_a_power_generator_02_nm.tga.dds</NORMALMAP>
+                </TEXTURELAYER>
+            </TEXTURELIST>
+        </MATERIAL>
+    </MATERIALLIST>
+    <COLLISION />
+    <USERPROPERTYLIST>
+        <USERPROPERTY node="power_generator_ph" property="PhysicsType = 3" />
+        <USERPROPERTY node="power_generator_ph" property="Density = 1.0" />
+        <USERPROPERTY node="power_generator_ph" property="GeometryType = 1" />
+        <USERPROPERTY node="power_generator_ph" property="MaterialType = 2" />
+        <USERPROPERTY node="power_generator_ph" property="Friction = 0.3" />
+        <USERPROPERTY node="power_generator_ph" property="StaticFriction = 0.3" />
+        <USERPROPERTY node="power_generator_ph" property="Restitution = 0.0" />
+        <USERPROPERTY node="power_generator_ph" property="InitialVelocityX = 0.0" />
+        <USERPROPERTY node="power_generator_ph" property="InitialVelocityY = 0.0" />
+        <USERPROPERTY node="power_generator_ph" property="InitialVelocityZ = 0.0" />
+        <USERPROPERTY node="power_generator_ph" property="InitialSpinX = 0.0" />
+        <USERPROPERTY node="power_generator_ph" property="InitialSpinY = 0.0" />
+        <USERPROPERTY node="power_generator_ph" property="InitialSpinZ = 0.0" />
+        <USERPROPERTY node="power_generator_ph" property="PutToSleep = false" />
+        <USERPROPERTY node="power_generator_ph" property="EnableCCD = false" />
+    </USERPROPERTYLIST>
+</XML>

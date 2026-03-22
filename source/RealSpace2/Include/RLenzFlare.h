@@ -1,0 +1,105 @@
+#ifndef _RLenzFlare_h
+#define _RLenzFlare_h
+
+#pragma once
+
+#include "RBaseTexture.h"
+
+_NAMESPACE_REALSPACE2_BEGIN
+
+//////////////////////////////////////////////////////////////////////////
+//  [11/11/2003]
+//	2D Lenz Flare
+//	Magicbell
+//	- source 
+//		1. lenz flare형식의 xml 파일 - 예제를 보시오
+//		2. lenz flare에 쓰일 텍스쳐들.. ( FLARE_ELEMENT_TYPE당 하나 )
+//	- 사용법
+//		게임 시작 단계에서 RCreateLenzFlare을 호출한다 - argument : xml 파일 이름
+//		RGetLenzFlare를 호출하여 Instance Pointer를 얻는다
+//		Render를 호출한다 - argument1 : 광원 위치 argument2: 현재 적용안됨
+//			주의) 이때 사물에 가려져 광원이 보이지 않는 처리는 Application에서 해야 함
+//					화면밖의 광원은 이 클래스에서 처리될 수 있다
+//		게임 종료 단계에서 RDestroyLenzFlare를 호출한다
+//
+//////////////////////////////////////////////////////////////////////////
+
+//	enum
+enum FLARE_ELEMENT_TYPE
+{
+	FLARE_ELEMENT_SPHERE = 0,
+	FLARE_ELEMENT_RING,
+	FLARE_ELEMENT_SPOT,
+	FLARE_ELEMENT_POLYGON,
+	FLARE_ELEMENT_ETC,
+	FLARE_ELEMENT_GROW,
+	MAX_NUMBER_ELEMENT = 10,
+};
+
+#define MAX_LENZFLARE_NUMBER 1
+#define MAX_NUMBER_TEXTURE MAX_NUMBER_ELEMENT
+
+//	struct
+struct sFlareElement
+{
+	int iType;
+	float width, height;
+	DWORD color;
+	int iTextureIndex;
+};
+
+class RBspObject;
+
+class RLenzFlare
+{
+protected:	
+    static bool				mbIsReady;
+    static RLenzFlare		msInstance;
+    static sFlareElement	msElements[MAX_NUMBER_ELEMENT];		
+    int						miNumFlareElement;
+    int*					miElementOrder;
+    static RealSpace2::RBaseTexture		*msTextures[MAX_NUMBER_TEXTURE];
+    rvector					mLightList[MAX_LENZFLARE_NUMBER];
+    int						miNumLight;
+
+protected:
+	static	bool	ReadXmlElement(MXmlElement* PNode,char* Path);
+	bool		open(const char* pFileName_, MZFileSystem* pfs_);
+	bool		draw(float x_, float y_, float width_, float height_, float alpha, DWORD color_, int textureIndex_);
+	
+
+public:
+	static	bool	Create( const char* filename_ );
+	static	bool	Destroy();
+	static	bool	IsReady();
+	static	RLenzFlare* GetInstance(){ return &msInstance; 	}
+
+	void		Initialize();
+	bool		Render(rvector& light_pos, rvector& centre_, IBspObject* pbsp_);				
+	bool		Render(rvector& centre_ , IBspObject* pbsp_);
+	bool		SetLight(rvector& pos_);
+	void		Clear() { miNumLight	= 0;	}
+	int			GetNumLight() const { return miNumLight; }
+	rvector GetLightPos( int i ) const { return mLightList[i]; }
+
+public:
+	RLenzFlare(void);
+	~RLenzFlare(void);
+};
+
+#ifndef __DEFINED_GLOBAL_LENZFLARE_METHOD__
+#define __DEFINED_GLOBAL_LENZFLARE_METHOD__
+
+bool	RCreateLenzFlare( const char* filename_ );
+
+bool	RDestroyLenzFlare( );
+
+bool	RReadyLenzFlare( ) ;
+
+RLenzFlare* RGetLenzFlare();
+
+#endif
+
+_NAMESPACE_REALSPACE2_END
+
+#endif//_RLenzFlare_h

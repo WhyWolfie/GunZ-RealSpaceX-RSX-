@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT>
+    <SCENE>
+        <ACTOR>
+            <COMMON name="light_hanging_02_off">
+                <POSITION>0.000000 0.000000 0.000000</POSITION>
+                <DIRECTION>0.000000 1.000000 0.000000</DIRECTION>
+                <UP>0.000000 0.000000 1.000000</UP>
+                <SCALE>1.000000 1.000000 1.000000</SCALE>
+            </COMMON>
+            <PROPERTY>
+                <FILENAME>light_hanging_02_off.elu</FILENAME>
+                <SHADOWRECEIVER />
+            </PROPERTY>
+            <SCENE>
+                <LIGHT>
+                    <COMMON name="Omni001">
+                        <POSITION>0.000000 0.000000 -135.000000</POSITION>
+                        <DIRECTION>0.000000 1.000000 0.000000</DIRECTION>
+                        <UP>0.000000 0.000000 1.000000</UP>
+                        <SCALE>1.000000 1.000000 1.000000</SCALE>
+                    </COMMON>
+                    <CONTROLLERS>
+                        <ACTORNODECONSTRAINTCONTROLLER>
+                            <TARGET>main</TARGET>
+                        </ACTORNODECONSTRAINTCONTROLLER>
+                    </CONTROLLERS>
+                    <PROPERTY>
+                        <COLOR>0.969 0.969 0.678</COLOR>
+                        <INTENSITY>1.500</INTENSITY>
+                        <ATTENUATIONEND>400.000</ATTENUATIONEND>
+                        <ATTENUATIONSTART>80.000</ATTENUATIONSTART>
+                        <POINTLIGHTTYPE>2</POINTLIGHTTYPE>
+                        <AREARANGE>900.000 900.000 600.000</AREARANGE>
+                    </PROPERTY>
+                </LIGHT>
+            </SCENE>
+        </ACTOR>
+        <LIGHT>
+            <COMMON name="Omni2">
+                <POSITION>0.000000 0.000000 -180.000000</POSITION>
+                <DIRECTION>0.000000 1.000000 0.000000</DIRECTION>
+                <UP>0.000000 0.000000 1.000000</UP>
+                <SCALE>1.000000 1.000000 1.000000</SCALE>
+            </COMMON>
+            <PROPERTY>
+                <COLOR>0.937 0.792 0.404</COLOR>
+                <INTENSITY>4.500</INTENSITY>
+                <ATTENUATIONEND>60.000</ATTENUATIONEND>
+                <ATTENUATIONSTART>40.000</ATTENUATIONSTART>
+                <POINTLIGHTTYPE>2</POINTLIGHTTYPE>
+                <AREARANGE>110.000 110.000 90.000</AREARANGE>
+            </PROPERTY>
+        </LIGHT>
+    </SCENE>
+</ROOT>

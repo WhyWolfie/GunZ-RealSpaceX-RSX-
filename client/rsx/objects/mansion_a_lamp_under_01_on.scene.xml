@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT>
+    <SCENE>
+        <ACTOR>
+            <COMMON name="mansion_a_lamp_under_01_on">
+                <POSITION>0.000000 0.000000 0.000000</POSITION>
+                <DIRECTION>0.000000 1.000000 0.000000</DIRECTION>
+                <UP>0.000000 0.000000 1.000000</UP>
+                <SCALE>1.000000 1.000000 1.000000</SCALE>
+            </COMMON>
+            <PROPERTY>
+                <FILENAME>mansion_a_lamp_under_01_on.elu</FILENAME>
+                <SHADOWRECEIVER />
+            </PROPERTY>
+            <SCENE>
+                <LIGHT>
+                    <COMMON name="Omni001">
+                        <POSITION>0.000000 0.000000 -355.000000</POSITION>
+                        <DIRECTION>0.000000 1.000000 0.000000</DIRECTION>
+                        <UP>0.000000 0.000000 1.000000</UP>
+                        <SCALE>1.000000 1.000000 1.000000</SCALE>
+                    </COMMON>
+                    <CONTROLLERS>
+                        <ACTORNODECONSTRAINTCONTROLLER>
+                            <TARGET>head</TARGET>
+                        </ACTORNODECONSTRAINTCONTROLLER>
+                    </CONTROLLERS>
+                    <PROPERTY>
+                        <COLOR>0.992 0.784 0.439</COLOR>
+                        <INTENSITY>1.300</INTENSITY>
+                        <ATTENUATIONEND>550.000</ATTENUATIONEND>
+                        <ATTENUATIONSTART>45.000</ATTENUATIONSTART>
+                        <POINTLIGHTTYPE>2</POINTLIGHTTYPE>
+                        <AREARANGE>900.000 900.000 900.000</AREARANGE>
+                    </PROPERTY>
+                </LIGHT>
+                <LIGHT>
+                    <COMMON name="Omni002">
+                        <POSITION>0.000000 0.000000 -80.000000</POSITION>
+                        <DIRECTION>0.000000 1.000000 0.000000</DIRECTION>
+                        <UP>0.000000 0.000000 1.000000</UP>
+                        <SCALE>1.000000 1.000000 1.000000</SCALE>
+                    </COMMON>
+                    <CONTROLLERS>
+                        <ACTORNODECONSTRAINTCONTROLLER>
+                            <TARGET>head</TARGET>
+                        </ACTORNODECONSTRAINTCONTROLLER>
+                    </CONTROLLERS>
+                    <PROPERTY>
+                        <COLOR>0.992 0.784 0.439</COLOR>
+                        <INTENSITY>5.000</INTENSITY>
+                        <ATTENUATIONEND>62.758</ATTENUATIONEND>
+                        <ATTENUATIONSTART>34.593</ATTENUATIONSTART>
+                        <POINTLIGHTTYPE>2</POINTLIGHTTYPE>
+                        <AREARANGE>125.000 125.000 125.000</AREARANGE>
+                    </PROPERTY>
+                </LIGHT>
+            </SCENE>
+        </ACTOR>
+    </SCENE>
+</ROOT>

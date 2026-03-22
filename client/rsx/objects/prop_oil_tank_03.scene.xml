@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT>
+    <SCENE>
+        <ACTOR>
+            <COMMON name="prop_oil_tank_03">
+                <POSITION>0.000000 0.000000 0.000000</POSITION>
+                <DIRECTION>0.000000 1.000000 0.000000</DIRECTION>
+                <UP>0.000000 0.000000 1.000000</UP>
+                <SCALE>1.000000 1.000000 1.000000</SCALE>
+            </COMMON>
+            <PROPERTY>
+                <FILENAME>prop_oil_tank_03.elu</FILENAME>
+                <ANI />
+            </PROPERTY>
+            <SCENE>
+                <LIGHT>
+                    <COMMON name="Omni001">
+                        <POSITION>-241.000000 1.000000 233.000000</POSITION>
+                        <DIRECTION>0.000000 1.000000 0.000000</DIRECTION>
+                        <UP>0.000000 0.000000 1.000000</UP>
+                        <SCALE>1.000000 1.000000 1.000000</SCALE>
+                    </COMMON>
+                    <PROPERTY>
+                        <COLOR>0.071 0.631 0.110</COLOR>
+                        <INTENSITY>1.000</INTENSITY>
+                        <ATTENUATIONEND>200.000</ATTENUATIONEND>
+                        <ATTENUATIONSTART>80.000</ATTENUATIONSTART>
+                        <POINTLIGHTTYPE>2</POINTLIGHTTYPE>
+                        <AREARANGE>180.000 180.000 180.000</AREARANGE>
+                    </PROPERTY>
+                </LIGHT>
+            </SCENE>
+        </ACTOR>
+        <EFFECTINSTANCE>
+            <COMMON name="G2EF_Env_Smoke_Oilrig_01.xml">
+                <POSITION>-287.000000 -10.000000 211.000000</POSITION>
+                <DIRECTION>0.000000 1.000000 0.000000</DIRECTION>
+                <UP>-0.173648 0.000000 0.984808</UP>
+                <SCALE>1.000000 1.000000 1.000000</SCALE>
+            </COMMON>
+            <PROPERTY>
+                <FILENAME>G2EF_Env_Smoke_Oilrig_01</FILENAME>
+                <AUTOSTART>true</AUTOSTART>
+                <STARTDELAY>0.000</STARTDELAY>
+            </PROPERTY>
+            <SCENE />
+        </EFFECTINSTANCE>
+    </SCENE>
+</ROOT>

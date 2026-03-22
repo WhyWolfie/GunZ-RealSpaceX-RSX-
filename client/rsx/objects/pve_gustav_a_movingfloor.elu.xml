@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<XML>
+    <MATERIALLIST>
+        <MATERIAL name="pve_gustav_a_movingfloor_steel2">
+            <DIFFUSE>149 149 149</DIFFUSE>
+            <AMBIENT>149 149 149</AMBIENT>
+            <SPECULAR>229 229 229</SPECULAR>
+            <SPECULAR_LEVEL>100.000</SPECULAR_LEVEL>
+            <GLOSSINESS>10.000</GLOSSINESS>
+            <SELFILLUSIONSCALE>1.000</SELFILLUSIONSCALE>
+            <TEXTURELIST count="4">
+                <TEXTURELAYER index="0">
+                    <DIFFUSEMAP>pve_gustav_a_movingfloor_df.tga</DIFFUSEMAP>
+                </TEXTURELAYER>
+                <TEXTURELAYER index="1">
+                    <SPECULARMAP>pve_gustav_a_movingfloor_nm.tga</SPECULARMAP>
+                </TEXTURELAYER>
+                <TEXTURELAYER index="2">
+                    <SELFILLUMINATIONMAP>pve_gustav_a_movingfloor_si.tga.dds</SELFILLUMINATIONMAP>
+                    <TEX_ANIMATION>
+                        <TEX_ANI_OFFSET_LOOP>false</TEX_ANI_OFFSET_LOOP>
+                        <TEX_ANI_SCALE_LOOP>false</TEX_ANI_SCALE_LOOP>
+                        <TEX_VISIBILITY time="0">1.000</TEX_VISIBILITY>
+                        <TEX_VISIBILITY time="480">0.962</TEX_VISIBILITY>
+                        <TEX_VISIBILITY time="1280">0.770</TEX_VISIBILITY>
+                        <TEX_VISIBILITY time="3040">0.188</TEX_VISIBILITY>
+                        <TEX_VISIBILITY time="3680">0.067</TEX_VISIBILITY>
+                        <TEX_VISIBILITY time="4000">0.050</TEX_VISIBILITY>
+                        <TEX_VISIBILITY time="4480">0.088</TEX_VISIBILITY>
+                        <TEX_VISIBILITY time="5280">0.280</TEX_VISIBILITY>
+                        <TEX_VISIBILITY time="7040">0.862</TEX_VISIBILITY>
+                        <TEX_VISIBILITY time="7680">0.983</TEX_VISIBILITY>
+                        <TEX_VISIBILITY time="8000">1.000</TEX_VISIBILITY>
+                    </TEX_ANIMATION>
+                </TEXTURELAYER>
+                <TEXTURELAYER index="3">
+                    <NORMALMAP>pve_gustav_a_movingfloor_nm.tga</NORMALMAP>
+                </TEXTURELAYER>
+            </TEXTURELIST>
+        </MATERIAL>
+    </MATERIALLIST>
+    <COLLISION />
+    <USERPROPERTYLIST />
+    <AUTOANIMATION />
+    <USING_START_ZERO_ANIKEY>true</USING_START_ZERO_ANIKEY>
+</XML>

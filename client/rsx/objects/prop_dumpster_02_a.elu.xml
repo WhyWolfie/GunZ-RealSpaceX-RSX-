@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<XML>
+    <MATERIALLIST>
+        <MATERIAL name="prop_dumpster_01_df_steel2">
+            <DIFFUSE>150 150 150</DIFFUSE>
+            <AMBIENT>150 150 150</AMBIENT>
+            <SPECULAR>229 229 229</SPECULAR>
+            <SPECULAR_LEVEL>100.000</SPECULAR_LEVEL>
+            <GLOSSINESS>10.000</GLOSSINESS>
+            <SELFILLUSIONSCALE>0.000</SELFILLUSIONSCALE>
+            <TEXTURELIST count="3">
+                <TEXTURELAYER index="0">
+                    <DIFFUSEMAP>prop_dumpster_01_df.tga</DIFFUSEMAP>
+                </TEXTURELAYER>
+                <TEXTURELAYER index="1">
+                    <SPECULARMAP>prop_dumpster_01_nm.TGA</SPECULARMAP>
+                </TEXTURELAYER>
+                <TEXTURELAYER index="2">
+                    <NORMALMAP>prop_dumpster_01_nm.TGA</NORMALMAP>
+                </TEXTURELAYER>
+            </TEXTURELIST>
+        </MATERIAL>
+    </MATERIALLIST>
+    <COLLISION />
+    <USERPROPERTYLIST>
+        <USERPROPERTY node="Object016" property="Density = 1.0" />
+        <USERPROPERTY node="Object016" property="GeometryType = 1" />
+        <USERPROPERTY node="Object016" property="MaterialType = 2" />
+        <USERPROPERTY node="Object016" property="Friction = 0.3" />
+        <USERPROPERTY node="Object016" property="StaticFriction = 0.3" />
+        <USERPROPERTY node="Object016" property="Restitution = 0.0" />
+        <USERPROPERTY node="Object016" property="InitialVelocityX = 0.0" />
+        <USERPROPERTY node="Object016" property="InitialVelocityY = 0.0" />
+        <USERPROPERTY node="Object016" property="InitialVelocityZ = 0.0" />
+        <USERPROPERTY node="Object016" property="InitialSpinX = 0.0" />
+        <USERPROPERTY node="Object016" property="InitialSpinY = 0.0" />
+        <USERPROPERTY node="Object016" property="InitialSpinZ = 0.0" />
+        <USERPROPERTY node="Object016" property="PutToSleep = false" />
+        <USERPROPERTY node="Object016" property="EnableCCD = false" />
+        <USERPROPERTY node="Object016" property="PhysicsType = 5" />
+        <USERPROPERTY node="prop_dumpster_02_a" property="Density = 1.0" />
+        <USERPROPERTY node="prop_dumpster_02_a" property="GeometryType = 1" />
+        <USERPROPERTY node="prop_dumpster_02_a" property="MaterialType = 2" />
+        <USERPROPERTY node="prop_dumpster_02_a" property="Friction = 0.3" />
+        <USERPROPERTY node="prop_dumpster_02_a" property="StaticFriction = 0.3" />
+        <USERPROPERTY node="prop_dumpster_02_a" property="Restitution = 0.0" />
+        <USERPROPERTY node="prop_dumpster_02_a" property="InitialVelocityX = 0.0" />
+        <USERPROPERTY node="prop_dumpster_02_a" property="InitialVelocityY = 0.0" />
+        <USERPROPERTY node="prop_dumpster_02_a" property="InitialVelocityZ = 0.0" />
+        <USERPROPERTY node="prop_dumpster_02_a" property="InitialSpinX = 0.0" />
+        <USERPROPERTY node="prop_dumpster_02_a" property="InitialSpinY = 0.0" />
+        <USERPROPERTY node="prop_dumpster_02_a" property="InitialSpinZ = 0.0" />
+        <USERPROPERTY node="prop_dumpster_02_a" property="PutToSleep = false" />
+        <USERPROPERTY node="prop_dumpster_02_a" property="EnableCCD = false" />
+        <USERPROPERTY node="prop_dumpster_02_a" property="PhysicsType = 5" />
+    </USERPROPERTYLIST>
+</XML>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<XML>
+    <MATERIALLIST>
+        <MATERIAL name="AT_prop_fence_04_STEEL2">
+            <DIFFUSE>149 149 149</DIFFUSE>
+            <AMBIENT>149 149 149</AMBIENT>
+            <SPECULAR>229 229 229</SPECULAR>
+            <SPECULAR_LEVEL>100.000</SPECULAR_LEVEL>
+            <GLOSSINESS>10.000</GLOSSINESS>
+            <SELFILLUSIONSCALE>0.000</SELFILLUSIONSCALE>
+            <TEXTURELIST count="3">
+                <TEXTURELAYER index="0">
+                    <DIFFUSEMAP>prop_fence_04_df.tga</DIFFUSEMAP>
+                </TEXTURELAYER>
+                <TEXTURELAYER index="1">
+                    <SPECULARMAP>prop_fence_04_df.tga</SPECULARMAP>
+                </TEXTURELAYER>
+                <TEXTURELAYER index="2">
+                    <NORMALMAP>prop_fence_04_nm.tga</NORMALMAP>
+                </TEXTURELAYER>
+            </TEXTURELIST>
+            <TWOSIDED />
+            <USEALPHATEST>
+                <ALPHATESTVALUE>128</ALPHATESTVALUE>
+            </USEALPHATEST>
+        </MATERIAL>
+    </MATERIALLIST>
+    <COLLISION />
+    <USERPROPERTYLIST>
+        <USERPROPERTY node="Prop_fence_04_400cm_BAR" property="Density = 1.0" />
+        <USERPROPERTY node="Prop_fence_04_400cm_BAR" property="GeometryType = 1" />
+        <USERPROPERTY node="Prop_fence_04_400cm_BAR" property="MaterialType = 2" />
+        <USERPROPERTY node="Prop_fence_04_400cm_BAR" property="Friction = 0.3" />
+        <USERPROPERTY node="Prop_fence_04_400cm_BAR" property="StaticFriction = 0.3" />
+        <USERPROPERTY node="Prop_fence_04_400cm_BAR" property="Restitution = 0.0" />
+        <USERPROPERTY node="Prop_fence_04_400cm_BAR" property="InitialVelocityX = 0.0" />
+        <USERPROPERTY node="Prop_fence_04_400cm_BAR" property="InitialVelocityY = 0.0" />
+        <USERPROPERTY node="Prop_fence_04_400cm_BAR" property="InitialVelocityZ = 0.0" />
+        <USERPROPERTY node="Prop_fence_04_400cm_BAR" property="InitialSpinX = 0.0" />
+        <USERPROPERTY node="Prop_fence_04_400cm_BAR" property="InitialSpinY = 0.0" />
+        <USERPROPERTY node="Prop_fence_04_400cm_BAR" property="InitialSpinZ = 0.0" />
+        <USERPROPERTY node="Prop_fence_04_400cm_BAR" property="PutToSleep = false" />
+        <USERPROPERTY node="Prop_fence_04_400cm_BAR" property="EnableCCD = false" />
+        <USERPROPERTY node="Prop_fence_04_400cm_BAR" property="PhysicsType = 5" />
+    </USERPROPERTYLIST>
+</XML>

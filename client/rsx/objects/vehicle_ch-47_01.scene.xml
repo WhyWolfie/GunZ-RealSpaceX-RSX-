@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Umbra Synchronization="false" Version="3.1.24.2" />
+<ROOT>
+    <SCENE>
+        <ACTOR>
+            <COMMON name="vehicle_ch-47_01">
+                <POSITION>0.000000 0.000000 0.000000</POSITION>
+                <DIRECTION>0.000000 1.000000 0.000000</DIRECTION>
+                <UP>0.000000 0.000000 1.000000</UP>
+                <SCALE>1.000000 1.000000 1.000000</SCALE>
+            </COMMON>
+            <PROPERTY>
+                <FILENAME>vehicle_ch-47_01.elu</FILENAME>
+                <RENDER_PRIORITY>0</RENDER_PRIORITY>
+            </PROPERTY>
+            <SCENE>
+                <SPOTLIGHT>
+                    <COMMON name="Spot001">
+                        <POSITION>0.000000 0.000000 0.000000</POSITION>
+                        <DIRECTION>0.919245 -0.000370 -0.393686</DIRECTION>
+                        <UP>0.393686 -0.000198 0.919245</UP>
+                        <SCALE>1.000000 1.000000 1.000000</SCALE>
+                    </COMMON>
+                    <CONTROLLERS>
+                        <ACTORNODECONSTRAINTCONTROLLER>
+                            <TARGET>Dummy001</TARGET>
+                        </ACTORNODECONSTRAINTCONTROLLER>
+                    </CONTROLLERS>
+                    <PROPERTY>
+                        <ATTENUATIONEND>5200.000</ATTENUATIONEND>
+                        <ATTENUATIONSTART>3500.000</ATTENUATIONSTART>
+                        <FOV>50.000</FOV>
+                        <CASTSHADOW />
+                        <INTENSITY>3.000</INTENSITY>
+                        <COLOR>0.863 0.988 0.984</COLOR>
+                        <UMBRAID>100001</UMBRAID>
+                        <RENDER_PRIORITY>0</RENDER_PRIORITY>
+                    </PROPERTY>
+                </SPOTLIGHT>
+            </SCENE>
+        </ACTOR>
+    </SCENE>
+</ROOT>

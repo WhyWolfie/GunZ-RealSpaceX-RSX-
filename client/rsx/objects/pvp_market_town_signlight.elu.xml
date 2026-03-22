@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<XML>
+    <MATERIALLIST>
+        <MATERIAL name="prop_sign_mi22ing_town_01_steel2">
+            <DIFFUSE>245 245 245</DIFFUSE>
+            <AMBIENT>245 245 245</AMBIENT>
+            <SPECULAR>230 230 230</SPECULAR>
+            <SPECULAR_LEVEL>100.000</SPECULAR_LEVEL>
+            <GLOSSINESS>10.000</GLOSSINESS>
+            <SELFILLUSIONSCALE>1.000</SELFILLUSIONSCALE>
+            <TEXTURELIST count="4">
+                <TEXTURELAYER index="0">
+                    <DIFFUSEMAP>pvp_market_town_signlight_DF.tga.dds</DIFFUSEMAP>
+                </TEXTURELAYER>
+                <TEXTURELAYER index="1">
+                    <SPECULARMAP>pvp_market_town_signlight_nm.tga.dds</SPECULARMAP>
+                </TEXTURELAYER>
+                <TEXTURELAYER index="2">
+                    <SELFILLUMINATIONMAP>pvp_market_town_signlight_si_b.tga.dds</SELFILLUMINATIONMAP>
+                    <TEX_ANIMATION>
+                        <TEX_ANI_OFFSET_LOOP>false</TEX_ANI_OFFSET_LOOP>
+                        <TEX_ANI_SCALE_LOOP>false</TEX_ANI_SCALE_LOOP>
+                        <TEX_VISIBILITY time="0">0.000</TEX_VISIBILITY>
+                        <TEX_VISIBILITY time="1440">0.000</TEX_VISIBILITY>
+                        <TEX_VISIBILITY time="1600">1.000</TEX_VISIBILITY>
+                        <TEX_VISIBILITY time="2240">1.000</TEX_VISIBILITY>
+                        <TEX_VISIBILITY time="2400">1.000</TEX_VISIBILITY>
+                        <TEX_VISIBILITY time="3040">1.000</TEX_VISIBILITY>
+                        <TEX_VISIBILITY time="3200">0.000</TEX_VISIBILITY>
+                    </TEX_ANIMATION>
+                </TEXTURELAYER>
+                <TEXTURELAYER index="3">
+                    <NORMALMAP>pvp_market_town_signlight_nm.tga.dds</NORMALMAP>
+                </TEXTURELAYER>
+            </TEXTURELIST>
+        </MATERIAL>
+    </MATERIALLIST>
+    <COLLISION />
+    <USERPROPERTYLIST />
+    <AUTOANIMATION />
+</XML>

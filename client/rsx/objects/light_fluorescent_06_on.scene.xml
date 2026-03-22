@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Umbra Synchronization="false" />
+<ROOT>
+    <SCENE>
+        <ACTOR>
+            <COMMON name="light_fluorescent_04_off">
+                <POSITION>0.000000 0.000000 0.000000</POSITION>
+                <DIRECTION>0.000000 1.000000 0.000000</DIRECTION>
+                <UP>0.000000 0.000000 1.000000</UP>
+                <SCALE>1.000000 1.000000 1.000000</SCALE>
+            </COMMON>
+            <PROPERTY>
+                <FILENAME>light_fluorescent_04_off.elu</FILENAME>
+                <SHADOWRECEIVER />
+            </PROPERTY>
+            <SCENE />
+        </ACTOR>
+        <LIGHT>
+            <COMMON name="PointLight">
+                <POSITION>14.000000 0.000000 -17.000000</POSITION>
+                <DIRECTION>0.000000 1.000000 0.000000</DIRECTION>
+                <UP>0.000000 0.000000 1.000000</UP>
+                <SCALE>1.000000 1.000000 1.000000</SCALE>
+            </COMMON>
+            <PROPERTY>
+                <COLOR>0.937 0.902 0.792</COLOR>
+                <INTENSITY>3.000</INTENSITY>
+                <ATTENUATIONEND>15.000</ATTENUATIONEND>
+                <ATTENUATIONSTART>8.000</ATTENUATIONSTART>
+                <POINTLIGHTTYPE>1</POINTLIGHTTYPE>
+                <AREARANGE>8.000 150.000 2.000</AREARANGE>
+            </PROPERTY>
+        </LIGHT>
+    </SCENE>
+</ROOT>

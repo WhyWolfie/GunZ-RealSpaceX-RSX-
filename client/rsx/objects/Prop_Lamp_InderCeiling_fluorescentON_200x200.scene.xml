@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT>
+    <SCENE>
+        <ACTOR>
+            <COMMON name="Prop_Lamp_InderCeiling_fluorescentON_200x200" />
+            <PROPERTY>
+                <FILENAME>Prop_Lamp_InderCeiling_fluorescentON_200x200.elu</FILENAME>
+            </PROPERTY>
+            <SCENE />
+        </ACTOR>
+    </SCENE>
+</ROOT>

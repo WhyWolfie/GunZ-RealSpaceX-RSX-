@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT>
+    <SCENE>
+        <ACTOR>
+            <COMMON name="pvp_oilrig_crane_01" />
+            <PROPERTY>
+                <FILENAME>pvp_oilrig_crane_01.elu</FILENAME>
+                <ANI />
+            </PROPERTY>
+            <SCENE>
+                <LIGHT>
+                    <COMMON name="Spot006">
+                        <POSITION>1.0019529 371.7596741 -386.6545410</POSITION>
+                    </COMMON>
+                    <CONTROLLERS>
+                        <ACTORNODECONSTRAINTCONTROLLER>
+                            <TARGET>Dummy001</TARGET>
+                        </ACTORNODECONSTRAINTCONTROLLER>
+                    </CONTROLLERS>
+                    <PROPERTY>
+                        <COLOR>0.2901961 0.5215687 0.7803922</COLOR>
+                        <INTENSITY>1.0000000</INTENSITY>
+                        <ATTENUATIONSTART>100.0000000</ATTENUATIONSTART>
+                        <ATTENUATIONEND>500.0000000</ATTENUATIONEND>
+                        <FOV>-1.0000000</FOV>
+                        <USERPROPERTYLIST />
+                    </PROPERTY>
+                </LIGHT>
+                <LIGHT>
+                    <COMMON name="Spot007">
+                        <POSITION>1.0019529 -471.2403259 -392.6545410</POSITION>
+                    </COMMON>
+                    <CONTROLLERS>
+                        <ACTORNODECONSTRAINTCONTROLLER>
+                            <TARGET>Dummy001</TARGET>
+                        </ACTORNODECONSTRAINTCONTROLLER>
+                    </CONTROLLERS>
+                    <PROPERTY>
+                        <COLOR>0.2901961 0.5215687 0.7803922</COLOR>
+                        <INTENSITY>1.0000000</INTENSITY>
+                        <ATTENUATIONSTART>100.0000000</ATTENUATIONSTART>
+                        <ATTENUATIONEND>500.0000000</ATTENUATIONEND>
+                        <FOV>-1.0000000</FOV>
+                        <USERPROPERTYLIST />
+                    </PROPERTY>
+                </LIGHT>
+            </SCENE>
+        </ACTOR>
+    </SCENE>
+</ROOT>

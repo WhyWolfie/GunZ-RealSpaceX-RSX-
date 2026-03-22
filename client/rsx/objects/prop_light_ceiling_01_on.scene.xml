@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ROOT>
+    <SCENE>
+        <ACTOR>
+            <COMMON name="prop_light_ceiling_01">
+                <POSITION>0.000000 0.000000 0.000000</POSITION>
+                <DIRECTION>0.000000 1.000000 0.000000</DIRECTION>
+                <UP>0.000000 0.000000 1.000000</UP>
+                <SCALE>1.000000 1.000000 1.000000</SCALE>
+            </COMMON>
+            <PROPERTY>
+                <FILENAME>prop_light_ceiling_01.elu</FILENAME>
+            </PROPERTY>
+            <SCENE />
+        </ACTOR>
+        <SPOTLIGHT>
+            <COMMON name="SpotLight">
+                <POSITION>0.000000 0.000000 -10.000000</POSITION>
+                <DIRECTION>0.000000 -0.027312 -0.999627</DIRECTION>
+                <UP>0.000000 0.999627 -0.027312</UP>
+                <SCALE>1.000000 1.000000 1.000000</SCALE>
+            </COMMON>
+            <PROPERTY>
+                <ATTENUATIONEND>1000.000</ATTENUATIONEND>
+                <ATTENUATIONSTART>400.000</ATTENUATIONSTART>
+                <FOV>35.000</FOV>
+                <INTENSITY>1.000</INTENSITY>
+                <COLOR>0.682 0.667 0.596</COLOR>
+            </PROPERTY>
+        </SPOTLIGHT>
+    </SCENE>
+</ROOT>
